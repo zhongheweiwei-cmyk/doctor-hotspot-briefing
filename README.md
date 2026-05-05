@@ -2,6 +2,13 @@
 
 Public archive site for daily doctor hotspot briefings.
 
+## Public URL
+
+- Latest report: https://zhongheweiwei-cmyk.github.io/doctor-hotspot-briefing/
+- Archive: https://zhongheweiwei-cmyk.github.io/doctor-hotspot-briefing/archive.html
+- Latest Markdown: https://zhongheweiwei-cmyk.github.io/doctor-hotspot-briefing/latest.md
+- Latest JSON: https://zhongheweiwei-cmyk.github.io/doctor-hotspot-briefing/latest.json
+
 ## Files
 
 - `docs/index.html` - latest report page for GitHub Pages
