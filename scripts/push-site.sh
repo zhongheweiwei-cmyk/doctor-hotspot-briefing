@@ -3,7 +3,9 @@ set -euo pipefail
 
 cd "$(dirname "$0")/.."
 
-node scripts/publish-report.mjs
+if [[ "${SKIP_PUBLISH:-0}" != "1" ]]; then
+  node scripts/publish-report.mjs
+fi
 
 if ! git diff --quiet || ! git diff --cached --quiet; then
   git add README.md .gitignore docs scripts
