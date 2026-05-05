@@ -15,7 +15,8 @@ Public archive site for daily doctor hotspot briefings.
 - `docs/archive.html` - historical report index
 - `docs/latest.md` - latest Markdown report
 - `docs/latest.json` - latest structured JSON report
-- `docs/reports/YYYY-MM-DD/` - archived Markdown, JSON, and evidence files
+- `docs/reports/YYYY-MM-DD/report.*` - latest report for that calendar date
+- `docs/reports/YYYY-MM-DD/HHMMSS/` - immutable per-run archive, so multiple reports on the same day are preserved
 
 ## Publish Current Local Output
 
@@ -23,7 +24,7 @@ Public archive site for daily doctor hotspot briefings.
 node scripts/publish-report.mjs
 ```
 
-The script imports files from `/Users/weilinliu/user-data/outputs`, updates the static site, and refreshes the archive.
+The script imports files from `/Users/weilinliu/user-data/outputs`, updates the static site, and refreshes the archive. Each run is preserved under a timestamped subdirectory while `latest.*` and the date-level `report.*` keep pointing to the newest issue.
 
 ## Push To GitHub
 

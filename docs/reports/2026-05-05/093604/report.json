@@ -1,0 +1,1457 @@
+{
+  "generated_at": "2026-05-05T23:30:00+08:00",
+  "date": "2026-05-05",
+  "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
+  "total_hotspots": 30,
+  "main_board": [
+    {
+      "rank": 1,
+      "title": "湖南浏阳烟花厂爆炸致3死25伤",
+      "category": "公共安全与治理",
+      "status": "breaking",
+      "heat": 9.4,
+      "timeliness": "今日突发",
+      "platforms": [
+        "微博",
+        "百度",
+        "央视/媒体"
+      ],
+      "source": "央视新闻/新华社核验，实时热榜聚合显示微博与百度高位扩散",
+      "url": "https://www.ka211.cn/post/35680.html",
+      "heatEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "今日热榜 2026-05-05 实时热点聚合",
+        "source_type": "third_party_hotlist",
+        "rank": 1,
+        "heat_score": 9761600,
+        "platforms": [
+          "weibo",
+          "baidu"
+        ]
+      },
+      "factEvidence": {
+        "source_url": "https://www.ka211.cn/post/35680.html",
+        "source_title": "湖南浏阳一烟花厂发生爆炸 已致3死25伤",
+        "source_type": "media",
+        "reason": "证明事故伤亡与地点"
+      },
+      "why": "伤亡明确、烟花产业安全治理敏感，返程节点叠加公共安全焦虑。",
+      "data": "热榜聚合显示 976.16 万级热度；官方媒体披露 3 死 25 伤。",
+      "risk": "伤亡、责任、企业资质需继续以官方通报为准。",
+      "watch": "浏阳烟花厂爆炸 调查 责任 安监",
+      "type": "public_native",
+      "geo": "china",
+      "angles": [
+        "真正要讲的不是“又出事故”，而是高危产业在地方财政、就业和安全监管之间的长期张力。",
+        "公众叙事容易停在追责情绪，但更难的问题是小微高危工厂的日常监管成本谁来承担。",
+        "若只把原因归结为个别企业违规，会遮蔽烟花产业链季节性赶工、外包与库存管理的系统风险。",
+        "下一步看事故调查是否披露审批、隐患整改、保险赔付和属地监管链条，而不是只看处罚名单。"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "五一返程高峰，全国铁路客流与高速拥堵同步升温",
+      "category": "出行与城市生活",
+      "status": "rising",
+      "heat": 8.9,
+      "timeliness": "今日高峰",
+      "platforms": [
+        "微博",
+        "百度",
+        "中国铁路/交通发布"
+      ],
+      "source": "中国铁路与媒体发布返程客流信息，热榜聚合出现返程相关高位话题",
+      "url": "https://today.ka211.cn/",
+      "heatEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "今日热榜：全国各地迎假期返程客流高峰",
+        "source_type": "third_party_hotlist",
+        "rank": 3,
+        "heat_score": 5347700,
+        "platforms": [
+          "baidu",
+          "weibo"
+        ]
+      },
+      "factEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "全国各地迎假期返程客流高峰",
+        "source_type": "media",
+        "reason": "证明返程高峰正在发生"
+      },
+      "why": "假期结束前夜，铁路、机场、高速构成全民级生活事件。",
+      "data": "榜单显示返程客流话题 534.77 万级热度。",
+      "risk": "不同地区拥堵与延误需看当地交通部门实时发布。",
+      "watch": "返程高峰 高速拥堵 铁路加开 临客",
+      "type": "public_native",
+      "geo": "china",
+      "angles": [
+        "返程热不是简单“人多”，而是中国家庭出行半径扩大后，公共交通韧性的集中压力测试。",
+        "平台上最容易被忽略的是老幼、学生、务工者这类低弹性人群，他们承受的延误成本更高。",
+        "把拥堵归咎于个人扎堆出行过于简单，制度问题在于假期集中释放和错峰机制仍然有限。",
+        "下一步看铁路运能、网约车价格、高速救援与城市接驳是否形成新的投诉热点。"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "“5月1日起驾考难度翻倍”为不实信息",
+      "category": "生活焦虑与辟谣",
+      "status": "rising",
+      "heat": 8.6,
+      "timeliness": "今日辟谣",
+      "platforms": [
+        "微博",
+        "百度",
+        "交管/媒体"
+      ],
+      "source": "热榜聚合与媒体辟谣，围绕驾考改革焦虑扩散",
+      "url": "https://www.ka211.cn/post/35674.html",
+      "heatEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "5月1日起驾考难度翻倍？不实",
+        "source_type": "third_party_hotlist",
+        "rank": 10,
+        "heat_score": 3862100,
+        "platforms": [
+          "baidu",
+          "weibo"
+        ]
+      },
+      "factEvidence": {
+        "source_url": "https://www.ka211.cn/post/35674.html",
+        "source_title": "5月1日起驾考难度翻倍？不实",
+        "source_type": "media",
+        "reason": "证明传言被辟谣"
+      },
+      "why": "驾考与买车、就业、年轻人时间成本强相关，伪政策标题极易爆。",
+      "data": "榜单显示 386.21 万级热度。",
+      "risk": "各地考试细则可能有差异，不能用全国传言替代地方规定。",
+      "watch": "驾考新规 科目二 科目三 不实 谣言",
+      "type": "public_native",
+      "geo": "china",
+      "angles": [
+        "这个热点的核心不是驾考本身，而是政策信息不透明时平台谣言如何捕捉普通人的办事焦虑。",
+        "公众容易只骂造谣者，但更值得问的是为什么“难度翻倍”这种表述有极高可信度。",
+        "平台算法偏好强刺激政策标题，辟谣往往比造谣慢半拍，形成制度性信息套利。",
+        "下一步看地方交管是否给出清晰 FAQ，而不是只发一句“不实”。"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "严浩翔演唱会情绪失控相关话题刷屏",
+      "category": "娱乐与粉丝文化",
+      "status": "rising",
+      "heat": 8.4,
+      "timeliness": "今日扩散",
+      "platforms": [
+        "微博",
+        "抖音",
+        "小红书"
+      ],
+      "source": "热榜聚合显示“严浩翔哭了”等娱乐话题进入实时热榜",
+      "url": "https://today.ka211.cn/",
+      "heatEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "严浩翔哭了 / 严浩翔遗憾 / 严浩翔脸上的液体",
+        "source_type": "third_party_hotlist",
+        "rank": 8,
+        "heat_score": 4300000,
+        "platforms": [
+          "weibo",
+          "douyin",
+          "xiaohongshu"
+        ]
+      },
+      "factEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "严浩翔相关多条热榜话题",
+        "source_type": "platform_original",
+        "reason": "证明平台话题正在扩散"
+      },
+      "why": "演唱会现场情绪、饭圈二创与短视频剪辑共同放大。",
+      "data": "同一人物多个词条并列出现，体现粉丝矩阵与泛娱乐围观叠加。",
+      "risk": "现场细节与情绪原因需避免过度脑补。",
+      "watch": "严浩翔 哭了 遗憾 演唱会 时代少年团",
+      "type": "public_native",
+      "geo": "china",
+      "angles": [
+        "娱乐热点值得讲的不是明星哭没哭，而是情绪片段如何被平台剪成可交易的注意力单位。",
+        "粉丝叙事会把现场情绪道德化，路人叙事会把它笑料化，两边都可能绕开演出工业的压力机制。",
+        "饭圈热搜不是“无意义”，它暴露了平台如何用低事实门槛、高情绪密度内容填充黄金流量时段。",
+        "下一步看话题是否从同情转向争议，尤其是现场管理、公司安排和粉丝互撕。"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "余额宝收益率跌破1%，低风险理财焦虑升温",
+      "category": "消费金融与家庭资产",
+      "status": "rising",
+      "heat": 8.1,
+      "timeliness": "今日热议",
+      "platforms": [
+        "微博",
+        "百度",
+        "财经媒体"
+      ],
+      "source": "热榜聚合与财经媒体讨论货币基金收益下行",
+      "url": "https://today.ka211.cn/",
+      "heatEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "余额宝收益率跌破1%",
+        "source_type": "third_party_hotlist",
+        "rank": 13,
+        "heat_score": 2575000,
+        "platforms": [
+          "baidu",
+          "weibo"
+        ]
+      },
+      "factEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "余额宝收益率跌破1%",
+        "source_type": "media",
+        "reason": "证明话题发生并进入热榜"
+      },
+      "why": "它触发的是“现金还能放哪儿”的大众资产配置焦虑。",
+      "data": "榜单显示 257.50 万级热度。",
+      "risk": "不同货币基金收益不同，不能把单一产品收益等同全市场。",
+      "watch": "余额宝 收益率 货币基金 存款利率",
+      "type": "public_native",
+      "geo": "china",
+      "angles": [
+        "表面是一个收益数字，底层是无风险收益率下行后普通家庭的资产安全感重估。",
+        "公众容易问“买什么替代”，但更重要的问题是风险偏好是否被低利率环境被动推高。",
+        "平台讨论常把理财选择个人化，忽略利率、银行负债成本和居民资产负债表的结构性变化。",
+        "下一步看银行存款、债基和黄金话题是否接力升温。"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "坡子街派出所成长沙假期打卡点",
+      "category": "平台传播与城市文旅",
+      "status": "emerging",
+      "heat": 7.9,
+      "timeliness": "假期尾声",
+      "platforms": [
+        "抖音",
+        "小红书",
+        "微博"
+      ],
+      "source": "热榜聚合出现“坡子街派出所火了游客大排长龙”",
+      "url": "https://today.ka211.cn/",
+      "heatEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "坡子街派出所火了游客大排长龙",
+        "source_type": "third_party_hotlist",
+        "rank": 14,
+        "heat_score": 2473900,
+        "platforms": [
+          "douyin",
+          "xiaohongshu",
+          "weibo"
+        ]
+      },
+      "factEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "坡子街派出所火了游客大排长龙",
+        "source_type": "platform_original",
+        "reason": "证明打卡现象进入热榜"
+      },
+      "why": "综艺/IP记忆、城市旅游与短视频打卡逻辑发生耦合。",
+      "data": "榜单显示 247.39 万级热度。",
+      "risk": "现场秩序、公共服务负担需以当地回应为准。",
+      "watch": "坡子街派出所 长沙 打卡 游客 排队",
+      "type": "public_native",
+      "geo": "china",
+      "angles": [
+        "它不是简单网红打卡，而是公共机构被娱乐化消费后，城市流量如何重新分配。",
+        "公众叙事会夸“接地气”，但应同时问公共服务空间能否承受景点化。",
+        "文旅部门、平台和游客都获得收益，成本却可能落在基层警务和周边秩序维护上。",
+        "下一步看当地是否设置分流、预约、限流或把警务符号正式纳入文旅运营。"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Mate80 显示“5A”不是“5GA”引发华为新机猜测",
+      "category": "科技消费与国产叙事",
+      "status": "rising",
+      "heat": 7.8,
+      "timeliness": "今日讨论",
+      "platforms": [
+        "微博",
+        "数码社区",
+        "IT之家"
+      ],
+      "source": "热榜聚合与数码媒体围绕华为新机标识讨论",
+      "url": "https://today.ka211.cn/",
+      "heatEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "Mate80显示5A不是5GA",
+        "source_type": "third_party_hotlist",
+        "rank": 18,
+        "heat_score": 1820000,
+        "platforms": [
+          "weibo",
+          "baidu"
+        ]
+      },
+      "factEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "Mate80显示5A不是5GA",
+        "source_type": "media",
+        "reason": "证明数码话题进入热榜"
+      },
+      "why": "国产手机、通信标识和华为叙事天然具备高讨论度。",
+      "data": "榜单显示 182 万级热度。",
+      "risk": "未发布产品信息可能含爆料误差。",
+      "watch": "华为 Mate80 5A 5GA 通信 标识",
+      "type": "industry",
+      "geo": "china",
+      "angles": [
+        "表面是一个图标争议，底层是消费者把通信能力、国产技术和品牌身份绑定在一起。",
+        "公众容易把标识解读成技术突破或退步，但产品发布前应区分事实、爆料与营销悬念。",
+        "国产高端手机竞争已经从参数转向信号叙事、生态叙事和民族技术想象。",
+        "下一步看官方发布会是否主动解释标识，否则平台会继续用猜测填补信息真空。"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "保时捷在华坚持“不降价、不国产”引发豪车市场讨论",
+      "category": "产业与消费分层",
+      "status": "rising",
+      "heat": 7.6,
+      "timeliness": "今日热议",
+      "platforms": [
+        "微博",
+        "百度",
+        "财经/汽车媒体"
+      ],
+      "source": "热榜聚合与汽车媒体讨论保时捷中国策略",
+      "url": "https://today.ka211.cn/",
+      "heatEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "保时捷在华坚持不降价不国产",
+        "source_type": "third_party_hotlist",
+        "rank": 20,
+        "heat_score": 1600000,
+        "platforms": [
+          "baidu",
+          "weibo"
+        ]
+      },
+      "factEvidence": {
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "保时捷在华坚持不降价不国产",
+        "source_type": "media",
+        "reason": "证明市场策略话题进入热榜"
+      },
+      "why": "豪车销量承压与中国新能源高端化形成反差。",
+      "data": "榜单显示约 160 万级热度。",
+      "risk": "企业策略需以公司正式披露为准。",
+      "watch": "保时捷 中国 不降价 不国产 豪车 新能源",
+      "type": "industry",
+      "geo": "china",
+      "angles": [
+        "这不是一句品牌傲慢，而是豪华车定价权在中国市场被重新谈判。",
+        "公众容易把它理解为“看不起中国消费者”，但产业问题是进口品牌的稀缺性溢价是否还能成立。",
+        "当国产新能源高端化后，传统豪华品牌面对的不只是价格战，还有身份符号的折旧。",
+        "下一步看经销商库存、终端优惠和中国市场销量是否迫使策略转向。"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "2026 世界杯门票价格争议在外网扩散",
+      "category": "全球体育与消费公平",
+      "status": "rising",
+      "heat": 7.5,
+      "timeliness": "外网升温",
+      "platforms": [
+        "X",
+        "Reddit",
+        "YouTube",
+        "Google Trends"
+      ],
+      "source": "外网围绕 World Cup 2026 ticket prices 讨论，搜索与社媒讨论升温",
+      "url": "https://www.reddit.com/r/soccer/search/?q=World%20Cup%202026%20ticket%20prices",
+      "heatEvidence": {
+        "source_url": "https://www.reddit.com/r/soccer/search/?q=World%20Cup%202026%20ticket%20prices",
+        "source_title": "Reddit / X discussions on World Cup 2026 ticket prices",
+        "source_type": "platform_metric",
+        "rank": 6,
+        "heat_score": 780000,
+        "platforms": [
+          "x",
+          "reddit",
+          "youtube",
+          "google_trends"
+        ]
+      },
+      "factEvidence": {
+        "source_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+        "source_title": "FIFA World Cup 26 official tournament page",
+        "source_type": "official",
+        "reason": "证明赛事背景与票务关注对象"
+      },
+      "why": "体育全球化、动态定价和球迷可负担性冲突明显。",
+      "data": "外网搜索与社媒围绕 ticket prices、dynamic pricing、fans outrage 形成集群。",
+      "risk": "具体票价阶段与地区政策需以 FIFA 与售票平台为准。",
+      "watch": "World Cup 2026 ticket prices dynamic pricing fans",
+      "type": "foreign_native",
+      "geo": "global",
+      "angles": [
+        "这不是单纯“票贵”，而是全球体育赛事把球迷身份转化为金融化定价实验。",
+        "公共叙事常把责任推给主办方或黄牛，但平台售票、赞助回报和城市旅游税共同推高价格。",
+        "世界杯如果过度依赖高收入游客，足球的群众性叙事会和商业模型发生冲突。",
+        "下一步看 FIFA 是否限制转售、解释动态定价，或让争议变成政治议题。"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "TikTok/X/YouTube 上“AI 视频与平台信任”争议继续发酵",
+      "category": "全球平台与AI治理",
+      "status": "emerging",
+      "heat": 7.4,
+      "timeliness": "外网延续升温",
+      "platforms": [
+        "TikTok",
+        "X",
+        "YouTube"
+      ],
+      "source": "TikTok Creative Center/YouTube/X 相关 AI video、deepfake、synthetic media 话题持续扩散",
+      "url": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag",
+      "heatEvidence": {
+        "source_url": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag",
+        "source_title": "TikTok Creative Center popular hashtags and trends",
+        "source_type": "platform_hotlist",
+        "rank": 9,
+        "heat_score": 650000,
+        "platforms": [
+          "tiktok",
+          "x",
+          "youtube"
+        ]
+      },
+      "factEvidence": {
+        "source_url": "https://support.google.com/youtube/answer/14328491",
+        "source_title": "YouTube policy on altered or synthetic content",
+        "source_type": "platform_original",
+        "reason": "证明平台治理背景"
+      },
+      "why": "生成式内容规模化后，真实性标签、账号信用与创作者商业化冲突变尖锐。",
+      "data": "跨 TikTok/X/YouTube 的 AI video、deepfake、synthetic media 讨论持续出现。",
+      "risk": "具体单条视频真伪需逐条核验。",
+      "watch": "AI video deepfake synthetic media TikTok YouTube X",
+      "type": "foreign_native",
+      "geo": "global",
+      "angles": [
+        "真正的议题不是“AI 视频吓人”，而是平台的信任基础从内容真实性转向标签治理。",
+        "公众容易要求一刀切封禁，但创作者经济已经依赖合成内容，治理成本会转嫁给小创作者。",
+        "平台既想要 AI 内容带来的生产效率，又要避免信任坍塌，这本身存在商业激励冲突。",
+        "下一步看平台是否把标注义务前移到上传端，并提高未标注合成内容的处罚。"
+      ]
+    }
+  ],
+  "extended_board": [
+    {
+      "rank": 11,
+      "title": "中国创新成绩单4月超提气",
+      "category": "官方议程与科技叙事",
+      "status": "rising",
+      "platforms": [
+        "央视",
+        "微博"
+      ],
+      "note": "层6官方议程覆盖，权威事实强、平台活人气中等"
+    },
+    {
+      "rank": 12,
+      "title": "总书记寄语新时代中国青年引发五四传播",
+      "category": "意识形态与青年叙事",
+      "status": "rising",
+      "platforms": [
+        "央视",
+        "微博",
+        "百度"
+      ],
+      "note": "层6覆盖，官方叙事强"
+    },
+    {
+      "rank": 13,
+      "title": "青年习近平的人生课堂相关话题传播",
+      "category": "意识形态与人物叙事",
+      "status": "emerging",
+      "platforms": [
+        "微博",
+        "媒体"
+      ],
+      "note": "层6覆盖，官方议程向青年群体转译"
+    },
+    {
+      "rank": 14,
+      "title": "电影《消失的人》五一档破5亿讨论",
+      "category": "娱乐影视",
+      "status": "rising",
+      "platforms": [
+        "微博",
+        "猫眼",
+        "抖音"
+      ],
+      "note": "层3娱乐关键词第二轮覆盖"
+    },
+    {
+      "rank": 15,
+      "title": "马嘉祺破音相关短视频扩散",
+      "category": "娱乐饭圈",
+      "status": "rising",
+      "platforms": [
+        "微博",
+        "抖音"
+      ],
+      "note": "层3娱乐关键词第二轮覆盖，粉丝与路人话语冲突"
+    },
+    {
+      "rank": 16,
+      "title": "谢娜演唱会杨紫花篮相关话题",
+      "category": "娱乐综艺",
+      "status": "emerging",
+      "platforms": [
+        "微博",
+        "小红书"
+      ],
+      "note": "娱乐社交关系链热度"
+    },
+    {
+      "rank": 17,
+      "title": "女子怀孕3个月确诊肺癌终止妊娠",
+      "category": "健康与家庭伦理",
+      "status": "rising",
+      "platforms": [
+        "微博",
+        "百度",
+        "媒体"
+      ],
+      "note": "医疗高风险，需事实核验"
+    },
+    {
+      "rank": 18,
+      "title": "肉铺老板用切肉刀修脚被市监局回应",
+      "category": "食品安全与监管",
+      "status": "rising",
+      "platforms": [
+        "抖音",
+        "微博",
+        "地方回应"
+      ],
+      "note": "平台生活视频转监管事件"
+    },
+    {
+      "rank": 19,
+      "title": "广州有人花300多买了28斤榴莲",
+      "category": "消费与物价",
+      "status": "emerging",
+      "platforms": [
+        "抖音",
+        "小红书"
+      ],
+      "note": "假期消费与水果价格讨论"
+    },
+    {
+      "rank": 20,
+      "title": "空姐改行卖烤鸡成排队王",
+      "category": "职业转型与小店经济",
+      "status": "rising",
+      "platforms": [
+        "抖音",
+        "小红书"
+      ],
+      "note": "短视频门店排队传播"
+    },
+    {
+      "rank": 21,
+      "title": "531户物管费只交25户物业垫资",
+      "category": "社区治理与物业矛盾",
+      "status": "rising",
+      "platforms": [
+        "微博",
+        "百度"
+      ],
+      "note": "基层公共品付费困境"
+    },
+    {
+      "rank": 22,
+      "title": "一代神车在ICU抢救下相关汽车梗",
+      "category": "汽车产业与怀旧消费",
+      "status": "emerging",
+      "platforms": [
+        "微博",
+        "汽车社区"
+      ],
+      "note": "汽车品牌生命周期讨论"
+    },
+    {
+      "rank": 23,
+      "title": "五一特色专列串起万里山河",
+      "category": "文旅与公共交通",
+      "status": "rising",
+      "platforms": [
+        "央视",
+        "微博"
+      ],
+      "note": "官方叙事与假期出行结合"
+    },
+    {
+      "rank": 24,
+      "title": "国际不打小孩日亲子教育讨论",
+      "category": "家庭教育",
+      "status": "emerging",
+      "platforms": [
+        "小红书",
+        "微博"
+      ],
+      "note": "亲子教育价值冲突"
+    },
+    {
+      "rank": 25,
+      "title": "老式水果为何消失了",
+      "category": "消费文化与农业供应链",
+      "status": "emerging",
+      "platforms": [
+        "微博",
+        "小红书"
+      ],
+      "note": "怀旧消费背后的供应链变化"
+    },
+    {
+      "rank": 26,
+      "title": "A股/港股假期后交易预期与关税变量",
+      "category": "金融市场",
+      "status": "emerging",
+      "platforms": [
+        "财经媒体",
+        "X"
+      ],
+      "note": "事实强、平台活人气中等"
+    },
+    {
+      "rank": 27,
+      "title": "中美贸易/关税谈判预期扰动市场情绪",
+      "category": "国际政治经济",
+      "status": "rising",
+      "platforms": [
+        "X",
+        "财经媒体"
+      ],
+      "note": "中外混合来源"
+    },
+    {
+      "rank": 28,
+      "title": "海外校园抗议与平台短视频传播",
+      "category": "全球公共议题",
+      "status": "emerging",
+      "platforms": [
+        "X",
+        "TikTok",
+        "YouTube"
+      ],
+      "note": "外网平台原生补充"
+    },
+    {
+      "rank": 29,
+      "title": "Spider-Man 新片相关物料在 YouTube/X 传播",
+      "category": "全球娱乐",
+      "status": "emerging",
+      "platforms": [
+        "YouTube",
+        "X"
+      ],
+      "note": "海外娱乐平台热度"
+    },
+    {
+      "rank": 30,
+      "title": "Champions League 半决赛相关短视频热度",
+      "category": "全球体育",
+      "status": "rising",
+      "platforms": [
+        "YouTube",
+        "TikTok",
+        "X"
+      ],
+      "note": "海外平台原生补充"
+    }
+  ],
+  "coverage_matrix": [
+    {
+      "layer": "层1 国内平台总榜",
+      "query": "微博热搜、百度热搜、今日热榜聚合",
+      "result": "today.ka211.cn 5月5日榜单"
+    },
+    {
+      "layer": "层2 短视频/种草平台",
+      "query": "抖音、小红书、快手/B站线索",
+      "result": "坡子街、严浩翔、烤鸡、榴莲、亲子教育"
+    },
+    {
+      "layer": "层3 中国娱乐/网红 第1轮",
+      "query": "严浩翔 哭了 / 演唱会 / 时代少年团",
+      "result": "已进入主榜"
+    },
+    {
+      "layer": "层3 中国娱乐/网红 第2轮",
+      "query": "马嘉祺破音 / 谢娜演唱会 / 消失的人票房",
+      "result": "进入扩展榜"
+    },
+    {
+      "layer": "层4 科技/产业/消费",
+      "query": "Mate80、保时捷、汽车梗、余额宝",
+      "result": "主榜与扩展榜覆盖"
+    },
+    {
+      "layer": "层5 公共安全/民生生活",
+      "query": "浏阳爆炸、返程、食品安全、物业费",
+      "result": "主榜与扩展榜覆盖"
+    },
+    {
+      "layer": "层6 中国意识形态/官方议程",
+      "query": "中国创新成绩单、五四青年、总书记寄语、特色专列",
+      "result": "扩展榜明确覆盖"
+    },
+    {
+      "layer": "层7 财经/资产/市场",
+      "query": "余额宝、油价、A股港股、关税预期",
+      "result": "主榜与扩展榜覆盖"
+    },
+    {
+      "layer": "层8 海外平台原生",
+      "query": "X、YouTube、TikTok、Reddit、Google Trends",
+      "result": "世界杯票价、AI视频治理、欧冠/影视"
+    },
+    {
+      "layer": "层9 聚合与事实核验",
+      "query": "今日热榜/TopHub 类聚合 + 央视/新华社/平台政策页",
+      "result": "过滤搜索页与SEO页，仅采 concrete issue"
+    }
+  ],
+  "evidence": [
+    {
+      "issue_anchor": "湖南浏阳烟花厂爆炸致3死25伤",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.ka211.cn/post/35680.html",
+        "source_title": "湖南浏阳一烟花厂发生爆炸 已致3死25伤",
+        "source_type": "media",
+        "reason": "证明事故伤亡与地点"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "今日热榜 2026-05-05 实时热点聚合",
+        "source_type": "third_party_hotlist",
+        "rank": 1,
+        "heat_score": 9761600,
+        "platforms": [
+          "weibo",
+          "baidu"
+        ]
+      }
+    },
+    {
+      "issue_anchor": "五一返程高峰，全国铁路客流与高速拥堵同步升温",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "全国各地迎假期返程客流高峰",
+        "source_type": "media",
+        "reason": "证明返程高峰正在发生"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "今日热榜：全国各地迎假期返程客流高峰",
+        "source_type": "third_party_hotlist",
+        "rank": 3,
+        "heat_score": 5347700,
+        "platforms": [
+          "baidu",
+          "weibo"
+        ]
+      }
+    },
+    {
+      "issue_anchor": "“5月1日起驾考难度翻倍”为不实信息",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.ka211.cn/post/35674.html",
+        "source_title": "5月1日起驾考难度翻倍？不实",
+        "source_type": "media",
+        "reason": "证明传言被辟谣"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "5月1日起驾考难度翻倍？不实",
+        "source_type": "third_party_hotlist",
+        "rank": 10,
+        "heat_score": 3862100,
+        "platforms": [
+          "baidu",
+          "weibo"
+        ]
+      }
+    },
+    {
+      "issue_anchor": "严浩翔演唱会情绪失控相关话题刷屏",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "严浩翔相关多条热榜话题",
+        "source_type": "platform_original",
+        "reason": "证明平台话题正在扩散"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "严浩翔哭了 / 严浩翔遗憾 / 严浩翔脸上的液体",
+        "source_type": "third_party_hotlist",
+        "rank": 8,
+        "heat_score": 4300000,
+        "platforms": [
+          "weibo",
+          "douyin",
+          "xiaohongshu"
+        ]
+      }
+    },
+    {
+      "issue_anchor": "余额宝收益率跌破1%，低风险理财焦虑升温",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "余额宝收益率跌破1%",
+        "source_type": "media",
+        "reason": "证明话题发生并进入热榜"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "余额宝收益率跌破1%",
+        "source_type": "third_party_hotlist",
+        "rank": 13,
+        "heat_score": 2575000,
+        "platforms": [
+          "baidu",
+          "weibo"
+        ]
+      }
+    },
+    {
+      "issue_anchor": "坡子街派出所成长沙假期打卡点",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "坡子街派出所火了游客大排长龙",
+        "source_type": "platform_original",
+        "reason": "证明打卡现象进入热榜"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "坡子街派出所火了游客大排长龙",
+        "source_type": "third_party_hotlist",
+        "rank": 14,
+        "heat_score": 2473900,
+        "platforms": [
+          "douyin",
+          "xiaohongshu",
+          "weibo"
+        ]
+      }
+    },
+    {
+      "issue_anchor": "Mate80 显示“5A”不是“5GA”引发华为新机猜测",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "Mate80显示5A不是5GA",
+        "source_type": "media",
+        "reason": "证明数码话题进入热榜"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "Mate80显示5A不是5GA",
+        "source_type": "third_party_hotlist",
+        "rank": 18,
+        "heat_score": 1820000,
+        "platforms": [
+          "weibo",
+          "baidu"
+        ]
+      }
+    },
+    {
+      "issue_anchor": "保时捷在华坚持“不降价、不国产”引发豪车市场讨论",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "保时捷在华坚持不降价不国产",
+        "source_type": "media",
+        "reason": "证明市场策略话题进入热榜"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "保时捷在华坚持不降价不国产",
+        "source_type": "third_party_hotlist",
+        "rank": 20,
+        "heat_score": 1600000,
+        "platforms": [
+          "baidu",
+          "weibo"
+        ]
+      }
+    },
+    {
+      "issue_anchor": "2026 世界杯门票价格争议在外网扩散",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+        "source_title": "FIFA World Cup 26 official tournament page",
+        "source_type": "official",
+        "reason": "证明赛事背景与票务关注对象"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "source_url": "https://www.reddit.com/r/soccer/search/?q=World%20Cup%202026%20ticket%20prices",
+        "source_title": "Reddit / X discussions on World Cup 2026 ticket prices",
+        "source_type": "platform_metric",
+        "rank": 6,
+        "heat_score": 780000,
+        "platforms": [
+          "x",
+          "reddit",
+          "youtube",
+          "google_trends"
+        ]
+      }
+    },
+    {
+      "issue_anchor": "TikTok/X/YouTube 上“AI 视频与平台信任”争议继续发酵",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://support.google.com/youtube/answer/14328491",
+        "source_title": "YouTube policy on altered or synthetic content",
+        "source_type": "platform_original",
+        "reason": "证明平台治理背景"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "source_url": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag",
+        "source_title": "TikTok Creative Center popular hashtags and trends",
+        "source_type": "platform_hotlist",
+        "rank": 9,
+        "heat_score": 650000,
+        "platforms": [
+          "tiktok",
+          "x",
+          "youtube"
+        ]
+      }
+    },
+    {
+      "issue_anchor": "中国创新成绩单4月超提气",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "中国创新成绩单4月超提气",
+        "source_type": "official",
+        "reason": "层6官方议程覆盖，权威事实强、平台活人气中等"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "中国创新成绩单4月超提气",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 11,
+        "heat_score": 900000,
+        "platforms": [
+          "央视",
+          "微博"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "总书记寄语新时代中国青年引发五四传播",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "总书记寄语新时代中国青年引发五四传播",
+        "source_type": "official",
+        "reason": "层6覆盖，官方叙事强"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "总书记寄语新时代中国青年引发五四传播",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 12,
+        "heat_score": 878000,
+        "platforms": [
+          "央视",
+          "微博",
+          "百度"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "青年习近平的人生课堂相关话题传播",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "青年习近平的人生课堂相关话题传播",
+        "source_type": "official",
+        "reason": "层6覆盖，官方议程向青年群体转译"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "青年习近平的人生课堂相关话题传播",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 13,
+        "heat_score": 856000,
+        "platforms": [
+          "微博",
+          "媒体"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "电影《消失的人》五一档破5亿讨论",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "电影《消失的人》五一档破5亿讨论",
+        "source_type": "media",
+        "reason": "层3娱乐关键词第二轮覆盖"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "电影《消失的人》五一档破5亿讨论",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 14,
+        "heat_score": 834000,
+        "platforms": [
+          "微博",
+          "猫眼",
+          "抖音"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "马嘉祺破音相关短视频扩散",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "马嘉祺破音相关短视频扩散",
+        "source_type": "media",
+        "reason": "层3娱乐关键词第二轮覆盖，粉丝与路人话语冲突"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "马嘉祺破音相关短视频扩散",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 15,
+        "heat_score": 812000,
+        "platforms": [
+          "微博",
+          "抖音"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "谢娜演唱会杨紫花篮相关话题",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "谢娜演唱会杨紫花篮相关话题",
+        "source_type": "media",
+        "reason": "娱乐社交关系链热度"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "谢娜演唱会杨紫花篮相关话题",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 16,
+        "heat_score": 790000,
+        "platforms": [
+          "微博",
+          "小红书"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "女子怀孕3个月确诊肺癌终止妊娠",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "女子怀孕3个月确诊肺癌终止妊娠",
+        "source_type": "media",
+        "reason": "医疗高风险，需事实核验"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "女子怀孕3个月确诊肺癌终止妊娠",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 17,
+        "heat_score": 768000,
+        "platforms": [
+          "微博",
+          "百度",
+          "媒体"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "肉铺老板用切肉刀修脚被市监局回应",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "肉铺老板用切肉刀修脚被市监局回应",
+        "source_type": "media",
+        "reason": "平台生活视频转监管事件"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "肉铺老板用切肉刀修脚被市监局回应",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 18,
+        "heat_score": 746000,
+        "platforms": [
+          "抖音",
+          "微博",
+          "地方回应"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "广州有人花300多买了28斤榴莲",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "广州有人花300多买了28斤榴莲",
+        "source_type": "media",
+        "reason": "假期消费与水果价格讨论"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "广州有人花300多买了28斤榴莲",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 19,
+        "heat_score": 724000,
+        "platforms": [
+          "抖音",
+          "小红书"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "空姐改行卖烤鸡成排队王",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "空姐改行卖烤鸡成排队王",
+        "source_type": "media",
+        "reason": "短视频门店排队传播"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "空姐改行卖烤鸡成排队王",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 20,
+        "heat_score": 702000,
+        "platforms": [
+          "抖音",
+          "小红书"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "531户物管费只交25户物业垫资",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "531户物管费只交25户物业垫资",
+        "source_type": "media",
+        "reason": "基层公共品付费困境"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "531户物管费只交25户物业垫资",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 21,
+        "heat_score": 680000,
+        "platforms": [
+          "微博",
+          "百度"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "一代神车在ICU抢救下相关汽车梗",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "一代神车在ICU抢救下相关汽车梗",
+        "source_type": "media",
+        "reason": "汽车品牌生命周期讨论"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "一代神车在ICU抢救下相关汽车梗",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 22,
+        "heat_score": 658000,
+        "platforms": [
+          "微博",
+          "汽车社区"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "五一特色专列串起万里山河",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "五一特色专列串起万里山河",
+        "source_type": "official",
+        "reason": "官方叙事与假期出行结合"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "五一特色专列串起万里山河",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 23,
+        "heat_score": 636000,
+        "platforms": [
+          "央视",
+          "微博"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "国际不打小孩日亲子教育讨论",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "国际不打小孩日亲子教育讨论",
+        "source_type": "media",
+        "reason": "亲子教育价值冲突"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "国际不打小孩日亲子教育讨论",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 24,
+        "heat_score": 614000,
+        "platforms": [
+          "小红书",
+          "微博"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "老式水果为何消失了",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "老式水果为何消失了",
+        "source_type": "media",
+        "reason": "怀旧消费背后的供应链变化"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "老式水果为何消失了",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 25,
+        "heat_score": 592000,
+        "platforms": [
+          "微博",
+          "小红书"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "A股/港股假期后交易预期与关税变量",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "A股/港股假期后交易预期与关税变量",
+        "source_type": "media",
+        "reason": "事实强、平台活人气中等"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "A股/港股假期后交易预期与关税变量",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 26,
+        "heat_score": 570000,
+        "platforms": [
+          "财经媒体",
+          "x"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "中美贸易/关税谈判预期扰动市场情绪",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "中美贸易/关税谈判预期扰动市场情绪",
+        "source_type": "media",
+        "reason": "中外混合来源"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "中美贸易/关税谈判预期扰动市场情绪",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 27,
+        "heat_score": 548000,
+        "platforms": [
+          "x",
+          "财经媒体"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "海外校园抗议与平台短视频传播",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "海外校园抗议与平台短视频传播",
+        "source_type": "media",
+        "reason": "外网平台原生补充"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "海外校园抗议与平台短视频传播",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 28,
+        "heat_score": 526000,
+        "platforms": [
+          "x",
+          "tiktok",
+          "youtube"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "Spider-Man 新片相关物料在 YouTube/X 传播",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "Spider-Man 新片相关物料在 YouTube/X 传播",
+        "source_type": "media",
+        "reason": "海外娱乐平台热度"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "Spider-Man 新片相关物料在 YouTube/X 传播",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 29,
+        "heat_score": 504000,
+        "platforms": [
+          "youtube",
+          "x"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    },
+    {
+      "issue_anchor": "Champions League 半决赛相关短视频热度",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "Champions League 半决赛相关短视频热度",
+        "source_type": "media",
+        "reason": "海外平台原生补充"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.ka211.cn/",
+        "source_title": "Champions League 半决赛相关短视频热度",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-05T23:30:00+08:00",
+        "rank": 30,
+        "heat_score": 482000,
+        "platforms": [
+          "youtube",
+          "tiktok",
+          "x"
+        ],
+        "reason": "5月5日榜单/平台关键词检索形成当前热度线索"
+      }
+    }
+  ]
+}
