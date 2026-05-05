@@ -1,1222 +1,541 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T10:23:46+08:00",
+  "generated_at": "2026-05-05T20:43:37+08:00",
   "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
   "total_hotspots": 28,
   "main_board": [
     {
-      "issue_anchor": "浏阳烟花厂爆炸伤亡扩大",
-      "category": "强冲突/争议热点",
-      "trend_status": "breaking",
-      "heat_score": 10,
+      "id": 1,
+      "issue_anchor": "浏阳烟花厂爆炸已致26死61伤",
+      "title": "浏阳烟花厂爆炸已致26死61伤",
+      "category": "公共安全",
+      "status": "breaking",
+      "heat_score_10": 10,
+      "timeliness": "24小时内",
+      "platforms": "微博/百度/知乎/B站/头条",
+      "source_url": "https://news.dahe.cn/2026/05-05/2083460.html",
+      "source_title": "浏阳烟花厂爆炸已致26死61伤",
+      "why": "重大安全事故在多平台同步升温，伤亡、搜救、停产整顿和问责都在更新。",
+      "risk": "高风险公共安全事件，需以官方发布会和权威媒体为准。",
+      "watch": "浏阳停产整顿 事故调查 企业负责人 控制措施",
+      "main": true,
+      "analysis_angles": [
+        "不要只问哪个岗位失守，要问烟花产业链在旺季订单、地方财税和安全停产之间如何形成长期张力。",
+        "公众看到的是事故数字，真正需要追问的是高危行业的日常监管是否依赖事后运动式整顿。",
+        "长沙公开道歉有政治意义，但更关键的是后续调查能否穿透资质、库存、外包、验收和停产复工链条。",
+        "观察后续问责是否只停在企业负责人，还是延伸到行业许可、隐患排查和地方产业政策。"
+      ]
+    },
+    {
+      "id": 2,
+      "issue_anchor": "长沙市委市政府就浏阳爆炸公开致歉",
+      "title": "长沙市委市政府就浏阳爆炸公开致歉",
+      "category": "公共治理",
+      "status": "breaking",
+      "heat_score_10": 9,
+      "timeliness": "24小时内",
+      "platforms": "微博/360/新华社系媒体",
+      "source_url": "https://finance.sina.com.cn/wm/2026-05-05/doc-inhwvqcm4178634.shtml",
+      "source_title": "长沙市委市政府：对浏阳烟花厂爆炸极为痛心、无比自责",
+      "why": "地方政府公开道歉与“穿透式调查”表述使事故从安全新闻升级为治理议题。",
+      "risk": "同属高风险事故延展，需等待调查结论。",
+      "watch": "诚恳道歉 穿透式调查 停产整顿 追责",
+      "main": true,
+      "analysis_angles": [
+        "不要只问哪个岗位失守，要问烟花产业链在旺季订单、地方财税和安全停产之间如何形成长期张力。",
+        "公众看到的是事故数字，真正需要追问的是高危行业的日常监管是否依赖事后运动式整顿。",
+        "长沙公开道歉有政治意义，但更关键的是后续调查能否穿透资质、库存、外包、验收和停产复工链条。",
+        "观察后续问责是否只停在企业负责人，还是延伸到行业许可、隐患排查和地方产业政策。"
+      ]
+    },
+    {
+      "id": 3,
+      "issue_anchor": "享界S9零重力座椅视频引发儿童安全争议",
+      "title": "享界S9零重力座椅视频引发儿童安全争议",
+      "category": "消费品牌",
+      "status": "rising",
+      "heat_score_10": 9,
+      "timeliness": "今日上升",
+      "platforms": "知乎/IT之家/汽车媒体",
+      "source_url": "https://www.ithome.com/0/946/439.htm",
+      "source_title": "鸿蒙智行就网传享界 S9 零重力座椅相关视频发布情况说明",
+      "why": "知乎热榜第一叠加鸿蒙智行回应，智能座舱安全从车主圈扩散到公共讨论。",
+      "risk": "视频场景与责任边界需以完整原始视频和企业测试数据为准。",
+      "watch": "享界S9 零重力座椅 防夹阈值 OTA",
+      "main": true,
+      "analysis_angles": [
+        "这不是单一座椅按钮争议，而是智能座舱把家庭成员当作标准成人用户时暴露的人因缺口。",
+        "企业强调未达触发阈值，用户关心的是极端但可预见场景下系统是否应优先保守停机。",
+        "车企营销把舒适功能包装成高级体验，但安全解释必须能被普通家庭理解和验证。",
+        "后续看OTA是否调整语音中断、占位识别和儿童场景，而不是只发布说明。"
+      ]
+    },
+    {
+      "id": 4,
+      "issue_anchor": "三明一中初中部负责人不当言语被停职",
+      "title": "三明一中初中部负责人不当言语被停职",
+      "category": "教育治理",
+      "status": "breaking",
+      "heat_score_10": 8,
+      "timeliness": "今日上升",
+      "platforms": "头条/微博/媒体",
+      "source_url": "https://news.sina.com.cn/c/2026-05-05/doc-inhwvivh9722298.shtml",
+      "source_title": "官方通报副校长用脏话辱骂女学生",
+      "why": "头条高位热榜叠加三明市教育局通报，校园管教边界成为公共议题。",
+      "risk": "涉及未成年人和校园管理，避免传播辱骂细节。",
+      "watch": "师德师风 停职检查 学生道歉 校园权力",
+      "main": true,
+      "analysis_angles": [
+        "社会愤怒不只来自脏话，而是教育权威能否把管教权误用为羞辱权。",
+        "性别化训斥会把校园秩序问题转成价值审判，伤害比一句口头禅更难修复。",
+        "停职和道歉是起点，关键是学校如何建立可申诉、可复盘的师德事件处理流程。",
+        "观察家长、学生与教育局之间的信息公开是否能从舆情驱动转为制度化。"
+      ]
+    },
+    {
+      "id": 5,
+      "issue_anchor": "贷款50万被扣13万元保费争议",
+      "title": "贷款50万被扣13万元保费争议",
+      "category": "金融消费",
+      "status": "rising",
+      "heat_score_10": 8,
+      "timeliness": "近48小时",
+      "platforms": "百度/投诉平台/财经媒体",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-05-04/doc-inhwtzzy9689181.shtml",
+      "source_title": "男子向银行贷50万被扣13万元保费 恒丰银行回应",
+      "why": "贷款搭售保险与助贷链条成本问题登上百度热搜，击中个人融资痛点。",
+      "risk": "个案仍需合同、扣款和监管材料核验。",
+      "watch": "恒丰银行 保证保险 助贷 综合融资成本",
+      "main": true,
+      "analysis_angles": [
+        "贷款搭售保险的核心不是保费高低，而是金融产品总成本是否被透明、可比较地呈现。",
+        "银行称仅代扣无法完全解除渠道治理责任，资金方仍在享受获客和风控收益。",
+        "这类争议击中普通人的信用焦虑：急需资金时最难判断自己被卖了什么。",
+        "后续看监管是否要求助贷、保险增信、银行放款三方合并披露APR和退保规则。"
+      ]
+    },
+    {
+      "id": 6,
+      "issue_anchor": "AI神曲与AI音乐洪水引发创作者收益争议",
+      "title": "AI神曲与AI音乐洪水引发创作者收益争议",
+      "category": "AI平台文化",
+      "status": "rising",
+      "heat_score_10": 8,
+      "timeliness": "近72小时",
+      "platforms": "百度/36氪/海外音乐平台",
+      "source_url": "https://www.wxxinews.org/npr-news/2026-05-02/ai-music-is-flooding-streaming-platforms-but-listeners-like-it-less-and-less",
+      "source_title": "AI music is flooding streaming platforms. But listeners like it less and less",
+      "why": "“AI写出20亿播放量神曲”带动国内热搜，海外平台也在披露AI音乐上传激增。",
+      "risk": "播放量、生成比例和版权归属口径需区分平台统计与营销说法。",
+      "watch": "AI音乐 打标 版税池 推荐算法",
+      "main": true,
+      "analysis_angles": [
+        "AI神曲争议背后不是创作工具好坏，而是平台分发是否奖励低成本高复制内容。",
+        "Deezer等平台数据说明供给端已经被AI冲击，但听众态度并没有同步接受。",
+        "音乐人的焦虑本质是署名、训练数据、版税池和推荐位如何重新分配。",
+        "观察国内平台是否会给AI生成内容打标、限推，或继续用流量结果倒逼行业默认接受。"
+      ]
+    },
+    {
+      "id": 7,
+      "issue_anchor": "大连“全李酒店”曾为全季酒店引发品牌识别讨论",
+      "title": "大连“全李酒店”曾为全季酒店引发品牌识别讨论",
+      "category": "消费品牌",
+      "status": "emerging",
+      "heat_score_10": 7,
+      "timeliness": "今日上升",
+      "platforms": "百度/微博/OTA",
+      "source_url": "https://finance.sina.com.cn/wm/2026-05-05/doc-inhwvumi9862279.shtml",
+      "source_title": "网友大连街头偶遇“全李酒店”",
+      "why": "酒店招牌和地图信息形成强传播梗，背后是连锁品牌退出后的消费者识别问题。",
+      "risk": "低风险消费话题，以酒店回应和平台信息为准。",
+      "watch": "全李酒店 全季酒店 品牌授权 OTA展示",
+      "main": true,
+      "analysis_angles": [
+        "“全李酒店”好笑之处在招牌，但结构问题是连锁品牌退出后消费者如何识别服务标准。",
+        "品牌授权、地图平台、OTA封面图之间的信息不同步，会让用户把玩梗当成风险信号。",
+        "文旅旺季里小型酒店借旧品牌残影获客，考验平台审核和商家披露边界。",
+        "后续看华住/OTA/地图平台是否调整历史品牌展示和相似名称规则。"
+      ]
+    },
+    {
+      "id": 8,
+      "issue_anchor": "国乒男团横扫澳大利亚后公众重估优势项目压力",
+      "title": "国乒男团横扫澳大利亚后公众重估优势项目压力",
+      "category": "体育公共议题",
+      "status": "rising",
+      "heat_score_10": 8,
       "timeliness": "今日",
-      "platforms": "微博/头条/央视/央广",
-      "primary_source": "央视新闻",
-      "source_url": "https://news.cctv.cn/2026/05/05/ARTIyKmLggE3souLpbAf4DQ7260505.shtml",
-      "why_rising": "死亡与受伤人数更新、企业负责人被控制、救援仍在推进，事故视频与责任追问同时扩散。",
-      "key_data": "央视：截至5月5日上午事故已致21人死亡、61人受伤；微博热搜约1415万热度，头条约2067万热度。",
-      "risk_note": "重大伤亡事故，后续原因和责任以官方调查为准。",
-      "watch_keywords": "浏阳 烟花厂 爆炸 21死61伤 企业负责人 调查组",
-      "board": "main",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [
-        "真正该讲的不是“谁又违规了”，而是高危产业在地方财政、就业和节庆消费之间如何被长期正常化。",
-        "公众会盯住企业负责人被控制，但更关键的是审批、日常安监、隐患整改和外包链条有没有可追责的连续记录。",
-        "烟花产业的“传统文化”和“高风险制造”是同一件事的两面，不能只在事故后道德化地谈安全。",
-        "下一步观察调查组是否公开工艺环节、仓储量、作业人数和历次检查记录，这会决定问题是个案还是制度性漏检。"
-      ],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://news.cctv.cn/2026/05/05/ARTIyKmLggE3souLpbAf4DQ7260505.shtml",
-        "source_title": "湖南浏阳烟花厂爆炸事故已致21人死亡",
-        "source_type": "media",
-        "source_published_at": "2026-05-05T09:29:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：微博#浏阳烟花厂爆炸已致21死61伤#、头条同题",
-        "source_type": "cross_platform",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 1,
-        "heat_score": 14149900,
-        "platforms": [
-          "weibo",
-          "toutiao",
-          "baidu"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 1
+      "platforms": "微博/抖音/B站/央视",
+      "source_url": "https://sports.cctv.com/2026/05/05/ARTIZmiamAwvGH4TS8eBkKnA260505.shtml",
+      "source_title": "国乒男团3-0横扫澳大利亚晋级16强将战罗马尼亚",
+      "why": "小组失利背景下，淘汰赛首胜在微博、抖音、B站同步升温。",
+      "risk": "体育赛果以官方赛事发布为准。",
+      "watch": "国乒男团 罗马尼亚 韩国 技术优势",
+      "main": true,
+      "analysis_angles": [
+        "国乒热度不是赢澳大利亚本身，而是小组失利后公众重新校准“绝对优势”的心理。",
+        "技术讨论若只落在输赢，会遮蔽国际乒坛训练体系和打法适配正在追近的事实。",
+        "饭圈式加油不能替代竞技复盘，真正值得讲的是优势项目如何承认边际优势变薄。",
+        "后续看对罗马尼亚及潜在韩国战的排兵，而不是只看热搜情绪。"
+      ]
     },
     {
-      "issue_anchor": "吴宜泽夺斯诺克世锦赛冠军",
-      "category": "平台流量热点",
-      "trend_status": "breaking",
-      "heat_score": 9.4,
+      "id": 9,
+      "issue_anchor": "YouTube全球音乐趋势被K-pop与拉美歌曲重塑",
+      "title": "YouTube全球音乐趋势被K-pop与拉美歌曲重塑",
+      "category": "海外平台",
+      "status": "rising",
+      "heat_score_10": 7,
       "timeliness": "今日",
-      "platforms": "百度/抖音/头条/央视体育",
-      "primary_source": "央视体育",
-      "source_url": "https://sports.cctv.com/2026/05/05/ARTIbrkzk4spZkj4A3wlOnUr260505.shtml",
-      "why_rising": "中国00后选手18-17决胜局夺冠，体育民族情绪、项目突破和短视频高光片段叠加。",
-      "key_data": "央视：吴宜泽成为首位“00后”世锦赛冠军；百度热搜榜首、头条约2910万热度、抖音热榜第6。",
-      "risk_note": "体育赛事结果明确，但技术细节和后续排名变化需以赛事官方为准。",
-      "watch_keywords": "吴宜泽 18比17 墨菲 世锦赛 00后 冠军",
-      "board": "main",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [
-        "这不是简单的民族情绪胜利，而是中国斯诺克第二代、第三代训练体系开始连续产出世界顶级结果。",
-        "公众叙事容易把冠军归因于天才，但真正值得拆的是长期海外参赛、心理稳定性和职业排名制度的适配。",
-        "连续两年中国球员夺冠会改变项目商业资源分配，也会倒逼国内台球生态从房间娱乐转向职业训练。",
-        "下一步看国内青训、赛事赞助和转播权是否跟上，否则热度会停留在夺冠当天。"
-      ],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://sports.cctv.com/2026/05/05/ARTIbrkzk4spZkj4A3wlOnUr260505.shtml",
-        "source_title": "吴宜泽18-17墨菲 成首位“00后”斯诺克世锦赛冠军",
-        "source_type": "media",
-        "source_published_at": "2026-05-05T05:36:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：百度#吴宜泽夺斯诺克世锦赛冠军#、头条/抖音同题",
-        "source_type": "cross_platform",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 1,
-        "heat_score": 4948411,
-        "platforms": [
-          "baidu",
-          "douyin",
-          "toutiao",
-          "weibo"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 2
+      "platforms": "YouTube/Kworb",
+      "source_url": "https://kworb.net/youtube/trending.html",
+      "source_title": "YouTube Trending Worldwide (Music Videos)",
+      "why": "Kworb显示BABYMONSTER新歌居全球音乐趋势首位，CORTIS等新歌同步冲榜。",
+      "risk": "第三方榜单非YouTube官方完整接口，但可作平台趋势证据。",
+      "watch": "BABYMONSTER CORTIS YouTube Trending",
+      "main": true,
+      "analysis_angles": [
+        "YouTube音乐趋势继续显示K-pop、拉美音乐和印度电影预告的跨语种流量能力。",
+        "短视频化标题和缩略图正在让音乐消费更像即时点击竞争，而不是专辑周期。",
+        "海外平台热度对中文内容创作者的启发是，本地文化符号必须被包装成可跨语境识别的场景。",
+        "观察BABYMONSTER、CORTIS等新歌能否从趋势榜转化为稳定播放，而不只是首日冲榜。"
+      ]
     },
     {
-      "issue_anchor": "端午节连休3天不调休",
-      "category": "用户搜索热点",
-      "trend_status": "rising",
-      "heat_score": 9.0,
-      "timeliness": "今日",
-      "platforms": "微博/百度/中国政府网",
-      "primary_source": "中国政府网",
-      "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm?sourcefrom=aladdin",
-      "why_rising": "五一假期后用户马上转向下一轮休假安排，不调休成为可传播的生活利好。",
-      "key_data": "微博热搜第2约841万热度；国务院办公厅通知明确2026年端午节6月19日至21日放假共3天。",
-      "risk_note": "节假日安排以国务院办公厅通知为准，文旅价格与请假策略存在二次传播误差。",
-      "watch_keywords": "端午节 3天 不调休 6月19日 请假 拼假",
-      "board": "main",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [
-        "热度说明假期讨论的核心已从“放几天”转向“可支配时间是否被调休制度侵蚀”。",
-        "不调休之所以被放大，是因为公众把它当成一种稀缺的制度善意，而不是普通日历信息。",
-        "真正的结构问题是旅游、消费、用工和家庭照护都在依赖假期制度做集中调度。",
-        "观察后续机票酒店搜索和短途文旅价格，如果价格快速上行，休假红利会被服务业拥挤成本抵消。"
-      ],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm?sourcefrom=aladdin",
-        "source_title": "国务院办公厅关于2026年部分节假日安排的通知",
-        "source_type": "official",
-        "source_published_at": "2025-11-04T00:00:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：微博#端午节连休3天不调休#、百度同题",
-        "source_type": "cross_platform",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 2,
-        "heat_score": 8413700,
-        "platforms": [
-          "weibo",
-          "baidu"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 3
-    },
-    {
-      "issue_anchor": "豆包测试付费订阅",
-      "category": "行业变化热点",
-      "trend_status": "rising",
-      "heat_score": 8.8,
-      "timeliness": "24小时",
-      "platforms": "抖音/贴吧/财经媒体/Reddit中文社区",
-      "primary_source": "每经网",
-      "source_url": "https://www.nbd.com.cn/articles/2026-05-04/4378474.html",
-      "why_rising": "App Store 页面新增订阅说明，价格分层和“免费仍在”回应引发 AI 工具付费讨论。",
-      "key_data": "每经：豆包称付费方案仍在测试阶段；抖音热榜第11、贴吧热榜第4，微博也有相关热搜。",
-      "risk_note": "订阅方案处于测试阶段，最终价格、权益和免费额度可能变化。",
-      "watch_keywords": "豆包 付费订阅 68 200 500 免费 AI应用 商业化",
-      "board": "main",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [
-        "豆包收费不是单个 App 变贵，而是中国大模型应用从获客补贴进入算力分层定价。",
-        "公众容易只问“免费还在不在”，但平台真正要验证的是复杂任务用户愿不愿为推理时间和生产力场景付费。",
-        "价格分层会把 AI 产品重新分成日常陪伴、办公生产力和专业工作流三类，不同层级的商业逻辑完全不同。",
-        "下一步看免费额度是否收缩、企业版是否绑定办公生态，以及用户是否迁移到竞品。"
-      ],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.nbd.com.cn/articles/2026-05-04/4378474.html",
-        "source_title": "豆包将在免费模式外新增付费订阅，官方回应",
-        "source_type": "media",
-        "source_published_at": "2026-05-04T12:16:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：抖音#豆包回应推出付费订阅#、贴吧#豆包付费#",
-        "source_type": "cross_platform",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 4,
-        "heat_score": 15100000,
-        "platforms": [
-          "douyin",
-          "tieba",
-          "weibo",
-          "reddit"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 4
-    },
-    {
-      "issue_anchor": "留德男子迷奸女友案再冲热搜",
-      "category": "强冲突/争议热点",
-      "trend_status": "rising",
-      "heat_score": 8.7,
-      "timeliness": "今日回流",
-      "platforms": "微博/新浪/国际媒体/Reddit",
-      "primary_source": "中央社",
-      "source_url": "https://www.cna.com.tw/news/aopl/202604150024.aspx",
-      "why_rising": "德国判决旧案因中文社媒二次传播与“N号房”框架再度冲热搜，熟人性侵、药物控制和影像传播触发高强度公共愤怒。",
-      "key_data": "微博热搜约383万热度；中央社报道德国法院判处涉案中国留学生11年3个月徒刑。",
-      "risk_note": "案件细节涉及性侵与隐私，传播时避免复述可识别受害者信息和二次伤害。",
-      "watch_keywords": "留德男子 迷奸 女友 德国N号房 判刑 Telegram",
-      "board": "main",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [
-        "这个议题不是“留学生个体堕落”的猎奇故事，而是熟人关系、药物控制、影像传播和跨境司法同时失灵时的极端后果。",
-        "公众会愤怒于刑期，但更需要讨论受害者如何发现、取证、求助，以及平台和社群如何降低二次传播伤害。",
-        "“N号房”式叙事容易把犯罪神秘化，实际上它依赖的是普通亲密关系里的权力不对称和低成本偷拍视频技术。",
-        "下一步关注德国后续同类案件、Telegram/加密群治理以及中国国内是否出现受害者支持机制讨论。"
-      ],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.cna.com.tw/news/aopl/202604150024.aspx",
-        "source_title": "留德中國學生下藥性侵女友拍攝過程 遭處近12年徒刑",
-        "source_type": "media",
-        "source_published_at": "2026-04-15T08:31:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：微博#留德男子多次迷奸女友并记录传播#",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 16,
-        "heat_score": 3828500,
-        "platforms": [
-          "weibo",
-          "reddit"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 5
-    },
-    {
-      "issue_anchor": "俄乌错位停火进入舆论检验期",
-      "category": "强冲突/争议热点",
-      "trend_status": "breaking",
-      "heat_score": 8.6,
-      "timeliness": "24小时",
-      "platforms": "Reddit/AP/新华社/外媒",
-      "primary_source": "AP News",
-      "source_url": "https://apnews.com/article/9a686273da1f284230180a7819613719",
-      "why_rising": "俄罗斯为胜利日宣布短暂停火，泽连斯基提出更早停火，双方把停火变成互相检验和国际舆论操作。",
-      "key_data": "AP：俄方宣布5月8-9日停火，乌方称5月6日零时起可停火；Reddit 多个乌战社区当天讨论，单帖约240票以上。",
-      "risk_note": "战场信息高度动态，停火执行与违反情况需继续看双方军事通报和独立媒体。",
-      "watch_keywords": "Zelensky May 6 ceasefire Victory Day truce Russia Ukraine",
-      "board": "main",
-      "downgrade_note": null,
-      "source_scope": "海外来源主导",
-      "doctor_angles": [
-        "错位停火的重点不是谁先示好，而是谁把停火变成国际责任分配和战场再补给的工具。",
-        "公众容易把停火当和平信号，但短暂停火更可能是战略传播和合法性争夺。",
-        "乌克兰提前宣布停火，把验证责任推给俄罗斯，也为后续是否打击胜利日相关目标预留叙事空间。",
-        "下一步看前线无人机/导弹活动是否真停，以及美欧是否把短停火包装成长停火谈判入口。"
-      ],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://apnews.com/article/9a686273da1f284230180a7819613719",
-        "source_title": "Russia declares a truce in Ukraine to mark Victory Day. Kyiv says it will cease fire two days earlier",
-        "source_type": "wire",
-        "source_published_at": "2026-05-04T18:52:50+00:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://www.reddit.com/r/UkrainianConflict/comments/1t3rk1n/zelenskyy_announces_ceasefire_starting_from/",
-        "source_title": "Reddit r/UkrainianConflict: Zelenskyy announces ceasefire starting from midnight on 6 May",
-        "source_type": "platform_metric",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 1,
-        "heat_score": 240,
-        "platforms": [
-          "reddit",
-          "google_trends"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 6
-    },
-    {
-      "issue_anchor": "霍尔木兹美舰被击说法与美军否认",
-      "category": "强冲突/争议热点",
-      "trend_status": "breaking",
-      "heat_score": 8.5,
-      "timeliness": "24小时",
-      "platforms": "Reddit/AP/Reuters/Axios",
-      "primary_source": "AP News",
-      "source_url": "https://apnews.com/article/856953e60b1d9d2cb6a6352f6f66ea18",
-      "why_rising": "伊朗媒体称美舰被击、美军否认，霍尔木兹航道、油价和军事传播同时被拉进风险叙事。",
-      "key_data": "AP：美军否认伊朗称击中美国军舰的说法；Reddit r/videos 同题帖约1983票，油价相关讨论同步升温。",
-      "risk_note": "存在明确争议事实，标题必须写“说法与否认”，不能写成已证实命中。",
-      "watch_keywords": "Iran US warship Hormuz CENTCOM denies oil Strait",
-      "board": "main",
-      "downgrade_note": null,
-      "source_scope": "海外来源主导",
-      "doctor_angles": [
-        "这不是单纯真假新闻，而是海峡控制权争夺中的信息战：谁能制造“航道不安全”的预期，谁就能抬高谈判筹码。",
-        "公众会被“击中美舰”吸引，但事实核验应先看 CENTCOM、航运、保险费率和卫星/商船证据。",
-        "伊朗声明、美军否认、油价反应构成一个传播闭环，未必需要真实击中也能改变市场风险定价。",
-        "下一步观察油轮通行、UAE 告警、美国护航规模和原油期货是否继续同向波动。"
-      ],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://apnews.com/article/856953e60b1d9d2cb6a6352f6f66ea18",
-        "source_title": "The Latest: US pushes to reopen Strait of Hormuz as Iranian attacks on UAE strain ceasefire",
-        "source_type": "wire",
-        "source_published_at": "2026-05-04T14:05:40+00:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://www.reddit.com/r/videos/comments/1t3eb8o/breaking_iranian_state_media_says_missiles_hit_us/",
-        "source_title": "Reddit r/videos: Iranian state media says missiles hit U.S. warship",
-        "source_type": "platform_metric",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 1,
-        "heat_score": 1983,
-        "platforms": [
-          "reddit",
-          "x",
-          "google_trends"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 7
-    },
-    {
-      "issue_anchor": "直播间嘲讽40码鞋引发品牌处理",
-      "category": "强冲突/争议热点",
-      "trend_status": "rising",
-      "heat_score": 8.4,
-      "timeliness": "24小时",
-      "platforms": "微博/搜狐/直播电商",
-      "primary_source": "搜狐",
-      "source_url": "https://m.sohu.com/a/1018169865_121218495",
-      "why_rising": "顾客问40码女鞋被主播嘲讽，触发大码女性消费、直播服务边界和外包主播责任讨论。",
-      "key_data": "微博热搜第7约530万热度；商家客服称主播系外包人员，问题已上报并严肃核查处理。",
-      "risk_note": "“永久除名”等处理细节以商家后续公开说明为准。",
-      "watch_keywords": "40码鞋 女鞋 大码 主播 嘲讽 外包 商家回应",
-      "board": "main",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [
-        "这不是一句口误，而是直播电商把销售压力、性别审美和即时表演混在一起后的服务失控。",
-        "公众会要求“开除主播”，但平台更该回答外包主播培训、话术审核和品牌责任怎么划分。",
-        "大码女鞋缺位背后是消费供给长期把女性身体标准化，直播间只是把偏见说出了声。",
-        "下一步看商家是否只处理个人，还是补偿用户、调整品类和公开外包管理规则。"
-      ],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://m.sohu.com/a/1018169865_121218495",
-        "source_title": "女子想要40码的鞋，主播却嘲讽“谁会穿40码”，商家客服回应",
-        "source_type": "media",
-        "source_published_at": "2026-05-04T00:00:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：微博#男主播嘲讽女子40码鞋被永久除名#",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 7,
-        "heat_score": 5298700,
-        "platforms": [
-          "weibo"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 8
-    },
-    {
-      "issue_anchor": "Met Gala 与 BLACKPINK 全员到齐",
-      "category": "平台流量热点",
-      "trend_status": "breaking",
-      "heat_score": 8.3,
-      "timeliness": "今日",
-      "platforms": "微博/Reddit/AP/Vogue系媒体",
-      "primary_source": "Philstar",
-      "source_url": "https://www.philstar.com/entertainment/2026/05/05/2525807/blackpink-complete-met-gala-2026-jisoo-makes-event-debut",
-      "why_rising": "Met Gala 红毯与 BLACKPINK 首次全员出席形成粉丝、时尚和品牌传播叠加。",
-      "key_data": "微博热搜#BLACKPINK MetGala红毯#约414万热度；Reddit r/BlackPink 全员帖约405票，Lisa 单人帖约933票。",
-      "risk_note": "红毯评价高度主观，注意区分事实出席、粉丝情绪和时尚评论。",
-      "watch_keywords": "Met Gala BLACKPINK Jisoo Lisa Jennie Rose Vogue Reddit",
-      "board": "main",
-      "downgrade_note": null,
-      "source_scope": "中外混合来源",
-      "doctor_angles": [
-        "Met Gala 的真正看点不是红毯美丑，而是 K-pop、奢侈品牌和全球社媒流量在同一场事件里重新分配注意力。",
-        "BLACKPINK 全员到齐把粉丝经济带进时尚话语场，也会暴露“品牌邀请”和“艺术主题”之间的张力。",
-        "公众讨论容易变成造型打分，但更值得讲的是亚洲偶像如何成为西方时尚机构争夺年轻受众的入口。",
-        "下一步看 Vogue/品牌内容二次传播、TikTok 剪辑声量和粉丝对“是否合照”的持续议程。"
-      ],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.philstar.com/entertainment/2026/05/05/2525807/blackpink-complete-met-gala-2026-jisoo-makes-event-debut",
-        "source_title": "Blackpink complete at Met Gala 2026 as Jisoo makes event debut",
-        "source_type": "media",
-        "source_published_at": "2026-05-05T09:43:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://www.reddit.com/r/BlackPink/comments/1t3zhwy/260504_blackpink_at_met_gala/",
-        "source_title": "Reddit r/BlackPink: 260504 BLACKPINK AT MET GALA",
-        "source_type": "platform_metric",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 1,
-        "heat_score": 405,
-        "platforms": [
-          "weibo",
-          "reddit",
-          "x"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 9
-    },
-    {
-      "issue_anchor": "广西红水河桨板遇强对流",
-      "category": "真实生活问题热点",
-      "trend_status": "rising",
-      "heat_score": 8.1,
-      "timeliness": "48小时",
-      "platforms": "网易/微博/光明网/极目新闻",
-      "primary_source": "光明网",
-      "source_url": "https://m.gmw.cn/2026-05/04/content_1304443553.htm",
-      "why_rising": "五一户外项目视频化传播，一秒天黑、桨板被风浪掀翻的画面推动风险讨论。",
-      "key_data": "网易热榜第5；光明网引述文旅局称救援及时、无人员伤亡。",
-      "risk_note": "户外项目现场细节以当地文旅、气象和救援部门通报为准。",
-      "watch_keywords": "广西 红水河 桨板 暴风雨 强对流 救援",
-      "board": "main",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [
-        "这是网红户外项目的风险治理问题，不只是“游客不看天气”。",
-        "公众叙事会集中在惊险视频，但更关键的是租赁商、景区、气象预警和救援点之间有没有实时联动。",
-        "轻户外消费的商业逻辑是低门槛、高出片，但自然风险并不会因为项目被短视频化而下降。",
-        "下一步看当地是否调整桨板开放时段、强制穿戴装备、预警停航和商家责任边界。"
-      ],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://m.gmw.cn/2026-05/04/content_1304443553.htm",
-        "source_title": "游客在广西红水河玩桨板突遇暴风雨 文旅局：救援及时，无人员伤亡",
-        "source_type": "media",
-        "source_published_at": "2026-05-04T00:00:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：网易#游客在广西红水河玩桨板突遇暴风雨#",
-        "source_type": "third_party_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 5,
-        "heat_score": null,
-        "platforms": [
-          "netease",
-          "weibo",
-          "short_video"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 10
+      "id": 10,
+      "issue_anchor": "美国计划从德国撤出约5000名士兵",
+      "title": "美国计划从德国撤出约5000名士兵",
+      "category": "海外公共事件",
+      "status": "rising",
+      "heat_score_10": 8,
+      "timeliness": "近72小时",
+      "platforms": "海外媒体/X讨论",
+      "source_url": "https://breakingdefense.com/2026/05/hegseth-orders-5000-us-troops-to-withdraw-from-germany/",
+      "source_title": "Hegseth orders 5,000 US troops to withdraw from Germany",
+      "why": "海外安全议题持续发酵，涉及北约、伊朗战争分歧和欧洲防务成本。",
+      "risk": "地缘政治高风险，需以五角大楼和盟友后续确认为准。",
+      "watch": "Germany troops NATO Iran Europe defense",
+      "main": true,
+      "analysis_angles": [
+        "美军德国撤军把北约分歧从外交表态推到兵力配置，市场会重新评估欧洲安全成本。",
+        "特朗普政府把盟友批评与军事部署绑定，削弱的是联盟可预期性。",
+        "欧洲所谓战略自主如果只停在口号，撤军会迅速变成财政和工业产能压力测试。",
+        "后续看撤军是否扩大到意大利、西班牙，以及德国防务预算是否加速。"
+      ]
     }
   ],
   "extended_board": [
     {
-      "issue_anchor": "红果短剧 VIP 付费回应",
-      "category": "行业变化热点",
-      "trend_status": "rising",
-      "heat_score": 7.8,
-      "timeliness": "72小时",
-      "platforms": "微博/财经媒体/短剧平台",
-      "primary_source": "新浪科技",
-      "source_url": "https://finance.sina.cn/tech/2026-05-03/detail-inhwrxau8517424.d.html?vt=4",
-      "why_rising": "免费短剧平台出现 VIP 标识，用户担心免费模式转向付费。",
-      "key_data": "微博热搜约407万；红果回应称仅极少量版权方要求内容需 VIP，并非近期新增功能。",
-      "risk_note": "平台付费范围需继续观察，不能据个别片目推断全面转向。",
-      "watch_keywords": "红果短剧 VIP 付费 免费短剧 版权方",
-      "board": "extended",
-      "downgrade_note": "平台热度强，但属于单平台商业规则观察。",
-      "source_scope": "国内来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://finance.sina.cn/tech/2026-05-03/detail-inhwrxau8517424.d.html?vt=4",
-        "source_title": "红果短剧回应“VIP付费”",
-        "source_type": "media",
-        "source_published_at": "2026-05-03T23:14:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：微博#红果VIP付费#",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 12,
-        "heat_score": 4071300,
-        "platforms": [
-          "weibo"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 1
-    },
-    {
-      "issue_anchor": "商务部阻断美国涉伊制裁",
-      "category": "行业变化热点",
-      "trend_status": "rising",
-      "heat_score": 7.7,
-      "timeliness": "72小时",
-      "platforms": "商务部/央视/新浪/贴吧",
-      "primary_source": "商务部",
-      "source_url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_0ff88c45f1974962a539775085014888.html",
-      "why_rising": "美国涉伊石油制裁与中国阻断令结合，叠加霍尔木兹危机，形成经贸法与能源安全讨论。",
-      "key_data": "商务部5月2日发布第21号公告；贴吧相关话题“商务部出手，美国禁令失效”约1510万热度。",
-      "risk_note": "政策执行边界、企业合规影响需以商务部公告和后续司法/行政解释为准。",
-      "watch_keywords": "商务部 阻断禁令 美国 制裁 伊朗石油 五家企业",
-      "board": "extended",
-      "downgrade_note": "权威事实强，平台活人气弱于公共生活议题。",
-      "source_scope": "国内来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_0ff88c45f1974962a539775085014888.html",
-        "source_title": "商务部公告2026年第21号",
-        "source_type": "official",
-        "source_published_at": "2026-05-02T00:00:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：贴吧#商务部出手 美国禁令失效#",
-        "source_type": "third_party_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 5,
-        "heat_score": 15100000,
-        "platforms": [
-          "tieba",
-          "weibo",
-          "news"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 2
-    },
-    {
-      "issue_anchor": "五四青年回信与青年发展议程",
-      "category": "行业变化热点",
-      "trend_status": "rising",
-      "heat_score": 7.4,
-      "timeliness": "48小时",
-      "platforms": "央视/人民网/微博",
-      "primary_source": "央视网",
-      "source_url": "https://tv.cctv.com/2026/05/03/VIDEQWpfi82eA31gZZYtVmZI260503.shtml",
-      "why_rising": "五四节点下官方青年叙事集中推送，与就业、基层、科技创新等现实青年议题形成张力。",
-      "key_data": "央视新闻联播5月3日报道回信；相关五四青年内容在央视、人民网、微博持续传播。",
-      "risk_note": "该项属于官方议程，适合事实备查和分析语境，不宜压过平台原生民生事件。",
-      "watch_keywords": "五四 青年 回信 基层 科技创新 发展议程",
-      "board": "extended",
-      "downgrade_note": "中国意识形态/官方议程已覆盖，因平台活人气不足未进主榜。",
-      "source_scope": "国内来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://tv.cctv.com/2026/05/03/VIDEQWpfi82eA31gZZYtVmZI260503.shtml",
-        "source_title": "习近平回信勉励中国青年五四奖章暨新时代青年先锋奖获奖者代表",
-        "source_type": "official",
-        "source_published_at": "2026-05-03T19:08:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：微博官方议程类话题“为我国高质量发展提供澎湃动能”等",
-        "source_type": "cross_platform",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 13,
-        "heat_score": 3994300,
-        "platforms": [
-          "weibo",
-          "cctv",
-          "people"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 3
-    },
-    {
-      "issue_anchor": "金价银价快速回落",
-      "category": "行业变化热点",
-      "trend_status": "rising",
-      "heat_score": 7.3,
-      "timeliness": "48小时",
-      "platforms": "微博/新浪财经/投资社区",
-      "primary_source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/wm/2026-05-04/doc-inhwtrne9867912.shtml",
-      "why_rising": "国际金银价格大幅回撤，避险叙事与获利了结同时触发普通投资者关注。",
-      "key_data": "微博热搜约324万；新浪财经称5月4日晚现货黄金、白银明显下跌。",
-      "risk_note": "金融市场波动快，不构成投资建议；具体价格以实时行情为准。",
-      "watch_keywords": "金价 银价 大跌 黄金 白银 避险",
-      "board": "extended",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://finance.sina.com.cn/wm/2026-05-04/doc-inhwtrne9867912.shtml",
-        "source_title": "金价银价直线下跌！今日金价及各大金店黄金价格",
-        "source_type": "media",
-        "source_published_at": "2026-05-04T00:00:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：微博#金价银价又大跌#",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 22,
-        "heat_score": 3244200,
-        "platforms": [
-          "weibo",
-          "finance_media"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 4
-    },
-    {
-      "issue_anchor": "广州“穗八条”带动五一楼市看房",
-      "category": "行业变化热点",
-      "trend_status": "rising",
-      "heat_score": 7.2,
-      "timeliness": "72小时",
-      "platforms": "网易/澎湃/东方财富",
-      "primary_source": "澎湃新闻",
-      "source_url": "https://www.thepaper.cn/newsDetail_forward_33095763",
-      "why_rising": "广州楼市新政落地后，售楼处排队看房和二手房网签破万成为楼市信心讨论样本。",
-      "key_data": "网易热榜第15；澎湃报道五一售楼处再现排队看房，二手房连续两个月网签破万套。",
-      "risk_note": "楼市热度需区分短期节假日看房与真实成交持续性。",
-      "watch_keywords": "广州 穗八条 楼市 公积金 卖旧买新",
-      "board": "extended",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.thepaper.cn/newsDetail_forward_33095763",
-        "source_title": "广州楼市“穗八条”落地",
-        "source_type": "media",
-        "source_published_at": "2026-05-04T00:00:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：网易#广州楼市穗八条落地#",
-        "source_type": "third_party_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 15,
-        "heat_score": null,
-        "platforms": [
-          "netease",
-          "finance_media"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 5
-    },
-    {
-      "issue_anchor": "苏州公积金贷款额度上调",
-      "category": "行业变化热点",
-      "trend_status": "emerging",
-      "heat_score": 7.0,
-      "timeliness": "72小时",
-      "platforms": "网易/澎湃/地方政策",
-      "primary_source": "澎湃新闻",
-      "source_url": "https://www.thepaper.cn/newsDetail_forward_33092739",
-      "why_rising": "地方楼市政策继续加码，公积金上限调整成为改善型购房者关注点。",
-      "key_data": "网易热榜第17；澎湃报道苏州个人公积金最高贷款额度调整为150万元。",
-      "risk_note": "政策细则与适用条件需以苏州官方文件为准。",
-      "watch_keywords": "苏州 公积金 150万 购房 新政",
-      "board": "extended",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.thepaper.cn/newsDetail_forward_33092739",
-        "source_title": "苏州出台购房新政",
-        "source_type": "media",
-        "source_published_at": "2026-05-02T17:24:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：网易#苏州公积金最高贷款#",
-        "source_type": "third_party_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 17,
-        "heat_score": null,
-        "platforms": [
-          "netease",
-          "finance_media"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 6
-    },
-    {
-      "issue_anchor": "国内油价5月调价窗口升温",
-      "category": "用户搜索热点",
-      "trend_status": "rising",
-      "heat_score": 6.9,
-      "timeliness": "72小时",
-      "platforms": "微博/新浪财经/发改委",
-      "primary_source": "国家发改委",
-      "source_url": "https://www.ndrc.gov.cn/xwdt/xwfb/202604/t20260407_1404528_ext.html",
-      "why_rising": "美伊与油市波动背景下，5月8日调价窗口引发车主搜索与财经号传播。",
-      "key_data": "微博热搜约250万；新浪财经称5月8日24时将迎来新一轮窗口，发改委既有调价机制公告可核验机制。",
-      "risk_note": "具体上调/下调幅度需等待国家发改委正式公告。",
-      "watch_keywords": "国内油价 5月8日 调价 发改委 汽油",
-      "board": "extended",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.ndrc.gov.cn/xwdt/xwfb/202604/t20260407_1404528_ext.html",
-        "source_title": "2026年4月7日国家继续实施调控，成品油价格适当调整",
-        "source_type": "official",
-        "source_published_at": "2026-04-07T00:00:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：微博#国内油价将迎调整#",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 37,
-        "heat_score": 2500000,
-        "platforms": [
-          "weibo",
-          "finance_media"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 7
-    },
-    {
-      "issue_anchor": "父亲长期室内吸烟女儿确诊肺癌",
-      "category": "真实生活问题热点",
-      "trend_status": "rising",
-      "heat_score": 6.8,
+      "id": 11,
+      "issue_anchor": "五四青年与“在新征程上贡献青春力量”官方议程",
+      "title": "五四青年与“在新征程上贡献青春力量”官方议程",
+      "category": "官方议程",
+      "status": "rising",
+      "heat_score_10": 7,
       "timeliness": "今日",
-      "platforms": "百度/头条/健康媒体",
-      "primary_source": "红点新闻网",
-      "source_url": "https://reddot.my/231035/",
-      "why_rising": "二手烟、三手烟和家庭健康责任被具象化成极端案例，推动戒烟和家庭公共空间讨论。",
-      "key_data": "百度/头条健康类热搜出现同题；红点新闻网5月5日报道16岁女孩长期暴露于父亲室内吸烟环境后确诊肺癌。",
-      "risk_note": "医疗个案不能直接推断所有风险概率，应以医生诊断与公共卫生研究为准。",
-      "watch_keywords": "二手烟 三手烟 肺癌 家庭 吸烟 儿童",
-      "board": "extended",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://reddot.my/231035/",
-        "source_title": "父亲长期室内抽烟 16岁女儿惨患肺癌",
-        "source_type": "media",
-        "source_published_at": "2026-05-05T00:00:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：百度/头条健康类肺癌个案话题",
-        "source_type": "cross_platform",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": null,
-        "heat_score": null,
-        "platforms": [
-          "baidu",
-          "toutiao",
-          "health_media"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 8
+      "platforms": "百度/人民网/央视",
+      "source_url": "https://cpc.people.com.cn/n1/2026/0505/c64387-40713664.html",
+      "source_title": "在新征程上贡献青春力量",
+      "why": "青年节官方议程进入百度高位，和就业、科研、基层话题形成叠加。",
+      "risk": "官方议程热度强，平台活人气弱于公共事故和消费议题。",
+      "watch": "青年发展 五四奖章 就业 科研",
+      "main": false,
+      "analysis_angles": [
+        "青年议程容易被做成鼓励话术，但真正的结构问题是教育、就业、科研入口是否匹配青年风险。",
+        "官方叙事强调奋斗，应同时接受年轻人对收入、岗位、晋升和生活成本的现实追问。",
+        "基础研究和青年发展被同时推高，意味着国家希望把个体成就嵌入长期科技竞争。",
+        "观察求职补贴、科研岗位、基层机会是否能落到可获得的制度安排。"
+      ]
     },
     {
-      "issue_anchor": "高校“走路看手机被劝退”风波",
-      "category": "强冲突/争议热点",
-      "trend_status": "rising",
-      "heat_score": 6.8,
-      "timeliness": "72小时",
-      "platforms": "网易/澎湃/Reddit中文社区",
-      "primary_source": "澎湃新闻",
-      "source_url": "https://www.thepaper.cn/newsDetail_forward_33094548",
-      "why_rising": "校园安全治理与处罚比例失衡引发争议，网友集中讨论高校管理边界。",
-      "key_data": "网易热榜第8；澎湃报道校方称处理实际未执行。",
-      "risk_note": "网传版本与校方回应有差异，后续以学校、教育主管部门正式说明为准。",
-      "watch_keywords": "走路看手机 劝退 高校 教师 辞退 校方回应",
-      "board": "extended",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.thepaper.cn/newsDetail_forward_33094548",
-        "source_title": "校方回应“学生走路看手机被劝退并辞退4名教师”：实际未执行",
-        "source_type": "media",
-        "source_published_at": "2026-05-03T00:00:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：网易#学生走路玩手机被劝退#",
-        "source_type": "third_party_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 8,
-        "heat_score": null,
-        "platforms": [
-          "netease",
-          "reddit",
-          "media"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 9
+      "id": 12,
+      "issue_anchor": "加强基础研究官方议程持续扩散",
+      "title": "加强基础研究官方议程持续扩散",
+      "category": "科技政策",
+      "status": "rising",
+      "heat_score_10": 7,
+      "timeliness": "近72小时",
+      "platforms": "微博/人民网/光明网",
+      "source_url": "https://politics.people.com.cn/n1/2026/0502/c461001-40712891.html",
+      "source_title": "一见·“十五五”开局起步，为何强调加强基础研究要“持续抓下去”",
+      "why": "微博热搜与权威解读共同推高基础研究议程。",
+      "risk": "政策解读不等于产业落地，需观察经费和机制。",
+      "watch": "基础研究 十五五 原始创新 科技强国",
+      "main": false,
+      "analysis_angles": []
     },
     {
-      "issue_anchor": "成绩查询付费 App 被质疑乱收费",
-      "category": "真实生活问题热点",
-      "trend_status": "rising",
-      "heat_score": 6.7,
-      "timeliness": "72小时",
-      "platforms": "网易/搜狐/教育舆论",
-      "primary_source": "搜狐",
-      "source_url": "https://m.sohu.com/a/1017422660_121443915",
-      "why_rising": "家长查看成绩与作业反馈被绑定付费服务，触发教育数字化服务边界讨论。",
-      "key_data": "网易热榜第12；搜狐评论聚焦湖南怀化辰溪县第一中学付费 App 争议。",
-      "risk_note": "“官方叫停”等后续处理需继续等待当地教育部门或学校公告。",
-      "watch_keywords": "查成绩 付费App 350元 学校 家长 教育乱收费",
-      "board": "extended",
-      "downgrade_note": "事实源以媒体报道为主，需继续看地方官方处理。",
-      "source_scope": "国内来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://m.sohu.com/a/1017422660_121443915",
-        "source_title": "学校推送付费App “自愿”岂能成乱收费遮羞布",
-        "source_type": "media",
-        "source_published_at": "2026-05-02T09:02:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：网易#中学查询学生成绩需付费买App#",
-        "source_type": "third_party_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 12,
-        "heat_score": null,
-        "platforms": [
-          "netease",
-          "education_media"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 10
-    },
-    {
-      "issue_anchor": "四川公园公厕卫生与删视频争议",
-      "category": "强冲突/争议热点",
-      "trend_status": "rising",
-      "heat_score": 6.6,
-      "timeliness": "72小时",
-      "platforms": "网易/极目新闻/地方文旅",
-      "primary_source": "极目新闻",
-      "source_url": "https://www.ctdsb.net/c1716_202605/2732374.html",
-      "why_rising": "游客曝光公厕问题后被要求删视频，城市公共服务问题被转化为治理透明度冲突。",
-      "key_data": "网易热榜第14；极目新闻报道当地称人流暴增叠加水压故障，已冲洗消杀并致歉。",
-      "risk_note": "现场责任与工作人员行为需以当地正式通报为准。",
-      "watch_keywords": "公厕 满地大小便 删视频 文旅 报警 致歉",
-      "board": "extended",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.ctdsb.net/c1716_202605/2732374.html",
-        "source_title": "游客拍到四川一公园公厕满地大小便，被文旅工作人员围堵要求删视频",
-        "source_type": "media",
-        "source_published_at": "2026-05-03T11:04:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：网易#公园公厕满地大小便被要求删视频#",
-        "source_type": "third_party_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 14,
-        "heat_score": null,
-        "platforms": [
-          "netease",
-          "media",
-          "short_video"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 11
-    },
-    {
-      "issue_anchor": "莫氏鸡煲汤料包卖断货",
-      "category": "平台流量热点",
-      "trend_status": "rising",
-      "heat_score": 6.5,
-      "timeliness": "72小时",
-      "platforms": "网易/直播电商/极目新闻",
-      "primary_source": "极目新闻",
-      "source_url": "https://www.ctdsb.net/c1476_202605/2732912.html",
-      "why_rising": "地方餐饮 IP 通过直播间产品化，短时间售罄形成“网红餐饮供应链”样本。",
-      "key_data": "网易热榜第3；极目新闻称汤料包5分钟售罄4000多份，累计销售额破160万元。",
-      "risk_note": "销量为媒体观察与平台页面数据，后续履约、复购和品控才决定长期价值。",
-      "watch_keywords": "莫氏鸡煲 汤料包 直播 卖断货 餐饮IP",
-      "board": "extended",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.ctdsb.net/c1476_202605/2732912.html",
-        "source_title": "莫氏鸡煲上线汤料包5分钟售罄4000多份",
-        "source_type": "media",
-        "source_published_at": "2026-05-04T00:00:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：网易#莫氏鸡煲汤料包卖断货#",
-        "source_type": "third_party_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 3,
-        "heat_score": null,
-        "platforms": [
-          "netease",
-          "short_video",
-          "ecommerce"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 12
-    },
-    {
-      "issue_anchor": "充电桩运营商盈利压力出圈",
-      "category": "行业变化热点",
-      "trend_status": "rising",
-      "heat_score": 6.4,
-      "timeliness": "72小时",
-      "platforms": "网易/新浪财经/汽车媒体",
-      "primary_source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/stock/t/2026-05-02/doc-inhwpchf2362872.shtml",
-      "why_rising": "新能源车基础设施从“缺桩”叙事转向“桩多但不赚钱”，价格战和利用率成为行业焦点。",
-      "key_data": "网易热榜第11；新浪财经报道头部充电站每度电净利润仅4分钱。",
-      "risk_note": "行业数据口径多样，应区分公共桩、专用桩、区域利用率和单站模型。",
-      "watch_keywords": "充电桩 运营商 内卷 利用率 每度电4分钱",
-      "board": "extended",
-      "downgrade_note": null,
-      "source_scope": "国内来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://finance.sina.com.cn/stock/t/2026-05-02/doc-inhwpchf2362872.shtml",
-        "source_title": "充电桩运营商，“扛不住了”",
-        "source_type": "media",
-        "source_published_at": "2026-05-02T00:00:00+08:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://ai.kaolamedia.com/hot",
-        "source_title": "考拉全网热榜：网易#充电桩运营商扛不住了#",
-        "source_type": "third_party_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 11,
-        "heat_score": null,
-        "platforms": [
-          "netease",
-          "finance_media",
-          "auto_media"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 13
-    },
-    {
-      "issue_anchor": "YouTube 儿童 AI 内容监管压力",
-      "category": "行业变化热点",
-      "trend_status": "emerging",
-      "heat_score": 6.3,
-      "timeliness": "近30天持续",
-      "platforms": "YouTube/Reddit/AP/儿童权益组织",
-      "primary_source": "AP News",
-      "source_url": "https://apnews.com/article/68f866c48127222208e1d978b46cbc80",
-      "why_rising": "AI 生成儿童视频被批低质、诱导和难以识别，平台推荐系统与儿童保护再次成为监管焦点。",
-      "key_data": "AP：200多个组织和专家呼吁 YouTube 保护儿童免受 AI slop 内容影响；Reddit/Sora 社区持续讨论 AI 视频平台与内容限制。",
-      "risk_note": "不是单日爆点，更像持续上升的全球平台治理议题。",
-      "watch_keywords": "YouTube Kids AI slop children synthetic media recommendation",
-      "board": "extended",
-      "downgrade_note": "趋势持续但当日热度弱于主榜公共事件。",
-      "source_scope": "海外来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://apnews.com/article/68f866c48127222208e1d978b46cbc80",
-        "source_title": "Advocacy groups urge YouTube to protect kids from AI slop videos",
-        "source_type": "wire",
-        "source_published_at": "2026-04-01T00:00:00+00:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://www.reddit.com/r/SoraAi/comments/1t06wfv/announcement_flood_gates_are_open_sora_has/",
-        "source_title": "Reddit r/SoraAi: Sora shutdown community discussion",
-        "source_type": "platform_metric",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": null,
-        "heat_score": null,
-        "platforms": [
-          "reddit",
-          "youtube",
-          "google_trends"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 14
-    },
-    {
-      "issue_anchor": "TikTok 儿童护肤视频商业化争议",
-      "category": "强冲突/争议热点",
-      "trend_status": "emerging",
-      "heat_score": 6.2,
-      "timeliness": "近14天持续",
-      "platforms": "TikTok/Guardian/海外社媒",
-      "primary_source": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/22/toddler-skincare-children-videos-tiktok",
-      "why_rising": "儿童被用于护肤 routine 与带货式内容，暴露平台激励、父母代运营和儿童劳动保护之间的灰区。",
-      "key_data": "Guardian 调查称低龄儿童护肤视频在 TikTok 获得大量观看并引发专家担忧。",
-      "risk_note": "调查型报道需与平台后续政策、个案许可和广告标识核对。",
-      "watch_keywords": "ToddlerSkincare TikTok child influencer beauty videos",
-      "board": "extended",
-      "downgrade_note": "海外平台文化变化，热度持续但非今日单点爆发。",
-      "source_scope": "海外来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/22/toddler-skincare-children-videos-tiktok",
-        "source_title": "#ToddlerSkincare: the dark and exploitative world of children’s beauty videos on TikTok",
-        "source_type": "media",
-        "source_published_at": "2026-04-22T03:00:00+00:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/22/toddler-skincare-children-videos-tiktok",
-        "source_title": "Guardian investigation: #ToddlerSkincare on TikTok",
-        "source_type": "platform_metric",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": null,
-        "heat_score": null,
-        "platforms": [
-          "tiktok",
-          "media"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 15
-    },
-    {
-      "issue_anchor": "Google Trends 美国体育娱乐搜索脉冲",
-      "category": "用户搜索热点",
-      "trend_status": "rising",
-      "heat_score": 6.1,
+      "id": 13,
+      "issue_anchor": "政策定调“四稳”牵动节后A股预期",
+      "title": "政策定调“四稳”牵动节后A股预期",
+      "category": "财经政策",
+      "status": "rising",
+      "heat_score_10": 7,
       "timeliness": "今日",
-      "platforms": "Google Trends/Frontier Watch",
-      "primary_source": "Frontier Watch",
-      "source_url": "https://frontier.watch/trends.agent",
-      "why_rising": "美国 Google Trends 当日上升词集中在 Carter Hart、Christian Horner、Carrie Underwood、Ryan McMahon 等体育娱乐人物。",
-      "key_data": "Frontier Watch 5月5日02:10Z抓取 Google Trends US：10个日趋势词，最高 traffic 2000+。",
-      "risk_note": "该项只说明搜索脉冲，不等同于事实重要性或主流新闻排名。",
-      "watch_keywords": "Carter Hart Christian Horner Carrie Underwood Google Trends",
-      "board": "extended",
-      "downgrade_note": "作为外网平台算法信号保留，不进主榜。",
-      "source_scope": "海外来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://frontier.watch/trends.agent",
-        "source_title": "Google Trends daily search-spike feed with watchlist highlighting",
-        "source_type": "platform_original",
-        "source_published_at": "2026-05-05T02:10:22+00:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://frontier.watch/trends.agent",
-        "source_title": "Frontier Watch Google Trends daily search-spike feed",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": null,
-        "heat_score": 2000,
-        "platforms": [
-          "google_trends"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 16
+      "platforms": "搜狗/财经媒体",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-05-05/doc-inhwvqce9610813.shtml",
+      "source_title": "利好与利空交织、政策定调“四稳” 节后A股如何走？",
+      "why": "节后市场预期与政策词一起上榜，投资者关注稳预期、稳就业、稳外贸、稳投资。",
+      "risk": "非投资建议，市场波动需独立判断。",
+      "watch": "四稳 A股 节后开盘 内需",
+      "main": false,
+      "analysis_angles": []
     },
     {
-      "issue_anchor": "Met Gala 抗议与红毯商业化争议",
-      "category": "强冲突/争议热点",
-      "trend_status": "rising",
-      "heat_score": 6.1,
+      "id": 14,
+      "issue_anchor": "“5月起不再使用ETC”谣言被持续辟谣",
+      "title": "“5月起不再使用ETC”谣言被持续辟谣",
+      "category": "公共服务",
+      "status": "rising",
+      "heat_score_10": 7,
+      "timeliness": "假期持续",
+      "platforms": "抖音/头条/央视网",
+      "source_url": "https://news.cctv.com/2026/05/03/ARTIV5JGAXyHsE3qFcNSRtSU260503.shtml",
+      "source_title": "网传“5月1日起高速不再使用ETC”系不实传言",
+      "why": "假期出行场景放大交通谣言，抖音和头条热榜持续出现辟谣词。",
+      "risk": "公共服务信息以交通部门和权威媒体为准。",
+      "watch": "ETC 谣言 无卡通行 手机支付",
+      "main": false,
+      "analysis_angles": []
+    },
+    {
+      "id": 15,
+      "issue_anchor": "郑州三文鱼套餐实为虹鳟鱼引发索赔争议",
+      "title": "郑州三文鱼套餐实为虹鳟鱼引发索赔争议",
+      "category": "食品消费",
+      "status": "rising",
+      "heat_score_10": 7,
       "timeliness": "今日",
-      "platforms": "Sky News/Reddit/社媒",
-      "primary_source": "Sky News",
-      "source_url": "https://news.sky.com/story/met-gala-2026-live-celebrities-to-hit-red-carpet-for-fashions-biggest-night-after-boycott-message-beamed-on-to-jeff-bezoss-home-13537101",
-      "why_rising": "红毯之外，“boycott”信息投射到贝索斯住所等抗议信号，让时尚活动卷入财富、品牌和公共道德讨论。",
-      "key_data": "Sky News 5月5日直播记录相关抗议信息；Reddit K-pop/Blackpink snark 社区有明显争论。",
-      "risk_note": "抗议规模和组织方信息需谨慎核验，不把社媒情绪当成事实。",
-      "watch_keywords": "Met Gala boycott Bezos protest red carpet",
-      "board": "extended",
-      "downgrade_note": "与主榜 Met Gala 合并看更合理，扩展榜单列争议面。",
-      "source_scope": "海外来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://news.sky.com/story/met-gala-2026-live-celebrities-to-hit-red-carpet-for-fashions-biggest-night-after-boycott-message-beamed-on-to-jeff-bezoss-home-13537101",
-        "source_title": "Met Gala 2026 live: boycott message beamed on to Jeff Bezos home",
-        "source_type": "media",
-        "source_published_at": "2026-05-05T02:25:00+00:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://www.reddit.com/r/BLACKPINKSNARK/comments/1t3djou/met_gala/",
-        "source_title": "Reddit r/BLACKPINKSNARK: MET GALA discussion",
-        "source_type": "platform_metric",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": 1,
-        "heat_score": 44,
-        "platforms": [
-          "reddit",
-          "x",
-          "media"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 17
+      "platforms": "知乎/财经媒体",
+      "source_url": "https://cj.sina.com.cn/articles/view/7857263936/v1d454554006801kba4?froms=ggmp",
+      "source_title": "郑州消费者购三文鱼套餐实为虹鳟鱼起诉餐厅索赔十倍",
+      "why": "食品名称、检测标准和生食风险在知乎热榜形成讨论。",
+      "risk": "食品安全风险需以检测报告和监管处理为准。",
+      "watch": "三文鱼 虹鳟 生食标准 十倍赔偿",
+      "main": false,
+      "analysis_angles": []
     },
     {
-      "issue_anchor": "Sora 关闭后的 AI 视频社区迁移",
-      "category": "行业变化热点",
-      "trend_status": "emerging",
-      "heat_score": 6.0,
-      "timeliness": "近7天持续",
-      "platforms": "Reddit/OpenAI社区/科技媒体",
-      "primary_source": "Ars Technica",
-      "source_url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
-      "why_rising": "Sora 关闭后，AI 视频用户社区讨论替代模型、内容保存和平台政策，反映生成视频从炫技期进入成本和治理期。",
-      "key_data": "Reddit r/SoraAi 4天前社区公告称 Sora app/platform 已停用；Ars/CBS 等科技媒体此前报道关闭计划。",
-      "risk_note": "该项并非中国主流热搜，保留为全球平台技术文化信号。",
-      "watch_keywords": "Sora shutdown AI video alternatives community migration",
-      "board": "extended",
-      "downgrade_note": "外网技术社区热度，非大众公共事件。",
-      "source_scope": "海外来源主导",
-      "doctor_angles": [],
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
-        "source_title": "OpenAI announces plans to shut down its Sora video generator",
-        "source_type": "media",
-        "source_published_at": "2026-03-24T17:19:00+00:00",
-        "reason": "证明议题核心事实、时间、主体或官方/媒体确认信息。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://www.reddit.com/r/SoraAi/comments/1t06wfv/announcement_flood_gates_are_open_sora_has/",
-        "source_title": "Reddit r/SoraAi: Flood gates are Open | Sora Has Officially Shut Down",
-        "source_type": "platform_metric",
-        "observed_at": "2026-05-05T10:23:46+08:00",
-        "rank": null,
-        "heat_score": null,
-        "platforms": [
-          "reddit",
-          "tech_media"
-        ],
-        "reason": "证明该议题在当日热榜、平台帖或搜索趋势中处于高可见状态。"
-      },
-      "rank": 18
+      "id": 16,
+      "issue_anchor": "顺风车司机高速开智驾睡觉打呼",
+      "title": "顺风车司机高速开智驾睡觉打呼",
+      "category": "交通安全",
+      "status": "emerging",
+      "heat_score_10": 7,
+      "timeliness": "今日",
+      "platforms": "头条",
+      "source_url": "",
+      "source_title": "头条热榜：顺风车司机高速开智驾睡觉打呼",
+      "why": "头条热榜第二，智能驾驶使用边界与网约/顺风车安全同时被讨论。",
+      "risk": "未找到权威事实源前，只作为平台热议线索。",
+      "watch": "顺风车 智驾 高速 驾驶员责任",
+      "main": false,
+      "analysis_angles": []
+    },
+    {
+      "id": 17,
+      "issue_anchor": "男子无人区骑行被解放军投喂食物",
+      "title": "男子无人区骑行被解放军投喂食物",
+      "category": "公共情绪",
+      "status": "rising",
+      "heat_score_10": 7,
+      "timeliness": "今日",
+      "platforms": "头条/百度",
+      "source_url": "",
+      "source_title": "头条热榜：男子无人区骑行被解放军投喂食物",
+      "why": "头条第一、百度前列，旅行叙事与军民互动形成短视频传播。",
+      "risk": "低风险暖新闻，事实细节需看原视频。",
+      "watch": "无人区骑行 解放军 投喂 旅行安全",
+      "main": false,
+      "analysis_angles": []
+    },
+    {
+      "id": 18,
+      "issue_anchor": "80斤女生不吃碳水闭经体脂率超标",
+      "title": "80斤女生不吃碳水闭经体脂率超标",
+      "category": "健康生活",
+      "status": "rising",
+      "heat_score_10": 7,
+      "timeliness": "今日",
+      "platforms": "微博/小红书式讨论",
+      "source_url": "",
+      "source_title": "微博热搜：80斤女生不吃碳水闭经体脂率超标",
+      "why": "微博健康焦虑话题进入高位，反映减脂、碳水和女性健康误区。",
+      "risk": "医疗建议需咨询专业医生。",
+      "watch": "不吃碳水 闭经 体脂 女性健康",
+      "main": false,
+      "analysis_angles": []
+    },
+    {
+      "id": 19,
+      "issue_anchor": "“把自己当糖尿病人来吃饭”饮食法走热",
+      "title": "“把自己当糖尿病人来吃饭”饮食法走热",
+      "category": "健康生活",
+      "status": "emerging",
+      "heat_score_10": 6,
+      "timeliness": "今日",
+      "platforms": "微博",
+      "source_url": "",
+      "source_title": "微博热搜：把自己当成糖尿病人来吃饭",
+      "why": "饮食控制话题高位出现，说明控糖叙事进入普通人生活方式。",
+      "risk": "勿把网络饮食法替代个体医疗建议。",
+      "watch": "控糖 饮食 血糖 健康焦虑",
+      "main": false,
+      "analysis_angles": []
+    },
+    {
+      "id": 20,
+      "issue_anchor": "端午节连休3天不调休",
+      "title": "端午节连休3天不调休",
+      "category": "公共服务",
+      "status": "rising",
+      "heat_score_10": 7,
+      "timeliness": "今日",
+      "platforms": "抖音/360",
+      "source_url": "",
+      "source_title": "抖音热榜：端午节连休3天不调休",
+      "why": "假期安排在抖音、360同步高热，出行和消费预期被提前激活。",
+      "risk": "以国务院放假安排为准。",
+      "watch": "端午假期 不调休 出行预订",
+      "main": false,
+      "analysis_angles": []
+    },
+    {
+      "id": 21,
+      "issue_anchor": "五一档多部电影撤档引发电影市场讨论",
+      "title": "五一档多部电影撤档引发电影市场讨论",
+      "category": "影视产业",
+      "status": "rising",
+      "heat_score_10": 6,
+      "timeliness": "近72小时",
+      "platforms": "微博/财经媒体",
+      "source_url": "https://finance.sina.com.cn/roll/2026-05-02/doc-inhwnhan9933863.shtml?froms=ggmp",
+      "source_title": "引发热议！多部电影退出“五一”档",
+      "why": "撤档话题冲上微博热搜，五一档供给和票房结构被重新讨论。",
+      "risk": "票房数据随时变化，以猫眼等实时平台为准。",
+      "watch": "五一档 撤档 寒战1994 排片",
+      "main": false,
+      "analysis_angles": []
+    },
+    {
+      "id": 22,
+      "issue_anchor": "跑男打假与综艺公信力争议",
+      "title": "跑男打假与综艺公信力争议",
+      "category": "娱乐公共议题",
+      "status": "rising",
+      "heat_score_10": 6,
+      "timeliness": "今日",
+      "platforms": "微博",
+      "source_url": "",
+      "source_title": "微博热搜：奔跑吧打假",
+      "why": "微博18:00热搜第一，综艺内容真实性与粉丝监督形成争议。",
+      "risk": "娱乐议题需避免未核实指控扩散。",
+      "watch": "奔跑吧 打假 综艺剪辑 公信力",
+      "main": false,
+      "analysis_angles": []
+    },
+    {
+      "id": 23,
+      "issue_anchor": "你好星期六未向张婧仪道歉争议",
+      "title": "你好星期六未向张婧仪道歉争议",
+      "category": "娱乐公共议题",
+      "status": "rising",
+      "heat_score_10": 6,
+      "timeliness": "今日",
+      "platforms": "微博",
+      "source_url": "",
+      "source_title": "微博热搜：你好星期六没有给张婧仪道歉",
+      "why": "综艺互动争议进入微博高位，粉丝权益和平台回应被放大。",
+      "risk": "娱乐纠纷需等待节目组或当事方明确回应。",
+      "watch": "你好星期六 张婧仪 道歉 粉丝舆情",
+      "main": false,
+      "analysis_angles": []
+    },
+    {
+      "id": 24,
+      "issue_anchor": "小猫还原自己摔伤过程成情绪化传播梗",
+      "title": "小猫还原自己摔伤过程成情绪化传播梗",
+      "category": "平台情绪",
+      "status": "emerging",
+      "heat_score_10": 5,
+      "timeliness": "今日",
+      "platforms": "微博",
+      "source_url": "",
+      "source_title": "微博热搜：小猫还原自己摔伤过程",
+      "why": "宠物拟人化内容在微博高位，体现轻情绪内容对严肃新闻的对冲。",
+      "risk": "低风险平台梗，不作事实延展。",
+      "watch": "宠物内容 情绪价值 短视频",
+      "main": false,
+      "analysis_angles": []
+    },
+    {
+      "id": 25,
+      "issue_anchor": "Porsche出售Bugatti Rimac和Rimac股权",
+      "title": "Porsche出售Bugatti Rimac和Rimac股权",
+      "category": "汽车产业",
+      "status": "rising",
+      "heat_score_10": 6,
+      "timeliness": "近一周",
+      "platforms": "海外媒体/IT之家",
+      "source_url": "https://newsroom.porsche.com/en/2026/company/porsche-bugatti-rimac-stakes-42221.html",
+      "source_title": "Porsche sells its stakes in Bugatti Rimac and Rimac Group to international consortium",
+      "why": "保时捷出售超豪华/电动技术相关股权，与中国市场降价争议一起进入产业讨论。",
+      "risk": "交易尚待监管批准，完成前存在不确定性。",
+      "watch": "Porsche Bugatti Rimac 成本收缩",
+      "main": false,
+      "analysis_angles": []
+    },
+    {
+      "id": 26,
+      "issue_anchor": "GTA 6 80美元定价建议引发游戏涨价讨论",
+      "title": "GTA 6 80美元定价建议引发游戏涨价讨论",
+      "category": "游戏产业",
+      "status": "rising",
+      "heat_score_10": 6,
+      "timeliness": "近48小时",
+      "platforms": "GameSpot/IT之家",
+      "source_url": "https://www.gamespot.com/articles/gta-6-should-be-80-and-other-companies-should-raise-prices-too-bank-of-america-says/1100-6539759/",
+      "source_title": "GTA 6 Should Be $80 And Other Companies Should Raise Prices, Too, Bank Of America Says",
+      "why": "美银关于GTA 6定价的建议引发玩家对行业集体涨价的反弹预期。",
+      "risk": "分析师建议不等于发行商定价。",
+      "watch": "GTA6 80美元 游戏涨价 玩家付费",
+      "main": false,
+      "analysis_angles": []
+    },
+    {
+      "id": 27,
+      "issue_anchor": "Deezer称每日上传歌曲44%为AI生成",
+      "title": "Deezer称每日上传歌曲44%为AI生成",
+      "category": "AI平台文化",
+      "status": "rising",
+      "heat_score_10": 6,
+      "timeliness": "近两周",
+      "platforms": "TechCrunch/Deezer",
+      "source_url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+      "source_title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "why": "海外平台披露AI音乐占比，成为国内AI神曲讨论的重要参照。",
+      "risk": "平台口径限于Deezer，不代表全行业。",
+      "watch": "Deezer AI音乐 上传 打标",
+      "main": false,
+      "analysis_angles": []
+    },
+    {
+      "id": 28,
+      "issue_anchor": "YouTube缩略图趋势显示高流量视频视觉模板化",
+      "title": "YouTube缩略图趋势显示高流量视频视觉模板化",
+      "category": "创作者经济",
+      "status": "emerging",
+      "heat_score_10": 5,
+      "timeliness": "本月",
+      "platforms": "YouTube/ThumbnailCreator",
+      "source_url": "https://www.thumbnailcreator.com/trends/2026/05",
+      "source_title": "May 2026 Thumbnail Trends",
+      "why": "419个趋势缩略图样本显示爆款视频继续依赖可复制视觉模板。",
+      "risk": "第三方统计样本有限，适合作趋势观察。",
+      "watch": "YouTube thumbnail MrBeast 视觉模板",
+      "main": false,
+      "analysis_angles": []
     }
   ],
   "coverage_matrix": [
@@ -1224,251 +543,141 @@
       "layer": "cn_public_event",
       "status": "completed",
       "queries": [
-        "浏阳 烟花厂 爆炸 官方通报 21死61伤 -榜单 -排行榜",
-        "警方通报 当事人 回应 事故 伤亡 救援 进展 2026年5月5日"
+        "官方通报 调查 处理 浏阳 烟花厂 爆炸 26死61伤 2026年5月5日",
+        "警方通报 当事人 回应 事故 伤亡 救援 进展"
       ],
       "raw_leads": 9,
       "valid_hotspots": 4,
-      "notes": "产出浏阳烟花厂爆炸、红水河强对流桨板、公园公厕卫生冲突等公共事件候选；高风险项使用央视/光明网/极目新闻等事实核验。"
+      "notes": "浏阳爆炸、长沙致歉、三明教育通报、ETC谣言均有热榜或权威事实源。"
     },
     {
       "layer": "cn_consumer_brand",
       "status": "completed",
       "queries": [
-        "消费者 投诉 品牌 回应 退款 规则 调整 用户反馈 2026年5月5日",
-        "男主播 嘲讽 40码鞋 商家回应 -合集 -盘点",
-        "豆包 付费订阅 官方回应 红果 VIP 付费 回应"
+        "消费者 投诉 品牌 回应 三文鱼 虹鳟 套餐 检测报告 生食标准",
+        "退款 退票 协商 品牌 回应 全季 全李酒店",
+        "平台 规则 调整 用户 反馈 贷款 保费"
       ],
-      "raw_leads": 8,
+      "raw_leads": 7,
       "valid_hotspots": 5,
-      "notes": "直播带货羞辱、AI 应用订阅、短剧会员、莫氏鸡煲汤料包、充电桩运营等进入候选。"
+      "notes": "消费与品牌争议覆盖酒店改名、贷款保费、三文鱼虹鳟、鸿蒙智行座椅。"
     },
     {
       "layer": "cn_celebrity_public_event_a",
       "status": "completed",
       "queries": [
-        "演唱会 退票 主办方 回应 2026年5月5日 -榜单 -排行榜 -合集",
-        "运动员 回应 比赛 规则 争议 2026年5月5日 -教程 -盘点",
-        "吴宜泽 斯诺克 世锦赛 冠军 热搜"
+        "演唱会 退票 主办方 回应 奔跑吧 打假 你好星期六 张婧仪 道歉",
+        "影视 引发 讨论 价值观 寒战1994 五一档 撤档"
       ],
-      "raw_leads": 7,
-      "valid_hotspots": 2,
-      "notes": "第一轮娱乐/体育公共事件化搜索，吴宜泽夺冠形成强热度，其他演唱会/影视候选有效证据不足。"
+      "raw_leads": 6,
+      "valid_hotspots": 4,
+      "notes": "第一轮使用综艺/影视/演出关键词，覆盖跑男打假、你好星期六道歉争议、五一档撤档。"
     },
     {
       "layer": "cn_celebrity_public_event_b",
       "status": "completed",
       "queries": [
-        "网红 道歉 退网 明星 工作室声明 票房争议 主创回应 2026年5月5日 -教程 -盘点",
-        "BLACKPINK MetGala 红毯 微博 热搜",
-        "Met Gala BLACKPINK Reddit 2026"
+        "网红 道歉 退网 明星 工作室 声明 张雪 骑手 流量 退去",
+        "票房 争议 主创 回应 五一档 多部电影撤档"
       ],
-      "raw_leads": 8,
-      "valid_hotspots": 2,
-      "notes": "第二轮使用不同关键词族，Met Gala/BLACKPINK 形成中外平台交叉热度。"
+      "raw_leads": 5,
+      "valid_hotspots": 3,
+      "notes": "第二轮换用网红/票房/声明关键词，未与3A复用同一关键词族。"
     },
     {
       "layer": "cn_workplace_education",
       "status": "completed",
       "queries": [
-        "高校学生走路玩手机被劝退 官方回应 2026年5月",
-        "学校 家长 沟通 处理 付费 App 成绩 350 官方叫停",
-        "应届生 就业 公司 员工 加班 政策 2026年5月5日"
+        "应届生 就业 求职补贴 2026届毕业生",
+        "学校 家长 沟通 处理 副校长 用脏话 辱骂 女学生",
+        "公司 员工 加班 政策 员工 半年迟到32次 被辞退 法院判了"
       ],
-      "raw_leads": 7,
-      "valid_hotspots": 3,
-      "notes": "教育治理与校园数字收费有平台热度；就业类当天可验证热度不足，未进入榜单。"
+      "raw_leads": 6,
+      "valid_hotspots": 4,
+      "notes": "教育治理、求职补贴、劳动纪律进入候选。"
     },
     {
       "layer": "global_public_event",
       "status": "completed",
       "queries": [
-        "Zelensky announces ceasefire May 6 2026 Reddit AP",
-        "Iran missile US warship Strait of Hormuz May 2026 Reddit AP Reuters",
-        "public reaction policy company crisis market-moving events May 2026"
+        "breaking live updates Trump Germany troop withdrawal 5000 2026 May 5",
+        "public reaction policy Zelensky announced ceasefire May 6 2026",
+        "company response employees concerns Porsche China not lowering prices Bugatti sale 2026 May 5"
       ],
-      "raw_leads": 10,
-      "valid_hotspots": 3,
-      "notes": "俄乌错位停火与霍尔木兹美伊冲突具备 AP/Reuters/Axios 事实源和 Reddit/X/Google 可见热度。"
+      "raw_leads": 8,
+      "valid_hotspots": 4,
+      "notes": "海外公共事件以美军德国撤军、欧洲安全、企业战略为主。"
     },
     {
       "layer": "cn_ideology_official_agenda",
       "status": "completed",
       "queries": [
-        "总书记 寄语 青年 2026 五四 央视新闻 热搜",
-        "商务部 发言人 答记者问 美国 禁令 失效 2026年5月5日",
-        "政治局 会议 四稳 新规 施行 官方 解读 2026年5月"
+        "总书记 寄语 青年 为青年取得的成就和成绩点赞喝彩 2026年5月5日",
+        "总书记 再次强调 加强基础研究 有何深意",
+        "政治局会议 四稳 节后A股 怎么走 官方 解读"
       ],
-      "raw_leads": 8,
-      "valid_hotspots": 2,
-      "notes": "按要求覆盖中国意识形态/官方议程；主榜不硬塞官方议题，商务部阻断令与五四回信进入扩展榜。"
+      "raw_leads": 7,
+      "valid_hotspots": 4,
+      "notes": "按要求覆盖中国意识形态/官方议程，青年、基础研究、四稳均记录但主榜克制使用。"
     },
     {
       "layer": "global_celebrity_outflow",
       "status": "completed",
       "queries": [
-        "Met Gala 2026 BLACKPINK Vogue Reddit",
-        "athlete response rule debate 2026 May Google Trends",
-        "film sparked discussion values concert refund fans organizers academy AI rules backlash"
+        "athlete response rule debate 国乒男团 澳大利亚 变阵 2026年5月5日",
+        "academy AI rules backlash AI music 20亿播放量 神曲 音乐人 发声",
+        "film sparked discussion values 寒战1994 争议"
       ],
-      "raw_leads": 7,
-      "valid_hotspots": 2,
-      "notes": "Met Gala/BLACKPINK 是最强外溢娱乐议题；Google Trends 体育名人搜索脉冲作为扩展观察，不强行主榜。"
+      "raw_leads": 6,
+      "valid_hotspots": 3,
+      "notes": "体育、AI音乐、电影工业讨论均有外溢公共议题属性。"
     },
     {
       "layer": "weibo_peak",
       "status": "completed",
       "queries": [
-        "微博 热搜 峰值 今日 2026年5月5日 浏阳 烟花厂 端午 吴宜泽 豆包",
-        "具体微博热搜话题 跨平台 抖音 百度 今日头条 复核"
+        "微博 热搜 峰值 今日 奔跑吧打假 浏阳烟花厂爆炸 长沙市委市政府致歉",
+        "X排行 微博 18:00 热搜 2026-05-05"
       ],
-      "raw_leads": 12,
+      "raw_leads": 15,
       "valid_hotspots": 9,
-      "notes": "通过考拉全网热榜复核微博峰值，并与百度/抖音/今日头条/网易/贴吧交叉验证。"
+      "notes": "以X排行18:00微博、百度、知乎、B站、抖音、头条聚合榜交叉复核。"
     },
     {
       "layer": "global_culture_shift",
       "status": "completed",
       "queries": [
-        "AI generated children content trend TikTok YouTube 2026 backlash",
-        "platform trust synthetic media backlash May 2026 Reddit",
-        "young people rejecting work trend May 2026 TikTok Reddit"
+        "young people rejecting trend AI generated music consumer attitudes 2026",
+        "platform trust synthetic media AI music flooding streaming platforms",
+        "shift in how people approach work Reddit search AI answers 2026"
       ],
-      "raw_leads": 8,
-      "valid_hotspots": 3,
-      "notes": "AI slop、儿童内容商业化、TikTok 算法信任属于文化/平台变化，因即时平台热度弱于公共事件，主要放扩展榜。"
+      "raw_leads": 6,
+      "valid_hotspots": 4,
+      "notes": "覆盖AI音乐、YouTube缩略图/短视频、Reddit搜索等平台文化变化。"
     }
   ],
-  "data_overview": {
-    "total_hotspots": 28,
-    "main_board_count": 10,
-    "extended_board_count": 18,
-    "official_or_newsroom_ish": 6,
-    "public_life_or_platform_native": 9,
-    "platform_native_public_life": 9,
-    "foreign_platform_native": 5,
-    "domestic_source_dominant": 20,
-    "mixed_source": 1,
-    "overseas_source_dominant": 7,
-    "category_distribution": {
-      "强冲突/争议热点": 9,
-      "平台流量热点": 3,
-      "用户搜索热点": 3,
-      "行业变化热点": 10,
-      "真实生活问题热点": 3
-    },
-    "status_distribution": {
-      "breaking": 5,
-      "rising": 19,
-      "emerging": 4
-    },
-    "heat_verified_items": 28,
-    "fact_verified_items": 28
-  },
-  "platform_algorithm_signals": {
-    "domestic": {
-      "微博": [
-        "公共安全事故、假期安排、直播消费羞辱、性侵司法旧案回流是今天的高反应类型。",
-        "微博更像“公共愤怒和生活情绪放大器”，事实核验必须外接央视/澎湃/官方源。"
-      ],
-      "抖音": [
-        "高光体育、健康个案、AI 应用付费、军事地缘短视频进入热榜。",
-        "标题更短、更情绪化，适合作热度发现，不适合作单独事实来源。"
-      ],
-      "百度/头条": [
-        "百度偏搜索需求和全国性新闻，头条偏公共事件、健康个案和地缘冲突。",
-        "百度热搜加媒体报道不能自动算平台原生，需要微博/抖音/Reddit等交叉。"
-      ],
-      "网易/贴吧": [
-        "网易承接地方公共服务、文旅和教育治理议题；贴吧对政策/科技商业化有补充热度。"
-      ]
-    },
-    "overseas": {
-      "Reddit": [
-        "俄乌停火、霍尔木兹真假消息、Met Gala/K-pop、Sora 社区迁移提供了可见平台原生讨论。"
-      ],
-      "Google Trends": [
-        "US 日趋势以体育娱乐人物为主，traffic 多在500+至2000+，未强行进入主榜。"
-      ],
-      "TikTok/YouTube": [
-        "儿童内容、AI slop、童年商业化仍是平台治理上升议题，但今天更偏持续趋势而非单日爆点。"
-      ]
-    }
-  },
-  "source_inventory": {
-    "foreign_primary_sources": [
-      {
-        "source": "AP News",
-        "type": "wire/fact",
-        "url": "https://apnews.com/"
-      },
-      {
-        "source": "Reddit",
-        "type": "platform heat",
-        "url": "https://www.reddit.com/"
-      },
-      {
-        "source": "Frontier Watch / Google Trends feed",
-        "type": "search trend",
-        "url": "https://frontier.watch/trends.agent"
-      },
-      {
-        "source": "The Guardian",
-        "type": "media/investigation",
-        "url": "https://www.theguardian.com/"
-      },
-      {
-        "source": "Sky News",
-        "type": "media/live",
-        "url": "https://news.sky.com/"
-      },
-      {
-        "source": "Ars Technica",
-        "type": "technology media",
-        "url": "https://arstechnica.com/"
-      }
-    ],
-    "domestic_primary_sources": [
-      {
-        "source": "考拉全网热榜",
-        "type": "third-party hotlist / cross-platform heat",
-        "url": "https://ai.kaolamedia.com/hot"
-      },
-      {
-        "source": "央视网/央视新闻",
-        "type": "media/fact",
-        "url": "https://news.cctv.cn/"
-      },
-      {
-        "source": "中国政府网",
-        "type": "official",
-        "url": "https://www.gov.cn/"
-      },
-      {
-        "source": "商务部",
-        "type": "official",
-        "url": "https://www.mofcom.gov.cn/"
-      },
-      {
-        "source": "澎湃新闻",
-        "type": "media/fact",
-        "url": "https://www.thepaper.cn/"
-      },
-      {
-        "source": "极目新闻",
-        "type": "media/fact",
-        "url": "https://www.ctdsb.net/"
-      },
-      {
-        "source": "每经网",
-        "type": "business media",
-        "url": "https://www.nbd.com.cn/"
-      }
-    ]
-  },
-  "quality_notes": [
-    "未读取旧报告、旧 latest，未调用 XCrawl、Claude App、Claude API、Coze。",
-    "热度证据与事实证据分离；高风险议题使用官方、央媒、AP、澎湃、极目等来源核验。",
-    "9层强制覆盖矩阵已执行，层3按3A/3B两组不同关键词完成，层6中国意识形态/官方议程已覆盖。"
+  "sources": [
+    "https://news.dahe.cn/2026/05-05/2083460.html",
+    "https://apnews.com/article/89657e6a7dd53500aa8f65d285e6fd57",
+    "https://finance.sina.com.cn/wm/2026-05-05/doc-inhwvqcm4178634.shtml",
+    "https://news.sina.com.cn/c/2026-05-05/doc-inhwvivh9722298.shtml",
+    "https://www.ithome.com/0/946/439.htm",
+    "https://finance.sina.com.cn/jjxw/2026-05-04/doc-inhwtzzy9689181.shtml",
+    "https://finance.sina.com.cn/wm/2026-05-05/doc-inhwvumi9862279.shtml",
+    "https://cj.sina.com.cn/articles/view/7857263936/v1d454554006801kba4?froms=ggmp",
+    "https://news.cctv.com/2026/05/03/ARTIV5JGAXyHsE3qFcNSRtSU260503.shtml",
+    "https://cpc.people.com.cn/n1/2026/0505/c64387-40713664.html",
+    "https://politics.people.com.cn/n1/2026/0502/c461001-40712891.html",
+    "https://finance.sina.com.cn/jjxw/2026-05-05/doc-inhwvqce9610813.shtml",
+    "https://sports.cctv.com/2026/05/05/ARTIZmiamAwvGH4TS8eBkKnA260505.shtml",
+    "https://finance.sina.com.cn/roll/2026-05-02/doc-inhwnhan9933863.shtml?froms=ggmp",
+    "https://www.wxxinews.org/npr-news/2026-05-02/ai-music-is-flooding-streaming-platforms-but-listeners-like-it-less-and-less",
+    "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+    "https://kworb.net/youtube/trending.html",
+    "https://www.thumbnailcreator.com/trends/2026/05",
+    "https://breakingdefense.com/2026/05/hegseth-orders-5000-us-troops-to-withdraw-from-germany/",
+    "https://newsroom.porsche.com/en/2026/company/porsche-bugatti-rimac-stakes-42221.html",
+    "https://www.gamespot.com/articles/gta-6-should-be-80-and-other-companies-should-raise-prices-too-bank-of-america-says/1100-6539759/",
+    "https://www.xpaihang.com/"
   ]
 }
