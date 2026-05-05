@@ -4,6 +4,8 @@ import path from "node:path";
 
 const sourceDir = process.env.DOCTOR_BRIEFING_OUTPUT_DIR || "/Users/weilinliu/user-data/outputs";
 const expectedDate = process.env.DOCTOR_BRIEFING_DATE || new Date().toISOString().slice(0, 10);
+const expectedMode = "Claude web_search 手动模式 / 未调用 XCrawl";
+const minMtimeEpoch = Number(process.env.DOCTOR_BRIEFING_MIN_MTIME_EPOCH || 0);
 
 function fail(message) {
   console.error(`Validation failed: ${message}`);
@@ -16,6 +18,7 @@ function readRequired(filePath, label) {
 }
 
 function parseJson(text, label) {
+  if (/\\n\s*$/.test(text)) fail(`${label} ends with a literal \\n escape instead of a real newline`);
   try {
     return JSON.parse(text);
   } catch (error) {
@@ -48,9 +51,19 @@ function countTotal(reportJson) {
   return main + extended;
 }
 
+function assertFresh(filePath, label) {
+  if (!minMtimeEpoch) return;
+  const mtimeEpoch = fs.statSync(filePath).mtimeMs / 1000;
+  if (mtimeEpoch + 1 < minMtimeEpoch) {
+    fail(`${label} was not regenerated in this run: ${filePath}`);
+  }
+}
+
 const latestMdPath = path.join(sourceDir, "latest.md");
 const latestJsonPath = path.join(sourceDir, "latest.json");
 const markdown = readRequired(latestMdPath, "latest.md");
+if (markdown.includes("\\n")) fail("latest.md contains literal \\n escapes; expected real Markdown line breaks");
+if (markdown.split(/\r?\n/).length < 80) fail("latest.md is unexpectedly short; likely escaped or incomplete Markdown");
 const reportJson = parseJson(readRequired(latestJsonPath, "latest.json"), "latest.json");
 const date = reportDate(reportJson, markdown);
 const evidencePath = path.join(sourceDir, `websearch-evidence-${date}.json`);
@@ -60,11 +73,24 @@ const evidenceText = fs.existsSync(evidencePath)
   : readRequired(fallbackEvidencePath, "fallback websearch evidence");
 const evidenceJson = parseJson(evidenceText, "websearch evidence");
 
+assertFresh(latestMdPath, "latest.md");
+assertFresh(latestJsonPath, "latest.json");
+assertFresh(fs.existsSync(evidencePath) ? evidencePath : fallbackEvidencePath, "websearch evidence");
+
+if (reportJson.date !== expectedDate) fail(`latest.json date must be ${expectedDate}, got ${reportJson.date}`);
+if (reportJson.mode !== expectedMode) fail(`latest.json mode must be "${expectedMode}"`);
 if (!Array.isArray(reportJson.main_board)) fail("latest.json main_board must be an array");
 if (reportJson.main_board.length !== 10) fail(`main_board must contain 10 items, got ${reportJson.main_board.length}`);
+if (!Array.isArray(reportJson.extended_board)) fail("latest.json extended_board must be an array");
+if (reportJson.extended_board.length < 15 || reportJson.extended_board.length > 30) {
+  fail(`extended_board must contain 15-30 items, got ${reportJson.extended_board.length}`);
+}
 
 const total = countTotal(reportJson);
 if (total < 25 || total > 40) fail(`total hotspots must be 25-40, got ${total}`);
+if (total !== reportJson.main_board.length + reportJson.extended_board.length) {
+  fail(`total hotspots must equal main + extended, got ${total}`);
+}
 
 if (!Array.isArray(evidenceJson.items)) fail("evidence JSON must contain items array");
 if (evidenceJson.items.length < 25 || evidenceJson.items.length > 50) {

@@ -23,6 +23,11 @@ done
 
 mkdir -p "$OUTPUT_DIR"
 
+export LANG="${LANG:-en_US.UTF-8}"
+export LC_CTYPE="${LC_CTYPE:-en_US.UTF-8}"
+export PYTHONUTF8="${PYTHONUTF8:-1}"
+export PYTHONIOENCODING="${PYTHONIOENCODING:-UTF-8}"
+
 CODEX_ARGS=(
   --search
   --ask-for-approval never
@@ -71,6 +76,8 @@ fi
    - 9层强制覆盖矩阵执行状态
    - 报告末尾标注：生成方式：Claude web_search 手动模式 / 未调用 XCrawl
 7. 不要修改 GitHub Pages 站点文件；发布由后续脚本处理。
+8. 写入文件必须使用 UTF-8。若使用 Python heredoc 写文件，源码第一行必须包含 "# -*- coding: utf-8 -*-"；Markdown 必须写真实换行，不能把字面量 "\\n" 写进 latest.md；JSON 末尾不能出现字面量 "\\n"。
+9. 写完后必须本地自检：latest.json 和 websearch-evidence-$DATE_VALUE.json 可被 JSON.parse 解析；latest.md 行数应明显大于 80；主榜 10 条，总热点 25-40 条。
 
 现在开始，一口气跑完。
 PROMPT
