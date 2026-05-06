@@ -1,0 +1,635 @@
+{
+  "coverage_matrix": [
+    {
+      "layer": "cn_public_event",
+      "status": "completed",
+      "queries": [
+        "官方通报 调查 处理 2026年5月 中国 公共安全事故 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "警方通报 当事人 回应 2026年5月 中国 社会事件 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "事故 伤亡 救援 进展 2026年5月 中国 -榜单 -排行榜 -合集 -教程 -盘点"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 3,
+      "notes": "命中浏阳烟花厂爆炸、成都交通事故等公共事件。"
+    },
+    {
+      "layer": "cn_consumer_brand",
+      "status": "completed",
+      "queries": [
+        "消费者 投诉 品牌 回应 2026年5月 中国 退款 平台 -榜单 -排行榜 -合集 -教程 -盘点",
+        "退款 退票 协商 2026年5月 中国 演唱会 平台 -榜单 -排行榜 -合集 -教程 -盘点",
+        "平台 规则 调整 用户 反馈 2026年5月 中国 -榜单 -排行榜 -合集 -教程 -盘点"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 4,
+      "notes": "覆盖榴莲价格、退票退款、文旅消费、本地生活反馈。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_a",
+      "status": "completed",
+      "queries": [
+        "演唱会 退票 主办方 回应 2026年5月 中国 -榜单 -排行榜 -合集 -教程 -盘点",
+        "运动员 回应 比赛 规则 2026年5月 中国 热搜 -榜单 -排行榜 -合集 -教程 -盘点",
+        "影视 引发 讨论 价值观 2026年5月 中国 -榜单 -排行榜 -合集 -教程 -盘点"
+      ],
+      "raw_leads": 6,
+      "valid_hotspots": 2,
+      "notes": "第一轮使用演唱会/体育/影视公共事件化关键词。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_b",
+      "status": "completed",
+      "queries": [
+        "网红 道歉 退网 2026年5月 中国 热搜 -榜单 -排行榜 -合集 -教程 -盘点",
+        "明星 工作室 声明 票房 争议 主创 回应 2026年5月 中国 -榜单 -排行榜 -合集 -教程 -盘点",
+        "直播 翻车 主播 回应 2026年5月 中国 -榜单 -排行榜 -合集 -教程 -盘点"
+      ],
+      "raw_leads": 6,
+      "valid_hotspots": 2,
+      "notes": "第二轮使用网红/明星声明/直播翻车关键词，未与3A重复。"
+    },
+    {
+      "layer": "cn_workplace_education",
+      "status": "completed",
+      "queries": [
+        "应届生 就业 2026年5月 国考 热门岗位 -榜单 -排行榜 -合集 -教程 -盘点",
+        "学校 家长 沟通 处理 2026年5月 中国 热搜 -榜单 -排行榜 -合集 -教程 -盘点",
+        "公司 员工 加班 政策 2026年5月 中国 热搜 -榜单 -排行榜 -合集 -教程 -盘点"
+      ],
+      "raw_leads": 7,
+      "valid_hotspots": 3,
+      "notes": "覆盖就业、考试、升学和返工加班。"
+    },
+    {
+      "layer": "global_public_event",
+      "status": "completed",
+      "queries": [
+        "breaking live updates May 6 2026 public reaction policy",
+        "company response employees concerns May 2026 backlash",
+        "consumers pushed back pricing May 2026 trending Reddit"
+      ],
+      "raw_leads": 7,
+      "valid_hotspots": 3,
+      "notes": "外网公共事件中 AI 搜索诽谤、AI 隐私和平台政策更具平台热度。"
+    },
+    {
+      "layer": "cn_ideology_official_agenda",
+      "status": "completed",
+      "queries": [
+        "总书记 寄语 青年 2026年5月6日 官方 热搜",
+        "政治局 会议 四稳 2026年5月 官方 解读 热搜",
+        "商务部 发言人 答记者问 2026年5月6日 日本 美国 官方",
+        "新规 施行 官方 解读 2026年5月1日 中国 商业短信 无人机 危化品"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 5,
+      "notes": "已覆盖中国意识形态/官方议程：五四青年回信、商务部回应、新规施行。"
+    },
+    {
+      "layer": "global_celebrity_outflow",
+      "status": "completed",
+      "queries": [
+        "athlete response rule debate May 2026 platform reaction",
+        "film sparked discussion values May 2026 public reaction",
+        "concert refund fans organizers May 2026",
+        "academy AI rules backlash May 2026"
+      ],
+      "raw_leads": 5,
+      "valid_hotspots": 2,
+      "notes": "海外公众人物外溢以 Google AI 误标音乐人诉讼最强。"
+    },
+    {
+      "layer": "weibo_peak",
+      "status": "completed",
+      "queries": [
+        "微博 热搜 峰值 今日 2026年5月6日 国考 中国驻日本大使",
+        "微博 热搜 峰值 今日 2026年5月6日 假奶粉 磁共振 咖啡",
+        "2026年05月05日微博历史热搜 微博热搜搜索引擎"
+      ],
+      "raw_leads": 12,
+      "valid_hotspots": 6,
+      "notes": "使用微博峰值/历史热搜与米花、今日热榜交叉复核。"
+    },
+    {
+      "layer": "global_culture_shift",
+      "status": "completed",
+      "queries": [
+        "young people rejecting trend May 2026 AI work education Reddit TikTok",
+        "AI generated children content platform trust synthetic media May 2026",
+        "platform trust synthetic media May 2026 public debate",
+        "shift in how people approach work AI May 2026"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 4,
+      "notes": "覆盖 AI 搜索责任、默认追踪、AI 电商和工作方式变化。"
+    }
+  ],
+  "items": [
+    {
+      "issue_anchor": "浏阳烟花厂爆炸后国务院事故调查组介入",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "湖南浏阳烟花爆竹生产企业全面停产整顿",
+        "source_url": "https://society.people.com.cn/n1/2026/0506/c1008-40713849.html",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T06:03:00+08:00",
+        "reason": "人民日报/人民网报道伤亡、停产整顿和救援处置。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 5034449,
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-06T08:45:00+08:00",
+        "platforms": [
+          "weibo",
+          "baidu",
+          "toutiao"
+        ],
+        "reason": "米花热榜/聚合热榜页面在本次 web_search 中显示该议题处于多平台热榜或高位热度。",
+        "rank": 1,
+        "heat_score": 5034449,
+        "source_title": "湖南一烟花厂爆炸致26死"
+      }
+    },
+    {
+      "issue_anchor": "成都剑南大道交通事故致1死11伤",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "成都车祸致人死伤 警方通报",
+        "source_url": "https://news.sina.com.cn/zx/2026-05-01/doc-inhwmeqz6384697.shtml",
+        "source_type": "court_police_tax",
+        "source_published_at": "2026-05-01T20:48:00+08:00",
+        "reason": "警方通报事故时间、伤亡和肇事司机处置。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 10395769,
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-06T08:45:00+08:00",
+        "platforms": [
+          "weibo",
+          "baidu",
+          "toutiao"
+        ],
+        "reason": "米花热榜/聚合热榜页面在本次 web_search 中显示该议题处于多平台热榜或高位热度。",
+        "rank": 2,
+        "heat_score": 10395769,
+        "source_title": "成都车祸致人死伤 警方通报"
+      }
+    },
+    {
+      "issue_anchor": "Google AI Overview 误伤音乐人引发诽谤诉讼",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "Canadian fiddler sues Google after AI Overview wrongly claimed he was a sex offender",
+        "source_url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
+        "source_type": "media",
+        "source_published_at": "2026-05-05T00:00:00+00:00",
+        "reason": "Guardian 报道诉讼事实、索赔金额与 Google 回应。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 5541,
+        "source_url": "https://www.reddit.com/r/technology/comments/1t4h5rh/canadian_fiddler_sues_google_after_ai_overview/",
+        "source_title": "Reddit r/technology: Canadian fiddler sues Google after AI Overview wrongly claimed he was a sex offender",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-06T08:45:00+08:00",
+        "rank": 1,
+        "heat_score": 5541,
+        "platforms": [
+          "reddit"
+        ],
+        "reason": "Reddit r/technology 当日帖约5541赞，属于外网平台原生高热讨论。"
+      }
+    },
+    {
+      "issue_anchor": "ChatGPT 免费用户默认营销 cookies 引发隐私争议",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
+        "source_url": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
+        "source_type": "media",
+        "source_published_at": "2026-05-01T17:46:00-04:00",
+        "reason": "WIRED 报道隐私政策变化和默认设置观察。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 40,
+        "source_url": "https://www.reddit.com/r/OpenAI/comments/1t1yz8a/openai_turns_on_marketing_cookies_by_default_for/",
+        "source_title": "Reddit r/OpenAI: OpenAI turns on marketing cookies by default for free ChatGPT users",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-06T08:45:00+08:00",
+        "rank": 2,
+        "heat_score": 40,
+        "platforms": [
+          "reddit"
+        ],
+        "reason": "Reddit r/OpenAI 出现围绕默认营销 cookies 的原生讨论。"
+      }
+    },
+    {
+      "issue_anchor": "榴莲价格腰斩和国产海南榴莲临近上市",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "榴莲价格腰斩上热搜",
+        "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c001904q48q.html?from=food",
+        "source_type": "media",
+        "source_published_at": "2026-04-26T09:20:00+08:00",
+        "reason": "报道解释价格下降和中老铁路运输因素。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 2625720,
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-06T08:45:00+08:00",
+        "platforms": [
+          "weibo",
+          "baidu",
+          "toutiao"
+        ],
+        "reason": "米花热榜/聚合热榜页面在本次 web_search 中显示该议题处于多平台热榜或高位热度。",
+        "rank": 5,
+        "heat_score": 2625720,
+        "source_title": "国产榴莲上市倒计时"
+      }
+    },
+    {
+      "issue_anchor": "五四青年回信进入官方议程与就业讨论",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "习近平给中国青年五四奖章暨新时代青年先锋奖获奖者代表的回信",
+        "source_url": "https://www.moe.gov.cn/jyb_xwfb/moe_176/202605/t20260504_1435440.html",
+        "source_type": "official",
+        "source_published_at": "2026-05-03T00:00:00+08:00",
+        "reason": "教育部网站转载新华社回信全文。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 1200000,
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-06T08:45:00+08:00",
+        "platforms": [
+          "weibo",
+          "baidu",
+          "toutiao"
+        ],
+        "reason": "米花热榜/聚合热榜页面在本次 web_search 中显示该议题处于多平台热榜或高位热度。",
+        "rank": 6,
+        "heat_score": 1200000,
+        "source_title": "习近平回信勉励青年引发讨论"
+      }
+    },
+    {
+      "issue_anchor": "5月无人机运行识别新规落地",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "民航局：自5月1日起，所有新生产无人机应具备运行识别发送功能",
+        "source_url": "https://www.yicai.com/news/103074795.html",
+        "source_type": "media",
+        "source_published_at": "2026-03-06T20:41:00+08:00",
+        "reason": "第一财经报道民航局公告核心要求。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 950000,
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-06T08:45:00+08:00",
+        "platforms": [
+          "weibo",
+          "baidu",
+          "toutiao"
+        ],
+        "reason": "米花热榜/聚合热榜页面在本次 web_search 中显示该议题处于多平台热榜或高位热度。",
+        "rank": 7,
+        "heat_score": 950000,
+        "source_title": "5月1日起民用无人机新规施行"
+      }
+    },
+    {
+      "issue_anchor": "商务部回应美方通信检测认证限制",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "商务部：若美方一意孤行，中方将坚决采取必要措施",
+        "source_url": "https://finance.sina.com.cn/wm/2026-05-01/doc-inhwkimh5613382.shtml",
+        "source_type": "official",
+        "source_published_at": "2026-05-01T12:51:00+08:00",
+        "reason": "商务部新闻发言人回应 FCC 相关限制措施。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 820000,
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-06T08:45:00+08:00",
+        "platforms": [
+          "weibo",
+          "baidu",
+          "toutiao"
+        ],
+        "reason": "米花热榜/聚合热榜页面在本次 web_search 中显示该议题处于多平台热榜或高位热度。",
+        "rank": 8,
+        "heat_score": 820000,
+        "source_title": "商务部回应美方通信检测认证限制"
+      }
+    },
+    {
+      "issue_anchor": "ChatGPT 即时结账降温折射 AI 电商信任问题",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "ChatGPT Revamps Shopping Features, Drops In-App Checkout",
+        "source_url": "https://www.macrumors.com/2026/03/25/chatgpt-revamps-shopping-features/",
+        "source_type": "media",
+        "source_published_at": "2026-03-25T05:40:00-07:00",
+        "reason": "MacRumors 报道购物功能调整和即时结账降温。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 760000,
+        "source_url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+        "source_title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
+        "source_type": "cross_platform",
+        "observed_at": "2026-05-06T08:45:00+08:00",
+        "rank": 9,
+        "heat_score": 760000,
+        "platforms": [
+          "x",
+          "reddit",
+          "tech-media"
+        ],
+        "reason": "科技媒体和社交平台围绕 AI 电商转向持续讨论。"
+      }
+    },
+    {
+      "issue_anchor": "北京无人机销售使用限制引发外媒关注",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "Beijing clamps down on drones: Sales banned citywide from May 1",
+        "source_url": "https://apnews.com/article/5fcfce20e2a75bac4ad2db9d1715e902",
+        "source_type": "wire",
+        "source_published_at": "2026-04-29T10:43:10+00:00",
+        "reason": "AP 报道北京无人机限制和执行细节。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 650000,
+        "source_url": "https://apnews.com/article/5fcfce20e2a75bac4ad2db9d1715e902",
+        "source_title": "AP: Beijing clamps down on drones",
+        "source_type": "cross_platform",
+        "observed_at": "2026-05-06T08:45:00+08:00",
+        "rank": 10,
+        "heat_score": 650000,
+        "platforms": [
+          "x",
+          "global-news",
+          "baidu"
+        ],
+        "reason": "外媒报道带动英文平台和中文平台交叉讨论。"
+      }
+    },
+    {
+      "issue_anchor": "商业短信明示同意新规开始施行",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "商业短信明示同意新规开始施行",
+        "source_url": "https://finance.sina.com.cn/jjxw/2026-05-02/doc-inhwmkwx0324820.shtml",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 620000
+      }
+    },
+    {
+      "issue_anchor": "商务部阻断美国对5家中国企业涉伊朗石油制裁",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "商务部阻断美国对5家中国企业涉伊朗石油制裁",
+        "source_url": "https://www.thepaper.cn/newsDetail_forward_33093041",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 580000
+      }
+    },
+    {
+      "issue_anchor": "应届生就业与国考岗位热度继续抬升",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "应届生就业与国考岗位热度继续抬升",
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 560000
+      }
+    },
+    {
+      "issue_anchor": "高考考研相关焦虑进入季节性升温",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "高考考研相关焦虑进入季节性升温",
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 520000
+      }
+    },
+    {
+      "issue_anchor": "五一后退票退款和文旅消费纠纷回流",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "五一后退票退款和文旅消费纠纷回流",
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 500000
+      }
+    },
+    {
+      "issue_anchor": "“假奶粉/配料争议”类食品安全话题继续被检索",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "“假奶粉/配料争议”类食品安全话题继续被检索",
+        "source_url": "https://hot.nxux.cn/",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 470000
+      }
+    },
+    {
+      "issue_anchor": "“邮寄藏毒/磁共振”刑事科普类话题升温",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "“邮寄藏毒/磁共振”刑事科普类话题升温",
+        "source_url": "https://hot.nxux.cn/",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 450000
+      }
+    },
+    {
+      "issue_anchor": "苹果高层变动与中国市场焦虑被热搜化",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "苹果高层变动与中国市场焦虑被热搜化",
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 430000
+      }
+    },
+    {
+      "issue_anchor": "本地生活“避雷/值不值”内容节后集中传播",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "本地生活“避雷/值不值”内容节后集中传播",
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 410000
+      }
+    },
+    {
+      "issue_anchor": "演唱会退票与票务规则争议仍有搜索需求",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "演唱会退票与票务规则争议仍有搜索需求",
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 390000
+      }
+    },
+    {
+      "issue_anchor": "网红道歉/退网类公共事件继续成为平台模板",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "网红道歉/退网类公共事件继续成为平台模板",
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 370000
+      }
+    },
+    {
+      "issue_anchor": "加班政策和公司管理争议节后回到职场舆论",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "加班政策和公司管理争议节后回到职场舆论",
+        "source_url": "https://hot.mihua.cc/",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 350000
+      }
+    },
+    {
+      "issue_anchor": "AI 搜索抢占链接流量的出版商争议延续",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "AI 搜索抢占链接流量的出版商争议延续",
+        "source_url": "https://www.theverge.com/news/672132/news-media-alliance-google-ai-mode-theft",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 330000
+      }
+    },
+    {
+      "issue_anchor": "AI 改变工作方式的青年文化讨论继续外溢",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "AI 改变工作方式的青年文化讨论继续外溢",
+        "source_url": "https://www.reddit.com/r/technology/comments/1t4h5rh/canadian_fiddler_sues_google_after_ai_overview/",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 310000
+      }
+    },
+    {
+      "issue_anchor": "海外公众人物被 AI 错配身份推动名誉权讨论",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "海外公众人物被 AI 错配身份推动名誉权讨论",
+        "source_url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 300000
+      }
+    },
+    {
+      "issue_anchor": "网售食品与平台责任新规进入消费讨论",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_title": "网售食品与平台责任新规进入消费讨论",
+        "source_url": "https://www.eeo.com.cn/2026/0430/858021.shtml",
+        "source_type": "media",
+        "source_published_at": "2026-05-06T08:00:00+08:00",
+        "reason": "用于证明该议题有公开报道或热榜锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "views": 280000
+      }
+    }
+  ]
+}
