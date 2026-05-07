@@ -32,6 +32,17 @@ trap cleanup EXIT INT TERM
 
 cd "$REPO_ROOT"
 
+PENDING_PUSH_FILE="${PENDING_PUSH_FILE:-$LOG_DIR/pending-push.env}"
+if [[ "${RETRY_PENDING_PUSH_FIRST:-1}" == "1" ]]; then
+  if [[ -f "$PENDING_PUSH_FILE" ]] || [[ "$(git rev-list --left-right --count @{u}...HEAD 2>/dev/null | awk '{print $2}')" != "0" ]]; then
+    echo "Pending push detected; retrying before generating a new report."
+    if ! PENDING_PUSH_FILE="$PENDING_PUSH_FILE" ./scripts/retry-pending-push.sh; then
+      echo "Pending push still failed; leaving online previous report unchanged and skipping new generation." >&2
+      exit 70
+    fi
+  fi
+fi
+
 kill_process_tree() {
   local root_pid="$1"
   local child_pid

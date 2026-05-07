@@ -34,6 +34,14 @@ The script imports files from `/Users/weilinliu/user-data/outputs`, updates the 
 
 GitHub Pages publishes from the `docs/` directory on the `main` branch.
 
+If commit succeeds but GitHub push fails because of network or DNS trouble, the script records a pending push at `logs/pending-push.env` and exits non-zero. Do not regenerate the report just to fix that; retry the exact local commit:
+
+```bash
+./scripts/retry-pending-push.sh
+```
+
+Daily automation also checks for a pending or ahead-of-origin commit before generating a new report. If the retry still fails, it stops and leaves the online site on the previous published issue.
+
 ## Codex Automations
 
 The unattended daily runs are handled by Codex app automations, not launchd. They run at 08:30 and 20:30 every day and use the latest local `doctor-hotspot-briefing` skill and prompt:
