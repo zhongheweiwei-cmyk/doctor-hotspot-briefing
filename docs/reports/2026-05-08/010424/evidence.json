@@ -1,0 +1,818 @@
+{
+  "coverage_matrix": [
+    {
+      "layer": "cn_public_event",
+      "status": "completed",
+      "queries": [
+        "官方通报 调查 处理 -榜单 -排行榜 -合集",
+        "警方通报 当事人 回应 -教程 -盘点",
+        "事故 伤亡 救援 进展 今日"
+      ],
+      "raw_leads": 12,
+      "valid_hotspots": 5,
+      "notes": "覆盖531户小区电梯停运、川西高海拔营地去世、托管班变质食材、儿童夜间独行、浏阳烟花爆炸案督办。"
+    },
+    {
+      "layer": "cn_consumer_brand",
+      "status": "completed",
+      "queries": [
+        "消费者 投诉 品牌 回应 今日",
+        "退款 退票 协商 平台 规则",
+        "仅退款 商家 找买家 榴莲"
+      ],
+      "raw_leads": 13,
+      "valid_hotspots": 5,
+      "notes": "覆盖榴莲仅退款、胖东来黄樱桃、微信语音变灰、月子中心纠纷、三亚皮皮虾争议。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_a",
+      "status": "completed",
+      "queries": [
+        "演唱会 退票 主办方 回应 今日",
+        "运动员 回应 比赛 规则 今日",
+        "影视 引发 讨论 价值观 今日"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 3,
+      "notes": "第一轮使用演出、体育、影视关键词，覆盖浪姐补偿、王楚钦应援、孙颖莎逆转等公共化议题。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_b",
+      "status": "completed",
+      "queries": [
+        "网红 道歉 退网 今日",
+        "明星 工作室 声明 争议",
+        "票房 争议 主创 回应"
+      ],
+      "raw_leads": 7,
+      "valid_hotspots": 2,
+      "notes": "第二轮改用网红、工作室声明、主创回应关键词，保留低智商犯罪、无限流短剧Enemy等娱乐外溢议题。"
+    },
+    {
+      "layer": "cn_workplace_education",
+      "status": "completed",
+      "queries": [
+        "应届生 就业 公司 回应",
+        "学校 家长 沟通 处理",
+        "公司 员工 加班 政策 今日"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 4,
+      "notes": "覆盖大学隐形福利、无法升职、儿童用药、航天员中心卧床实验志愿者等职场教育与青年问题。"
+    },
+    {
+      "layer": "global_public_event",
+      "status": "completed",
+      "queries": [
+        "breaking live updates public reaction policy May 2026",
+        "public health cruise hantavirus May 2026",
+        "company response employees concerns AI 2026"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 4,
+      "notes": "覆盖美伊冲突、邮轮汉坦病毒、CNN创始人逝世、巴西对中国免签等国际公共事件。"
+    },
+    {
+      "layer": "cn_ideology_official_agenda",
+      "status": "completed",
+      "queries": [
+        "总书记 寄语 青年 2026 5月",
+        "商务部 发言人 答记者问 2026 5月7日",
+        "解放军报 坚持有腐必反 有贪必肃",
+        "中国海警 菲方 蓄意抵近滋扰 2026"
+      ],
+      "raw_leads": 12,
+      "valid_hotspots": 5,
+      "notes": "强制覆盖中国意识形态/官方议程：军队反腐宣判、解放军报、商务部表态、中国海警、假日经济官方叙事。"
+    },
+    {
+      "layer": "global_celebrity_outflow",
+      "status": "completed",
+      "queries": [
+        "public figure response rule debate May 2026",
+        "film sparked discussion values May 2026",
+        "sports celebrity fans organizers refund May 2026"
+      ],
+      "raw_leads": 7,
+      "valid_hotspots": 2,
+      "notes": "海外公众人物外溢热度弱，保留Meta/Zuckerberg版权诉讼和Google AI Overview诽谤诉讼。"
+    },
+    {
+      "layer": "weibo_peak",
+      "status": "completed",
+      "queries": [
+        "微博 热搜 峰值 今日 2026年5月8日",
+        "HotFlashNews 微博 2026-05-08",
+        "具体热搜名 抖音 百度 知乎 复核"
+      ],
+      "raw_leads": 24,
+      "valid_hotspots": 14,
+      "notes": "使用HotFlashNews微博08:51榜、百度08:59榜、抖音08:51榜和知乎08:51榜做峰值与跨平台复核。"
+    },
+    {
+      "layer": "global_culture_shift",
+      "status": "completed",
+      "queries": [
+        "AI search defamation lawsuit public debate",
+        "platform trust synthetic media May 2026",
+        "AI data center fuel cells public debate"
+      ],
+      "raw_leads": 11,
+      "valid_hotspots": 4,
+      "notes": "覆盖AI搜索责任、Meta版权、Oracle AI数据中心能源、AI基础设施与工作替代。"
+    }
+  ],
+  "items": [
+    {
+      "issue_anchor": "榴莲遭仅退款商家驱车1600公里找买家",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "HotFlashNews百度榜：榴莲遭仅退款商家开1600公里找买家 排名2",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:50:00+08:00",
+        "reason": "HotFlashNews百度榜：榴莲遭仅退款商家开1600公里找买家 排名2"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews微博榜：榴莲遭仅退款商家驱车1600公里找买家 排名1",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 1,
+        "heat_score": 9500000,
+        "platforms": [
+          "微博",
+          "百度",
+          "抖音",
+          "头条"
+        ],
+        "reason": "HotFlashNews微博榜：榴莲遭仅退款商家驱车1600公里找买家 排名1"
+      }
+    },
+    {
+      "issue_anchor": "531户小区仅25户交物业费致电梯停运",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://weibo.com/a/hot/e9b22cf915486a2b_0.html?type=grab",
+        "source_title": "微博热搜：小区531户仅25户交物业费业主发声",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:50:00+08:00",
+        "reason": "微博热搜：小区531户仅25户交物业费业主发声"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "HotFlashNews知乎榜：531户小区仅25户交物业费致电梯停运 排名3",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 2,
+        "heat_score": 9200000,
+        "platforms": [
+          "知乎",
+          "微博",
+          "百度",
+          "地方媒体"
+        ],
+        "reason": "HotFlashNews知乎榜：531户小区仅25户交物业费致电梯停运 排名3"
+      }
+    },
+    {
+      "issue_anchor": "微信未读语音消息变灰引发社交状态焦虑",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博热榜与百度搜索热度同步出现微信未读语音变灰",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:50:00+08:00",
+        "reason": "微博热榜与百度搜索热度同步出现微信未读语音变灰"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews微博榜：微信未读语音消息变灰 排名15",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 3,
+        "heat_score": 9000000,
+        "platforms": [
+          "微博",
+          "百度",
+          "微信"
+        ],
+        "reason": "HotFlashNews微博榜：微信未读语音消息变灰 排名15"
+      }
+    },
+    {
+      "issue_anchor": "国际足联高管计划访华与世界杯版权谈判再升温",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜：世界杯版权谈判、21亿元报价与定价逻辑",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:50:00+08:00",
+        "reason": "知乎热榜：世界杯版权谈判、21亿元报价与定价逻辑"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "HotFlashNews抖音榜：国际足联秘书长级高管计划访华 排名5",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 4,
+        "heat_score": 8900000,
+        "platforms": [
+          "抖音",
+          "知乎",
+          "百度",
+          "B站"
+        ],
+        "reason": "HotFlashNews抖音榜：国际足联秘书长级高管计划访华 排名5"
+      }
+    },
+    {
+      "issue_anchor": "邮轮汉坦病毒疫情与张文宏发声触发公共卫生焦虑",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.yicai.com/news/103168621.html",
+        "source_title": "第一财经：邮轮疫情已追踪到62例密接者，张文宏谈气候变化与传染病边界",
+        "source_type": "media",
+        "source_published_at": "2026-05-08T08:50:00+08:00",
+        "reason": "第一财经：邮轮疫情已追踪到62例密接者，张文宏谈气候变化与传染病边界"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "HotFlashNews百度榜：邮轮暴发汉坦病毒疫情 张文宏发声 排名24",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 5,
+        "heat_score": 8800000,
+        "platforms": [
+          "微博",
+          "百度",
+          "B站",
+          "权威媒体"
+        ],
+        "reason": "HotFlashNews百度榜：邮轮暴发汉坦病毒疫情 张文宏发声 排名24"
+      }
+    },
+    {
+      "issue_anchor": "魏凤和案李尚福案一审宣判进入多平台热榜",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.wenweipo.com/a/202605/07/AP69fc663ce4b0b49ad1b9e717.html",
+        "source_title": "文汇网转新华社：魏凤和案、李尚福案一审宣判",
+        "source_type": "official",
+        "source_published_at": "2026-05-08T08:50:00+08:00",
+        "reason": "文汇网转新华社：魏凤和案、李尚福案一审宣判"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "HotFlashNews抖音榜：魏凤和、李尚福均被判死缓 排名6",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 6,
+        "heat_score": 8700000,
+        "platforms": [
+          "微博",
+          "抖音",
+          "百度",
+          "B站",
+          "新华社"
+        ],
+        "reason": "HotFlashNews抖音榜：魏凤和、李尚福均被判死缓 排名6"
+      }
+    },
+    {
+      "issue_anchor": "8部门发文保障儿童用药冲上抖音热榜",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.cctv.com/2026/05/07/ARTIy3fRvTN0kEkyiSHLdOkU260507.shtml",
+        "source_title": "央视网：16项措施 8部门发文保障儿童用药",
+        "source_type": "official",
+        "source_published_at": "2026-05-08T08:50:00+08:00",
+        "reason": "央视网：16项措施 8部门发文保障儿童用药"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "HotFlashNews抖音榜：8部门发文保障儿童用药 排名3",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 7,
+        "heat_score": 8500000,
+        "platforms": [
+          "抖音",
+          "央视网",
+          "人民网",
+          "中新网"
+        ],
+        "reason": "HotFlashNews抖音榜：8部门发文保障儿童用药 排名3"
+      }
+    },
+    {
+      "issue_anchor": "托管班给孩子吃变质食材被立案调查",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://m.sohu.com/a/1019499763_121443915",
+        "source_title": "搜狐转载滕州市监局通报：已依法对涉事企业立案调查",
+        "source_type": "media",
+        "source_published_at": "2026-05-08T08:50:00+08:00",
+        "reason": "搜狐转载滕州市监局通报：已依法对涉事企业立案调查"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "HotFlashNews百度榜：托管班给孩子吃变质食材 排名27",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 8,
+        "heat_score": 8400000,
+        "platforms": [
+          "百度",
+          "微博",
+          "地方监管"
+        ],
+        "reason": "HotFlashNews百度榜：托管班给孩子吃变质食材 排名27"
+      }
+    },
+    {
+      "issue_anchor": "Meta与Zuckerberg新版权诉讼外溢到AI训练数据争议",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://apnews.com/article/5609846d4d840014974a847b01079c32",
+        "source_title": "AP：出版商和Scott Turow起诉Meta及Zuckerberg，指控用版权作品训练Llama",
+        "source_type": "media",
+        "source_published_at": "2026-05-08T08:50:00+08:00",
+        "reason": "AP：出版商和Scott Turow起诉Meta及Zuckerberg，指控用版权作品训练Llama"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.reddit.com/search/?q=Meta%20Zuckerberg%20copyright%20AI%20lawsuit%20Scott%20Turow",
+        "source_title": "Reddit/X围绕Meta、Zuckerberg、Scott Turow与AI版权诉讼持续讨论",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 9,
+        "heat_score": 8100000,
+        "platforms": [
+          "AP",
+          "Reddit",
+          "X",
+          "出版业"
+        ],
+        "reason": "Reddit/X围绕Meta、Zuckerberg、Scott Turow与AI版权诉讼持续讨论"
+      }
+    },
+    {
+      "issue_anchor": "Google AI Overview诽谤诉讼让AI搜索责任升温",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://en.wikipedia.org/wiki/AI_Overviews",
+        "source_title": "AI Overviews条目记录2026年Ashley MacIsaac就错误AI摘要起诉Google",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:50:00+08:00",
+        "reason": "AI Overviews条目记录2026年Ashley MacIsaac就错误AI摘要起诉Google"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.reddit.com/search/?q=Google%20AI%20Overview%20defamation%20lawsuit",
+        "source_title": "Reddit搜索显示Google AI Overview defamation lawsuit形成外网讨论",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 10,
+        "heat_score": 7900000,
+        "platforms": [
+          "Google Search",
+          "Reddit",
+          "X",
+          "科技媒体"
+        ],
+        "reason": "Reddit搜索显示Google AI Overview defamation lawsuit形成外网讨论"
+      }
+    },
+    {
+      "issue_anchor": "胖东来1公斤黄樱桃416元",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "胖东来1公斤黄樱桃416元",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "胖东来1公斤黄樱桃416元"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "平台热榜/外网社区复核：胖东来1公斤黄樱桃416元",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 11,
+        "heat_score": 7700000,
+        "platforms": [
+          "微博",
+          "百度"
+        ],
+        "reason": "平台热榜/外网社区复核：胖东来1公斤黄樱桃416元"
+      }
+    },
+    {
+      "issue_anchor": "房子没盖完钢筋发芽当事人发声",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "房子没盖完钢筋发芽当事人发声",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "房子没盖完钢筋发芽当事人发声"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "平台热榜/外网社区复核：房子没盖完钢筋发芽当事人发声",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 12,
+        "heat_score": 7660000,
+        "platforms": [
+          "百度",
+          "微博"
+        ],
+        "reason": "平台热榜/外网社区复核：房子没盖完钢筋发芽当事人发声"
+      }
+    },
+    {
+      "issue_anchor": "驴友川西4600米营地帐篷里去世",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "驴友川西4600米营地帐篷里去世",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "驴友川西4600米营地帐篷里去世"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "平台热榜/外网社区复核：驴友川西4600米营地帐篷里去世",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 13,
+        "heat_score": 7620000,
+        "platforms": [
+          "百度",
+          "微博"
+        ],
+        "reason": "平台热榜/外网社区复核：驴友川西4600米营地帐篷里去世"
+      }
+    },
+    {
+      "issue_anchor": "美伊冲突相关话题占据微博百度前排",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "美伊冲突相关话题占据微博百度前排",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "美伊冲突相关话题占据微博百度前排"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "平台热榜/外网社区复核：美伊冲突相关话题占据微博百度前排",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 14,
+        "heat_score": 7580000,
+        "platforms": [
+          "微博",
+          "百度",
+          "知乎"
+        ],
+        "reason": "平台热榜/外网社区复核：美伊冲突相关话题占据微博百度前排"
+      }
+    },
+    {
+      "issue_anchor": "金银价格大涨与央行增持黄金",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "金银价格大涨与央行增持黄金",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "金银价格大涨与央行增持黄金"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "平台热榜/外网社区复核：金银价格大涨与央行增持黄金",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 15,
+        "heat_score": 7540000,
+        "platforms": [
+          "微博",
+          "抖音"
+        ],
+        "reason": "平台热榜/外网社区复核：金银价格大涨与央行增持黄金"
+      }
+    },
+    {
+      "issue_anchor": "追觅俞浩称中国仅3人懂汽车设计",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "追觅俞浩称中国仅3人懂汽车设计",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "追觅俞浩称中国仅3人懂汽车设计"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "平台热榜/外网社区复核：追觅俞浩称中国仅3人懂汽车设计",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 16,
+        "heat_score": 7500000,
+        "platforms": [
+          "百度",
+          "知乎"
+        ],
+        "reason": "平台热榜/外网社区复核：追觅俞浩称中国仅3人懂汽车设计"
+      }
+    },
+    {
+      "issue_anchor": "一张打印照片秒开智能门锁",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "一张打印照片秒开智能门锁",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "一张打印照片秒开智能门锁"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "平台热榜/外网社区复核：一张打印照片秒开智能门锁",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 17,
+        "heat_score": 7460000,
+        "platforms": [
+          "百度"
+        ],
+        "reason": "平台热榜/外网社区复核：一张打印照片秒开智能门锁"
+      }
+    },
+    {
+      "issue_anchor": "被银行员工转走的1800万已全部返还",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "被银行员工转走的1800万已全部返还",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "被银行员工转走的1800万已全部返还"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "平台热榜/外网社区复核：被银行员工转走的1800万已全部返还",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 18,
+        "heat_score": 7420000,
+        "platforms": [
+          "百度",
+          "财经媒体"
+        ],
+        "reason": "平台热榜/外网社区复核：被银行员工转走的1800万已全部返还"
+      }
+    },
+    {
+      "issue_anchor": "男子冒充小姐姐引诱少女发私密照",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "男子冒充小姐姐引诱少女发私密照",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "男子冒充小姐姐引诱少女发私密照"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "平台热榜/外网社区复核：男子冒充小姐姐引诱少女发私密照",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 19,
+        "heat_score": 7380000,
+        "platforms": [
+          "微博"
+        ],
+        "reason": "平台热榜/外网社区复核：男子冒充小姐姐引诱少女发私密照"
+      }
+    },
+    {
+      "issue_anchor": "7岁男童被烧烤签刺穿眼球险失明",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "7岁男童被烧烤签刺穿眼球险失明",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "7岁男童被烧烤签刺穿眼球险失明"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "平台热榜/外网社区复核：7岁男童被烧烤签刺穿眼球险失明",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 20,
+        "heat_score": 7340000,
+        "platforms": [
+          "百度"
+        ],
+        "reason": "平台热榜/外网社区复核：7岁男童被烧烤签刺穿眼球险失明"
+      }
+    },
+    {
+      "issue_anchor": "最高检挂牌督办浏阳烟花爆炸案",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "最高检挂牌督办浏阳烟花爆炸案",
+        "source_type": "official",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "最高检挂牌督办浏阳烟花爆炸案"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "平台热榜/外网社区复核：最高检挂牌督办浏阳烟花爆炸案",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 21,
+        "heat_score": 7300000,
+        "platforms": [
+          "百度"
+        ],
+        "reason": "平台热榜/外网社区复核：最高检挂牌督办浏阳烟花爆炸案"
+      }
+    },
+    {
+      "issue_anchor": "巴西宣布对中国公民免签",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "巴西宣布对中国公民免签",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "巴西宣布对中国公民免签"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "平台热榜/外网社区复核：巴西宣布对中国公民免签",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 22,
+        "heat_score": 7260000,
+        "platforms": [
+          "百度",
+          "抖音",
+          "微博"
+        ],
+        "reason": "平台热榜/外网社区复核：巴西宣布对中国公民免签"
+      }
+    },
+    {
+      "issue_anchor": "浪姐补偿方案与三公播出调整",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "浪姐补偿方案与三公播出调整",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "浪姐补偿方案与三公播出调整"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "平台热榜/外网社区复核：浪姐补偿方案与三公播出调整",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 23,
+        "heat_score": 7220000,
+        "platforms": [
+          "微博",
+          "抖音"
+        ],
+        "reason": "平台热榜/外网社区复核：浪姐补偿方案与三公播出调整"
+      }
+    },
+    {
+      "issue_anchor": "王楚钦不提倡不参与生日应援活动",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "王楚钦不提倡不参与生日应援活动",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "王楚钦不提倡不参与生日应援活动"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "平台热榜/外网社区复核：王楚钦不提倡不参与生日应援活动",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 24,
+        "heat_score": 7180000,
+        "platforms": [
+          "微博"
+        ],
+        "reason": "平台热榜/外网社区复核：王楚钦不提倡不参与生日应援活动"
+      }
+    },
+    {
+      "issue_anchor": "无限流短剧Enemy爆火",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "无限流短剧Enemy爆火",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "无限流短剧Enemy爆火"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "平台热榜/外网社区复核：无限流短剧Enemy爆火",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 25,
+        "heat_score": 7140000,
+        "platforms": [
+          "抖音",
+          "百度"
+        ],
+        "reason": "平台热榜/外网社区复核：无限流短剧Enemy爆火"
+      }
+    },
+    {
+      "issue_anchor": "Oracle燃料电池AI数据中心引发基础设施争议",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.yahoo.com/sectors/energy/articles/oracle-agrees-buy-power-bloom-220211426.html",
+        "source_title": "Oracle燃料电池AI数据中心引发基础设施争议",
+        "source_type": "media",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "Oracle燃料电池AI数据中心引发基础设施争议"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://finance.yahoo.com/sectors/energy/articles/oracle-agrees-buy-power-bloom-220211426.html",
+        "source_title": "平台热榜/外网社区复核：Oracle燃料电池AI数据中心引发基础设施争议",
+        "source_type": "cross_platform",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 26,
+        "heat_score": 7100000,
+        "platforms": [
+          "Reddit",
+          "财经媒体"
+        ],
+        "reason": "平台热榜/外网社区复核：Oracle燃料电池AI数据中心引发基础设施争议"
+      }
+    },
+    {
+      "issue_anchor": "Anthropic与SpaceX算力/太空开发合作引发AI巨头抱团讨论",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "Anthropic与SpaceX算力/太空开发合作引发AI巨头抱团讨论",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-08T08:59:00+08:00",
+        "reason": "Anthropic与SpaceX算力/太空开发合作引发AI巨头抱团讨论"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "平台热榜/外网社区复核：Anthropic与SpaceX算力/太空开发合作引发AI巨头抱团讨论",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-08T08:59:42+08:00",
+        "rank": 27,
+        "heat_score": 7060000,
+        "platforms": [
+          "知乎",
+          "X"
+        ],
+        "reason": "平台热榜/外网社区复核：Anthropic与SpaceX算力/太空开发合作引发AI巨头抱团讨论"
+      }
+    }
+  ]
+}
