@@ -1,9 +1,117 @@
 {
   "date": "2026-05-10",
-  "generated_at": "2026-05-10T08:36:00+08:00",
   "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
-  "total_hotspots": 30,
-  "main_board": [
+  "coverage_matrix": [
+    {
+      "layer": "cn_public_event",
+      "status": "completed",
+      "queries": [
+        "一根烟头 烧掉212万 官方 通报 2026",
+        "陌生男子 趁女生熟睡 潜入卧室 留体液 警方 通报 2026",
+        "吊篮坠落 两工人 半空 2026 官方 通报 -榜单 -盘点"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 4,
+      "notes": "公共安全、治安、事故类有热榜与权威媒体交叉。"
+    },
+    {
+      "layer": "cn_consumer_brand",
+      "status": "completed",
+      "queries": [
+        "榴莲 仅退款 卖家 维权 成功 2026 5月",
+        "三亚 海鲜 餐饮协会 回应 皮皮虾 2026 5月",
+        "8家车企 锁电 约谈 不实 中汽协 2026"
+      ],
+      "raw_leads": 12,
+      "valid_hotspots": 5,
+      "notes": "生鲜售后、旅游消费、汽车OTA、靓号服务进入候选。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_a",
+      "status": "completed",
+      "queries": [
+        "奔跑吧 回应 收视率低 2026 5月",
+        "演唱会 退票 主办方 回应 2026 5月 -榜单 -盘点",
+        "影视 引发 讨论 价值观 给阿嬷的情书 票房破亿 2026"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 3,
+      "notes": "综艺收视争议和影片口碑具备平台热度。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_b",
+      "status": "completed",
+      "queries": [
+        "网红 道歉 退网 2026 5月 -榜单 -盘点",
+        "明星 工作室 声明 2026 5月 赵丽颖 维权",
+        "票房 争议 主创 回应 2026 5月"
+      ],
+      "raw_leads": 7,
+      "valid_hotspots": 2,
+      "notes": "第二轮改用网红/工作室/票房关键词，与3A区分。"
+    },
+    {
+      "layer": "cn_workplace_education",
+      "status": "completed",
+      "queries": [
+        "应届生 就业 2026 5月 热榜",
+        "公司 员工 加班 政策 AI 替岗 2026",
+        "学校 家长 沟通 处理 二次元 毁掉孩子 2026"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 3,
+      "notes": "就业、AI替岗、家庭教育焦虑在知乎/百度热榜出现。"
+    },
+    {
+      "layer": "cn_ideology_official_agenda",
+      "status": "completed",
+      "queries": [
+        "总书记 人民情怀 老百姓的官 2026 5月10",
+        "商务部 发言人 答记者问 2026 5月 欧盟 中企",
+        "APEC 贸易部长会议 苏州 2026 官方"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 3,
+      "notes": "官方议程已覆盖，主榜只保留有平台扩散的议题，其余进扩展。"
+    },
+    {
+      "layer": "global_public_event",
+      "status": "completed",
+      "queries": [
+        "hantavirus cruise ship outbreak May 2026 WHO",
+        "Pentagon UFO files released Reddit May 2026",
+        "Denver airport Frontier plane pedestrian May 2026 AP"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 4,
+      "notes": "WHO/AP/Reddit 等外网事实与热度并用。"
+    },
+    {
+      "layer": "weibo_peak",
+      "status": "completed",
+      "queries": [
+        "微博 热搜 峰值 今日 2026年5月10日",
+        "国乒男团3比1法国 微博 热搜 2026",
+        "世界杯转播权 微博 热搜 国际足联急了 2026"
+      ],
+      "raw_leads": 12,
+      "valid_hotspots": 7,
+      "notes": "微博峰值经WQKK 08:36快照与跨平台项复核。"
+    },
+    {
+      "layer": "global_culture_shift",
+      "status": "completed",
+      "queries": [
+        "ChatGPT 我会稳稳地接住你 中文用户 2026",
+        "AI generated children content YouTube Kids 2026",
+        "platform trust synthetic media deepfake 2026 May"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 4,
+      "notes": "AI语言梗、AI儿童内容、合成媒体信任危机均有外网事实源。"
+    }
+  ],
+  "items": [
     {
       "issue_anchor": "国乒男团3比1法国，决赛对阵日本",
       "category": "公共事件与体育公共讨论",
@@ -361,9 +469,7 @@
         "创作者经济正在从“真人真实感”转向“AI参与但需证明人味”。",
         "看YouTube、TikTok、Instagram是否把合成内容降权、分区或强制披露。"
       ]
-    }
-  ],
-  "extended_board": [
+    },
     {
       "issue_anchor": "国安部提示手机芯片厂漏洞与“秒解BL锁”风险",
       "category": "官方议程与网络安全",
@@ -939,127 +1045,5 @@
       "doctor_angles": []
     }
   ],
-  "coverage_matrix": [
-    {
-      "layer": "cn_public_event",
-      "status": "completed",
-      "queries": [
-        "一根烟头 烧掉212万 官方 通报 2026",
-        "陌生男子 趁女生熟睡 潜入卧室 留体液 警方 通报 2026",
-        "吊篮坠落 两工人 半空 2026 官方 通报 -榜单 -盘点"
-      ],
-      "raw_leads": 9,
-      "valid_hotspots": 4,
-      "notes": "公共安全、治安、事故类有热榜与权威媒体交叉。"
-    },
-    {
-      "layer": "cn_consumer_brand",
-      "status": "completed",
-      "queries": [
-        "榴莲 仅退款 卖家 维权 成功 2026 5月",
-        "三亚 海鲜 餐饮协会 回应 皮皮虾 2026 5月",
-        "8家车企 锁电 约谈 不实 中汽协 2026"
-      ],
-      "raw_leads": 12,
-      "valid_hotspots": 5,
-      "notes": "生鲜售后、旅游消费、汽车OTA、靓号服务进入候选。"
-    },
-    {
-      "layer": "cn_celebrity_public_event_a",
-      "status": "completed",
-      "queries": [
-        "奔跑吧 回应 收视率低 2026 5月",
-        "演唱会 退票 主办方 回应 2026 5月 -榜单 -盘点",
-        "影视 引发 讨论 价值观 给阿嬷的情书 票房破亿 2026"
-      ],
-      "raw_leads": 8,
-      "valid_hotspots": 3,
-      "notes": "综艺收视争议和影片口碑具备平台热度。"
-    },
-    {
-      "layer": "cn_celebrity_public_event_b",
-      "status": "completed",
-      "queries": [
-        "网红 道歉 退网 2026 5月 -榜单 -盘点",
-        "明星 工作室 声明 2026 5月 赵丽颖 维权",
-        "票房 争议 主创 回应 2026 5月"
-      ],
-      "raw_leads": 7,
-      "valid_hotspots": 2,
-      "notes": "第二轮改用网红/工作室/票房关键词，与3A区分。"
-    },
-    {
-      "layer": "cn_workplace_education",
-      "status": "completed",
-      "queries": [
-        "应届生 就业 2026 5月 热榜",
-        "公司 员工 加班 政策 AI 替岗 2026",
-        "学校 家长 沟通 处理 二次元 毁掉孩子 2026"
-      ],
-      "raw_leads": 10,
-      "valid_hotspots": 3,
-      "notes": "就业、AI替岗、家庭教育焦虑在知乎/百度热榜出现。"
-    },
-    {
-      "layer": "cn_ideology_official_agenda",
-      "status": "completed",
-      "queries": [
-        "总书记 人民情怀 老百姓的官 2026 5月10",
-        "商务部 发言人 答记者问 2026 5月 欧盟 中企",
-        "APEC 贸易部长会议 苏州 2026 官方"
-      ],
-      "raw_leads": 8,
-      "valid_hotspots": 3,
-      "notes": "官方议程已覆盖，主榜只保留有平台扩散的议题，其余进扩展。"
-    },
-    {
-      "layer": "global_public_event",
-      "status": "completed",
-      "queries": [
-        "hantavirus cruise ship outbreak May 2026 WHO",
-        "Pentagon UFO files released Reddit May 2026",
-        "Denver airport Frontier plane pedestrian May 2026 AP"
-      ],
-      "raw_leads": 10,
-      "valid_hotspots": 4,
-      "notes": "WHO/AP/Reddit 等外网事实与热度并用。"
-    },
-    {
-      "layer": "weibo_peak",
-      "status": "completed",
-      "queries": [
-        "微博 热搜 峰值 今日 2026年5月10日",
-        "国乒男团3比1法国 微博 热搜 2026",
-        "世界杯转播权 微博 热搜 国际足联急了 2026"
-      ],
-      "raw_leads": 12,
-      "valid_hotspots": 7,
-      "notes": "微博峰值经WQKK 08:36快照与跨平台项复核。"
-    },
-    {
-      "layer": "global_culture_shift",
-      "status": "completed",
-      "queries": [
-        "ChatGPT 我会稳稳地接住你 中文用户 2026",
-        "AI generated children content YouTube Kids 2026",
-        "platform trust synthetic media deepfake 2026 May"
-      ],
-      "raw_leads": 9,
-      "valid_hotspots": 4,
-      "notes": "AI语言梗、AI儿童内容、合成媒体信任危机均有外网事实源。"
-    }
-  ],
-  "data_overview": {
-    "raw_leads_estimated": 85,
-    "valid_hotspots": 30,
-    "heat_verified_items": 30,
-    "main_board_count": 10,
-    "extended_board_count": 20,
-    "primary_heat_sources": [
-      "WQKK 2026-05-10 08:36 multi-platform hotlist",
-      "HotFlashNews Douyin 2026-05-10 07:26",
-      "Weibo/Baidu/Zhihu/Douyin/Kuaishou/Bilibili/Toutiao hotlist snapshots",
-      "Reddit/AP/WHO/WIRED global evidence"
-    ]
-  }
+  "source_note": "所有正式条目均记录 heat_evidence；高风险事实优先使用 WHO、AP、行业协会、央广网、新京报、每日经济新闻等事实核验源。"
 }
