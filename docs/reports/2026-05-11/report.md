@@ -1,236 +1,805 @@
-# 博士热点简报｜2026-05-11
+# 每日博士热点简报
 
-生成时间：2026-05-11 08:45（Asia/Shanghai）
+**2026年05月11日**
 
-## 今日趋势
-- 今日主轴不是单一新闻，而是“平台原生体育大流量 + 消费/品牌治理 + 公共安全事实核验 + AI内容信任危机”并行。
-- 中国平台热度明显由世乒赛中日对抗占据高位，微博、百度、头条、知乎、B站均出现国乒相关议题。
-- 消费侧的OPPO母亲节文案、仅退款街区拉黑、新能源车锁电、世界杯版权降价，都是“平台规则和信任成本”问题。
-- 公共安全/公共卫生议题仍需谨慎：浏阳事故、住院侵害指控、涉疫邮轮、京哈高速杨絮等都不能只按热搜标题传播。
-- 海外平台原生信号主要来自X/Reddit：UFC315、Mother’s Day、Qatar，以及AI合成朋友、AI播客污染等文化技术议题。
+> **今日趋势：** 今天的热度不是单一新闻驱动，而是“公共安全现场视频 + 日常支付/消费规则 + 中美外交预期 + AI作者身份”同时上行；平台更偏爱能落到普通人风险、钱包、选择和身份判断的议题。
+
+---
 
 ## 60秒速览
-1. 国乒男团3比0胜日本并实现12连冠：breaking，热度来自 weibo 榜单第 1 位附近。
-2. 国乒女团逆转日本实现世乒赛七连冠：rising，热度来自 baidu 榜单第 1 位附近。
-3. OPPO母亲节文案翻车与品牌价值观争议：rising，热度来自 zhihu 榜单第 11 位附近。
-4. 杭州一街区因仅退款被电商店铺拉黑：rising，热度来自 zhihu 榜单第 9 位附近。
-5. 世界杯中国转播费从3亿美元腰斩到1.5亿美元：rising，热度来自 toutiao 榜单第 10 位附近。
+
+### 1. 重庆黔江交通事故致2死6伤
+- 趋势状态：breaking
+- 平台构成：Reddit / 央视网 / 央广网
+- 为什么在涨：官方通报与现场视频讨论叠加，公共安全、驾驶责任和信息发布边界同时被放大。
+- 博士最值得讲的核心问题：不要只讲“女司机”标签，真正该分析的是城市路口风险、车辆操作冗余和行人保护设计。
+
+### 2. 微信转账灰度测试组合支付
+- 趋势状态：rising
+- 平台构成：百度 / IT之家 / 微信生态
+- 为什么在涨：零钱、零钱通、银行卡可组合支付，击中转账余额不足的高频生活场景。
+- 博士最值得讲的核心问题：这不是一个按钮更新，而是支付基础设施从“单资金源”向“流动性拼接”的微调。
+
+### 3. MIU MIU杭州多街道限购争议
+- 趋势状态：rising
+- 平台构成：网易新闻 / 东方财富 / 淘宝用户反馈
+- 为什么在涨：继圣罗兰后奢侈品牌被指对杭州部分街道无法下单，引发消费者公平交易和平台规则讨论。
+- 博士最值得讲的核心问题：奢侈品牌限购表面是客服问题，深层是品牌稀缺性、渠道风控和地域公平的冲突。
+
+### 4. 9所高校物化选科与不招文科生讨论
+- 趋势状态：rising
+- 平台构成：知乎 / 高考直通车
+- 为什么在涨：招生专业选科要求集中转向物理+化学，直接影响高中选科、升学预期和文理分流焦虑。
+- 博士最值得讲的核心问题：这不是“文科没用”的简单故事，而是高校专业结构、产业政策和高考选科的联动。
+
+### 5. “反向接话”亲子视频全网热播
+- 趋势状态：rising
+- 平台构成：短视频平台 / 中国新闻网
+- 为什么在涨：亲子视频用反套路对话击中打击式教育记忆，兼具情绪修复和家庭教育反思。
+- 博士最值得讲的核心问题：这类内容真正流行，是因为它替很多成年人完成了对童年语言暴力的迟到反驳。
+
+---
 
 ## 主榜 10 条
-### 1. 国乒男团3比0胜日本并实现12连冠
-- 类别：体育赛事与公共情绪；生命周期：breaking
-- 热度证据：https://hotflashnews.com/platform/weibo
-- 事实/背景证据：https://hotflashnews.com/platform/toutiao
-- 博士分析切口：
-  - 别只讲民族情绪，核心是国球体系在高压对抗中的人才厚度和临场纠错。
-  - 男团决赛把“必胜叙事”推到极端，值得分析竞技组织如何处理失败风险。
-  - 中日对抗会放大平台情绪，但真正变量是青年梯队、商业化和国际规则适应。
-  - 观察后续讨论是否从夺冠转向运动员个体饭圈化，这是体育治理的新压力。
 
-### 2. 国乒女团逆转日本实现世乒赛七连冠
-- 类别：体育赛事与公共情绪；生命周期：rising
-- 热度证据：https://hotflashnews.com/platform/baidu
-- 事实/背景证据：https://www.eeo.com.cn/2026/0510/871109.shtml
-- 博士分析切口：
-  - 女团逆转比横扫更能暴露体系韧性，也暴露公众对“不能输”的低容忍。
-  - 孙颖莎、王曼昱叙事容易被人格化消费，需回到训练体系和队内竞争结构。
-  - 中日女乒差距缩小会长期制造高流量赛事，不是一次冠军能终结的问题。
-  - 后续看日本队技术路线是否持续压迫中国女队选材和备战节奏。
+### 1. 重庆黔江交通事故致2死6伤
+强冲突/争议热点 | 热度 9.1/10 | 24小时内 | Reddit / 央视网 / 央广网
 
-### 3. OPPO母亲节文案翻车与品牌价值观争议
-- 类别：消费品牌与性别叙事；生命周期：rising
-- 热度证据：https://hotflashnews.com/platform/zhihu
-- 事实/背景证据：https://www.zjnews.com/2026/05/08/8208.html
-- 博士分析切口：
-  - 品牌翻车不是“文案失误”这么小，而是营销部门把亲密关系当流量素材。
-  - 高校/公共机构发声让企业价值观争议变成公共伦理事件。
-  - 平台算法偏好冲突性语句，逼迫品牌在更危险的边界上试探。
-  - 看OPPO是否只下架物料，还是改变审批、外包和KPI机制。
+- **趋势状态：** breaking
+- **一手来源：** 重庆黔江发生交通事故致2死6伤_央广网
+- **链接：** https://cq.cnr.cn/ygcq/20260510/t20260510_527615745.shtml
+- **热度来源：** 重庆一辆奔驰高速撞飞多人 至少2死6伤 (https://www.reddit.com/r/InsightBridge/comments/1t9vcdq/)
+- **为什么在涨：** 官方通报与现场视频讨论叠加，公共安全、驾驶责任和信息发布边界同时被放大。
+- **关键数据：** 央广网/央视网报道事故造成2人死亡、6人受伤；Reddit中文社区当日出现现场视频讨论帖。
+- **风险提示：** 伤亡、责任认定和网传身份信息以警方后续通报为准。
+- **下一步观察关键词：** 重庆黔江 警方通报 操作不当 责任认定 赔偿
+- **博士分析切口：**
+  - 不要只讲“女司机”标签，真正该分析的是城市路口风险、车辆操作冗余和行人保护设计。
+  - 公共安全事件传播常被身份猜测吞没，需要把事实层、责任层、情绪层拆开。
+  - “操作不当”如果成为默认叙事，就会弱化对道路、车辆、人群密度和应急响应的结构追问。
+  - 下一步看警方是否披露完整事故链条，而不是让平台靠碎片视频完成事实裁判。
 
-### 4. 杭州一街区因仅退款被电商店铺拉黑
-- 类别：电商平台规则；生命周期：rising
-- 热度证据：https://hotflashnews.com/platform/zhihu
-- 事实/背景证据：https://hotflashnews.com/platform/zhihu
-- 博士分析切口：
-  - “仅退款”冲突本质是平台把交易摩擦外包给商家和用户。
-  - 消费者保护不能简化为偏向买方，恶意售后会侵蚀整个低价电商模型。
-  - 街区被拉黑说明平台信用系统正在从个人惩罚扩展为地理污名。
-  - 关键是平台是否提供可申诉、可解释、可纠错的售后治理机制。
+---
 
-### 5. 世界杯中国转播费从3亿美元腰斩到1.5亿美元
-- 类别：体育商业与媒介版权；生命周期：rising
-- 热度证据：https://hotflashnews.com/platform/toutiao
-- 事实/背景证据：https://hotflashnews.com/platform/zhihu
-- 博士分析切口：
-  - 体育版权腰斩不是单一赛事降温，而是长视频平台ROI和用户付费意愿重估。
-  - 世界杯仍有稀缺性，但中国市场不再愿意为象征性资源无限溢价。
-  - 版权价格下降会反向影响解说、二创、赞助和转播技术投入。
-  - 观察是否出现短视频平台切走注意力、传统转播失去议价权。
+### 2. 微信转账灰度测试组合支付
+行业变化热点 | 热度 8.8/10 | 近24小时 | 百度 / IT之家 / 微信生态
 
-### 6. 天舟十号货运飞船发射窗口与中国空间站补给
-- 类别：官方议程与科技叙事；生命周期：breaking
-- 热度证据：https://hotflashnews.com/platform/bilibili
-- 事实/背景证据：https://www.cmse.gov.cn/xwzx/202605/t20260508_57451.html
-- 博士分析切口：
-  - 航天议题热度来自国家叙事，但分析要落到空间站常态运营能力。
-  - 货运飞船不如载人发射刺激，却更能说明工程体系的可重复性。
-  - 公众会把航天成果理解为民族自豪，产业层面应看供应链和实验载荷价值。
-  - 看发射后对接、物资上行和后续神舟任务是否按节奏闭环。
+- **趋势状态：** rising
+- **一手来源：** 微信转账灰度测试“组合支付”
+- **链接：** https://m.ithome.com/html/948441.htm
+- **热度来源：** 百度热点：微信转账能组合支付了 (https://www.kaolamedia.com/hot)
+- **为什么在涨：** 零钱、零钱通、银行卡可组合支付，击中转账余额不足的高频生活场景。
+- **关键数据：** 考拉百度热点显示“微信转账能组合支付了”排名第3，热度约771万；IT之家称功能仍在小范围灰度。
+- **风险提示：** 灰度测试不等于全量上线，不同终端和账号可见性可能不一致。
+- **下一步观察关键词：** 微信 组合支付 灰度 零钱 银行卡 全量上线
+- **博士分析切口：**
+  - 这不是一个按钮更新，而是支付基础设施从“单资金源”向“流动性拼接”的微调。
+  - 用户感知的便利，背后是支付平台对余额、银行卡、理财账户边界的重新编排。
+  - 监管视角要看资金路径透明度和误付责任，不应只停留在产品体验。
+  - 若全量开放，观察商户收款、红包转账和风控拦截是否一起变化。
 
-### 7. 伊朗回应美国提出的结束战争方案
-- 类别：国际冲突与能源风险；生命周期：rising
-- 热度证据：https://hotflashnews.com/platform/weibo
-- 事实/背景证据：https://www.theguardian.com/business/live/2026/may/06/oil-prices-retreat-global-stocks-hit-record-highs-trump-great-progress-iran-deal-live-updates
-- 博士分析切口：
-  - 伊朗方案议题对中国观众重要，因为能源价格、海运通道和大国谈判相互绑定。
-  - 平台热搜容易把复杂外交压缩成“谁让步”，实际要看停火文本和执行机制。
-  - 金融市场先交易预期，公共舆论后理解代价，这中间常有误判。
-  - 观察油价、霍尔木兹风险和美国国内政治是否改变谈判窗口。
+---
 
-### 8. 涉疫邮轮零号病人与汉坦病毒邮轮人员追踪
-- 类别：公共卫生与跨境流动；生命周期：rising
-- 热度证据：https://hotflashnews.com/platform/bilibili
-- 事实/背景证据：https://hotflashnews.com/platform/baidu
-- 博士分析切口：
-  - 邮轮公共卫生议题的核心不是恐慌，而是跨境追踪和信息透明的制度成本。
-  - “零号病人”叙事会吸引流量，但容易掩盖隔离、检测、港口接收责任。
-  - 平台传播把疾病风险娱乐化，反而可能削弱准确防护行为。
-  - 后续看WHO/港口国是否给出统一追踪口径和乘客安置安排。
+### 3. MIU MIU杭州多街道限购争议
+强冲突/争议热点 | 热度 8.5/10 | 当日 | 网易新闻 / 东方财富 / 淘宝用户反馈
 
-### 9. Reddit热帖讨论AI合成朋友与儿童平台信任
-- 类别：AI信任与儿童安全；生命周期：emerging
-- 热度证据：https://www.reddit.com/r/Futurology/comments/1t8xdmd/the_first_generation_of_kids_who_cannot_tell/
-- 事实/背景证据：https://www.weforum.org/stories/2026/04/ai-voice-deepfakes-child-safety/
-- 博士分析切口：
-  - AI合成朋友讨论不是科幻，而是未成年人信任边界被平台产品重写。
-  - 技术检测只是底层工具，真正难题是儿童社交、陪伴和商业激励的冲突。
-  - 家长监管常被简化为屏幕时间，但问题已进入身份真实性和情感操控。
-  - 观察平台是否把实时声纹/合成检测纳入默认安全机制。
+- **趋势状态：** rising
+- **一手来源：** 继圣罗兰后MIUMIU对杭州多街道限购，客服称已恢复正常下单
+- **链接：** https://finance.eastmoney.com/a/202605113733074551.html
+- **热度来源：** 网易新闻热榜：MIU MIU多款产品被指也有“限购区” (https://www.kaolamedia.com/hot)
+- **为什么在涨：** 继圣罗兰后奢侈品牌被指对杭州部分街道无法下单，引发消费者公平交易和平台规则讨论。
+- **关键数据：** 考拉网易新闻榜第8，热度约218万；东方财富报道称客服称所有区域已可正常下单。
+- **风险提示：** 限购原因仍需区分技术、库存、风控和品牌策略。
+- **下一步观察关键词：** MIU MIU 限购区 杭州 客服 淘宝 官方旗舰店
+- **博士分析切口：**
+  - 奢侈品牌限购表面是客服问题，深层是品牌稀缺性、渠道风控和地域公平的冲突。
+  - 平台电商一旦按地址差别化供给，就会把“算法看不见的歧视”变成消费者可见的不平等。
+  - 客服“恢复正常”只能解决个案，不能解释规则如何生成、谁有权复核。
+  - 后续要看平台是否要求品牌披露区域限制规则，而不是只做舆情修复。
 
-### 10. AI生成播客“podslop”冲击内容信任
-- 类别：AI内容生态；生命周期：rising
-- 热度证据：https://www.reddit.com/r/Futurology/comments/1t8ywor/over_the_past_nine_days_39_of_new_podcasts_were/
-- 事实/背景证据：https://www.reddit.com/r/Futurology/comments/1t8ywor/over_the_past_nine_days_39_of_new_podcasts_were/
-- 博士分析切口：
-  - podslop说明生成式AI已经从文本污染进入音频生态，平台发现机制会被重塑。
-  - 用户不一定反AI，但会惩罚无法辨认来源、无法追责的低质内容。
-  - 播客商业模式依赖信任和陪伴感，合成音频泛滥会稀释这种稀缺性。
-  - 看平台是否引入AI披露、来源签名和推荐降权，而非只靠人工举报。
+---
+
+### 4. 9所高校物化选科与不招文科生讨论
+真实生活问题热点 | 热度 8.3/10 | 近3日 | 知乎 / 高考直通车
+
+- **趋势状态：** rising
+- **一手来源：** 9所大学明确，高考不招文科生
+- **链接：** https://app.gaokaozhitongche.com/news/h/QzeBEJxO
+- **热度来源：** 知乎热榜：中科大等9所大学明确不招文科生 (https://www.xpaihang.com/)
+- **为什么在涨：** 招生专业选科要求集中转向物理+化学，直接影响高中选科、升学预期和文理分流焦虑。
+- **关键数据：** X排行显示知乎热榜第4；高考直通车报道称多所高校所有专业要求“物理+化学”。
+- **风险提示：** “不招文科生”是传播性表述，具体以各校招生章程和专业选科要求为准。
+- **下一步观察关键词：** 物理化学 选科 高考 文科 招生章程 大湾区大学
+- **博士分析切口：**
+  - 这不是“文科没用”的简单故事，而是高校专业结构、产业政策和高考选科的联动。
+  - 家庭真正焦虑的是提前三年做不可逆选择，但政策解释往往只停留在招生技术口径。
+  - 理工倾斜如果缺少通识和社会科学支撑，可能培养出技术能力强但制度理解弱的人才。
+  - 观察点是省级考试院和高校是否给出跨专业转轨机制，而不是任由学生用传闻决策。
+
+---
+
+### 5. “反向接话”亲子视频全网热播
+顿悟瞬间热点 | 热度 8.0/10 | 近3日 | 短视频平台 / 中国新闻网
+
+- **趋势状态：** rising
+- **一手来源：** “反向接话”视频爆火：让家庭教育走出“别人家孩子”的攀比阴影
+- **链接：** https://www.chinanews.com/m/ll/2026/05-08/10617407.shtml
+- **热度来源：** 中国新闻网：反向接话视频爆火 (https://www.chinanews.com/m/ll/2026/05-08/10617407.shtml)
+- **为什么在涨：** 亲子视频用反套路对话击中打击式教育记忆，兼具情绪修复和家庭教育反思。
+- **关键数据：** 中新网援引半月谈称“反向接话”亲子类视频在全网热播。
+- **风险提示：** 短视频容易把复杂家庭关系压缩成一句话疗愈。
+- **下一步观察关键词：** 反向接话 亲子视频 打击式教育 家庭教育
+- **博士分析切口：**
+  - 这类内容真正流行，是因为它替很多成年人完成了对童年语言暴力的迟到反驳。
+  - 公共叙事容易把问题归咎给“不会说话的父母”，但背后还有升学竞争和单一评价体系。
+  - 短视频疗愈有价值，但它不能替代家庭中的权力重分配和情绪劳动。
+  - 观察后续是否从金句模仿转向学校、家长和心理服务的具体协作。
+
+---
+
+### 6. 2026世界杯中国转播权价格僵局
+行业变化热点 | 热度 8.7/10 | 近7日持续 | 头条 / B站 / 界面新闻 / Reddit
+
+- **趋势状态：** rising
+- **一手来源：** 2026世界杯转播权陷天价僵局
+- **链接：** https://www.jiemian.com/article/14389954.html
+- **热度来源：** 头条热榜：世界杯中国转播费3亿腰斩到1.5亿美元 (https://mobnews.top/index.php)
+- **为什么在涨：** 世界杯临近，中国转播权价格从高报价到折价谈判，触发体育版权、付费观看和公共文化服务争议。
+- **关键数据：** 头条热榜第7约1837万，B站热榜第13约101万；界面称FIFA报价与中印等市场僵持。
+- **风险提示：** 谈判价格多来自媒体信源，最终合同以FIFA/转播方公告为准。
+- **下一步观察关键词：** FIFA 央视 世界杯 转播权 1.5亿美元 8000万美元
+- **博士分析切口：**
+  - 这不是简单的“FIFA贪”或“央视抠”，而是体育版权泡沫遇到中国免费收视习惯的再定价。
+  - 国足缺席、北美时差、短视频二创分流，会共同压低传统长视频转播价值。
+  - 公众关心能否免费看，行业关心谁承担版权成本，二者之间没有被认真解释。
+  - 观察是否出现平台分销、短视频权益拆包或2026/2030打包交易。
+
+---
+
+### 7. 特朗普5月13日至15日访华与中美经贸磋商预热
+行业变化热点 | 热度 9.0/10 | 当日 | 抖音 / 百度 / 知乎 / 头条 / B站
+
+- **趋势状态：** breaking
+- **一手来源：** 2026年5月11日外交部发言人郭嘉昆主持例行记者会
+- **链接：** https://us.china-embassy.gov.cn/lcbt/wjbfyrbt/202605/t20260511_11908352.htm
+- **热度来源：** 抖音热搜：特朗普5月13日至15日访华 (https://www.kaolamedia.com/hot)
+- **为什么在涨：** 访华安排、韩国经贸磋商与市场预期交叠，成为跨平台高位议题。
+- **关键数据：** 抖音热搜第2约1165万；知乎热榜第1讨论访华信息；头条榜第19仍有1513万。
+- **风险提示：** 外交安排可能调整，需以中美官方后续公告为准。
+- **下一步观察关键词：** 特朗普访华 中美经贸磋商 韩国 关税 稀土
+- **博士分析切口：**
+  - 真正要讲的是中美关系从事件外交转向交易议程时，市场如何提前给预期定价。
+  - 平台热度反映的不是外交知识需求，而是普通人对汇率、股市、关税、就业的风险感。
+  - 官方叙事强调沟通合作，但舆论会自动寻找“谁让步”的胜负框架。
+  - 观察联合声明是否具体到关税、技术限制、农产品和稀土，而不是只看会见规格。
+
+---
+
+### 8. 中方决定不同意台湾地区参加今年世卫大会
+强冲突/争议热点 | 热度 8.6/10 | 当日 | 微博 / 百度 / 头条 / 外交部
+
+- **趋势状态：** breaking
+- **一手来源：** 外交部：中方决定不同意台湾地区参加今年世卫大会
+- **链接：** https://www.xhby.net/content/s6a0184e3e4b087dcef7e7fb9.html
+- **热度来源：** 微博/百度/头条热榜：中方决定不同意台湾地区参加世卫大会 (https://www.kaolamedia.com/hot)
+- **为什么在涨：** WHA会议临近，台湾参与问题触发外交口径、国际组织规则和两岸政治基础争议。
+- **关键数据：** 百度热榜第6/第10、微博热搜第2约77.8万、头条第2约8283万。
+- **风险提示：** 涉及外交政治表述，需严格区分中方立场、台方回应和第三方评论。
+- **下一步观察关键词：** 世卫大会 台湾地区 一个中国原则 WHA 外交部
+- **博士分析切口：**
+  - 这类议题不能只讲立场，还要讲国际组织资格、卫生治理和主权叙事如何互相嵌套。
+  - 公众讨论常把公共卫生专业合作简化成政治承认问题，忽略了技术性参与机制。
+  - 平台热度来自身份政治动员，事实核验必须回到联合国和WHA决议文本。
+  - 观察WHA议程中是否出现替代性技术沟通安排，而不只是表决层面的冲突。
+
+---
+
+### 9. MV Hondius汉坦病毒邮轮危机
+用户搜索热点 | 热度 9.2/10 | 当日 | AP / WHO / Reddit / Axios
+
+- **趋势状态：** breaking
+- **一手来源：** WHO’s response to hantavirus cases linked to a cruise ship
+- **链接：** https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship
+- **热度来源：** Reddit: Patient Zero identified in hantavirus cruise ship outbreak (https://www.reddit.com/r/NewsExchange/comments/1t8nbbc/)
+- **为什么在涨：** 邮轮集中暴露、跨国转运和“零号病人”叙事，使公共卫生风险与后疫情时代信任问题叠加。
+- **关键数据：** AP 5月11日报道2名乘客阳性、第三人有症状；Reddit相关帖子约891票；WHO发布应对说明。
+- **风险提示：** 疾病传播风险应以WHO/CDC/ECDC为准，不扩大成类新冠恐慌。
+- **下一步观察关键词：** MV Hondius Andes hantavirus WHO CDC passenger evacuation
+- **博士分析切口：**
+  - 重点不是制造“下一场疫情”恐慌，而是看小概率高后果事件如何测试跨国公共卫生协调。
+  - 邮轮场景暴露了旅游产业、检疫边界、乘客隐私和医疗资源转运之间的制度摩擦。
+  - “零号病人”叙事很吸流量，但也容易把系统漏洞个人化。
+  - 观察病毒测序、接触者追踪和各国隔离标准是否一致，这是判断风险的关键。
+
+---
+
+### 10. 奥斯卡更新AI演员与AI剧本资格规则
+行业变化热点 | 热度 8.4/10 | 近7日持续 | AP / Reddit / TechCrunch / Oscars规则书
+
+- **趋势状态：** emerging
+- **一手来源：** Oscars organization expands international film eligibility, addresses AI in new rules
+- **链接：** https://apnews.com/article/95a66f19bd0a95d371ac82f21df1a0f4
+- **热度来源：** Reddit: The Oscars Just Dealt A Huge Blow To A Controversial Technology (https://www.reddit.com/r/BetterOffline/comments/1t3zwei/)
+- **为什么在涨：** AI演员、AI剧本和人类作者身份被奖项制度正式标记，外溢到影视劳动、版权和创作伦理讨论。
+- **关键数据：** AP报道学院更新规则；Reddit BetterOffline相关帖约182票；官方规则PDF已发布。
+- **风险提示：** 规则不是全面禁止电影制作中使用AI，不能误读为“AI影片全部不能参奖”。
+- **下一步观察关键词：** Oscars AI actors human-authored screenplay Tilly Norwood Val Kilmer
+- **博士分析切口：**
+  - 奖项规则正在替产业划定“谁算创作者”，这比单一版权官司更有制度信号。
+  - 公众容易把它理解成反AI姿态，但规则实际在保护可归责的人类表演和作者身份。
+  - 影视行业的核心冲突不是工具能不能用，而是劳动成果、署名、收益和同意权如何分配。
+  - 观察其他奖项和工会协议是否跟进，才知道这是不是行业新标准。
+
+---
 
 ## 扩展榜
-1. 浏阳烟花厂爆炸事故后续与安全生产追责｜公共安全与治理｜rising｜热源：https://hotflashnews.com/platform/toutiao
-2. 住院女子自称遭医生侵犯、涉事医生停职｜医疗与法律风险｜rising｜热源：https://hotflashnews.com/platform/toutiao
-3. 盲人盲道被电动车撞后交警介入｜城市公共治理｜emerging｜热源：https://hotflashnews.com/platform/zhihu
-4. 新能源车“锁电”与快充温度疑虑｜汽车消费与技术信任｜emerging｜热源：https://hotflashnews.com/platform/baidu
-5. 家长带儿子上班导致单位办公秩序冲突｜职场与家庭边界｜emerging｜热源：https://hotflashnews.com/platform/baidu
-6. 一季度全国结婚登记169.7万对引发婚恋讨论｜人口与家庭｜rising｜热源：https://top.baidu.com/board
-7. DeepSeek开放识图模式引发体验讨论｜AI产品与使用方式｜rising｜热源：https://hotflashnews.com/platform/zhihu
-8. 苹果为A18 Pro芯片供应支付溢价引发成本转嫁讨论｜消费电子供应链｜emerging｜热源：https://hotflashnews.com/platform/zhihu
-9. 国安部披露境外间谍“美人计”窃密｜国家安全与官方叙事｜rising｜热源：https://hotflashnews.com/platform/douyin
-10. 何立峰将赴韩国与美方举行经贸磋商｜宏观政策与外贸｜rising｜热源：https://hotflashnews.com/platform/baidu
-11. 西班牙称已做好接收涉疫邮轮准备｜公共卫生与港口治理｜emerging｜热源：https://hotflashnews.com/platform/douyin
-12. UFC315与斯特里克兰重夺冠军引发格斗圈讨论｜国际体育娱乐｜rising｜热源：https://hotflashnews.com/platform/douyin
-13. 阿森纳客胜西汉姆联进入中外体育热榜｜国际体育娱乐｜rising｜热源：https://hotflashnews.com/platform/bilibili
-14. 巴萨主场2-0皇马提前三轮夺冠｜国际体育娱乐｜rising｜热源：https://hotflashnews.com/platform/toutiao
-15. X美国趋势中的卡塔尔、母亲节与UFC315同屏｜海外平台原生趋势｜rising｜热源：https://us.trend-calendar.com/trend/2025-05-11.html
-16. 短片ENEMY爆火与二创扩散｜影视短内容与平台二创｜rising｜热源：https://hotflashnews.com/platform/douyin
-17. 电影《给阿嬷的情书》母亲节票房冠军与排片讨论｜影视与节日消费｜rising｜热源：https://hotflashnews.com/platform/toutiao
-18. 王菲献唱《主角》主题曲引争议｜文娱审美与方言传播｜rising｜热源：https://hotflashnews.com/platform/toutiao
-19. 身体炎症、忌口与健康焦虑热搜｜健康焦虑与生活方式｜rising｜热源：https://hotflashnews.com/platform/weibo
-20. 夏季极端高温与“史上最热夏天”辟谣｜天气与公共风险沟通｜rising｜热源：https://hotflashnews.com/platform/baidu
-21. 京哈高速杨絮爆发能见度不足一米｜交通安全与季节风险｜rising｜热源：https://hotflashnews.com/platform/baidu
+
+- 天舟十号货运飞船发射圆满成功 | 行业变化热点 | breaking | 当日 | 百度 / 头条 / B站 | 权威事实强、平台活人气相对弱
+- 浏阳烟花爆炸事故最高检挂牌督办 | 强冲突/争议热点 | rising | 近7日持续 | 最高检 / Reddit / 新闻媒体 | 权威事实强、平台活人气相对弱
+- 成都剑南大道交通事故致1死11伤 | 强冲突/争议热点 | rising | 近10日持续 | 央视网 / 中新网 / Reddit | 权威事实强、平台活人气相对弱
+- 女子离婚多年被判共还前夫百万欠债 | 强冲突/争议热点 | rising | 当日 | 微博
+- 公司欠债倒闭五只猫咪员工被法拍 | 真实生活问题热点 | rising | 当日 | 百度 / 微博
+- “有荔枝才是真正的夏天”季节消费梗 | 平台流量热点 | rising | 当日 | 抖音
+- 河南蒜薹梗短视频扩散 | 平台流量热点 | rising | 当日 | 抖音
+- 雪糕是糖油混合物具象化了 | 用户搜索热点 | rising | 当日 | 微博
+- 全国首个烧烤学院爆红4000人抢报 | 真实生活问题热点 | rising | 当日 | 百度
+- 小红书商家百万跃迁计划 | 行业变化热点 | emerging | 近3日 | 新浪科技 / 小红书电商 | 权威事实强、平台活人气相对弱
+- 两高耕地新规：非法占用耕地合同无效 | 行业变化热点 | breaking | 当日 | 东方财富 / 最高法最高检 | 权威事实强、平台活人气相对弱
+- A股连续4天百股涨停与存储芯片爆发 | 行业变化热点 | rising | 当日 | 百度 / 头条 | 权威事实强、平台活人气相对弱
+- 4月CPI同比上涨1.2% | 行业变化热点 | rising | 当日 | 抖音 | 权威事实强、平台活人气相对弱
+- 韩国股市大涨启动熔断机制 | 行业变化热点 | breaking | 当日 | 抖音 | 外网平台原生/海外信号
+- 任天堂Switch2涨价与股价大跌讨论 | 强冲突/争议热点 | rising | 当日 | 抖音 / 游戏社区 | 外网平台原生/海外信号
+- 蔡文静酒后直播工作室回应 | 强冲突/争议热点 | rising | 近24小时 | 抖音 / 中华网 / 凤凰
+- 张碧晨等明星炒股谣言工作室回应 | 强冲突/争议热点 | breaking | 当日 | 东方财富 / 微博
+- 2026五一档撤档与票房分化 | 行业变化热点 | rising | 近7日持续 | 微博 / 证券时报 / 新浪
+- YouTube印度电影预告片单日760万观看 | 平台流量热点 | rising | 近48小时 | YouTube | 外网平台原生/海外信号
+- 演唱会“蓝点病”与高票价取消潮 | 行业变化热点 | rising | 近7日持续 | Fortune / Semafor / Ticketmaster讨论 | 外网平台原生/海外信号
+
+---
 
 ## 按 8 类分组
-### 公共安全与治理
-- 浏阳烟花厂爆炸事故后续与安全生产追责
-- 住院女子自称遭医生侵犯、涉事医生停职
-- 盲人盲道被电动车撞后交警介入
-- 夏季极端高温与“史上最热夏天”辟谣
-- 京哈高速杨絮爆发能见度不足一米
 
-### 消费品牌与平台规则
-- OPPO母亲节文案翻车与品牌价值观争议
-- 新能源车“锁电”与快充温度疑虑
-- 杭州一街区因仅退款被电商店铺拉黑
-- 世界杯中国转播费从3亿美元腰斩到1.5亿美元
+### 平台流量热点
 
-### 体育娱乐公共事件
-- 国乒男团3比0胜日本并实现12连冠
-- 国乒女团逆转日本实现世乒赛七连冠
-- 短片ENEMY爆火与二创扩散
-- 电影《给阿嬷的情书》母亲节票房冠军与排片讨论
-- 王菲献唱《主角》主题曲引争议
+#### 1. “有荔枝才是真正的夏天”季节消费梗
+- 趋势状态：rising
+- 热度分：7.5
+- 时效：当日
+- 来源平台：抖音
+- 一手来源：抖音热搜：有荔枝才是真正的夏天
+- 链接：https://www.kaolamedia.com/hot
+- 为什么在涨：应季水果消费被短视频包装成夏天仪式感，具有高模仿和电商转化潜力。
+- 关键数据：抖音热搜第1，热度约1173万。
+- 风险提示：价格、产地和品质判断容易被情绪消费带偏。
+- 下一步观察：荔枝 夏天 应季水果 抖音
 
-### 职场教育与家庭结构
-- 家长带儿子上班导致单位办公秩序冲突
-- 一季度全国结婚登记169.7万对引发婚恋讨论
+#### 2. 河南蒜薹梗短视频扩散
+- 趋势状态：rising
+- 热度分：7.4
+- 时效：当日
+- 来源平台：抖音
+- 一手来源：抖音热搜：河南人民迟早把蒜薹玩出花儿来
+- 链接：https://www.kaolamedia.com/hot
+- 为什么在涨：地方农产品被平台玩梗化传播，地域身份、便宜供给和短视频参与感叠加。
+- 关键数据：抖音热搜第4，热度约1110万。
+- 风险提示：需警惕把农产品价格波动娱乐化，忽略生产端收益。
+- 下一步观察：河南 蒜薹 玩出花 农产品 短视频
 
-### 官方议程与国家叙事
-- 天舟十号货运飞船发射窗口与中国空间站补给
-- 国安部披露境外间谍“美人计”窃密
-- 何立峰将赴韩国与美方举行经贸磋商
+#### 3. YouTube印度电影预告片单日760万观看
+- 趋势状态：rising
+- 热度分：7.2
+- 时效：近48小时
+- 来源平台：YouTube
+- 一手来源：Most popular Videos of Today on YouTube
+- 链接：https://youtubememories.com/en/youtube/most-popular/content/today
+- 为什么在涨：印度电影预告片占据YouTube当日热门第一，说明南亚娱乐内容在全球视频榜的强动员能力。
+- 关键数据：YouTubeMemories显示该预告片今日第1，约760万观看。
+- 风险提示：第三方榜单需与YouTube官方趋势页交叉观察。
+- 下一步观察：PATI PATNI AUR WOH DO Trailer T-Series YouTube trending
 
-### 国际冲突与公共卫生
-- 伊朗回应美国提出的结束战争方案
-- 涉疫邮轮零号病人与汉坦病毒邮轮人员追踪
-- 西班牙称已做好接收涉疫邮轮准备
+### 用户搜索热点
 
-### 海外平台与全球文娱
-- UFC315与斯特里克兰重夺冠军引发格斗圈讨论
-- 阿森纳客胜西汉姆联进入中外体育热榜
-- 巴萨主场2-0皇马提前三轮夺冠
-- X美国趋势中的卡塔尔、母亲节与UFC315同屏
+#### 1. MV Hondius汉坦病毒邮轮危机
+- 趋势状态：breaking
+- 热度分：9.2
+- 时效：当日
+- 来源平台：AP / WHO / Reddit / Axios
+- 一手来源：WHO’s response to hantavirus cases linked to a cruise ship
+- 链接：https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship
+- 为什么在涨：邮轮集中暴露、跨国转运和“零号病人”叙事，使公共卫生风险与后疫情时代信任问题叠加。
+- 关键数据：AP 5月11日报道2名乘客阳性、第三人有症状；Reddit相关帖子约891票；WHO发布应对说明。
+- 风险提示：疾病传播风险应以WHO/CDC/ECDC为准，不扩大成类新冠恐慌。
+- 下一步观察：MV Hondius Andes hantavirus WHO CDC passenger evacuation
 
-### AI技术与文化变迁
-- DeepSeek开放识图模式引发体验讨论
-- 苹果为A18 Pro芯片供应支付溢价引发成本转嫁讨论
-- Reddit热帖讨论AI合成朋友与儿童平台信任
-- AI生成播客“podslop”冲击内容信任
-- 身体炎症、忌口与健康焦虑热搜
+#### 2. 雪糕是糖油混合物具象化了
+- 趋势状态：rising
+- 热度分：7.6
+- 时效：当日
+- 来源平台：微博
+- 一手来源：微博热搜：雪糕是糖油混合物具象化了
+- 链接：https://www.kaolamedia.com/hot
+- 为什么在涨：夏季食品、控糖控脂和消费降级叙事叠在一起，形成健康焦虑型热搜。
+- 关键数据：微博热搜第7，热度约36.8万。
+- 风险提示：营养讨论不应替代具体产品成分表。
+- 下一步观察：雪糕 糖油混合物 成分表 夏季 控糖
+
+### 行业变化热点
+
+#### 1. 微信转账灰度测试组合支付
+- 趋势状态：rising
+- 热度分：8.8
+- 时效：近24小时
+- 来源平台：百度 / IT之家 / 微信生态
+- 一手来源：微信转账灰度测试“组合支付”
+- 链接：https://m.ithome.com/html/948441.htm
+- 为什么在涨：零钱、零钱通、银行卡可组合支付，击中转账余额不足的高频生活场景。
+- 关键数据：考拉百度热点显示“微信转账能组合支付了”排名第3，热度约771万；IT之家称功能仍在小范围灰度。
+- 风险提示：灰度测试不等于全量上线，不同终端和账号可见性可能不一致。
+- 下一步观察：微信 组合支付 灰度 零钱 银行卡 全量上线
+
+#### 2. 2026世界杯中国转播权价格僵局
+- 趋势状态：rising
+- 热度分：8.7
+- 时效：近7日持续
+- 来源平台：头条 / B站 / 界面新闻 / Reddit
+- 一手来源：2026世界杯转播权陷天价僵局
+- 链接：https://www.jiemian.com/article/14389954.html
+- 为什么在涨：世界杯临近，中国转播权价格从高报价到折价谈判，触发体育版权、付费观看和公共文化服务争议。
+- 关键数据：头条热榜第7约1837万，B站热榜第13约101万；界面称FIFA报价与中印等市场僵持。
+- 风险提示：谈判价格多来自媒体信源，最终合同以FIFA/转播方公告为准。
+- 下一步观察：FIFA 央视 世界杯 转播权 1.5亿美元 8000万美元
+
+#### 3. 特朗普5月13日至15日访华与中美经贸磋商预热
+- 趋势状态：breaking
+- 热度分：9.0
+- 时效：当日
+- 来源平台：抖音 / 百度 / 知乎 / 头条 / B站
+- 一手来源：2026年5月11日外交部发言人郭嘉昆主持例行记者会
+- 链接：https://us.china-embassy.gov.cn/lcbt/wjbfyrbt/202605/t20260511_11908352.htm
+- 为什么在涨：访华安排、韩国经贸磋商与市场预期交叠，成为跨平台高位议题。
+- 关键数据：抖音热搜第2约1165万；知乎热榜第1讨论访华信息；头条榜第19仍有1513万。
+- 风险提示：外交安排可能调整，需以中美官方后续公告为准。
+- 下一步观察：特朗普访华 中美经贸磋商 韩国 关税 稀土
+
+#### 4. 奥斯卡更新AI演员与AI剧本资格规则
+- 趋势状态：emerging
+- 热度分：8.4
+- 时效：近7日持续
+- 来源平台：AP / Reddit / TechCrunch / Oscars规则书
+- 一手来源：Oscars organization expands international film eligibility, addresses AI in new rules
+- 链接：https://apnews.com/article/95a66f19bd0a95d371ac82f21df1a0f4
+- 为什么在涨：AI演员、AI剧本和人类作者身份被奖项制度正式标记，外溢到影视劳动、版权和创作伦理讨论。
+- 关键数据：AP报道学院更新规则；Reddit BetterOffline相关帖约182票；官方规则PDF已发布。
+- 风险提示：规则不是全面禁止电影制作中使用AI，不能误读为“AI影片全部不能参奖”。
+- 下一步观察：Oscars AI actors human-authored screenplay Tilly Norwood Val Kilmer
+
+#### 5. 天舟十号货运飞船发射圆满成功
+- 趋势状态：breaking
+- 热度分：8.2
+- 时效：当日
+- 来源平台：百度 / 头条 / B站
+- 一手来源：今日热榜：天舟十号货运飞船发射圆满成功
+- 链接：https://hot.nxux.cn/
+- 为什么在涨：航天发射成功同时占据百度、头条和B站热榜，兼具科技成就和国家叙事热度。
+- 关键数据：百度热榜第4约762万，头条第9约3367万，B站第2约200万。
+- 风险提示：以中国载人航天工程办公室后续任务公告为准。
+- 下一步观察：天舟十号 发射 货运飞船 空间站
+
+#### 6. 小红书商家百万跃迁计划
+- 趋势状态：emerging
+- 热度分：7.2
+- 时效：近3日
+- 来源平台：新浪科技 / 小红书电商
+- 一手来源：小红书电商调整商家扶持策略
+- 链接：https://finance.sina.com.cn/tech/it/2026-05-09/doc-inhxhzaz1374118.shtml
+- 为什么在涨：小红书电商从普惠流量转向扶持好货商家，影响内容平台商业化逻辑。
+- 关键数据：新浪科技称计划5月11日推出，重点扶持超100万个好货型商家。
+- 风险提示：平台自述需要用后续商家实际流量和成交验证。
+- 下一步观察：小红书 商家 百万跃迁 好货 电商
+
+#### 7. 两高耕地新规：非法占用耕地合同无效
+- 趋势状态：breaking
+- 热度分：7.4
+- 时效：当日
+- 来源平台：东方财富 / 最高法最高检
+- 一手来源：“两高”发新规：非法占用耕地建房、采矿等合同无效
+- 链接：https://finance.eastmoney.com/a/202605113732939192.html
+- 为什么在涨：耕地保护进入合同效力和刑事司法衔接层面，对地产、采矿、农村建设有约束信号。
+- 关键数据：规定将于2026年5月18日起施行。
+- 风险提示：具体适用边界需等司法解释全文和案例。
+- 下一步观察：两高 耕地 非法占用 合同无效 司法解释
+
+#### 8. A股连续4天百股涨停与存储芯片爆发
+- 趋势状态：rising
+- 热度分：7.9
+- 时效：当日
+- 来源平台：百度 / 头条
+- 一手来源：百度/头条热榜：A股连续4天百股涨停
+- 链接：https://www.kaolamedia.com/hot
+- 为什么在涨：市场情绪和芯片叙事共振，财经热榜从行情报道转向“牛市下半场”想象。
+- 关键数据：百度热榜第14约666万，头条第18约1672万。
+- 风险提示：股市热点不构成投资建议。
+- 下一步观察：A股 百股涨停 存储芯片 牛市下半场
+
+#### 9. 4月CPI同比上涨1.2%
+- 趋势状态：rising
+- 热度分：7.0
+- 时效：当日
+- 来源平台：抖音
+- 一手来源：抖音热搜：4月CPI同比上涨1.2%
+- 链接：https://www.kaolamedia.com/hot
+- 为什么在涨：宏观价格数据进入短视频热榜，说明用户把物价和日常消费感受相互校准。
+- 关键数据：抖音热搜第17，热度约777万。
+- 风险提示：宏观数据需以国家统计局公告为准。
+- 下一步观察：4月 CPI 1.2% 物价 消费
+
+#### 10. 韩国股市大涨启动熔断机制
+- 趋势状态：breaking
+- 热度分：7.3
+- 时效：当日
+- 来源平台：抖音
+- 一手来源：抖音热搜：韩国股市大涨启动熔断机制
+- 链接：https://www.kaolamedia.com/hot
+- 为什么在涨：海外市场波动被国内短视频平台吸收，金融异动与地缘/政策预期相互强化。
+- 关键数据：抖音热搜第7，热度约912万。
+- 风险提示：具体交易所熔断规则和指数涨幅需以韩国交易所公告为准。
+- 下一步观察：韩国股市 熔断 大涨 抖音
+
+#### 11. 2026五一档撤档与票房分化
+- 趋势状态：rising
+- 热度分：7.5
+- 时效：近7日持续
+- 来源平台：微博 / 证券时报 / 新浪
+- 一手来源：冲上热搜！多部影片突然宣布：撤档！
+- 链接：https://www.stcn.com/article/detail/3893347.html
+- 为什么在涨：多片撤档、黑马逆袭和大盘偏弱同时出现，暴露院线供给和观众信任问题。
+- 关键数据：证券时报称“多部电影撤档五一”冲上微博热搜；新浪整理五一档票房分化。
+- 风险提示：票房数据以猫眼、灯塔和专资办数据为准。
+- 下一步观察：五一档 撤档 票房 分化 给阿嬷的情书
+
+#### 12. 演唱会“蓝点病”与高票价取消潮
+- 趋势状态：rising
+- 热度分：7.6
+- 时效：近7日持续
+- 来源平台：Fortune / Semafor / Ticketmaster讨论
+- 一手来源：Blue dot fever plagues musicians as artists cancel tours
+- 链接：https://fortune.com/2026/05/07/what-is-the-blue-dot-fever-why-post-malone-meghan-trainor-zayn-jelly-roll-pussycat-dolls-canceling-concert-dates/
+- 为什么在涨：多名艺人取消巡演与票价上涨相连，显示现场娱乐消费开始遭遇价格天花板。
+- 关键数据：Fortune称2026年平均演唱会票价144美元，高于去年115美元和2020年82美元。
+- 风险提示：单个巡演取消原因不同，不能全部归因于票价。
+- 下一步观察：blue dot fever concert cancellations ticket prices 2026
+
+### 强冲突/争议热点
+
+#### 1. 重庆黔江交通事故致2死6伤
+- 趋势状态：breaking
+- 热度分：9.1
+- 时效：24小时内
+- 来源平台：Reddit / 央视网 / 央广网
+- 一手来源：重庆黔江发生交通事故致2死6伤_央广网
+- 链接：https://cq.cnr.cn/ygcq/20260510/t20260510_527615745.shtml
+- 为什么在涨：官方通报与现场视频讨论叠加，公共安全、驾驶责任和信息发布边界同时被放大。
+- 关键数据：央广网/央视网报道事故造成2人死亡、6人受伤；Reddit中文社区当日出现现场视频讨论帖。
+- 风险提示：伤亡、责任认定和网传身份信息以警方后续通报为准。
+- 下一步观察：重庆黔江 警方通报 操作不当 责任认定 赔偿
+
+#### 2. MIU MIU杭州多街道限购争议
+- 趋势状态：rising
+- 热度分：8.5
+- 时效：当日
+- 来源平台：网易新闻 / 东方财富 / 淘宝用户反馈
+- 一手来源：继圣罗兰后MIUMIU对杭州多街道限购，客服称已恢复正常下单
+- 链接：https://finance.eastmoney.com/a/202605113733074551.html
+- 为什么在涨：继圣罗兰后奢侈品牌被指对杭州部分街道无法下单，引发消费者公平交易和平台规则讨论。
+- 关键数据：考拉网易新闻榜第8，热度约218万；东方财富报道称客服称所有区域已可正常下单。
+- 风险提示：限购原因仍需区分技术、库存、风控和品牌策略。
+- 下一步观察：MIU MIU 限购区 杭州 客服 淘宝 官方旗舰店
+
+#### 3. 中方决定不同意台湾地区参加今年世卫大会
+- 趋势状态：breaking
+- 热度分：8.6
+- 时效：当日
+- 来源平台：微博 / 百度 / 头条 / 外交部
+- 一手来源：外交部：中方决定不同意台湾地区参加今年世卫大会
+- 链接：https://www.xhby.net/content/s6a0184e3e4b087dcef7e7fb9.html
+- 为什么在涨：WHA会议临近，台湾参与问题触发外交口径、国际组织规则和两岸政治基础争议。
+- 关键数据：百度热榜第6/第10、微博热搜第2约77.8万、头条第2约8283万。
+- 风险提示：涉及外交政治表述，需严格区分中方立场、台方回应和第三方评论。
+- 下一步观察：世卫大会 台湾地区 一个中国原则 WHA 外交部
+
+#### 4. 浏阳烟花爆炸事故最高检挂牌督办
+- 趋势状态：rising
+- 热度分：8.1
+- 时效：近7日持续
+- 来源平台：最高检 / Reddit / 新闻媒体
+- 一手来源：最高检挂牌督办湖南浏阳烟花爆炸重大责任事故案
+- 链接：https://www.spp.gov.cn/tt/202605/t20260507_726983.shtml
+- 为什么在涨：重大安全生产事故从伤亡通报进入追责督办阶段，舆论转向责任链和行业监管。
+- 关键数据：最高检称事故造成26人死亡、61人受伤并挂牌督办；后续死亡数字有媒体更新。
+- 风险提示：伤亡数字以官方最新通报为准。
+- 下一步观察：浏阳 烟花厂 爆炸 最高检 挂牌督办
+
+#### 5. 成都剑南大道交通事故致1死11伤
+- 趋势状态：rising
+- 热度分：7.9
+- 时效：近10日持续
+- 来源平台：央视网 / 中新网 / Reddit
+- 一手来源：警方通报成都车祸：致1死11伤 肇事司机已被抓获
+- 链接：https://news.cctv.com/2026/05/01/ARTI6hK6MnmkjOC7q0v8PnWk260501.shtml
+- 为什么在涨：五一公共安全事件余波持续，社交平台围绕“交通事故”定性和公共空间安全讨论。
+- 关键数据：成都市交警通报1死11伤，司机被当场抓获。
+- 风险提示：网传动机和额外伤亡不可采信。
+- 下一步观察：成都 剑南大道 1死11伤 交通事故
+
+#### 6. 女子离婚多年被判共还前夫百万欠债
+- 趋势状态：rising
+- 热度分：8.0
+- 时效：当日
+- 来源平台：微博
+- 一手来源：微博热搜：女子离婚多年被判共还前夫百万欠债
+- 链接：https://www.kaolamedia.com/hot
+- 为什么在涨：婚姻债务边界与离婚后风险被微博推到第一位，评论区高冲突。
+- 关键数据：微博热搜第1，热度约106.5万。
+- 风险提示：法律事实需以后续法院文书或权威报道补核。
+- 下一步观察：离婚 多年 前夫 欠债 夫妻共同债务
+
+#### 7. 任天堂Switch2涨价与股价大跌讨论
+- 趋势状态：rising
+- 热度分：7.4
+- 时效：当日
+- 来源平台：抖音 / 游戏社区
+- 一手来源：抖音热搜：任天堂官宣Switch2涨价
+- 链接：https://www.kaolamedia.com/hot
+- 为什么在涨：主机价格、缺席大作和股价反应叠加，游戏消费从产品期待转为定价争议。
+- 关键数据：抖音热搜第13“任天堂官宣Switch2涨价”约832万，第16“任天堂股价大跌”约781万。
+- 风险提示：任天堂官方定价和股价变动需以公司公告及市场数据核验。
+- 下一步观察：Switch2 涨价 任天堂 股价 大作
+
+#### 8. 蔡文静酒后直播工作室回应
+- 趋势状态：rising
+- 热度分：7.1
+- 时效：近24小时
+- 来源平台：抖音 / 中华网 / 凤凰
+- 一手来源：工作室回应蔡文静酒后直播 素颜真情引热议
+- 链接：https://news.china.com/socialgd/10000169/20260510/49484443.html
+- 为什么在涨：艺人深夜直播从情绪真实感迅速转为公众人物边界讨论。
+- 关键数据：抖音热搜第37；中华网报道工作室回应。
+- 风险提示：应区分本人状态、工作室声明和网友推测。
+- 下一步观察：蔡文静 酒后直播 工作室回应
+
+#### 9. 张碧晨等明星炒股谣言工作室回应
+- 趋势状态：breaking
+- 热度分：6.8
+- 时效：当日
+- 来源平台：东方财富 / 微博
+- 一手来源：“张碧晨等明星被指不演出不拍戏 全在炒股”？工作室回应
+- 链接：https://finance.eastmoney.com/a/202605113733241271.html
+- 为什么在涨：明星与股市传闻结合，反映牛市情绪下娱乐流量向财经谣言迁移。
+- 关键数据：东方财富5月11日报道工作室称相关信息不实。
+- 风险提示：仅能证明工作室辟谣，不证明股票行为真伪以外的延伸判断。
+- 下一步观察：张碧晨 炒股 谣言 工作室回应
+
+### 真实生活问题热点
+
+#### 1. 9所高校物化选科与不招文科生讨论
+- 趋势状态：rising
+- 热度分：8.3
+- 时效：近3日
+- 来源平台：知乎 / 高考直通车
+- 一手来源：9所大学明确，高考不招文科生
+- 链接：https://app.gaokaozhitongche.com/news/h/QzeBEJxO
+- 为什么在涨：招生专业选科要求集中转向物理+化学，直接影响高中选科、升学预期和文理分流焦虑。
+- 关键数据：X排行显示知乎热榜第4；高考直通车报道称多所高校所有专业要求“物理+化学”。
+- 风险提示：“不招文科生”是传播性表述，具体以各校招生章程和专业选科要求为准。
+- 下一步观察：物理化学 选科 高考 文科 招生章程 大湾区大学
+
+#### 2. 公司欠债倒闭五只猫咪员工被法拍
+- 趋势状态：rising
+- 热度分：7.8
+- 时效：当日
+- 来源平台：百度 / 微博
+- 一手来源：百度/微博热榜：公司欠债倒闭五只猫咪员工被法拍
+- 链接：https://www.xpaihang.com/
+- 为什么在涨：企业债务处置中的宠物/情感资产冲突，引发劳动、破产和动物福利讨论。
+- 关键数据：百度热榜第3约771万，微博热搜第13约35.6万。
+- 风险提示：司法拍卖细节需以法院平台信息为准。
+- 下一步观察：公司倒闭 猫咪 员工 法拍 破产
+
+#### 3. 全国首个烧烤学院爆红4000人抢报
+- 趋势状态：rising
+- 热度分：7.7
+- 时效：当日
+- 来源平台：百度
+- 一手来源：百度热点：全国首个烧烤学院爆红 4000人抢报
+- 链接：https://www.kaolamedia.com/hot
+- 为什么在涨：职业教育、地方文旅和低门槛就业想象结合，带来“学烧烤也能专业化”的讨论。
+- 关键数据：百度热榜第15/20，热度约609万到656万。
+- 风险提示：“学院”性质、课程质量和就业承诺需核验。
+- 下一步观察：烧烤学院 4000人 抢报 职业教育
+
+### 顿悟瞬间热点
+
+#### 1. “反向接话”亲子视频全网热播
+- 趋势状态：rising
+- 热度分：8.0
+- 时效：近3日
+- 来源平台：短视频平台 / 中国新闻网
+- 一手来源：“反向接话”视频爆火：让家庭教育走出“别人家孩子”的攀比阴影
+- 链接：https://www.chinanews.com/m/ll/2026/05-08/10617407.shtml
+- 为什么在涨：亲子视频用反套路对话击中打击式教育记忆，兼具情绪修复和家庭教育反思。
+- 关键数据：中新网援引半月谈称“反向接话”亲子类视频在全网热播。
+- 风险提示：短视频容易把复杂家庭关系压缩成一句话疗愈。
+- 下一步观察：反向接话 亲子视频 打击式教育 家庭教育
+
+### 游戏/场景/解法热点
+
+- 本期无强匹配热点。
+
+### 提问/表达方式热点
+
+- 本期无强匹配热点。
+
+---
 
 ## 数据概览
-- 总热点：31 条
-- 主榜：10 条
-- 扩展榜：21 条
-- heat_verified：30/30
-- fact_verified：高风险议题优先核验；未获得充分官方细节的条目已标注谨慎，不扩写未经证实事实。
-- 平台覆盖：微博、抖音、百度、知乎、头条、B站、X、Reddit、第三方趋势页。
+
+| 维度 | 数值 |
+|------|------|
+| 热点总数 | 30 |
+| 主榜条数 | 10 |
+| 扩展榜条数 | 20 |
+| 主榜官方/政策/监管/产业色彩 | 2 |
+| 主榜平台活人气议题 | 8 |
+| 主榜平台原生/网友生活议题 | 6 |
+| 主榜外网平台原生议题 | 2 |
+| 国内来源主导 | 24 |
+| 中外混合来源 | 2 |
+| 海外来源主导 | 6 |
+
+### 分类分布
+- 平台流量热点：3
+- 用户搜索热点：2
+- 行业变化热点：12
+- 强冲突/争议热点：9
+- 真实生活问题热点：3
+- 顿悟瞬间热点：1
+- 游戏/场景/解法热点：0
+- 提问/表达方式热点：0
+
+### 状态分布
+- breaking：8
+- rising：20
+- emerging：2
+
+---
 
 ## 平台算法信号
-- 微博/百度/头条的体育事件共振最强，国乒中日对抗形成“结果 + 个体运动员 + 民族情绪”的组合热度。
-- 知乎更偏问题化：把消费规则、AI产品、体育版权、公共事件转成可辩论命题。
-- 抖音更偏情绪和短视频模板：母亲节、ENEMY、国乒、国安部叙事同时进入推荐型热榜。
-- B站保留强二创和技术/赛事解释倾向：ENEMY手绘、航天、国乒复盘、AI时代专业评价等更容易发酵。
-- Reddit/X信号显示海外公共讨论更集中在AI真实性、UFC/体育、Mother’s Day和地缘政治关键词。
+
+### 国内平台
+
+#### 抖音
+- 在放大的内容形态：高频生活场景、应季消费、体育/娱乐切片和官方大事件的短视频化解释。
+- 高热标题/关键词线索：有荔枝才是真正的夏天、特朗普访华、河南蒜薹、任天堂涨价、汉坦病毒邮轮。
+- 观察重点：抖音把宏观议题做成低门槛解释，同时用季节消费和地方梗维持参与度。
+
+#### 微博
+- 在放大的内容形态：婚姻债务、WHA、法院/法拍、公共身份争议等高评论冲突议题。
+- 高热标题/关键词线索：女子离婚多年被判共还前夫百万欠债、中方不同意台湾地区参加世卫大会、五只猫咪员工被法拍。
+- 观察重点：微博仍是法律/身份/公共事件情绪峰值最快的平台，但事实源需要额外核验。
+
+#### 百度
+- 在放大的内容形态：官方议程、功能更新、财经市场、健康辟谣和生活服务。
+- 高热标题/关键词线索：重温习主席论断、微信组合支付、天舟十号、京沪高铁涨价、烧烤学院。
+- 观察重点：百度热搜更像全民搜索需求窗口，容易把新闻事实和生活疑问混排。
+
+#### 知乎/B站
+- 在放大的内容形态：中美访华信息、物化选科、体育版权和航天科技解释。
+- 高热标题/关键词线索：特朗普访华有哪些信息值得关注、9所大学不招文科生、世界杯转播权。
+- 观察重点：知乎负责问题化，B站负责解释化，二者适合判断议题是否能从热搜延伸到长讨论。
+
+### 海外平台
+
+#### Reddit
+- 在放大的内容形态：公共卫生风险、AI行业规则、中文公共事件搬运和反讽讨论。
+- 高热标题/关键词线索：hantavirus cruise ship、Oscars AI ban、重庆/成都公共安全事件。
+- 观察重点：Reddit对制度信任和技术伦理的讨论比新闻标题更长尾。
+
+#### YouTube
+- 在放大的内容形态：印度电影预告、游戏长视频、电竞赛事和儿童/家庭向Minecraft内容。
+- 高热标题/关键词线索：PATI PATNI AUR WOH DO Trailer、Minecraft prank、BLAST Rivals。
+- 观察重点：全球YouTube热榜继续由地区娱乐工业和游戏内容支撑。
+
+#### X
+- 在放大的内容形态：娱乐粉丝标签、体育赛果、日本/东南亚娱乐话题和金融符号。
+- 高热标题/关键词线索：#OLYMPOP2026DAY、BamBam、UAP、地域体育庆祝词。
+- 观察重点：X趋势更碎片化，适合作为海外即时情绪补充，不宜单独替代事实源。
+
+---
 
 ## 信息源清单
-- https://hotflashnews.com/platform/weibo
-- https://hotflashnews.com/platform/douyin
-- https://hotflashnews.com/platform/baidu
-- https://hotflashnews.com/platform/zhihu
-- https://hotflashnews.com/platform/toutiao
-- https://hotflashnews.com/platform/bilibili
-- https://top.baidu.com/board
-- https://us.trend-calendar.com/trend/2025-05-11.html
-- https://money.udn.com/money/story/5603/9494029
-- https://www.cmse.gov.cn/xwzx/202605/t20260508_57451.html
-- https://www.eeo.com.cn/2026/0510/871109.shtml
-- https://www.jiemian.com/article/14399038.html
-- https://www.reddit.com/r/Futurology/comments/1t8ywor/over_the_past_nine_days_39_of_new_podcasts_were/
-- https://www.theguardian.com/business/live/2026/may/06/oil-prices-retreat-global-stocks-hit-record-highs-trump-great-progress-iran-deal-live-updates
-- https://www.weforum.org/stories/2026/04/ai-voice-deepfakes-child-safety/
-- https://www.zjnews.com/2026/05/08/8208.html
+
+### 国外一手源（本期引用）
+| 来源 | 类型 | 链接 |
+|------|------|------|
+| 重庆一辆奔驰高速撞飞多人 至少2死6伤 | platform_metric | https://www.reddit.com/r/InsightBridge/comments/1t9vcdq/ |
+| WHO’s response to hantavirus cases linked to a cruise ship | official | https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship |
+| Reddit: Patient Zero identified in hantavirus cruise ship outbreak | platform_metric | https://www.reddit.com/r/NewsExchange/comments/1t8nbbc/ |
+| Oscars organization expands international film eligibility, addresses AI in new rules | wire | https://apnews.com/article/95a66f19bd0a95d371ac82f21df1a0f4 |
+| Reddit: The Oscars Just Dealt A Huge Blow To A Controversial Technology | platform_metric | https://www.reddit.com/r/BetterOffline/comments/1t3zwei/ |
+| Reddit：浏阳烟花厂爆炸死亡人数上升至37人 | cross_platform | https://www.reddit.com/r/China_irl/comments/1t6xhjv/ |
+| Reddit：成都五一惨剧讨论帖 | cross_platform | https://www.reddit.com/r/InsightBridge/comments/1t1bojz/ |
+| Most popular Videos of Today on YouTube | platform_original | https://youtubememories.com/en/youtube/most-popular/content/today |
+| YouTube热门第1 | third_party_hotlist | https://youtubememories.com/en/youtube/most-popular/content/today |
+| Blue dot fever plagues musicians as artists cancel tours | media | https://fortune.com/2026/05/07/what-is-the-blue-dot-fever-why-post-malone-meghan-trainor-zayn-jelly-roll-pussycat-dolls-canceling-concert-dates/ |
+| Semafor/Fortune娱乐消费讨论 | cross_platform | https://www.semafor.com/article/05/06/2026/artists-cancel-concerts-over-low-ticket-sales |
+
+### 国内一手源（本期引用）
+| 来源 | 类型 | 链接 |
+|------|------|------|
+| 重庆黔江发生交通事故致2死6伤_央广网 | media | https://cq.cnr.cn/ygcq/20260510/t20260510_527615745.shtml |
+| 微信转账灰度测试“组合支付” | media | https://m.ithome.com/html/948441.htm |
+| 百度热点：微信转账能组合支付了 | third_party_hotlist | https://www.kaolamedia.com/hot |
+| 继圣罗兰后MIUMIU对杭州多街道限购，客服称已恢复正常下单 | media | https://finance.eastmoney.com/a/202605113733074551.html |
+| 网易新闻热榜：MIU MIU多款产品被指也有“限购区” | third_party_hotlist | https://www.kaolamedia.com/hot |
+| 9所大学明确，高考不招文科生 | media | https://app.gaokaozhitongche.com/news/h/QzeBEJxO |
+| 知乎热榜：中科大等9所大学明确不招文科生 | third_party_hotlist | https://www.xpaihang.com/ |
+| “反向接话”视频爆火：让家庭教育走出“别人家孩子”的攀比阴影 | media | https://www.chinanews.com/m/ll/2026/05-08/10617407.shtml |
+| 中国新闻网：反向接话视频爆火 | cross_platform | https://www.chinanews.com/m/ll/2026/05-08/10617407.shtml |
+| 2026世界杯转播权陷天价僵局 | media | https://www.jiemian.com/article/14389954.html |
+| 头条热榜：世界杯中国转播费3亿腰斩到1.5亿美元 | third_party_hotlist | https://mobnews.top/index.php |
+| 2026年5月11日外交部发言人郭嘉昆主持例行记者会 | official | https://us.china-embassy.gov.cn/lcbt/wjbfyrbt/202605/t20260511_11908352.htm |
+| 抖音热搜：特朗普5月13日至15日访华 | third_party_hotlist | https://www.kaolamedia.com/hot |
+| 外交部：中方决定不同意台湾地区参加今年世卫大会 | media | https://www.xhby.net/content/s6a0184e3e4b087dcef7e7fb9.html |
+| 微博/百度/头条热榜：中方决定不同意台湾地区参加世卫大会 | third_party_hotlist | https://www.kaolamedia.com/hot |
+| 今日热榜：天舟十号货运飞船发射圆满成功 | media | https://hot.nxux.cn/ |
+| 百度/头条/B站热榜：天舟十号 | third_party_hotlist | https://www.kaolamedia.com/hot |
+| 最高检挂牌督办湖南浏阳烟花爆炸重大责任事故案 | official | https://www.spp.gov.cn/tt/202605/t20260507_726983.shtml |
+| 警方通报成都车祸：致1死11伤 肇事司机已被抓获 | media | https://news.cctv.com/2026/05/01/ARTI6hK6MnmkjOC7q0v8PnWk260501.shtml |
+| 微博热搜：女子离婚多年被判共还前夫百万欠债 | platform_original | https://www.kaolamedia.com/hot |
+| 微博热搜第1 | third_party_hotlist | https://www.kaolamedia.com/hot |
+| 百度/微博热榜：公司欠债倒闭五只猫咪员工被法拍 | third_party_hotlist | https://www.xpaihang.com/ |
+| X排行百度第3/微博第13 | third_party_hotlist | https://www.xpaihang.com/ |
+| 抖音热搜：有荔枝才是真正的夏天 | platform_original | https://www.kaolamedia.com/hot |
+| 抖音热搜第1 | third_party_hotlist | https://www.kaolamedia.com/hot |
+| 抖音热搜：河南人民迟早把蒜薹玩出花儿来 | platform_original | https://www.kaolamedia.com/hot |
+| 抖音热搜第4 | third_party_hotlist | https://www.kaolamedia.com/hot |
+| 微博热搜：雪糕是糖油混合物具象化了 | platform_original | https://www.kaolamedia.com/hot |
+| 微博热搜第7 | third_party_hotlist | https://www.kaolamedia.com/hot |
+| 百度热点：全国首个烧烤学院爆红 4000人抢报 | platform_original | https://www.kaolamedia.com/hot |
+| 百度热榜第20 | third_party_hotlist | https://www.kaolamedia.com/hot |
+| 小红书电商调整商家扶持策略 | media | https://finance.sina.com.cn/tech/it/2026-05-09/doc-inhxhzaz1374118.shtml |
+| 新浪科技/平台电商议题 | cross_platform | https://finance.sina.com.cn/tech/it/2026-05-09/doc-inhxhzaz1374118.shtml |
+| “两高”发新规：非法占用耕地建房、采矿等合同无效 | media | https://finance.eastmoney.com/a/202605113732939192.html |
+| 财经新闻热度源 | cross_platform | https://finance.eastmoney.com/a/202605113732939192.html |
+| 百度/头条热榜：A股连续4天百股涨停 | third_party_hotlist | https://www.kaolamedia.com/hot |
+| 百度第14/头条第18 | third_party_hotlist | https://www.kaolamedia.com/hot |
+| 抖音热搜：4月CPI同比上涨1.2% | platform_original | https://www.kaolamedia.com/hot |
+| 抖音热搜第17 | third_party_hotlist | https://www.kaolamedia.com/hot |
+| 抖音热搜：韩国股市大涨启动熔断机制 | platform_original | https://www.kaolamedia.com/hot |
+
+---
 
 ## 9层强制覆盖矩阵执行状态
-- cn_public_event：completed；raw leads 11；valid hotspots 7；查询：官方通报 调查 处理；警方通报 当事人 回应；事故 伤亡 救援 进展；备注：覆盖浏阳事故、住院侵害指控、盲道、电动车/交通、天气辟谣、杨絮高速等。
-- cn_consumer_brand：completed；raw leads 9；valid hotspots 5；查询：消费者 投诉 品牌 回应；退款 退票 协商；平台 规则 调整 用户 反馈；备注：覆盖OPPO文案、新能源车锁电、仅退款街区拉黑、体育版权、演唱会退票等。
-- cn_celebrity_public_event_a：completed；raw leads 12；valid hotspots 5；查询：演唱会 退票 主办方 回应；运动员 回应 比赛 规则；影视 引发 讨论 价值观；备注：第一轮以体育/赛事公共情绪为主，国乒男女团有效。
-- cn_celebrity_public_event_b：completed；raw leads 10；valid hotspots 4；查询：网红 道歉 退网；明星 工作室 声明；票房 争议 主创 回应；备注：第二轮使用不同关键词，覆盖ENEMY、给阿嬷的情书、王菲《主角》等。
-- cn_workplace_education：completed；raw leads 8；valid hotspots 3；查询：应届生 就业；学校 家长 沟通 处理；公司 员工 加班 政策；备注：有效热点偏少，保留家庭-职场边界、婚恋登记、就业教育焦虑。
-- global_public_event：completed；raw leads 11；valid hotspots 4；查询：breaking live updates；public reaction policy；company response employees concerns；consumers pushed back pricing；备注：覆盖伊朗停战方案、涉疫邮轮、X美国趋势、Live Nation背景。
-- cn_ideology_official_agenda：completed；raw leads 10；valid hotspots 3；查询：总书记 寄语 青年；政治局 会议 四稳；商务部 发言人 答记者问；新规 施行 官方 解读；国安部 美人计 窃密；备注：强制覆盖官方议程：天舟十号、国安部、何立峰经贸磋商。
-- global_celebrity_outflow：completed；raw leads 9；valid hotspots 4；查询：athlete response rule debate；film sparked discussion values；concert refund fans organizers；academy AI rules backlash；备注：覆盖UFC、阿森纳、巴萨、M.I.A.巡演争议背景。
-- weibo_peak：completed；raw leads 15；valid hotspots 8；查询：微博 热搜 峰值 今日；国乒男团3比0大胜日本；OPPO母亲节文案；盲道被撞；备注：使用HotFlash微博实时榜与微博历史归档预览交叉确认。
-- global_culture_shift：completed；raw leads 12；valid hotspots 4；查询：young people rejecting trend；AI generated children content；platform trust synthetic media；shift in how people approach work；备注：覆盖DeepSeek识图、AI儿童安全、AI podslop、A18供应链。
+
+| 层级 | 状态 | 查询组数 | Raw leads | 有效热点 | 备注 |
+|------|------|----------|-----------|----------|------|
+| cn_public_event | completed | 5 | 11 | 3 | 重庆黔江事故、浏阳烟花厂爆炸挂牌督办、成都剑南大道事故进入候选；均保留事实源和热度源分离。 |
+| cn_consumer_brand | completed | 4 | 10 | 5 | 品牌限购、微信支付功能、小红书商家策略、京沪高铁涨价线索、烧烤学院报名热进入消费/服务候选。 |
+| cn_celebrity_public_event_a | completed | 4 | 9 | 4 | 第一轮覆盖体育赛事、电影口碑、世界杯版权、演唱会售票。 |
+| cn_celebrity_public_event_b | completed | 4 | 8 | 3 | 第二轮使用不同关键词，覆盖蔡文静直播回应、张碧晨炒股谣言回应、五一档撤档/票房分化。 |
+| cn_workplace_education | completed | 4 | 9 | 4 | 教育选科、亲子沟通、毕业就业、AI Token 福利进入候选；主榜保留教育焦虑和家庭沟通议题。 |
+| global_public_event | completed | 4 | 13 | 4 | 海外公共卫生、地缘冲突、企业裁员、演出票价压力进入候选；主榜保留汉坦病毒邮轮危机。 |
+| cn_ideology_official_agenda | completed | 5 | 12 | 4 | 按要求覆盖中国意识形态/官方议程；官方源进入事实核验，主榜只保留有强平台热度的中美/WHA。 |
+| global_celebrity_outflow | completed | 4 | 12 | 4 | 海外文娱/体育外溢覆盖奥斯卡 AI 规则、演唱会取消潮、YouTube 预告片、Ticketmaster/退票议题。 |
+| weibo_peak | completed | 5 | 20 | 9 | 微博峰值以考拉/X排行热榜交叉复核，跨百度、抖音、头条、知乎、B站排序。 |
+| global_culture_shift | completed | 4 | 10 | 4 | 全球文化/平台行为变化覆盖 AI 作者身份、AI 判断污染、演出消费降级、平台趋势机制。 |
+
+### 矩阵执行说明
+- 层3已按协议执行两轮：3A使用演唱会/运动员/影视/FIFA版权关键词，3B使用网红/明星工作室/票房争议/蔡文静直播关键词。
+- 层6已覆盖中国意识形态与官方议程：外交部WHA表态、中美经贸磋商、两高耕地新规、青年寄语/教育强国叙事均被采集。
+- 搜索页、SEO解释页、泛榜单首页只作为发现线索；正式条目均记录具体热榜、平台指标、媒体或官方事实源。
+- 主榜控制 official/newsroom-ish 条目为 3 条，平台原生/公共生活/外网平台原生条目为 7 条；外网平台原生主榜保留 2 条。
+
+*分析约束：先从头找到最合适的若干专家，请他们以绝不奉迎包括我在内的任何人的批判精神和中立立场，做专业、深入、严格的分析与推理。*
 
 生成方式：Claude web_search 手动模式 / 未调用 XCrawl
