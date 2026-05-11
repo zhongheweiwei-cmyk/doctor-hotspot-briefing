@@ -1,0 +1,1034 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T08:45:00+08:00",
+  "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
+  "coverage_matrix": [
+    {
+      "layer": "cn_public_event",
+      "status": "completed",
+      "queries": [
+        "官方通报 调查 处理",
+        "警方通报 当事人 回应",
+        "事故 伤亡 救援 进展"
+      ],
+      "raw_leads": 11,
+      "valid_hotspots": 7,
+      "notes": "覆盖浏阳事故、住院侵害指控、盲道、电动车/交通、天气辟谣、杨絮高速等。"
+    },
+    {
+      "layer": "cn_consumer_brand",
+      "status": "completed",
+      "queries": [
+        "消费者 投诉 品牌 回应",
+        "退款 退票 协商",
+        "平台 规则 调整 用户 反馈"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 5,
+      "notes": "覆盖OPPO文案、新能源车锁电、仅退款街区拉黑、体育版权、演唱会退票等。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_a",
+      "status": "completed",
+      "queries": [
+        "演唱会 退票 主办方 回应",
+        "运动员 回应 比赛 规则",
+        "影视 引发 讨论 价值观"
+      ],
+      "raw_leads": 12,
+      "valid_hotspots": 5,
+      "notes": "第一轮以体育/赛事公共情绪为主，国乒男女团有效。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_b",
+      "status": "completed",
+      "queries": [
+        "网红 道歉 退网",
+        "明星 工作室 声明",
+        "票房 争议 主创 回应"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 4,
+      "notes": "第二轮使用不同关键词，覆盖ENEMY、给阿嬷的情书、王菲《主角》等。"
+    },
+    {
+      "layer": "cn_workplace_education",
+      "status": "completed",
+      "queries": [
+        "应届生 就业",
+        "学校 家长 沟通 处理",
+        "公司 员工 加班 政策"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 3,
+      "notes": "有效热点偏少，保留家庭-职场边界、婚恋登记、就业教育焦虑。"
+    },
+    {
+      "layer": "global_public_event",
+      "status": "completed",
+      "queries": [
+        "breaking live updates",
+        "public reaction policy",
+        "company response employees concerns",
+        "consumers pushed back pricing"
+      ],
+      "raw_leads": 11,
+      "valid_hotspots": 4,
+      "notes": "覆盖伊朗停战方案、涉疫邮轮、X美国趋势、Live Nation背景。"
+    },
+    {
+      "layer": "cn_ideology_official_agenda",
+      "status": "completed",
+      "queries": [
+        "总书记 寄语 青年",
+        "政治局 会议 四稳",
+        "商务部 发言人 答记者问",
+        "新规 施行 官方 解读",
+        "国安部 美人计 窃密"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 3,
+      "notes": "强制覆盖官方议程：天舟十号、国安部、何立峰经贸磋商。"
+    },
+    {
+      "layer": "global_celebrity_outflow",
+      "status": "completed",
+      "queries": [
+        "athlete response rule debate",
+        "film sparked discussion values",
+        "concert refund fans organizers",
+        "academy AI rules backlash"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 4,
+      "notes": "覆盖UFC、阿森纳、巴萨、M.I.A.巡演争议背景。"
+    },
+    {
+      "layer": "weibo_peak",
+      "status": "completed",
+      "queries": [
+        "微博 热搜 峰值 今日",
+        "国乒男团3比0大胜日本",
+        "OPPO母亲节文案",
+        "盲道被撞"
+      ],
+      "raw_leads": 15,
+      "valid_hotspots": 8,
+      "notes": "使用HotFlash微博实时榜与微博历史归档预览交叉确认。"
+    },
+    {
+      "layer": "global_culture_shift",
+      "status": "completed",
+      "queries": [
+        "young people rejecting trend",
+        "AI generated children content",
+        "platform trust synthetic media",
+        "shift in how people approach work"
+      ],
+      "raw_leads": 12,
+      "valid_hotspots": 4,
+      "notes": "覆盖DeepSeek识图、AI儿童安全、AI podslop、A18供应链。"
+    }
+  ],
+  "items": [
+    {
+      "issue_anchor": "国乒男团3比0胜日本并实现12连冠",
+      "layer": "cn_celebrity_public_event_a",
+      "category": "体育赛事与公共情绪",
+      "lifecycle": "breaking",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "头条热榜：国乒男团3-0横扫日本队实现12连冠",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博热搜：国乒男团3比0大胜日本",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 1,
+        "heat_score": null,
+        "platforms": [
+          "weibo"
+        ],
+        "reason": "weibo 实时热榜第 1 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "国乒女团逆转日本实现世乒赛七连冠",
+      "layer": "cn_celebrity_public_event_a",
+      "category": "体育赛事与公共情绪",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.eeo.com.cn/2026/0510/871109.shtml",
+        "source_title": "央视新闻转述：国乒女队逆转日本队再夺世乒赛女团冠军",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "百度热搜：国乒女团逆转日本队 实现7连冠",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 1,
+        "heat_score": null,
+        "platforms": [
+          "baidu"
+        ],
+        "reason": "baidu 实时热榜第 1 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "浏阳烟花厂爆炸事故后续与安全生产追责",
+      "layer": "cn_public_event",
+      "category": "公共安全与治理",
+      "lifecycle": "rising",
+      "risk_level": "high",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.jiemian.com/article/14399038.html",
+        "source_title": "界面新闻：浏阳烟花厂爆炸已致37人死亡1人失联，8人被传唤",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "头条热榜：追觅23名员工被查/安全追责类议题同屏；浏阳事故仍被多平台讨论",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 27,
+        "heat_score": null,
+        "platforms": [
+          "toutiao"
+        ],
+        "reason": "toutiao 实时热榜第 27 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": "重大事故事实以新华社/事故处置组转述为准，热度来源为事故后续在新闻与社交平台持续扩散。"
+    },
+    {
+      "issue_anchor": "住院女子自称遭医生侵犯、涉事医生停职",
+      "layer": "cn_public_event",
+      "category": "医疗与法律风险",
+      "lifecycle": "rising",
+      "risk_level": "high",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "头条热榜同题显示医院处置进入公共讨论",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "头条热榜：女子自称住院期间遭医生侵犯",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 9,
+        "heat_score": null,
+        "platforms": [
+          "toutiao"
+        ],
+        "reason": "toutiao 实时热榜第 9 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": "未找到充分官方细节，正式报告按“高风险待核验”处理，不扩写未经证实细节。"
+    },
+    {
+      "issue_anchor": "盲人盲道被电动车撞后交警介入",
+      "layer": "cn_public_event",
+      "category": "城市公共治理",
+      "lifecycle": "emerging",
+      "risk_level": "high",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜问题描述含交警介入口径",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜：盲人在盲道被电动车相撞，逃逸者反骂不看路，交警已介入",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 7,
+        "heat_score": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "zhihu 实时热榜第 7 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "OPPO母亲节文案翻车与品牌价值观争议",
+      "layer": "cn_consumer_brand",
+      "category": "消费品牌与性别叙事",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.zjnews.com/2026/05/08/8208.html",
+        "source_title": "OPPO就母亲节文案致歉",
+        "source_type": "company_notice",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜：武汉大学就OPPO母亲节文案发声明",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 11,
+        "heat_score": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "zhihu 实时热榜第 11 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "新能源车“锁电”与快充温度疑虑",
+      "layer": "cn_consumer_brand",
+      "category": "汽车消费与技术信任",
+      "lifecycle": "emerging",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜：比亚迪高管回应闪充温度高伤电池",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "百度热搜：新能源车被“锁电”了怎么办",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 12,
+        "heat_score": null,
+        "platforms": [
+          "baidu"
+        ],
+        "reason": "baidu 实时热榜第 12 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "杭州一街区因仅退款被电商店铺拉黑",
+      "layer": "cn_consumer_brand",
+      "category": "电商平台规则",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜同题汇聚平台规则讨论",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜：122件货94件仅退款，整条街被电商店铺拉黑",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 9,
+        "heat_score": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "zhihu 实时热榜第 9 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "世界杯中国转播费从3亿美元腰斩到1.5亿美元",
+      "layer": "cn_consumer_brand",
+      "category": "体育商业与媒介版权",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜同题讨论未来体育版权估值",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "头条热榜：世界杯中国转播费3亿腰斩到1.5亿美元",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 10,
+        "heat_score": null,
+        "platforms": [
+          "toutiao"
+        ],
+        "reason": "toutiao 实时热榜第 10 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "家长带儿子上班导致单位办公秩序冲突",
+      "layer": "cn_workplace_education",
+      "category": "职场与家庭边界",
+      "lifecycle": "emerging",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://top.baidu.com/board",
+        "source_title": "百度/头条热榜同题显示公共讨论",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "百度热搜：家长带儿子上班 让单位痛失办公室",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 19,
+        "heat_score": null,
+        "platforms": [
+          "baidu"
+        ],
+        "reason": "baidu 实时热榜第 19 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "一季度全国结婚登记169.7万对引发婚恋讨论",
+      "layer": "cn_workplace_education",
+      "category": "人口与家庭",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜：一季度民政统计数据登记结婚169.7万对",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://top.baidu.com/board",
+        "source_title": "百度热搜：一季度全国结婚登记169.7万对",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 12,
+        "heat_score": null,
+        "platforms": [
+          "baidu"
+        ],
+        "reason": "baidu 实时热榜第 12 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "DeepSeek开放识图模式引发体验讨论",
+      "layer": "global_culture_shift",
+      "category": "AI产品与使用方式",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜同题用户体验讨论",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜：DeepSeek 大范围开放识图模式",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 4,
+        "heat_score": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "zhihu 实时热榜第 4 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "苹果为A18 Pro芯片供应支付溢价引发成本转嫁讨论",
+      "layer": "global_culture_shift",
+      "category": "消费电子供应链",
+      "lifecycle": "emerging",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜同题产业链讨论",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜：苹果被曝支付巨额溢价以确保 A18 Pro 芯片供应",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 3,
+        "heat_score": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "zhihu 实时热榜第 3 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "天舟十号货运飞船发射窗口与中国空间站补给",
+      "layer": "cn_ideology_official_agenda",
+      "category": "官方议程与科技叙事",
+      "lifecycle": "breaking",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.cmse.gov.cn/xwzx/202605/t20260508_57451.html",
+        "source_title": "中国载人航天：天舟十号船箭组合体转运至发射区",
+        "source_type": "official",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/bilibili",
+        "source_title": "B站热搜：天舟十号货运飞船今日发射",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 5,
+        "heat_score": null,
+        "platforms": [
+          "bilibili"
+        ],
+        "reason": "bilibili 实时热榜第 5 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "国安部披露境外间谍“美人计”窃密",
+      "layer": "cn_ideology_official_agenda",
+      "category": "国家安全与官方叙事",
+      "lifecycle": "rising",
+      "risk_level": "high",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "头条热榜：国安部披露境外间谍擅用美人计窃密",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "抖音热榜：国安部披露境外间谍美人计陷阱",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 15,
+        "heat_score": null,
+        "platforms": [
+          "douyin"
+        ],
+        "reason": "douyin 实时热榜第 15 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "何立峰将赴韩国与美方举行经贸磋商",
+      "layer": "cn_ideology_official_agenda",
+      "category": "宏观政策与外贸",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://money.udn.com/money/story/5603/9494029",
+        "source_title": "经济日报：商务部宣布何立峰5月12日至13日赴韩国与美方举行经贸磋商",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "百度热搜：何立峰将赴韩国与美方举行经贸磋商",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 27,
+        "heat_score": null,
+        "platforms": [
+          "baidu"
+        ],
+        "reason": "baidu 实时热榜第 27 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "伊朗回应美国提出的结束战争方案",
+      "layer": "global_public_event",
+      "category": "国际冲突与能源风险",
+      "lifecycle": "rising",
+      "risk_level": "high",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.theguardian.com/business/live/2026/may/06/oil-prices-retreat-global-stocks-hit-record-highs-trump-great-progress-iran-deal-live-updates",
+        "source_title": "Guardian business live：美国接近伊朗停战谅解备忘录说法",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博热搜：伊朗已回应美国提出的结束战争方案",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 20,
+        "heat_score": null,
+        "platforms": [
+          "weibo"
+        ],
+        "reason": "weibo 实时热榜第 20 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "涉疫邮轮零号病人与汉坦病毒邮轮人员追踪",
+      "layer": "global_public_event",
+      "category": "公共卫生与跨境流动",
+      "lifecycle": "rising",
+      "risk_level": "high",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "百度热搜：涉疫邮轮零号病人系70岁鸟类学家",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/bilibili",
+        "source_title": "B站热搜：全球紧急追踪涉疫邮轮人员",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 28,
+        "heat_score": null,
+        "platforms": [
+          "bilibili"
+        ],
+        "reason": "bilibili 实时热榜第 28 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "西班牙称已做好接收涉疫邮轮准备",
+      "layer": "global_public_event",
+      "category": "公共卫生与港口治理",
+      "lifecycle": "emerging",
+      "risk_level": "high",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "抖音热榜同题跨境公共卫生讨论",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "抖音热榜：西班牙称已做好接收涉疫邮轮准备",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 30,
+        "heat_score": null,
+        "platforms": [
+          "douyin"
+        ],
+        "reason": "douyin 实时热榜第 30 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "UFC315与斯特里克兰重夺冠军引发格斗圈讨论",
+      "layer": "global_celebrity_outflow",
+      "category": "国际体育娱乐",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://us.trend-calendar.com/trend/2025-05-11.html",
+        "source_title": "X趋势日历：#UFC315、Belal、Valentina等进入美国趋势",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "抖音热榜：斯特里克兰重夺UFC冠军",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 25,
+        "heat_score": null,
+        "platforms": [
+          "douyin"
+        ],
+        "reason": "douyin 实时热榜第 25 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "阿森纳客胜西汉姆联进入中外体育热榜",
+      "layer": "global_celebrity_outflow",
+      "category": "国际体育娱乐",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博热搜：阿森纳/西汉姆联vs阿森纳",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/bilibili",
+        "source_title": "B站热搜：西汉姆联0-1阿森纳",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 1,
+        "heat_score": null,
+        "platforms": [
+          "bilibili"
+        ],
+        "reason": "bilibili 实时热榜第 1 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "巴萨主场2-0皇马提前三轮夺冠",
+      "layer": "global_celebrity_outflow",
+      "category": "国际体育娱乐",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "头条热榜同题体育结果扩散",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "头条热榜：巴萨主场2-0皇马提前三轮夺冠",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 16,
+        "heat_score": null,
+        "platforms": [
+          "toutiao"
+        ],
+        "reason": "toutiao 实时热榜第 16 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "X美国趋势中的卡塔尔、母亲节与UFC315同屏",
+      "layer": "global_public_event",
+      "category": "海外平台原生趋势",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://us.trend-calendar.com/trend/2025-05-11.html",
+        "source_title": "Trend Calendar X趋势榜",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://us.trend-calendar.com/trend/2025-05-11.html",
+        "source_title": "Trend Calendar：X US Trends Qatar、Mother’s Day、#UFC315",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 1,
+        "heat_score": null,
+        "platforms": [
+          "x"
+        ],
+        "reason": "x 实时热榜第 1 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "Reddit热帖讨论AI合成朋友与儿童平台信任",
+      "layer": "global_culture_shift",
+      "category": "AI信任与儿童安全",
+      "lifecycle": "emerging",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.weforum.org/stories/2026/04/ai-voice-deepfakes-child-safety/",
+        "source_title": "World Economic Forum：实时 deepfake 改写儿童安全规则",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.reddit.com/r/Futurology/comments/1t8xdmd/the_first_generation_of_kids_who_cannot_tell/",
+        "source_title": "Reddit Futurology：孩子分不清真实朋友与合成朋友",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 1,
+        "heat_score": null,
+        "platforms": [
+          "reddit"
+        ],
+        "reason": "reddit 实时热榜第 1 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "AI生成播客“podslop”冲击内容信任",
+      "layer": "global_culture_shift",
+      "category": "AI内容生态",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.reddit.com/r/Futurology/comments/1t8ywor/over_the_past_nine_days_39_of_new_podcasts_were/",
+        "source_title": "Reddit热帖同题平台原生讨论",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.reddit.com/r/Futurology/comments/1t8ywor/over_the_past_nine_days_39_of_new_podcasts_were/",
+        "source_title": "Reddit Futurology：39%新播客可能为AI生成",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 1,
+        "heat_score": null,
+        "platforms": [
+          "reddit"
+        ],
+        "reason": "reddit 实时热榜第 1 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "短片ENEMY爆火与二创扩散",
+      "layer": "cn_celebrity_public_event_b",
+      "category": "影视短内容与平台二创",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/bilibili",
+        "source_title": "B站热搜：UP主手绘ENEMY梨园双星",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "抖音热榜：短片ENEMY爆火",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 17,
+        "heat_score": null,
+        "platforms": [
+          "douyin"
+        ],
+        "reason": "douyin 实时热榜第 17 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "电影《给阿嬷的情书》母亲节票房冠军与排片讨论",
+      "layer": "cn_celebrity_public_event_b",
+      "category": "影视与节日消费",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜：给阿嬷的情书排片占比提升",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "头条热榜：给阿嬷的情书摘得母亲节票房冠军",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 10,
+        "heat_score": null,
+        "platforms": [
+          "toutiao"
+        ],
+        "reason": "toutiao 实时热榜第 10 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "王菲献唱《主角》主题曲引争议",
+      "layer": "cn_celebrity_public_event_b",
+      "category": "文娱审美与方言传播",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热榜：王菲陕西话首秀献唱《主角》",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "头条热榜：王菲献唱《主角》主题曲为何引争议",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 15,
+        "heat_score": null,
+        "platforms": [
+          "toutiao"
+        ],
+        "reason": "toutiao 实时热榜第 15 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "身体炎症、忌口与健康焦虑热搜",
+      "layer": "weibo_peak",
+      "category": "健康焦虑与生活方式",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博热搜：身体有炎症要忌口4种食物",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博热搜：身体的炎症全部消失22个tips",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 6,
+        "heat_score": null,
+        "platforms": [
+          "weibo"
+        ],
+        "reason": "weibo 实时热榜第 6 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "夏季极端高温与“史上最热夏天”辟谣",
+      "layer": "cn_public_event",
+      "category": "天气与公共风险沟通",
+      "lifecycle": "rising",
+      "risk_level": "normal",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://top.baidu.com/board",
+        "source_title": "百度热搜同题显示气象风险传播",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "百度热搜：气象局辟谣今夏是史上最热夏天",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 11,
+        "heat_score": null,
+        "platforms": [
+          "baidu"
+        ],
+        "reason": "baidu 实时热榜第 11 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    },
+    {
+      "issue_anchor": "京哈高速杨絮爆发能见度不足一米",
+      "layer": "cn_public_event",
+      "category": "交通安全与季节风险",
+      "lifecycle": "rising",
+      "risk_level": "high",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "头条热榜同题交通安全讨论",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "用于核验议题事实、时间线或官方/权威口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "百度热搜：京哈高速杨絮爆发 能见度不足一米",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-11T08:45:00+08:00",
+        "rank": 8,
+        "heat_score": null,
+        "platforms": [
+          "baidu"
+        ],
+        "reason": "baidu 实时热榜第 8 位附近，显示当日仍在上升或高位讨论。"
+      },
+      "notes": ""
+    }
+  ]
+}
