@@ -1,0 +1,1149 @@
+{
+  "date": "2026-05-12",
+  "collected_at": "2026-05-12T09:30:00+08:00",
+  "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
+  "protocol": "doctor-hotspot-briefing websearch_collection_protocol.md",
+  "raw_leads_total": 76,
+  "valid_items_total": 30,
+  "heat_verified_total": 30,
+  "fact_verified_total": 30,
+  "coverage_matrix": [
+    {
+      "layer": "cn_public_event",
+      "status": "completed",
+      "queries": [
+        "2026年5月12日 警方通报 女子 遭 男生 冲撞 倒地 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "老人 被判断死亡后 仍有呼吸 当地通报 2026 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "云南砚山 塑料沟渠 回应 整改 2026 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "男子 遭追打 直奔武警营 求救 监控 2026 -榜单 -排行榜 -合集 -教程 -科普 -盘点"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 3,
+      "notes": "命中重庆巫山急救通报、云南砚山整改、男子求救等公共事件；主榜只保留事实核验和热度都更强的医疗急救议题。"
+    },
+    {
+      "layer": "cn_consumer_brand",
+      "status": "completed",
+      "queries": [
+        "胖东来 买电器 国补 后 反贵 11.5元 回应 2026 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "微信 状态 访客记录 灰度 测试 腾讯 客服 回应 2026 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "MIU MIU 限购区 杭州 街道 无法下单 回应 2026 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "演员 张静初 带货 优思益 翻车 47名消费者 退款 起诉 2026 -榜单 -排行榜 -合集 -教程 -科普 -盘点"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 5,
+      "notes": "消费、隐私、退费和区域限购议题均有平台热榜或知乎热榜支撑。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_a",
+      "status": "completed",
+      "queries": [
+        "国乒 男团 12连冠 3比0 日本 世乒赛 2026 热搜 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "巴萨 夺冠 游行 2026 热搜 微博 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "张凌赫 刘宇宁 赴台 交流 邀请 2026 回应 -榜单 -排行榜 -合集 -教程 -科普 -盘点"
+      ],
+      "raw_leads": 7,
+      "valid_hotspots": 3,
+      "notes": "第一轮使用体育、演艺交流、赛事庆祝关键词，避免纯粉圈条目。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_b",
+      "status": "completed",
+      "queries": [
+        "热依扎 回应 暂别演艺圈 2026 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "演员 张静初 带货 优思益 翻车 消费者 退款 起诉 2026 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "给阿嬷的情书 导演 回应 豆瓣 高分 2026 -榜单 -排行榜 -合集 -教程 -科普 -盘点"
+      ],
+      "raw_leads": 6,
+      "valid_hotspots": 2,
+      "notes": "第二轮改用演员、带货、影片反馈关键词；张静初带货争议从娱乐话题转为消费者维权，进入主榜。"
+    },
+    {
+      "layer": "cn_workplace_education",
+      "status": "completed",
+      "queries": [
+        "中科大 9 所 大学 不招 文科生 物理 化学 2026 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "清华硕士 智力测验 25 分 本人回应 2026 智商测试 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "滁州学院 禁外卖 送入校园 学生 反映 2026 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "北京 试点 携自行车 上地铁 票价 30 元 2026 -榜单 -排行榜 -合集 -教程 -科普 -盘点"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 6,
+      "notes": "教育选择、校园管理、通勤政策和职场/存款焦虑均有知乎或百度热榜信号。"
+    },
+    {
+      "layer": "global_public_event",
+      "status": "completed",
+      "queries": [
+        "WHO cruise hantavirus cases 7 9 May 2026 passengers Zero patient Netherlands birdwatcher",
+        "涉疫邮轮 汉坦病毒 病例 增至 9 世卫 2026 5月12",
+        "Trump China state visit May 13 15 2026 public reaction Beijing",
+        "Korea stock market circuit breaker May 2026 surged trading halt"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 3,
+      "notes": "海外公共事件中，汉坦病毒邮轮同时具备 WHO/AP 事实核验和 Reddit/国内平台热度。"
+    },
+    {
+      "layer": "cn_ideology_official_agenda",
+      "status": "completed",
+      "queries": [
+        "总书记 寄语 青年 2026 五四 青年 热议 平台 5月 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "政治局 会议 四稳 2026 5月 官方 解读 热议 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "商务部 发言人 答记者问 2026 5月12 关税 中美 -榜单 -排行榜 -合集 -教程 -科普 -盘点",
+        "外交部 回应 普京 最新 涉华 表态 2026 5月12 -榜单 -排行榜 -合集 -教程 -科普 -盘点"
+      ],
+      "raw_leads": 6,
+      "valid_hotspots": 2,
+      "notes": "层6已覆盖官方议程；特朗普访华和台湾未获世卫大会邀请进入扩展榜，避免挤占主榜民间议题。"
+    },
+    {
+      "layer": "global_celebrity_outflow",
+      "status": "completed",
+      "queries": [
+        "Giannis trade offers Bucks May 2026 trending Reddit",
+        "Barcelona title parade 750000 people May 2026 trending social media",
+        "Cannes Film Festival 2026 backlash AI rules academy May 2026 trending",
+        "concert refund fans organizers backlash May 2026 trending TikTok YouTube"
+      ],
+      "raw_leads": 5,
+      "valid_hotspots": 2,
+      "notes": "海外体育/娱乐外溢保留 Giannis 交易和巴萨夺冠游行，均有平台或国际媒体热度。"
+    },
+    {
+      "layer": "weibo_peak",
+      "status": "completed",
+      "queries": [
+        "微博 热搜 峰值 2026 5月12 微信 状态 访客记录",
+        "微博 热搜 2026 5月12 Deepseek 分析145斤 怎么瘦到100斤",
+        "微博 热搜 警方通报 女子遭男生冲撞倒地",
+        "2026年5月12日 今日热榜 微博 热搜 抖音 热榜 知乎 百度 热搜"
+      ],
+      "raw_leads": 12,
+      "valid_hotspots": 8,
+      "notes": "使用 HotFlashNews 2026-05-12 归档复核微博、百度、知乎、抖音、B站、头条等 19 个平台。"
+    },
+    {
+      "layer": "global_culture_shift",
+      "status": "completed",
+      "queries": [
+        "Reddit mobile web blocked app gray test May 2026 official response",
+        "Reddit Oscars AI rules human authorship May 2026",
+        "AI generated children content platform trust 2026 May",
+        "young people rejecting work trend 2026 May"
+      ],
+      "raw_leads": 7,
+      "valid_hotspots": 4,
+      "notes": "全球平台行为和 AI 内容信任议题以 Reddit、AP、MacRumors/IT之家和知乎热榜为主。"
+    }
+  ],
+  "items": [
+    {
+      "issue_anchor": "微信“显示足迹/状态访客记录”灰测引发隐私焦虑",
+      "category": "行业变化热点",
+      "status": "rising",
+      "board": "main",
+      "report_rank": 1,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/tech/it/2026-05-11/doc-inhxptrf8967016.shtml",
+        "source_title": "微信状态访客记录灰度测试回应",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "报道腾讯客服称该功能并非查询访客功能，证明事件核心事实。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "2026年5月12日全网热搜汇总：微信状态能看访客了？回应来了",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T07:46:19+08:00",
+        "rank": 5,
+        "heat_score": 92000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "weibo",
+          "baidu",
+          "36kr"
+        ],
+        "reason": "同题在微博、百度、36Kr多平台进入热榜，说明正在跨平台发酵。"
+      },
+      "doctor_analysis_value": "同一功能被用户理解为“访客记录”，隐私边界和社交压力被平台改版瞬间放大。",
+      "risk_note": "以灰度测试和客服口径为准，不把内测截图扩展成正式全量上线。"
+    },
+    {
+      "issue_anchor": "重庆巫山老人救治争议：被判断死亡后仍有呼吸，当地立案调查",
+      "category": "强冲突/争议热点",
+      "status": "breaking",
+      "board": "main",
+      "report_rank": 2,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.cctv.com/2026/05/11/ARTICB7gegrG1jXc9fBWAeI8260511.shtml",
+        "source_title": "重庆巫山通报服农药中毒老人救治情况",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "央视转引当地通报，证明救治争议、老人离世和涉事人员调查处理。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "2026年5月12日全网热搜汇总：老人被判断死亡后仍有呼吸 当地通报",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T08:01:52+08:00",
+        "rank": 8,
+        "heat_score": 90000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "baidu",
+          "toutiao",
+          "thepaper"
+        ],
+        "reason": "百度、头条、澎湃热榜同时出现，且标题聚焦急救流程争议。"
+      },
+      "doctor_analysis_value": "公共医疗场景里“死亡判断”和“延误诊治”同时出现，触发普通人对急救流程的底线焦虑。",
+      "risk_note": "涉医疗和责任认定，结论只能依据当地调查、病历和司法/行政处理结果。"
+    },
+    {
+      "issue_anchor": "涉疫邮轮汉坦病毒病例升温，WHO/AP与Reddit形成跨圈传播",
+      "category": "用户搜索热点",
+      "status": "rising",
+      "board": "main",
+      "report_rank": 3,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+        "source_title": "Hantavirus infection in North America and Europe",
+        "source_type": "official",
+        "source_published_at": "2026-05-10T00:00:00+08:00",
+        "reason": "WHO通报证明相关汉坦病毒感染事件及公共卫生信息。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.reddit.com/r/worldnews/comments/1t2ukyf/three_dead_in_suspected_hantavirus_outbreak_on/",
+        "source_title": "Reddit r/worldnews: Three dead in suspected hantavirus outbreak on expedition cruise ship",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-12T09:20:00+08:00",
+        "rank": null,
+        "heat_score": 22706,
+        "views": null,
+        "likes": 22706,
+        "comments": 679,
+        "platforms": [
+          "reddit",
+          "baidu",
+          "douyin",
+          "zhihu"
+        ],
+        "reason": "Reddit互动超过阈值，并在国内百度、抖音、知乎形成二次传播。"
+      },
+      "doctor_analysis_value": "“邮轮、神秘病毒、零号病人、返国乘客”把公共卫生风险转化成全球搜索焦虑。",
+      "risk_note": "汉坦病毒传播路径、病例数和风险等级须以WHO和公共卫生机构更新为准。"
+    },
+    {
+      "issue_anchor": "张静初带货优思益翻车，47名消费者拟集体起诉",
+      "category": "强冲突/争议热点",
+      "status": "rising",
+      "board": "main",
+      "report_rank": 4,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/wm/2026-05-10/doc-inhxmeai7667819.shtml",
+        "source_title": "演员张静初带货优思益翻车，47名消费者退款无门拟集体起诉",
+        "source_type": "media",
+        "source_published_at": "2026-05-10T00:00:00+08:00",
+        "reason": "报道证明消费者维权、退款和拟起诉事实线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.zhihu.com/question/2036793564118480454",
+        "source_title": "知乎热榜：演员张静初带货优思益翻车，47名消费者退款无门拟集体起诉",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-12T08:10:11+08:00",
+        "rank": 15,
+        "heat_score": 88000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "知乎热榜以法律责任和明星背书为问题核心，属于平台原生讨论。"
+      },
+      "doctor_analysis_value": "明星背书、保健品效果、消费者退款难三条线叠加，娱乐事件转为权益事件。",
+      "risk_note": "具体责任需等待诉讼、合同、广告合规和产品功效证据。"
+    },
+    {
+      "issue_anchor": "MIU MIU多款产品被指存在“限购区”，杭州多个街道无法下单",
+      "category": "强冲突/争议热点",
+      "status": "rising",
+      "board": "main",
+      "report_rank": 5,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/wm/2026-05-11/doc-inhxnwmt0589264.shtml",
+        "source_title": "奢侈品牌MIU MIU多款产品被指也有“限购区”",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "报道证明被指限购区、杭州街道地址无法下单等事实。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "HotFlashNews：奢侈品牌MIU MIU多款产品被指也有“限购区”",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T00:03:30+08:00",
+        "rank": 4,
+        "heat_score": 87000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "thepaper",
+          "weibo",
+          "baidu"
+        ],
+        "reason": "澎湃热榜高位出现，消费权益议题具备跨平台扩散基础。"
+      },
+      "doctor_analysis_value": "奢侈品牌的区域交易规则被普通地址测试拆开，平台合规和消费平等迅速变成公共议题。",
+      "risk_note": "需要区分物流限制、风控规则、品牌策略和真实歧视性销售限制。"
+    },
+    {
+      "issue_anchor": "北京试点携自行车上地铁，30元/次引发通勤公平讨论",
+      "category": "真实生活问题热点",
+      "status": "rising",
+      "board": "main",
+      "report_rank": 6,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.ce.cn/xwzx/gnsz/gdxw/202605/t20260511_2957990.shtml",
+        "source_title": "北京试点携自行车上地铁，票价30元/次",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "报道证明试点服务、票价和基本规则。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.zhihu.com/question/2037114683254125447",
+        "source_title": "知乎热榜：北京试点携自行车上地铁，票价30元/次",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-12T08:10:11+08:00",
+        "rank": 10,
+        "heat_score": 85000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "知乎热榜围绕是否支持全国推广展开，具备真实通勤需求讨论。"
+      },
+      "doctor_analysis_value": "绿色出行、地铁容量、付费门槛和通勤效率在同一个具体价格上发生冲突。",
+      "risk_note": "试点服务范围、车辆类型、时段限制和安全规则需以官方/运营方公告为准。"
+    },
+    {
+      "issue_anchor": "中科大等9所大学专业选科趋严，“不招文科生”触发高中路线焦虑",
+      "category": "用户搜索热点",
+      "status": "rising",
+      "board": "main",
+      "report_rank": 7,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://app.gaokaozhitongche.com/news/h/QzeBEJxO",
+        "source_title": "中科大等9所大学专业选科要求讨论",
+        "source_type": "media",
+        "source_published_at": null,
+        "reason": "教育媒体整理高校选科要求，证明议题基础。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.zhihu.com/question/2037151014969681469",
+        "source_title": "知乎热榜：中科大等9所大学明确不招文科生",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-12T00:03:30+08:00",
+        "rank": 13,
+        "heat_score": 84000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "知乎热榜问题直接围绕高中生是否弃文从理，搜索和决策焦虑强。"
+      },
+      "doctor_analysis_value": "高校专业选科要求把“文理选择”从兴趣问题变成升学路径和家庭风险管理问题。",
+      "risk_note": "“不招文科生”是舆论概括，应回到各校招生专业和选考科目公告逐项核对。"
+    },
+    {
+      "issue_anchor": "Giannis交易报价传闻升温，NBA球星流动性再次成为平台原生热点",
+      "category": "平台流量热点",
+      "status": "rising",
+      "board": "main",
+      "report_rank": 8,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.hoopsrumors.com/2026/05/giannis-trade-rumors-celtics-magic-blazers-hawks-more.html",
+        "source_title": "Giannis Trade Rumors: Celtics, Magic, Blazers, Hawks, More",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "NBA交易媒体汇总并核验传闻框架和涉及球队。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.reddit.com/r/nba/comments/1ta8pgp/the_bucks_have_openly_taken_offers_for_giannis/",
+        "source_title": "Reddit r/nba: The Bucks have openly taken offers for Giannis",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-12T09:20:00+08:00",
+        "rank": null,
+        "heat_score": 1532,
+        "views": null,
+        "likes": 1532,
+        "comments": 452,
+        "platforms": [
+          "reddit",
+          "toutiao"
+        ],
+        "reason": "Reddit互动超过社区平台评论阈值，中文头条也进入趋势。"
+      },
+      "doctor_analysis_value": "超级球星、交易窗口、球队资产定价三者叠加，天然适配Reddit长讨论和中文体育平台二次传播。",
+      "risk_note": "目前是交易传闻和媒体报道，非官方交易完成。"
+    },
+    {
+      "issue_anchor": "胖东来买电器“国补后反贵11.5元”，补贴信任被小额差价击穿",
+      "category": "强冲突/争议热点",
+      "status": "emerging",
+      "board": "main",
+      "report_rank": 9,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.china.com/socialgd/10000169/20260508/49479981.html",
+        "source_title": "胖东来买电器国补后反贵11.5元",
+        "source_type": "media",
+        "source_published_at": "2026-05-08T00:00:00+08:00",
+        "reason": "报道证明消费者投诉和价格差异说法。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "HotFlashNews：胖东来买电器国补后反贵11.5元",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T00:31:55+08:00",
+        "rank": 29,
+        "heat_score": 82000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "baidu"
+        ],
+        "reason": "百度热榜出现，说明消费者补贴信任议题进入大众搜索。"
+      },
+      "doctor_analysis_value": "金额不大，但补贴、标价、到手价和消费者信任之间的计算链条被公开质疑。",
+      "risk_note": "需区分促销叠加、比价时间、型号配置和门店解释，不直接推断系统性违规。"
+    },
+    {
+      "issue_anchor": "清华硕士瑞文智测仅25分本人回应，智商测试可信度成知乎热议",
+      "category": "用户搜索热点",
+      "status": "rising",
+      "board": "main",
+      "report_rank": 10,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://m.sohu.com/a/1021249573_121448078",
+        "source_title": "清华硕士参与智力测验仅得25分，本人回应",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "报道证明当事人回应和测试结果引发讨论。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.zhihu.com/question/2037104805538182041",
+        "source_title": "知乎热榜：清华硕士参与智力测验仅得25分",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-12T08:10:11+08:00",
+        "rank": 4,
+        "heat_score": 81000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "知乎高位热榜触发关于智商测试、学历和现实能力的长讨论。"
+      },
+      "doctor_analysis_value": "高学历与低测试分的反差让大众把“智商测试”和真实能力之间的关系重新拿出来审问。",
+      "risk_note": "单次网络测验不能代表临床智力评估，也不应被用于人身标签化。"
+    },
+    {
+      "issue_anchor": "汶川地震18周年：惊天一跳、未发短信与幸存者记忆多平台刷屏",
+      "category": "真实生活问题热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 11,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "2026年5月12日全网热搜汇总：汶川地震18周年",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-12T00:03:30+08:00",
+        "reason": "热榜归档证明纪念节点和相关故事今日被多平台推高。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "微博/百度/B站/头条多平台汶川纪念热榜",
+        "source_type": "cross_platform",
+        "observed_at": "2026-05-12T07:46:19+08:00",
+        "rank": 1,
+        "heat_score": 80000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "weibo",
+          "baidu",
+          "bilibili",
+          "toutiao"
+        ],
+        "reason": "多个平台同日高位出现，属于纪念节点驱动的跨平台热度。"
+      },
+      "doctor_analysis_value": "纪念节点通过个人故事而不是宏大叙事进入平台分发。",
+      "risk_note": "纪念类内容需避免未经核实的二次创作和消费苦难。"
+    },
+    {
+      "issue_anchor": "国乒男团3比0日本实现世乒赛12连冠，赛后复盘持续扩散",
+      "category": "平台流量热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 12,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.sohu.com/a/1020827271_267106",
+        "source_title": "3比0战胜日本，中国队实现世乒赛男团12连冠",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "报道证明比赛结果和冠军事实。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "HotFlashNews：国乒男团世乒赛12连冠赛后复盘",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T00:03:30+08:00",
+        "rank": 7,
+        "heat_score": 79000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "bilibili",
+          "weibo",
+          "thepaper"
+        ],
+        "reason": "体育结果在B站和新闻热榜持续出现，证明赛后复盘热度。"
+      },
+      "doctor_analysis_value": "冠军事实叠加中日对抗叙事，带动短视频复盘和体育社区讨论。",
+      "risk_note": "不要把体育胜负上升为过度民族情绪。"
+    },
+    {
+      "issue_anchor": "巴萨夺冠游行登上微博，海外体育庆祝场景被中文平台二次传播",
+      "category": "平台流量热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 13,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.houstonchronicle.com/sports/article/750-000-people-take-to-the-streets-to-celebrate-22253821.php",
+        "source_title": "750,000 people take to the streets to celebrate Barcelona title",
+        "source_type": "wire",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "国际媒体报道游行规模和庆祝事实。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "HotFlashNews微博热搜：巴萨夺冠游行",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T08:35:19+08:00",
+        "rank": 9,
+        "heat_score": 78000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "weibo"
+        ],
+        "reason": "海外体育庆祝进入微博热搜前列，证明中文平台外溢热度。"
+      },
+      "doctor_analysis_value": "夺冠游行的城市仪式感和球迷视觉内容适合短视频与热搜传播。",
+      "risk_note": "人数和现场秩序以当地官方和主流媒体报道为准。"
+    },
+    {
+      "issue_anchor": "特朗普5月13日至15日访华成为中美关系高关注节点",
+      "category": "行业变化热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 14,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://us.china-embassy.gov.cn/chn/zmgx_1/zxxx/202605/t20260511_11908556.htm",
+        "source_title": "美国总统特朗普将于5月13日至15日访华",
+        "source_type": "official",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "官方发布证明访华时间和事件事实。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.zhihu.com/question/2037095315845664890",
+        "source_title": "知乎热榜：美国总统特朗普将于5月13日至15日访华",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-12T00:03:30+08:00",
+        "rank": 9,
+        "heat_score": 78000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu",
+          "baidu"
+        ],
+        "reason": "知乎和百度均有高位讨论，平台关注与官方议程同向。"
+      },
+      "doctor_analysis_value": "国事访问、贸易科技议题和平台民间预期叠加，政策事实强、平台讨论也明显。",
+      "risk_note": "会谈成果、议程安排和表态须以中美官方发布为准。"
+    },
+    {
+      "issue_anchor": "台湾未获世卫大会邀请，中方回应进入抖音热榜",
+      "category": "行业变化热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 15,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://us.china-embassy.gov.cn/lcbt/wjbfyrbt/202605/t20260511_11908352.htm",
+        "source_title": "外交部例行记者会相关回应",
+        "source_type": "official",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "官方记者会证明中方回应事实。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "HotFlashNews抖音热榜：中方回应台湾未收到世卫大会邀请",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T00:03:30+08:00",
+        "rank": 24,
+        "heat_score": 75000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "douyin"
+        ],
+        "reason": "抖音热榜出现，但属于官方议程型扩散，扩展榜处理。"
+      },
+      "doctor_analysis_value": "官方议程通过短视频标题进入公共讨论，但平台活人气弱于主榜生活议题。",
+      "risk_note": "涉外交和两岸表述，须严格引用官方口径。"
+    },
+    {
+      "issue_anchor": "滁州学院禁外卖送入校园，校园管理和学生便利再起争议",
+      "category": "真实生活问题热点",
+      "status": "emerging",
+      "board": "extended",
+      "report_rank": 16,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://m.sohu.com/a/1021117522_121443915",
+        "source_title": "学生反映滁州学院禁外卖送入校园",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "报道证明学生反映和校方管理争议。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "HotFlashNews百度热榜：学生反映滁州学院禁外卖送入校园",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T04:01:31+08:00",
+        "rank": 30,
+        "heat_score": 74000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "baidu"
+        ],
+        "reason": "进入百度热榜，属于学生生活管理的搜索型热点。"
+      },
+      "doctor_analysis_value": "外卖、校园安全、商户利益和学生自治在高校日常场景中碰撞。",
+      "risk_note": "需等待校方正式回应和具体管理办法。"
+    },
+    {
+      "issue_anchor": "河南一幼儿园用依云矿泉水蒸饭，教育消费“高级配置”被质疑",
+      "category": "强冲突/争议热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 17,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.sohu.com/a/1021041607_120914498",
+        "source_title": "河南一幼儿园用依云矿泉水蒸饭",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "报道证明幼儿园用水蒸饭和收费信息引发讨论。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.zhihu.com/question/2037284362559780553",
+        "source_title": "知乎热榜：河南一幼儿园用依云矿泉水蒸饭",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-12T03:25:50+08:00",
+        "rank": 5,
+        "heat_score": 74000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "知乎高位热榜围绕“有没有必要”展开消费判断。"
+      },
+      "doctor_analysis_value": "家长付费、学校宣传、食品安全和炫耀式消费在幼儿园场景中叠加。",
+      "risk_note": "需确认校方真实做法、收费结构和食品安全监管信息。"
+    },
+    {
+      "issue_anchor": "京沪高铁调价进入抖音热榜，通勤成本与铁路市场化再被讨论",
+      "category": "行业变化热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 18,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/wm/2026-05-11/doc-inhxptrf8950176.shtml",
+        "source_title": "京沪高铁调价相关报道",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "报道证明调价消息和公众关注。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.douyin.com/hot/2495550",
+        "source_title": "抖音热榜：京沪高铁宣布涨价",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-12T07:33:58+08:00",
+        "rank": 30,
+        "heat_score": 73000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "douyin"
+        ],
+        "reason": "抖音热榜说明铁路价格议题进入短视频大众讨论。"
+      },
+      "doctor_analysis_value": "价格调整影响商务、返乡、旅游多类用户，容易从公告变成生活成本议题。",
+      "risk_note": "具体票价、车次和执行日期以铁路/公司公告为准。"
+    },
+    {
+      "issue_anchor": "迪士尼速通机制让部分人“破防”，付费排队公平成为知乎高位讨论",
+      "category": "强冲突/争议热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 19,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.zhihu.com/question/2036558081312679727",
+        "source_title": "迪士尼的速通机制，为什么会让一部分人破防？",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-12T08:10:11+08:00",
+        "reason": "平台问题本身证明公众讨论主题和争议焦点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.zhihu.com/question/2036558081312679727",
+        "source_title": "知乎热榜：迪士尼的速通机制，为什么会让一部分人破防？",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-12T08:10:11+08:00",
+        "rank": 2,
+        "heat_score": 73000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "知乎热榜第二位，说明争议讨论集中。"
+      },
+      "doctor_analysis_value": "游乐园把时间差异价格化后，消费者对“公平体验”的心理账户被触发。",
+      "risk_note": "以具体园区和票务机制为准，避免泛化所有快通服务。"
+    },
+    {
+      "issue_anchor": "长工时与肥胖率研究引发四天工作制讨论",
+      "category": "真实生活问题热点",
+      "status": "emerging",
+      "board": "extended",
+      "report_rank": 20,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.theguardian.com/society/2026/may/10/experts-call-for-uk-four-day-week-as-study-links-long-work-hours-to-obesity",
+        "source_title": "Experts call for UK four-day week as study links long work hours to obesity",
+        "source_type": "media",
+        "source_published_at": "2026-05-10T00:00:00+08:00",
+        "reason": "报道证明研究和四天工作制倡议。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "HotFlashNews澎湃：最新研究显示“工作时长影响肥胖率”",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T00:03:30+08:00",
+        "rank": 19,
+        "heat_score": 72000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "thepaper"
+        ],
+        "reason": "研究被中文新闻热榜收录，具备健康与劳动制度讨论价值。"
+      },
+      "doctor_analysis_value": "健康研究与工作制度改革连接，适合从个体自律转向劳动结构讨论。",
+      "risk_note": "研究相关不等于简单因果，需看样本、控制变量和政策外推边界。"
+    },
+    {
+      "issue_anchor": "印尼和菲律宾镍合作被称“镍OPEC”，中企供应链风险进入知乎热榜",
+      "category": "行业变化热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 21,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://en.antaranews.com/news/415096/indonesia-and-philippines-launch-massive-nickel-corridor-deal",
+        "source_title": "Indonesia and Philippines launch massive nickel corridor deal",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "报道证明印尼和菲律宾镍合作事实。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.zhihu.com/question/2036749487478199013",
+        "source_title": "知乎热榜：印尼携手菲律宾打造“镍 OPEC”",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-12T00:03:30+08:00",
+        "rank": 1,
+        "heat_score": 71000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "知乎热榜第一，行业供应链和资源议题热度明确。"
+      },
+      "doctor_analysis_value": "资源国抱团与中国新能源/不锈钢产业链直接相关，行业变化被用户主动追问。",
+      "risk_note": "“OPEC”是舆论比喻，不能等同于已有国际组织机制。"
+    },
+    {
+      "issue_anchor": "人形机器人量产元年叙事升温，产业链商业化进入财经热榜",
+      "category": "行业变化热点",
+      "status": "emerging",
+      "board": "extended",
+      "report_rank": 22,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.eastmoney.com/a/202605123733527491.html",
+        "source_title": "人形机器人量产元年相关报道",
+        "source_type": "media",
+        "source_published_at": "2026-05-12T00:00:00+08:00",
+        "reason": "报道证明产业链和商业化讨论。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "HotFlashNews 36Kr：人形机器人量产元年开启",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T08:19:22+08:00",
+        "rank": 1,
+        "heat_score": 70000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "36kr"
+        ],
+        "reason": "36Kr热榜首位，产业媒体热度强但平台活人气弱于主榜。"
+      },
+      "doctor_analysis_value": "机器人从概念演示转向量产节点，资本市场开始追问商业化兑现。",
+      "risk_note": "产业叙事强于订单数据，需警惕概念行情。"
+    },
+    {
+      "issue_anchor": "飞行汽车工厂“30分钟下线一台飞行器”登抖音，低空经济叙事短视频化",
+      "category": "行业变化热点",
+      "status": "emerging",
+      "board": "extended",
+      "report_rank": 23,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://mpcauto.pcvideo.com.cn/hj/article/3282624.html",
+        "source_title": "飞行汽车工厂相关报道",
+        "source_type": "media",
+        "source_published_at": null,
+        "reason": "报道证明飞行汽车工厂和生产效率叙事。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.douyin.com/hot/2495706",
+        "source_title": "抖音热榜：飞行汽车工厂30分钟下线一台飞行器",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-12T00:03:30+08:00",
+        "rank": 3,
+        "heat_score": 69000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "douyin"
+        ],
+        "reason": "抖音热榜第三，说明产业场景被短视频强推。"
+      },
+      "doctor_analysis_value": "低空经济从政策词变成可视化工厂效率，被短视频平台包装成“未来感”场景。",
+      "risk_note": "产能展示不等于适航、订单和规模化运营落地。"
+    },
+    {
+      "issue_anchor": "Reddit移动网页灰测屏蔽，引发“强推App”平台信任争议",
+      "category": "行业变化热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 24,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.macrumors.com/2026/05/11/reddit-starts-blocking-mobile-website/",
+        "source_title": "Reddit Starts Blocking Mobile Website, Forces Users to Open App",
+        "source_type": "media",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "报道证明Reddit移动网页灰度限制和官方回应。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "HotFlashNews IT之家：下载App以阅读全文？用户抱怨Reddit手机网页被屏蔽",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T08:15:03+08:00",
+        "rank": 6,
+        "heat_score": 69000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "ithome",
+          "x"
+        ],
+        "reason": "中文科技热榜和外网用户反馈同向，属于全球平台行为变化。"
+      },
+      "doctor_analysis_value": "平台把开放网页入口转为App入口，直接触碰用户选择权和内容可访问性。",
+      "risk_note": "目前为灰度测试，不能视为全量永久政策。"
+    },
+    {
+      "issue_anchor": "奥斯卡AI使用新规引发创作者资格讨论",
+      "category": "行业变化热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 25,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://apnews.com/article/95a66f19bd0a95d371ac82f21df1a0f4",
+        "source_title": "Oscars clarify rules on use of artificial intelligence",
+        "source_type": "wire",
+        "source_published_at": "2026-05-11T00:00:00+08:00",
+        "reason": "AP报道证明学院AI规则变化。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.reddit.com/r/movies/comments/1t9zxyx/oscars_clarify_new_rules_on_ai_use/",
+        "source_title": "Reddit r/movies: Oscars clarify new rules on AI use",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-12T09:20:00+08:00",
+        "rank": null,
+        "heat_score": 7725,
+        "views": null,
+        "likes": 7725,
+        "comments": 399,
+        "platforms": [
+          "reddit"
+        ],
+        "reason": "Reddit互动超过阈值，创作者和影迷讨论集中。"
+      },
+      "doctor_analysis_value": "AI进入影视创作后，奖项制度必须重新定义“人类贡献”的边界。",
+      "risk_note": "奖项规则并非全面禁止AI，重点是人类作者贡献和披露。"
+    },
+    {
+      "issue_anchor": "苹果iOS 26.5修复超50项安全漏洞，系统更新进入科技热榜",
+      "category": "用户搜索热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 26,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.ithome.com/0/949/046.htm",
+        "source_title": "苹果更新全家桶系统，iOS 26.5修复超50项安全漏洞",
+        "source_type": "media",
+        "source_published_at": "2026-05-12T00:00:00+08:00",
+        "reason": "报道证明系统更新和安全修复事实。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "HotFlashNews IT之家：苹果更新全家桶系统，iOS 26.5修复超50项安全漏洞",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T07:42:24+08:00",
+        "rank": 15,
+        "heat_score": 68000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "ithome"
+        ],
+        "reason": "科技热榜收录，用户更新需求明确。"
+      },
+      "doctor_analysis_value": "系统更新从功能话题转向安全修复，用户开始搜索是否要立即升级。",
+      "risk_note": "漏洞数量和影响范围以苹果安全公告为准。"
+    },
+    {
+      "issue_anchor": "小米YU7 GT“车厘子红”无伪装实车上路，发布前汽车流量预热",
+      "category": "平台流量热点",
+      "status": "emerging",
+      "board": "extended",
+      "report_rank": 27,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.ithome.com/0/949/059.htm",
+        "source_title": "小米 YU7 GT“车厘子红”无伪装实车上路",
+        "source_type": "media",
+        "source_published_at": "2026-05-12T00:00:00+08:00",
+        "reason": "报道证明车型实车上路和发布时间信息。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "HotFlashNews IT之家：小米 YU7 GT车厘子红无伪装实车上路",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T08:23:38+08:00",
+        "rank": 2,
+        "heat_score": 67000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "ithome"
+        ],
+        "reason": "科技/汽车热榜第二，证明新品预热强。"
+      },
+      "doctor_analysis_value": "颜色、无伪装路测和月底发布节点构成汽车新品预热的典型流量结构。",
+      "risk_note": "配置和售价仍需等待官方发布。"
+    },
+    {
+      "issue_anchor": "“剪刀手拍照会泄露指纹”重回热议，隐私科普与恐慌传播交织",
+      "category": "用户搜索热点",
+      "status": "emerging",
+      "board": "extended",
+      "report_rank": 28,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.stdaily.com/web/gdxw/2026-05/08/content_513578.html",
+        "source_title": "专家称剪刀手拍照姿势会泄露指纹信息",
+        "source_type": "media",
+        "source_published_at": "2026-05-08T00:00:00+08:00",
+        "reason": "科技媒体报道证明专家说法和风险讨论。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.zhihu.com/question/2032841594676704295",
+        "source_title": "知乎热榜：剪刀手拍照姿势会泄露指纹信息是真的吗？",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-12T00:03:30+08:00",
+        "rank": 20,
+        "heat_score": 66000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "知乎热榜显示隐私风险科普正在被用户追问。"
+      },
+      "doctor_analysis_value": "日常拍照姿势被解释成生物识别风险，天然触发搜索和转发。",
+      "risk_note": "需区分理论可行、特定设备条件和现实攻击概率。"
+    },
+    {
+      "issue_anchor": "“存款40万能不上班了吗”进入知乎热榜，低欲望生活与就业焦虑汇合",
+      "category": "真实生活问题热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 29,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.zhihu.com/question/1886397295542658136",
+        "source_title": "如果存款40万，能不上班了吗？",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-12T04:26:09+08:00",
+        "reason": "平台问题本身证明搜索焦虑和讨论主题。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.zhihu.com/question/1886397295542658136",
+        "source_title": "知乎热榜：如果存款40万，能不上班了吗？",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-12T04:26:09+08:00",
+        "rank": 10,
+        "heat_score": 65000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "知乎热榜说明此类生活决策题今日被用户集中搜索。"
+      },
+      "doctor_analysis_value": "问题表面是理财，底层是就业疲惫、生活成本和安全边际计算。",
+      "risk_note": "个人财务答案高度依赖城市、家庭负担、医疗风险和收入替代方案。"
+    },
+    {
+      "issue_anchor": "“DeepSeek分析145斤怎么瘦到100斤”登微博，AI减肥建议变成搜索型热点",
+      "category": "用户搜索热点",
+      "status": "rising",
+      "board": "extended",
+      "report_rank": 30,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "HotFlashNews微博热搜：Deepseek分析145斤怎么瘦到100斤",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-12T08:10:11+08:00",
+        "reason": "热榜归档证明该搜索型议题在微博出现。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/archive/2026-05-12",
+        "source_title": "微博热搜：Deepseek分析145斤怎么瘦到100斤",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-12T08:10:11+08:00",
+        "rank": 4,
+        "heat_score": 64000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "weibo"
+        ],
+        "reason": "微博热搜第四，说明AI健康建议成为即时搜索需求。"
+      },
+      "doctor_analysis_value": "用户把私人健康目标交给AI，说明搜索、情绪支持和医疗边界正在混合。",
+      "risk_note": "减重建议涉及健康风险，不能把AI回答当作医学诊疗或极端减肥方案。"
+    }
+  ]
+}
