@@ -1,382 +1,456 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T08:55:00+08:00",
+  "generated_at": "2026-05-13T20:36:30+08:00",
+  "timezone": "Asia/Shanghai",
   "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
-  "total_hotspots": 30,
+  "total_hotspots": 28,
+  "raw_leads_collected": 84,
+  "heat_verified_hotspots": 28,
+  "fact_verified_hotspots": 27,
   "main_board": [
     {
-      "id": "M1",
-      "issue_anchor": "南京审计大学偷拍男生被开除",
-      "category": "公共事件与治理",
+      "rank": 1,
+      "id": "trump_beijing_visit",
+      "issue_anchor": "特朗普抵京与中美元首会晤进入直播式公共议题",
+      "category": "分类3: 行业变化热点",
       "lifecycle": "breaking",
-      "why": "高校隐私侵害事件从平台曝光进入校纪处分和拟录公务员资格审查讨论，公共性强。",
-      "platforms": [
-        "weibo",
-        "baidu",
-        "toutiao",
-        "ifeng"
+      "heat_summary": "RSHub 记录微博第1、百度第2、抖音第1、B站第1、知乎第1，属于跨平台强峰值。",
+      "fact_summary": "证明访问安排和外交部表态。",
+      "source_urls": [
+        "https://m.weibo.cn/search?containerid=100103type=1&q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E4%BA%AC",
+        "https://news.cctv.com/2026/05/13/ARTITCs2DQzKhGd4a7dmY5T7260513.shtml"
       ],
-      "heat_score": 320000,
-      "analysis_angles": [
-        "处分不是终点，真正要追问的是校园空间里隐私保护、证据留存和快速处置机制是否常态化。",
-        "舆论把焦点放在个人道德上，容易忽略拟录公职人员的背景核验与处分信息如何跨机构流转。",
-        "偷拍类事件的治理难点在于发现概率低、维权成本高，学校不能只靠事后通报来证明治理能力。",
-        "后续应观察税务拟录程序是否按规则复核，而不是让网络情绪替代行政程序。"
+      "doctor_analysis_angles": [
+        "表层是到访画面，底层是中美在关税、科技、资本和安全议题上的再定价窗口。",
+        "公众叙事容易把会晤简化为友好或对抗，真正要看联合声明、企业随访名单和后续执行。",
+        "平台热度把外交事件娱乐化，博士分析应把礼宾场面还原成制度谈判。",
+        "观察点：关税、半导体限制、金融机构合作和台海措辞是否出现可验证变化。"
       ]
     },
     {
-      "id": "M2",
-      "issue_anchor": "舒某编造涉“人造大米”AI谣言被罚",
-      "category": "平台生态与信息治理",
+      "rank": 2,
+      "id": "campus_upskirting_discipline",
+      "issue_anchor": "高校偷拍事件处分差异引发校园隐私与校纪争议",
+      "category": "分类4: 强冲突/争议热点",
       "lifecycle": "rising",
-      "why": "AI低成本造谣与食品安全恐慌叠加，跨平台复热明显。",
-      "platforms": [
-        "weibo",
-        "baidu",
-        "douyin",
-        "toutiao",
-        "bilibili",
-        "so"
+      "heat_summary": "贴吧热议第1，百度热搜第17，同时搜索结果显示 Reddit 中文社区当天也有讨论。",
+      "fact_summary": "证明华南理工处理与南京审计大学通报背景。",
+      "source_urls": [
+        "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354258&topic_name=%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E7%94%B7%E7%94%9F%E5%81%B7%E6%8B%8D%E5%A5%B3%E5%90%8C%E5%AD%A6%E8%A3%99%E5%BA%95",
+        "https://finance.sina.com.cn/wm/2026-05-13/doc-inhxtvfi7563249.shtml"
       ],
-      "heat_score": 10900000,
-      "analysis_angles": [
-        "这不是单个谣言，而是“生成式内容+民生恐慌+流量分成”的激励链条暴露。",
-        "处罚金额不是核心，核心是平台分发系统是否让恐惧型伪事实获得了低成本冷启动。",
-        "公众讨论容易简化成“造谣者坏”，但治理上要区分创作者责任、平台审核责任和辟谣触达效率。",
-        "后续看点是涉AI合成内容是否被要求显著标识，以及食品安全类谣言是否有更快的跨平台拦截。"
+      "doctor_analysis_angles": [
+        "处分差异比单个事件更值得讲，它暴露高校校纪裁量缺乏可比较的公开标准。",
+        "公众容易只要求“重罚”，但更关键是证据固定、受害者支持和复发预防机制。",
+        "学校的声誉维护动机会和学生权益保护发生冲突，这才是治理难点。",
+        "观察点：涉事高校是否公开处分依据、是否启动反偷拍设施和性骚扰处理流程。"
       ]
     },
     {
-      "id": "M3",
-      "issue_anchor": "人工胚胎首次送入太空",
-      "category": "科技产业与知识边界",
+      "rank": 3,
+      "id": "wechat_status_privacy",
+      "issue_anchor": "微信状态浏览人数测试被误读为访客记录后紧急停止",
+      "category": "分类3: 行业变化热点",
+      "lifecycle": "rising",
+      "heat_summary": "Hot点抖音总榜页面摘要明确列入该话题，媒体报道显示其曾冲上微博热搜。",
+      "fact_summary": "证明腾讯对功能性质和停止测试的回应。",
+      "source_urls": [
+        "https://hotdian.com/p/抖音总榜",
+        "https://www.thepaper.cn/newsDetail_forward_33161668"
+      ],
+      "doctor_analysis_angles": [
+        "一个浏览人数测试被理解成访客记录，说明用户对社交软件的“可见性”高度敏感。",
+        "公众不是反对所有产品创新，而是反对平台单方面改变社交风险分布。",
+        "微信的克制曾是产品资产，任何已读/访客暗示都会直接消耗信任。",
+        "观察点：腾讯后续是否把隐私测试前置告知、默认关闭和灰度退出机制制度化。"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "doubao_air_ticket_refund",
+      "issue_anchor": "用户听 AI 建议退机票后起诉豆包，AI 承诺责任边界被推上热议",
+      "category": "分类4: 强冲突/争议热点",
+      "lifecycle": "emerging",
+      "heat_summary": "贴吧热议第6，微博也出现“豆包 我不敢动饶雪漫这四个字”等 AI/内容相关热词。",
+      "fact_summary": "证明起诉叙事和用户公开视频线索。",
+      "source_urls": [
+        "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354255&topic_name=%E8%B1%86%E5%8C%85%E9%97%AF%E7%A5%B8%2C%E7%94%BB%E9%A5%BC%E9%80%80%E9%92%B1%E8%A2%AB%E8%B5%B7%E8%AF%89",
+        "https://news.zhibo8.com/game/2026-05-13/6a04199f03eccnative.htm"
+      ],
+      "doctor_analysis_angles": [
+        "笑点在“AI答应赔钱”，结构问题在产品把概率性建议包装成确定性行动。",
+        "公众可能把事件看成用户误用，但平台同样需要定义 AI 的承诺边界和免责呈现。",
+        "AI 助手进入消费决策后，错误成本由用户、平台还是服务商承担会成为常态争议。",
+        "观察点：平台是否强化高风险消费建议的限制、留痕和人工转接。"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "disney_premier_access_queue",
+      "issue_anchor": "迪士尼优速通排队冲突让“金钱能否干预排队公平”成为公共问题",
+      "category": "分类5: 真实生活问题热点",
+      "lifecycle": "rising",
+      "heat_summary": "知乎热榜第7，问题将优速通从园区规则讨论推成公共公平议题。",
+      "fact_summary": "证明迪士尼对规则是否变更作出回应。",
+      "source_urls": [
+        "https://www.zhihu.com/question/2037856063542620827",
+        "https://finance.sina.com.cn/jjxw/2026-05-13/doc-inhxtqxr4635601.shtml"
+      ],
+      "doctor_analysis_angles": [
+        "优速通争议不是简单仇富，而是公共排队秩序被价格机制重写。",
+        "服务业常把付费优先包装成效率，但带娃、等待和被插队感受构成真实体验成本。",
+        "平台讨论暴露了“金钱能买便利，但能否买公共尊重”的边界。",
+        "观察点：迪士尼是否清晰区分入场优先、座位安排和普通队列权益。"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "buffet_satiety_design",
+      "issue_anchor": "自助餐“饱腹剂”传言被调查，消费动线与身体感受成为新话题",
+      "category": "分类5: 真实生活问题热点",
+      "lifecycle": "rising",
+      "heat_summary": "百度热搜第23；新浪转载齐鲁晚报记者调查提及抖音、小红书讨论量超百万。",
+      "fact_summary": "证明记者走访商家、批发市场和专家后的事实判断。",
+      "source_urls": [
+        "https://www.baidu.com/s?wd=%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8A%A0%E4%BA%86%E2%80%9C%E9%A5%B1%E8%85%B9%E5%89%82%E2%80%9D%EF%BC%9F%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
+        "https://finance.sina.com.cn/jjxw/2026-05-13/doc-inhxtqxm7576996.shtml"
+      ],
+      "doctor_analysis_angles": [
+        "辟谣“饱腹剂”之后，真正的结构问题是消费场景如何设计人的食量和判断。",
+        "公众容易把被设计的感受归因为阴谋，博士分析可以把它拆成动线、陈列、价格和心理账户。",
+        "食品安全谣言要被辟谣，但消费引导也不应被“没有违法添加剂”掩盖。",
+        "观察点：餐饮品牌是否更透明展示配料、动线和取餐规则。"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "qianfan_satellite_launch",
+      "issue_anchor": "长征六号改与千帆极轨09组卫星发射带动商业航天热度",
+      "category": "分类3: 行业变化热点",
       "lifecycle": "breaking",
-      "why": "航天、生命科学和伦理边界同时进入公共讨论。",
-      "platforms": [
-        "douyin",
-        "sogou",
-        "360",
-        "xpa"
+      "heat_summary": "抖音第2、B站第3，同日“千帆极轨09组卫星”在抖音第3。",
+      "fact_summary": "热榜标题与多平台航天条目共同证明当天发射事件的公共传播锚点。",
+      "source_urls": [
+        "https://www.douyin.com/search/%E9%95%BF%E5%BE%81%E5%85%AD%E5%8F%B7%E6%94%B9%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84?type=general",
+        "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%83%E5%B8%86%E6%9E%81%E8%BD%A809%E7%BB%84%E5%8D%AB%E6%98%9F?type=general"
       ],
-      "heat_score": 12010000,
-      "analysis_angles": [
-        "人工胚胎不是可发育成人的胚胎模型，科普必须先拆掉误读，否则流量会把生命科学拉向恐慌叙事。",
-        "真正有价值的问题是微重力如何影响早期发育模型，以及这些数据能否反推地面疾病机制。",
-        "国家科技叙事会突出世界首次，但博士切口要同时讨论伦理审查、样本边界和公众知情。",
-        "后续看点是样本返回后的同行评议结果，而不是发射当天的概念热度。"
+      "doctor_analysis_angles": [
+        "航天热度从国家叙事转向商业航天、低轨通信和供应链能力竞争。",
+        "公众容易只看到“发射成功”，但要追问低轨星座的频率资源、成本曲线和落地场景。",
+        "平台把技术事件短视频化，可能放大自豪感，也可能遮蔽产业化难度。",
+        "观察点：千帆后续组网节奏、终端成本和商业客户是否跟上。"
       ]
     },
     {
-      "id": "M4",
-      "issue_anchor": "特朗普访华与中美元首外交期待",
-      "category": "国际关系与宏观政策",
-      "lifecycle": "emerging",
-      "why": "中美经贸、科技、台湾和元首外交预期成为跨平台主议题。",
-      "platforms": [
-        "weibo",
-        "toutiao",
-        "ifeng"
+      "rank": 8,
+      "id": "samsung_strike_memory_supply",
+      "issue_anchor": "三星5万员工罢工倒计时叠加存储芯片行情，AI供应链焦虑升温",
+      "category": "分类3: 行业变化热点",
+      "lifecycle": "breaking",
+      "heat_summary": "百度热搜第22“三星5万名员工将罢工”，知乎热榜第15同题，微博“A股存储芯片全线爆发”同步发酵。",
+      "fact_summary": "证明17小时谈判破裂、工会罢工计划与芯片生产风险。",
+      "source_urls": [
+        "https://www.zhihu.com/question/2037653159107982760",
+        "https://www.nbd.com.cn/articles/2026-05-13/4390678.html"
       ],
-      "heat_score": 13320000,
-      "analysis_angles": [
-        "主线不应是“来不来”的戏剧性，而是双方在关税、科技管制、供应链和台湾问题上可交换的空间。",
-        "平台讨论会把外交简化为胜负叙事，严肃分析要看谈判筹码是否发生结构变化。",
-        "中国平台热度说明普通人把宏观外交重新映射到就业、物价和企业订单上。",
-        "后续应观察双方是否释放可执行的经贸清单，而非只看会晤姿态。"
+      "doctor_analysis_angles": [
+        "三星罢工不是孤立劳资新闻，而是 AI 芯片繁荣中利润分配的压力测试。",
+        "市场把停工视为价格利好，但员工看到的是利润上行和奖金机制的错配。",
+        "供应链韧性不能只讲产能，也要讲关键岗位劳动关系。",
+        "观察点：5月21日罢工是否如期、韩国政府调停是否改变产线风险。"
       ]
     },
     {
-      "id": "M5",
-      "issue_anchor": "停车位缩水与城市用车体验",
-      "category": "消费民生与服务争议",
+      "rank": 9,
+      "id": "us_cpi_inflation_38",
+      "issue_anchor": "美国4月CPI同比3.8%引发 Reddit 与 X 市场情绪讨论",
+      "category": "分类3: 行业变化热点",
       "lifecycle": "rising",
-      "why": "高频生活痛点从个体抱怨上升为城市设计和物业服务讨论。",
-      "platforms": [
-        "baidu",
-        "360"
+      "heat_summary": "当天多个 Reddit 投资/经济社区重复讨论 CPI 3.8%；Trend Calendar US 记录 Inflation 为 X 趋势词。",
+      "fact_summary": "证明 CPI 同比3.8%、为2023年以来高位。",
+      "source_urls": [
+        "https://www.reddit.com/r/stocks/comments/1tb17x1/consumer_prices_rose_38_annually_in_april_the/",
+        "https://www.axios.com/2026/05/12/cpi-april-inflation-iran-trump"
       ],
-      "heat_score": 7230000,
-      "analysis_angles": [
-        "停车位缩水表面是尺寸，底层是车身大型化、老旧小区规划和商业停车效率的冲突。",
-        "公众会指向物业或开发商，但应追问标准、验收、改造成本由谁承担。",
-        "这类议题适合讲消费体验不是情绪，而是空间资源重新分配。",
-        "后续看点是地方是否出现车位尺寸复核、车库改造或物业合同争议案例。"
+      "doctor_analysis_angles": [
+        "CPI 3.8% 的热议点不是数字本身，而是市场、家庭和政策预期之间的不一致。",
+        "公众容易把通胀归因于单一因素，实际是能源、战争、财政和利率路径共同作用。",
+        "Reddit/X 讨论显示普通投资者怀疑官方叙事和市场定价，信任差距正在扩大。",
+        "观察点：美联储表态、油价走势和核心 CPI 是否继续共振。"
       ]
     },
     {
-      "id": "M6",
-      "issue_anchor": "全国高铁干线调价与京沪二等座可超800元",
-      "category": "消费民生与服务争议",
+      "rank": 10,
+      "id": "us_assault_weapons_ban",
+      "issue_anchor": "美国攻击性武器禁令与地方自治争议在 X 上回潮",
+      "category": "分类4: 强冲突/争议热点",
       "lifecycle": "rising",
-      "why": "交通公共服务与市场化定价边界进入高讨论度。",
-      "platforms": [
-        "zhihu"
+      "heat_summary": "Trend Calendar US 的 May 13, 2026 趋势页显示 #BanAssaultWeapons 位于 X 趋势前列。",
+      "fact_summary": "证明联邦政府起诉丹佛攻击性武器禁令的事实背景。",
+      "source_urls": [
+        "https://us.trend-calendar.com/trend/2025-05-13.html",
+        "https://apnews.com/article/3c7b1b97b7882a173c45bce92c176fd1"
       ],
-      "heat_score": 198000,
-      "analysis_angles": [
-        "高铁调价不能只看企业盈利，应同时看替代交通、商务客群弹性和普通家庭出行成本。",
-        "公众反感点不一定是涨价本身，而是涨价逻辑、服务改善和信息透明是否对称。",
-        "这暴露的是基建成熟期的商业化问题：高投入资产如何在公共属性和收益压力之间定价。",
-        "后续观察淡旺季、折扣票和刚需线路是否形成新的价格分层。"
-      ]
-    },
-    {
-      "id": "M7",
-      "issue_anchor": "宇树发布GD01载人变形机甲390万元起",
-      "category": "科技产业与知识边界",
-      "lifecycle": "emerging",
-      "why": "机器人公司从人形机器人扩展到载人机甲，强视觉产品带来商业化争论。",
-      "platforms": [
-        "zhihu",
-        "bilibili",
-        "sogou",
-        "360",
-        "tieba"
-      ],
-      "heat_score": 9740000,
-      "analysis_angles": [
-        "390万元定价不是大众消费，而是在测试文旅、展演、应急和高端展示场景的支付意愿。",
-        "讨论不应停在酷不酷，而要看安全认证、维护成本、负载能力和真实工况。",
-        "中国机器人叙事正在从实验室指标转向可售卖的媒介产品，这会改变资本市场预期。",
-        "后续看点是首批客户是谁，以及是否出现可复用的行业场景而非一次性噱头。"
-      ]
-    },
-    {
-      "id": "M8",
-      "issue_anchor": "微信状态浏览人数测试停止与已读功能澄清",
-      "category": "平台生态与信息治理",
-      "lifecycle": "rising",
-      "why": "社交产品边界和熟人关系压力再次成为平台议题。",
-      "platforms": [
-        "36kr"
-      ],
-      "heat_score": 1,
-      "analysis_angles": [
-        "微信对已读、访客的克制，本质是在维护低压力熟人网络，而不是简单缺功能。",
-        "用户要透明度，平台要留存和低摩擦，二者长期冲突会反复以小测试方式冒头。",
-        "博士切口可讲产品伦理：功能可实现不等于应该默认上线。",
-        "后续看点是状态、朋友圈、视频号之间是否继续分层测试不同可见性机制。"
-      ]
-    },
-    {
-      "id": "M9",
-      "issue_anchor": "世界杯转播权风波与中国球迷退票",
-      "category": "文化体育与公共讨论",
-      "lifecycle": "rising",
-      "why": "赛事版权、票务与中国观众权益叠加，体育消费议题扩散。",
-      "platforms": [
-        "douyin",
-        "bilibili",
-        "sogou",
-        "netease"
-      ],
-      "heat_score": 11100000,
-      "analysis_angles": [
-        "体育大赛不只是比赛，它是版权、平台、票务和跨境消费合同的集合体。",
-        "球迷退票说明观赛确定性成为商品的一部分，平台不能只卖情绪不承担信息风险。",
-        "争议背后是全球赛事商业化对本地观众权益保护的压力测试。",
-        "后续看点是版权方、转播平台和票务渠道是否给出可执行补偿方案。"
-      ]
-    },
-    {
-      "id": "M10",
-      "issue_anchor": "X平台美国趋势：Saudi Arabia、Riyadh、Tatum、Knicks等集中上榜",
-      "category": "国际关系与文化体育",
-      "lifecycle": "rising",
-      "why": "外网平台热度显示中东外交与NBA季后赛/球星讨论并行抢占注意力。",
-      "platforms": [
-        "x",
-        "google_trends"
-      ],
-      "heat_score": 50,
-      "analysis_angles": [
-        "外网热点呈现地缘政治加体育娱乐并行结构，说明公共注意力并不按严肃性排序。",
-        "中国简报不能只看国内热榜，海外平台原生热词可提前提示国际议题的传播方向。",
-        "对博士表达来说，重点是解释不同平台如何把复杂现实压缩成可传播词条。",
-        "后续要看国内平台是否把这些外网热词转译为中美外交、AI投资或体育消费议题。"
+      "doctor_analysis_angles": [
+        "X 趋势把枪支政策重新推上前台，本质是安全治理与宪法权利的制度冲突。",
+        "公众叙事常在禁枪/拥枪间二分，但地方自治权和联邦执法边界同样关键。",
+        "美国地方政策被联邦起诉，会给平台提供高情绪对立素材。",
+        "观察点：丹佛诉讼、明尼苏达州法案和高院相关判例是否形成连锁效应。"
       ]
     }
   ],
   "extended_board": [
     {
-      "id": "E1",
-      "issue_anchor": "习近平同塔吉克斯坦总统拉赫蒙会谈",
-      "layer": "cn_ideology_official_agenda",
-      "category": "官方议程",
+      "rank": 11,
+      "id": "ama_movie_boxoffice",
+      "issue_anchor": "《给阿嬷的情书》口碑票房与人民日报评价形成长尾上升",
+      "category": "分类3: 行业变化热点",
       "lifecycle": "rising",
-      "why": "百度第1，新华社/国防部来源确认中塔会谈与条约叙事",
-      "heat_score": 7900000
+      "heat_summary": "百度第5、豆瓣高分电影第1、B站和抖音有多条衍生热词。",
+      "fact_summary": "证明人民日报评价、韩寒推荐和票房讨论。",
+      "source_urls": [
+        "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news",
+        "https://news.ycwb.com/ikimvkntjh/content_54116629.htm"
+      ],
+      "brief_angle": "小成本地域电影通过短视频推荐、亲情叙事和媒体背书继续扩散。"
     },
     {
-      "id": "E2",
-      "issue_anchor": "外交部就中美关系和台湾问题答问",
-      "layer": "cn_ideology_official_agenda",
-      "category": "官方议程",
+      "rank": 12,
+      "id": "low_iq_crime_finale",
+      "issue_anchor": "《低智商犯罪》大结局与剧集热度继续外溢",
+      "category": "分类1: 平台流量热点",
       "lifecycle": "rising",
-      "why": "头条第1，属于官方表态高热但平台生活讨论弱于主榜",
-      "heat_score": 17970000
+      "heat_summary": "微博第4，抖音有“低智商犯罪全自动招供”等二创条目。",
+      "fact_summary": "证明剧集大结局节点和剧情讨论。",
+      "source_urls": [
+        "https://m.weibo.cn/search?containerid=100103type=1&q=%E4%BD%8E%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA",
+        "https://ent.china.com/movie/newszh/11005281/20260513/49490911.html"
+      ],
+      "brief_angle": "荒诞悬疑喜剧正在被平台拆成梗、角色和结局反转传播。"
     },
     {
-      "id": "E3",
-      "issue_anchor": "“中国服务”加速出海",
-      "layer": "cn_ideology_official_agenda",
-      "category": "产业出海",
-      "lifecycle": "rising",
-      "why": "头条第3、搜狗第6，适合做服务贸易和软基础设施观察",
-      "heat_score": 14720000
+      "rank": 13,
+      "id": "singer_2026",
+      "issue_anchor": "《歌手2026》首轮声量把音综直播竞争重新推上热搜",
+      "category": "分类1: 平台流量热点",
+      "lifecycle": "emerging",
+      "heat_summary": "微博热搜第2，属于娱乐内容开播/官宣期高热。",
+      "fact_summary": "娱乐节目热度项，未采集到需要进一步核验的高风险事实。",
+      "source_urls": [
+        "https://m.weibo.cn/search?containerid=100103type=1&q=%E6%AD%8C%E6%89%8B2026",
+        "https://m.weibo.cn/search?containerid=100103type=1&q=%E6%AD%8C%E6%89%8B2026"
+      ],
+      "brief_angle": "热度说明直播音综仍靠“实时排名、翻唱能力、国民记忆”制造讨论。"
     },
     {
-      "id": "E4",
-      "issue_anchor": "“超级心脏”爆单订单排到2028年",
-      "layer": "cn_consumer_brand",
-      "category": "医疗科技消费",
-      "lifecycle": "rising",
-      "why": "百度第2，硬核国货/医疗器械热度强但事实链需进一步核验",
-      "heat_score": 7810000
+      "rank": 14,
+      "id": "north_china_heat_day",
+      "issue_anchor": "华北多地迎今年首个高温日，提前入夏感受被平台放大",
+      "category": "分类5: 真实生活问题热点",
+      "lifecycle": "breaking",
+      "heat_summary": "微博第3，百度/天气媒体同步报道。",
+      "fact_summary": "证明河北、山东、天津等地高温预报与冷空气后续变化。",
+      "source_urls": [
+        "https://m.weibo.cn/search?containerid=100103type=1&q=%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E8%BF%8E%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E9%AB%98%E6%B8%A9%E6%97%A5",
+        "https://m.weather.com.cn/news/2026/05/4632959.shtml"
+      ],
+      "brief_angle": "天气热搜背后是通勤、用电、校园户外活动和城市热岛的生活治理问题。"
     },
     {
-      "id": "E5",
-      "issue_anchor": "武汉蒜鸟告了“蒜鸟”损失超亿元",
-      "layer": "cn_consumer_brand",
-      "category": "IP与文创消费",
+      "rank": 15,
+      "id": "ai_rice_rumor_penalty",
+      "issue_anchor": "“人造大米”AI 谣言造谣者被罚，食品安全恐慌被短视频算法放大",
+      "category": "分类4: 强冲突/争议热点",
       "lifecycle": "rising",
-      "why": "百度第3，文创IP盗版维权进入司法叙事",
-      "heat_score": 7710000
+      "heat_summary": "抖音热榜第6，热度超过1000万。",
+      "fact_summary": "证明舒某利用 AI 编造食品安全谣言并被行政处罚。",
+      "source_urls": [
+        "https://www.douyin.com/search/%E8%88%92%E6%9F%90%E7%BC%96%E9%80%A0%E6%B6%89%E2%80%9C%E4%BA%BA%E9%80%A0%E5%A4%A7%E7%B1%B3%E2%80%9D%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A?type=general",
+        "https://news.ycwb.com/ikimvkntjh/content_54115428.htm"
+      ],
+      "brief_angle": "AI 让民生谣言的生产成本下降，食品安全类内容又天然具备恐慌传播效率。"
     },
     {
-      "id": "E6",
-      "issue_anchor": "4月汽车销量前十名仅剩1款油车",
-      "layer": "cn_consumer_brand",
-      "category": "汽车产业",
+      "rank": 16,
+      "id": "delivery_worker_refusal_right",
+      "issue_anchor": "外卖骑手每天至少4次无条件拒单，算法劳动治理进入热议",
+      "category": "分类3: 行业变化热点",
       "lifecycle": "rising",
-      "why": "百度第5，新能源替代进入大众讨论",
-      "heat_score": 7520000
+      "heat_summary": "知乎热榜第24讨论骑手拒单机会能否打破算法支配。",
+      "fact_summary": "证明中央网信办算法负面清单背景与平台整改措施。",
+      "source_urls": [
+        "https://www.zhihu.com/question/2037653159107982760",
+        "https://www.stnn.cc/c/2026-05-10/4077742.shtml"
+      ],
+      "brief_angle": "拒单权把“算法效率”重新放回劳动权利框架里讨论。"
     },
     {
-      "id": "E7",
-      "issue_anchor": "宝宝头上有九个头旋",
-      "layer": "cn_workplace_education",
-      "category": "家庭育儿",
+      "rank": 17,
+      "id": "yau_youth_class_retreat",
+      "issue_anchor": "丘成桐少年班多地调整引发拔尖创新与义务教育公平讨论",
+      "category": "分类2: 用户搜索热点",
       "lifecycle": "rising",
-      "why": "百度第9，医学/民俗解释需求上升，需避免迷信化",
-      "heat_score": 7140000
+      "heat_summary": "知乎热榜第4，教育焦虑和政策解释需求强。",
+      "fact_summary": "提供少年班调整的背景线索。",
+      "source_urls": [
+        "https://www.zhihu.com/question/2032127996300091977",
+        "https://www.ieduonline.cn/schoolnews/12027.html"
+      ],
+      "brief_angle": "讨论焦点在“早筛天才”的效率与教育公平、校内资源倾斜之间如何取舍。"
     },
     {
-      "id": "E8",
-      "issue_anchor": "独身男子离世存款被转走，民政局回应",
-      "layer": "cn_public_event",
-      "category": "民生治理",
+      "rank": 18,
+      "id": "beijing_30t_deposits",
+      "issue_anchor": "北京成为中国首个30万亿元存款城市，资金集聚能力被热搜化",
+      "category": "分类3: 行业变化热点",
       "lifecycle": "rising",
-      "why": "百度第14、360第5，遗产/监护/基层处置引发关注",
-      "heat_score": 6660000
+      "heat_summary": "百度热搜第3。",
+      "fact_summary": "证明北京3月末人民币各项存款余额突破30万亿元。",
+      "source_urls": [
+        "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD30%E4%B8%87%E4%BA%BF%E5%85%83%E5%AD%98%E6%AC%BE%E7%AC%AC%E4%B8%80%E5%9F%8E%E8%AF%9E%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news",
+        "https://finance.sina.com.cn/wm/2026-05-11/doc-inhxptrf8954820.shtml?froms=ggmp"
+      ],
+      "brief_angle": "金融数据变成热搜，说明公众对城市财富、央企总部和资金流向越来越敏感。"
     },
     {
-      "id": "E9",
-      "issue_anchor": "重庆一大桥底现巨大佛头？官方回应",
-      "layer": "cn_public_event",
-      "category": "城市公共空间",
+      "rank": 19,
+      "id": "boc_credit_app_shutdown",
+      "issue_anchor": "中国银行“缤纷生活”APP将关停，信用卡渠道整合进入用户侧",
+      "category": "分类3: 行业变化热点",
       "lifecycle": "rising",
-      "why": "百度第13，视觉奇观转向地方回应",
-      "heat_score": 6760000
+      "heat_summary": "百度热搜第9。",
+      "fact_summary": "证明“缤纷生活”APP将于2026年6月30日停止服务。",
+      "source_urls": [
+        "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%9B%BD%E6%9C%89%E5%A4%A7%E8%A1%8C%E4%BF%A1%E7%94%A8%E5%8D%A1APP%E5%B0%86%E5%85%B3%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news",
+        "https://finance.sina.com.cn/jjxw/2026-05-13/doc-inhxufve9210338.shtml"
+      ],
+      "brief_angle": "金融机构从多 APP 运营回到主 APP，用户感受到的是积分、账单、权益迁移的不确定性。"
     },
     {
-      "id": "E10",
-      "issue_anchor": "重庆老人被判断死亡后家属发现仍有呼吸",
-      "layer": "cn_public_event",
-      "category": "医疗急救",
+      "rank": 20,
+      "id": "baibing_employee_money",
+      "issue_anchor": "网红白冰复更称被员工转走上千万，税务风波后人设修复遭质疑",
+      "category": "分类4: 强冲突/争议热点",
       "lifecycle": "rising",
-      "why": "知乎第4，急救判断责任与流程议题",
-      "heat_score": 184000
+      "heat_summary": "百度热搜第14，微博新闻条目显示转评量。",
+      "fact_summary": "证明白冰复更与本人公开视频说法。",
+      "source_urls": [
+        "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E7%A7%B0%E8%A2%AB%E5%91%98%E5%B7%A5%E8%BD%AC%E8%B5%B01000%E5%A4%9A%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
+        "https://news.china.com/socialgd/10000169/20260513/49491288.html"
+      ],
+      "brief_angle": "网红危机公关变成公共讨论：流量叙事能否冲淡税务和商业合规问题。"
     },
     {
-      "id": "E11",
-      "issue_anchor": "湖北小学要求填父母职业观察单",
-      "layer": "cn_workplace_education",
-      "category": "教育与家庭",
-      "lifecycle": "rising",
-      "why": "知乎第14，感恩教育、隐私和阶层感知的边界",
-      "heat_score": 78000
+      "rank": 21,
+      "id": "hantavirus_cruise_patient",
+      "issue_anchor": "汉坦病毒病例与“观鸟人”身份引发公众健康风险讨论",
+      "category": "分类2: 用户搜索热点",
+      "lifecycle": "emerging",
+      "heat_summary": "抖音第10，贴吧热议第22“汉坦病毒病人确认”。",
+      "fact_summary": "作为平台热议事实锚点；高风险医学解读仍需以权威卫生机构为准。",
+      "source_urls": [
+        "https://www.douyin.com/search/%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E5%8D%B1%E9%99%A9%E6%80%A7?type=general",
+        "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354217&topic_name=%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E7%97%85%E4%BA%BA%E7%A1%AE%E8%AE%A4%3A%E7%B3%BB%E8%A7%82%E9%B8%9F%E4%BA%BA"
+      ],
+      "brief_angle": "医学热点的风险在于平台把罕见病变成恐慌叙事，科普要先分清传播路径和真实暴露概率。"
     },
     {
-      "id": "E12",
-      "issue_anchor": "应届生就业与公司加班政策讨论",
-      "layer": "cn_workplace_education",
-      "category": "职场就业",
-      "lifecycle": "rising",
-      "why": "矩阵层4补线索，属于长期焦虑的当天弱热议题",
-      "heat_score": 76000
+      "rank": 22,
+      "id": "ai_kids_slop_youtube_tiktok",
+      "issue_anchor": "AI 生成儿童视频涌入 YouTube/TikTok，算法推荐与儿童认知风险再升温",
+      "category": "分类3: 行业变化热点",
+      "lifecycle": "emerging",
+      "heat_summary": "报道列举面向儿童的 AI 视频账号已上传数千条并有百万级播放，同时提到 TikTok 视频和 YouTube Kids 争议。",
+      "fact_summary": "证明儿童倡导组织和专家对 YouTube AI 儿童内容提出限制诉求。",
+      "source_urls": [
+        "https://english.elpais.com/technology/2026-05-12/dancing-cows-and-tigers-hatching-from-eggs-the-impact-of-ai-generated-videos-on-children.html?outputType=amp",
+        "https://apnews.com/article/68f866c48127222208e1d978b46cbc80"
+      ],
+      "brief_angle": "低成本合成内容正在挤入儿童注意力市场，问题不是“像不像真”，而是算法把低质量内容推给谁。"
     },
     {
-      "id": "E13",
-      "issue_anchor": "跑男争议不该先定罪后解读",
-      "layer": "cn_celebrity_public_event_a",
-      "category": "娱乐公共讨论",
+      "rank": 23,
+      "id": "cannes_gongli_opening",
+      "issue_anchor": "巩俐中文宣布戛纳开幕，国际电影节话语权与华语记忆同框",
+      "category": "分类3: 行业变化热点",
       "lifecycle": "rising",
-      "why": "微博第5、腾讯视频综艺热度，综艺舆论审判争议",
-      "heat_score": 160000
+      "heat_summary": "抖音第39，Reddit 电影节/电影社区也有当天开幕讨论。",
+      "fact_summary": "证明第79届戛纳开幕、Jane Fonda 与 Gong Li 宣布开幕。",
+      "source_urls": [
+        "https://www.douyin.com/search/%E5%B7%A9%E4%BF%90%E4%B8%AD%E6%96%87%E5%AE%A3%E5%B8%83%E6%88%9B%E7%BA%B3%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95?type=general",
+        "https://apnews.com/article/f9c56db7912aa60c750b469d6e0b4ff6"
+      ],
+      "brief_angle": "华语电影记忆通过国际节展重新回流到中文平台，讨论焦点从红毯转向文化代表性。"
     },
     {
-      "id": "E14",
-      "issue_anchor": "白鹿演唱会过审",
-      "layer": "cn_celebrity_public_event_a",
-      "category": "演出经济",
-      "lifecycle": "rising",
-      "why": "微博第6，粉丝经济和演出审批进入热搜",
-      "heat_score": 160000
+      "rank": 24,
+      "id": "xiaomi_17_max",
+      "issue_anchor": "小米17 Max 官宣大屏长续航，手机新品周期提前预热618",
+      "category": "分类3: 行业变化热点",
+      "lifecycle": "emerging",
+      "heat_summary": "IT之家热搜第1，微博热搜第7为小米新耳机/新品讨论。",
+      "fact_summary": "证明官方宣布小米17 Max 本月发布。",
+      "source_urls": [
+        "https://www.ithome.com/0/949/606.htm",
+        "https://www.ithome.com/0/949/584.htm"
+      ],
+      "brief_angle": "手机厂商把“续航、大屏、影像”重新组合成升级理由，抢在大促前给消费决策种草。"
     },
     {
-      "id": "E15",
-      "issue_anchor": "辛芷蕾新片演黄柳霜",
-      "layer": "cn_celebrity_public_event_b",
-      "category": "影视文化",
-      "lifecycle": "rising",
-      "why": "微博第9，华裔女性影像再叙事议题",
-      "heat_score": 100000
+      "rank": 25,
+      "id": "unitree_piloted_mecha",
+      "issue_anchor": "宇树发布390万起载人变形机甲，机器人产品从表演走向消费想象",
+      "category": "分类3: 行业变化热点",
+      "lifecycle": "emerging",
+      "heat_summary": "B站第9、贴吧第24，Reddit 中文社区当天也有讨论。",
+      "fact_summary": "证明宇树发布 GD01、起售价和社交平台反应。",
+      "source_urls": [
+        "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2&from_source=webtop_search",
+        "https://www.gamersky.com/news/202605/2139566.shtml"
+      ],
+      "brief_angle": "机甲传播靠科幻意象，真实问题是量产机器人离工业、娱乐、交通场景还有多远。"
     },
     {
-      "id": "E16",
-      "issue_anchor": "成本1400万素人电影票房逆袭讨论",
-      "layer": "cn_celebrity_public_event_b",
-      "category": "影视产业",
+      "rank": 26,
+      "id": "a_share_memory_chip_surge",
+      "issue_anchor": "A股存储芯片全线爆发，三星罢工与价格周期叠加成资本叙事",
+      "category": "分类3: 行业变化热点",
       "lifecycle": "rising",
-      "why": "知乎第8、B站第9，低成本电影与宣发效率议题",
-      "heat_score": 250000
+      "heat_summary": "微博第8，知乎有芯片囤货与存储涨价讨论。",
+      "fact_summary": "提供存储产业与罢工事件背景。",
+      "source_urls": [
+        "https://m.weibo.cn/search?containerid=100103type=1&q=A%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%85%A8%E7%BA%BF%E7%88%86%E5%8F%91",
+        "https://www.yicai.com/news/103179448.html"
+      ],
+      "brief_angle": "二级市场把海外劳资冲突、DRAM/NAND涨价和国产替代叙事压缩成一天的交易主题。"
     },
     {
-      "id": "E17",
-      "issue_anchor": "CBA北京淘汰广东挺进4强",
-      "layer": "global_celebrity_outflow",
-      "category": "体育赛事",
+      "rank": 27,
+      "id": "jiuhua_mountain_rumor",
+      "issue_anchor": "九华山“露营去世致封山”被辟谣，文旅安全谣言上热搜",
+      "category": "分类4: 强冲突/争议热点",
       "lifecycle": "rising",
-      "why": "抖音第5，体育情绪强但公共议题弱于主榜",
-      "heat_score": 10390000
+      "heat_summary": "百度热搜第12。",
+      "fact_summary": "证明辟谣事实。",
+      "source_urls": [
+        "https://www.baidu.com/s?wd=%E4%B9%9D%E5%8D%8E%E5%B1%B1%E6%9C%89%E4%BA%BA%E9%9C%B2%E8%90%A5%E5%8E%BB%E4%B8%96%E8%87%B4%E5%B0%81%E5%B1%B1%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
+        "https://www.chinanews.com.cn/sh/2026/05-13/10620501.shtml"
+      ],
+      "brief_angle": "景区安全类谣言传播快，因为它同时触发旅游计划、生命风险和地方管理信任。"
     },
     {
-      "id": "E18",
-      "issue_anchor": "AG 4:3战胜狼队与电竞赛事热度",
-      "layer": "global_celebrity_outflow",
-      "category": "电竞文化",
-      "lifecycle": "rising",
-      "why": "抖音第15、B站第1，电竞赛事粉丝热度强",
-      "heat_score": 7780000
-    },
-    {
-      "id": "E19",
-      "issue_anchor": "Anthropic购买百万实体书后扫描销毁争议",
-      "layer": "global_culture_shift",
-      "category": "AI版权",
-      "lifecycle": "rising",
-      "why": "知乎第10，合理使用、训练数据和文化资产损耗争议",
-      "heat_score": 91000
-    },
-    {
-      "id": "E20",
-      "issue_anchor": "Google安卓17防盗与系统验证功能",
-      "layer": "global_culture_shift",
-      "category": "平台技术",
-      "lifecycle": "rising",
-      "why": "IT之家榜单多条安卓17功能，平台安全进入消费端",
-      "heat_score": 5
+      "rank": 28,
+      "id": "parking_spaces_ev_width",
+      "issue_anchor": "新能源车变宽与车位“缩水”让停车标准成为生活焦虑",
+      "category": "分类5: 真实生活问题热点",
+      "lifecycle": "emerging",
+      "heat_summary": "知乎热榜第13，属于用户真实生活问题。",
+      "fact_summary": "证明车身宽度、交付车位净宽和停车难讨论的事实锚点。",
+      "source_urls": [
+        "https://www.zhihu.com/question/2037653159107982760",
+        "https://www.news18a.com/news/storys_254986.html"
+      ],
+      "brief_angle": "车辆产品演进和城市空间标准脱节，正在把“买大车”变成停车、邻里和物业冲突。"
     }
   ],
   "coverage_matrix": [
@@ -384,172 +458,190 @@
       "layer": "cn_public_event",
       "status": "completed",
       "queries": [
-        "官方通报 调查 处理",
-        "警方通报 当事人 回应",
-        "事故 伤亡 救援 进展"
+        "2026年5月13日 官方通报 调查 处理 公共安全",
+        "2026年5月13日 警方通报 当事人 回应 热搜",
+        "九华山 有人露营去世 致封山 系谣言 2026年5月13日",
+        "华南理工 男生偷拍裙底 留校察看 2026年5月13日"
       ],
-      "raw_leads": 12,
-      "valid_hotspots": 5,
-      "notes": "覆盖偷拍处分、谣言处罚、死亡判断、存款转走、桥下佛头等公共事件。"
+      "raw_leads": 9,
+      "valid_hotspots": 4,
+      "notes": "公共安全、校园隐私、食品谣言、景区谣言均补了事实源；未把普通搜索页当作热度证据。"
     },
     {
       "layer": "cn_consumer_brand",
       "status": "completed",
       "queries": [
-        "消费者 投诉 品牌 回应",
-        "退款 退票 协商",
-        "平台 规则 调整 用户 反馈"
+        "消费者 投诉 品牌 回应 2026年5月13日",
+        "退款 退票 协商 主办方 回应 2026年5月13日",
+        "平台 规则 调整 用户 反馈 微信状态 访客记录",
+        "迪士尼 优速通 排队 3小时 回应 2026年5月13日"
       ],
       "raw_leads": 10,
       "valid_hotspots": 5,
-      "notes": "覆盖停车位缩水、高铁调价、世界杯转播权/退票、蒜鸟IP、汽车销量。"
+      "notes": "保留 AI 退票、微信隐私、迪士尼优速通、自助餐消费心理、信用卡 APP 关停。"
     },
     {
       "layer": "cn_celebrity_public_event_a",
       "status": "completed",
       "queries": [
-        "演唱会 退票 主办方 回应",
-        "运动员 回应 比赛 规则",
-        "影视 引发 讨论 价值观"
+        "演唱会 退票 主办方 回应 2026年5月13日",
+        "运动员 回应 比赛 规则 热搜 2026年5月13日",
+        "影视 引发 讨论 价值观 给阿嬷的情书 2026年5月13日"
       ],
-      "raw_leads": 8,
+      "raw_leads": 7,
       "valid_hotspots": 3,
-      "notes": "第一轮覆盖跑男争议、白鹿演唱会、体育赛事公共化。"
+      "notes": "第一轮偏影视/体育/演出公共事件化，保留电影口碑、电竞赛事、体育类热点线索。"
     },
     {
       "layer": "cn_celebrity_public_event_b",
       "status": "completed",
       "queries": [
-        "网红 道歉 退网",
-        "明星 工作室 声明",
-        "票房 争议 主创 回应"
+        "网红 道歉 退网 工作室 声明 2026年5月13日",
+        "票房 争议 主创 回应 2026年5月13日",
+        "明星 工作室 声明 2026年5月13日",
+        "低智商犯罪 热度 大结局 2026年5月13日"
       ],
       "raw_leads": 8,
-      "valid_hotspots": 3,
-      "notes": "第二轮使用不同关键词，覆盖辛芷蕾新片、素人电影逆袭、网红宠物隐私。"
+      "valid_hotspots": 4,
+      "notes": "第二轮换成网红/剧集/票房关键词，和 3A 不重复。"
     },
     {
       "layer": "cn_workplace_education",
       "status": "completed",
       "queries": [
-        "应届生 就业",
-        "学校 家长 沟通 处理",
-        "公司 员工 加班 政策"
+        "一天工作8小时包括午餐午休吗 2026年5月13日",
+        "外卖骑手 接单 松绑 每日至少4次 无条件拒单 2026年5月13日",
+        "丘成桐 少年班 多地 悄然撤退 2026年5月13日",
+        "停车位 缩水 新能源车 身普遍变宽 2026年5月13日"
       ],
-      "raw_leads": 7,
-      "valid_hotspots": 3,
-      "notes": "覆盖小学父母职业观察单、论文致谢伴侣、就业/加班焦虑。"
+      "raw_leads": 8,
+      "valid_hotspots": 4,
+      "notes": "职场算法、教育资源、车位标准、劳动时间均按真实问题处理。"
     },
     {
       "layer": "global_public_event",
       "status": "completed",
       "queries": [
-        "breaking live updates",
-        "public reaction policy",
-        "company response employees concerns",
-        "consumers pushed back pricing"
+        "May 13 2026 breaking live updates public reaction policy",
+        "May 13 2026 CPI 3.8 inflation Reddit X trend",
+        "May 13 2026 Medicaid cuts Reddit House Republicans",
+        "May 13 2026 Ban Assault Weapons trend Axios"
       ],
       "raw_leads": 9,
-      "valid_hotspots": 3,
-      "notes": "覆盖特朗普访华预期、X美国Saudi Arabia/Riyadh趋势、中东外交外溢。"
+      "valid_hotspots": 4,
+      "notes": "保留 CPI、枪支政策、三星罢工、汉坦病毒等海外公共议题；外网热度优先用 Reddit/X 趋势信号。"
     },
     {
       "layer": "cn_ideology_official_agenda",
       "status": "completed",
       "queries": [
-        "总书记 寄语 青年",
-        "政治局 会议 四稳",
-        "商务部 发言人 答记者问",
-        "新规 施行 官方 解读",
-        "习近平 拉赫蒙 会谈",
-        "外交部 中美关系 台湾问题"
+        "总书记 寄语 青年 2026年5月13日",
+        "政治局 会议 四稳 2026年5月13日",
+        "商务部 发言人 答记者问 2026年5月13日",
+        "外交部 欢迎特朗普访问中国 2026年5月13日"
       ],
-      "raw_leads": 9,
-      "valid_hotspots": 4,
-      "notes": "层6已覆盖，纳入中塔会谈、外交部答问、中国服务出海等官方议程。"
+      "raw_leads": 6,
+      "valid_hotspots": 3,
+      "notes": "已覆盖中国意识形态/官方议程；正式主榜只放强平台热度的中美访问，其余放入事实/扩展线。"
     },
     {
       "layer": "global_celebrity_outflow",
       "status": "completed",
       "queries": [
-        "athlete response rule debate",
-        "film sparked discussion values",
-        "concert refund fans organizers",
-        "academy AI rules backlash"
+        "Cannes Film Festival 2026 opening Gong Li May 13 2026",
+        "athlete response rule debate trending X YouTube sports May 13 2026",
+        "concert refund fans organizers trending X TikTok May 13 2026",
+        "academy AI rules backlash film values May 13 2026"
       ],
-      "raw_leads": 8,
-      "valid_hotspots": 4,
-      "notes": "覆盖NBA/Tatum/Knicks、CBA、电竞、世界杯版权风波。"
+      "raw_leads": 7,
+      "valid_hotspots": 2,
+      "notes": "有效外溢主要来自戛纳开幕与体育/影视讨论；弱证据娱乐八卦未进入主榜。"
     },
     {
       "layer": "weibo_peak",
       "status": "completed",
       "queries": [
-        "微博 热搜 峰值 今日",
-        "特朗普访华 微博",
-        "南京审计大学偷拍男生被开除 微博",
-        "人造大米谣言 微博"
+        "微博 热搜 峰值 今日 2026年5月13日",
+        "特朗普抵京 微博 热搜 抖音 百度 2026年5月13日",
+        "北方多地迎今年首个高温日 微博 热搜 2026年5月13日",
+        "低智商犯罪 热度破万 微博 抖音 2026年5月13日"
       ],
-      "raw_leads": 15,
-      "valid_hotspots": 7,
-      "notes": "以X排行06:12微博截面复核，跨百度/抖音/头条验证。"
+      "raw_leads": 12,
+      "valid_hotspots": 8,
+      "notes": "用 RSHub/平台 URL 复核微博峰值，并和百度、抖音、B站、知乎交叉看热度。"
     },
     {
       "layer": "global_culture_shift",
       "status": "completed",
       "queries": [
-        "young people rejecting trend",
-        "AI generated children content",
-        "platform trust synthetic media",
-        "shift in how people approach work",
-        "AI版权 训练数据 书籍",
-        "Android 17 platform safety"
+        "AI generated children content YouTube TikTok debate May 2026",
+        "platform trust synthetic media May 2026",
+        "young people rejecting trend work 2026",
+        "shift in how people approach work AI 2026"
       ],
-      "raw_leads": 10,
-      "valid_hotspots": 5,
-      "notes": "覆盖人工胚胎、宇树机甲、微信功能、AI版权、安卓17安全。"
+      "raw_leads": 8,
+      "valid_hotspots": 3,
+      "notes": "保留儿童 AI 视频、AI 退票责任、平台隐私测试等文化/技术行为变化。"
     }
   ],
+  "data_overview": {
+    "main_board_count": 10,
+    "extended_board_count": 18,
+    "platform_native_or_public_life_main_count": 6,
+    "official_or_newsroom_ish_main_count": 3,
+    "foreign_platform_native_main_count": 2,
+    "layers_completed": 10
+  },
   "sources": [
     {
-      "url": "https://www.xpaihang.com/",
-      "title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面"
+      "name": "RSHub 今日热搜榜",
+      "url": "https://www.rshub.site/",
+      "usage": "聚合百度、微博、知乎、B站、抖音、IT之家、豆瓣、贴吧热度锚点"
     },
     {
-      "url": "https://us.trend-calendar.com/trend/2025-05-13.html",
-      "title": "Trend Calendar US - X Trends for May 13, 2026"
+      "name": "Hot点·热榜",
+      "url": "https://hotdian.com/",
+      "usage": "补充抖音总榜和多平台热榜摘要"
     },
     {
-      "url": "https://www.nbd.com.cn/articles/2026-05-12/4389683.html",
-      "title": "南京审计大学通报学生偷拍他人隐私调查进展"
+      "name": "央视新闻",
+      "url": "https://news.cctv.com/2026/05/13/ARTITCs2DQzKhGd4a7dmY5T7260513.shtml",
+      "usage": "中美访问官方事实核验"
     },
     {
-      "url": "https://www.guancha.cn/politics/2026_05_12_816770.shtml",
-      "title": "舒某编造涉“湖北人造大米生产线”网络谣言被行政处罚"
+      "name": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33161668",
+      "usage": "微信状态测试事实核验"
     },
     {
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-12/doc-inhxrshc1244121.shtml",
-      "title": "世界首次，我国将人工胚胎送入太空"
+      "name": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-05-13/4390678.html",
+      "usage": "三星罢工事实核验"
     },
     {
-      "url": "https://www.mod.gov.cn/gfbw/sy/tt_214026/16460235.html",
-      "title": "习近平同塔吉克斯坦总统拉赫蒙会谈"
+      "name": "Axios",
+      "url": "https://www.axios.com/2026/05/12/cpi-april-inflation-iran-trump",
+      "usage": "美国 CPI 事实核验"
     },
     {
-      "url": "https://news.china.com/socialgd/10000169/20260512/49489586.html",
-      "title": "武汉蒜鸟告了“蒜鸟”：损失超亿元"
+      "name": "AP News",
+      "url": "https://apnews.com/article/3c7b1b97b7882a173c45bce92c176fd1",
+      "usage": "美国攻击性武器禁令事实核验"
     },
     {
-      "url": "https://support.google.com/trends/answer/3076011?hl=en-CA",
-      "title": "Google Trends Trending now explains fresh trend data"
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/stocks/comments/1tb17x1/consumer_prices_rose_38_annually_in_april_the/",
+      "usage": "海外平台原生讨论信号"
     },
     {
-      "url": "https://www.ap.org/news-highlights/spotlights/2025/trump-lays-out-mideast-vision-as-he-looks-to-revamp-us-approach-in-iran-syria-and-beyond/",
-      "title": "AP: Trump lays out Mideast vision in Riyadh"
+      "name": "中国天气网",
+      "url": "https://m.weather.com.cn/news/2026/05/4632959.shtml",
+      "usage": "北方高温事实核验"
     },
     {
-      "url": "https://www.youtube.com/watch?v=zIlikaEESVI",
-      "title": "NBA channel: Celtics at Knicks highlights"
+      "name": "AP/中新网/新浪/羊城晚报/IT之家等",
+      "url": "https://www.chinanews.com.cn/",
+      "usage": "公共事件、影视、科技与辟谣事实核验"
     }
   ]
 }
