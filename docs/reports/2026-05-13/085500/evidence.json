@@ -1,0 +1,878 @@
+{
+  "generated_at": "2026-05-13T08:55:00+08:00",
+  "coverage_matrix": [
+    {
+      "layer": "cn_public_event",
+      "status": "completed",
+      "queries": [
+        "官方通报 调查 处理",
+        "警方通报 当事人 回应",
+        "事故 伤亡 救援 进展"
+      ],
+      "raw_leads": 12,
+      "valid_hotspots": 5,
+      "notes": "覆盖偷拍处分、谣言处罚、死亡判断、存款转走、桥下佛头等公共事件。"
+    },
+    {
+      "layer": "cn_consumer_brand",
+      "status": "completed",
+      "queries": [
+        "消费者 投诉 品牌 回应",
+        "退款 退票 协商",
+        "平台 规则 调整 用户 反馈"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 5,
+      "notes": "覆盖停车位缩水、高铁调价、世界杯转播权/退票、蒜鸟IP、汽车销量。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_a",
+      "status": "completed",
+      "queries": [
+        "演唱会 退票 主办方 回应",
+        "运动员 回应 比赛 规则",
+        "影视 引发 讨论 价值观"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 3,
+      "notes": "第一轮覆盖跑男争议、白鹿演唱会、体育赛事公共化。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_b",
+      "status": "completed",
+      "queries": [
+        "网红 道歉 退网",
+        "明星 工作室 声明",
+        "票房 争议 主创 回应"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 3,
+      "notes": "第二轮使用不同关键词，覆盖辛芷蕾新片、素人电影逆袭、网红宠物隐私。"
+    },
+    {
+      "layer": "cn_workplace_education",
+      "status": "completed",
+      "queries": [
+        "应届生 就业",
+        "学校 家长 沟通 处理",
+        "公司 员工 加班 政策"
+      ],
+      "raw_leads": 7,
+      "valid_hotspots": 3,
+      "notes": "覆盖小学父母职业观察单、论文致谢伴侣、就业/加班焦虑。"
+    },
+    {
+      "layer": "global_public_event",
+      "status": "completed",
+      "queries": [
+        "breaking live updates",
+        "public reaction policy",
+        "company response employees concerns",
+        "consumers pushed back pricing"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 3,
+      "notes": "覆盖特朗普访华预期、X美国Saudi Arabia/Riyadh趋势、中东外交外溢。"
+    },
+    {
+      "layer": "cn_ideology_official_agenda",
+      "status": "completed",
+      "queries": [
+        "总书记 寄语 青年",
+        "政治局 会议 四稳",
+        "商务部 发言人 答记者问",
+        "新规 施行 官方 解读",
+        "习近平 拉赫蒙 会谈",
+        "外交部 中美关系 台湾问题"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 4,
+      "notes": "层6已覆盖，纳入中塔会谈、外交部答问、中国服务出海等官方议程。"
+    },
+    {
+      "layer": "global_celebrity_outflow",
+      "status": "completed",
+      "queries": [
+        "athlete response rule debate",
+        "film sparked discussion values",
+        "concert refund fans organizers",
+        "academy AI rules backlash"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 4,
+      "notes": "覆盖NBA/Tatum/Knicks、CBA、电竞、世界杯版权风波。"
+    },
+    {
+      "layer": "weibo_peak",
+      "status": "completed",
+      "queries": [
+        "微博 热搜 峰值 今日",
+        "特朗普访华 微博",
+        "南京审计大学偷拍男生被开除 微博",
+        "人造大米谣言 微博"
+      ],
+      "raw_leads": 15,
+      "valid_hotspots": 7,
+      "notes": "以X排行06:12微博截面复核，跨百度/抖音/头条验证。"
+    },
+    {
+      "layer": "global_culture_shift",
+      "status": "completed",
+      "queries": [
+        "young people rejecting trend",
+        "AI generated children content",
+        "platform trust synthetic media",
+        "shift in how people approach work",
+        "AI版权 训练数据 书籍",
+        "Android 17 platform safety"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 5,
+      "notes": "覆盖人工胚胎、宇树机甲、微信功能、AI版权、安卓17安全。"
+    }
+  ],
+  "items": [
+    {
+      "issue_anchor": "南京审计大学偷拍男生被开除",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.nbd.com.cn/articles/2026-05-12/4389683.html",
+        "source_title": "南京审计大学通报学生偷拍他人隐私调查进展",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "微博第2、百度第12、头条第13、凤凰第10均出现该议题",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 1,
+        "heat_score": 320000,
+        "platforms": [
+          "weibo",
+          "baidu",
+          "toutiao",
+          "ifeng"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "舒某编造涉“人造大米”AI谣言被罚",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.guancha.cn/politics/2026_05_12_816770.shtml",
+        "source_title": "舒某编造涉“湖北人造大米生产线”网络谣言被行政处罚",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "抖音第6、头条第6、百度第7、B站第6、360第6均出现",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 2,
+        "heat_score": 10900000,
+        "platforms": [
+          "weibo",
+          "baidu",
+          "douyin",
+          "toutiao",
+          "bilibili",
+          "so"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "人工胚胎首次送入太空",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/tech/roll/2026-05-12/doc-inhxrshc1244121.shtml",
+        "source_title": "世界首次，我国将人工胚胎送入太空",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "抖音第1、搜狗第2、360第1，均以“人工胚胎首次进入太空”为热点",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 3,
+        "heat_score": 12010000,
+        "platforms": [
+          "douyin",
+          "sogou",
+          "360",
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "特朗普访华与中美元首外交期待",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.ifeng.com/",
+        "source_title": "凤凰网热榜多条中美议题聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "微博第1“特朗普访华”、头条第4“特朗普访华有哪些重要议题”、凤凰多条中美议题",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 4,
+        "heat_score": 13320000,
+        "platforms": [
+          "weibo",
+          "toutiao",
+          "ifeng"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "停车位缩水与城市用车体验",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "百度第8“不少车主感叹：停车位缩水了”、360第3“车主感叹停车位缩水”",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 5,
+        "heat_score": 7230000,
+        "platforms": [
+          "baidu",
+          "360"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "全国高铁干线调价与京沪二等座可超800元",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "知乎第3讨论“京沪高铁宣布涨价20%，二等座可超800元”",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 6,
+        "heat_score": 198000,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "宇树发布GD01载人变形机甲390万元起",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "知乎第6、B站第5、搜狗第10、360第8、贴吧第3均出现宇树载人机甲",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 7,
+        "heat_score": 9740000,
+        "platforms": [
+          "zhihu",
+          "bilibili",
+          "sogou",
+          "360",
+          "tieba"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "微信状态浏览人数测试停止与已读功能澄清",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "36氪第5“微信已读和访客功能已焊死，微信状态浏览人数测试已停止”",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 8,
+        "heat_score": 1,
+        "platforms": [
+          "36kr"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "世界杯转播权风波与中国球迷退票",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "抖音第4“世界杯转播权风波”、B站第13“版权谈判世界杯自身有何硬伤”、搜狗第8",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 9,
+        "heat_score": 11100000,
+        "platforms": [
+          "douyin",
+          "bilibili",
+          "sogou",
+          "netease"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "X平台美国趋势：Saudi Arabia、Riyadh、Tatum、Knicks等集中上榜",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://us.trend-calendar.com/trend/2025-05-13.html",
+        "source_title": "Trend Calendar US - X Trends for May 13, 2026",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://us.trend-calendar.com/trend/2025-05-13.html",
+        "source_title": "Trend Calendar显示X美国趋势Saudi Arabia第1、Riyadh第4、Tatum第3、Knicks第7",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 10,
+        "heat_score": 50,
+        "platforms": [
+          "x",
+          "google_trends"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "习近平同塔吉克斯坦总统拉赫蒙会谈",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.mod.gov.cn/gfbw/sy/tt_214026/16460235.html",
+        "source_title": "习近平同塔吉克斯坦总统拉赫蒙会谈",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "百度第1，新华社/国防部来源确认中塔会谈与条约叙事",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 11,
+        "heat_score": 7900000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "外交部就中美关系和台湾问题答问",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "头条第1，属于官方表态高热但平台生活讨论弱于主榜",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 12,
+        "heat_score": 17970000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "“中国服务”加速出海",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "头条第3、搜狗第6，适合做服务贸易和软基础设施观察",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 13,
+        "heat_score": 14720000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "“超级心脏”爆单订单排到2028年",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "百度第2，硬核国货/医疗器械热度强但事实链需进一步核验",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 14,
+        "heat_score": 7810000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "武汉蒜鸟告了“蒜鸟”损失超亿元",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.china.com/socialgd/10000169/20260512/49489586.html",
+        "source_title": "武汉蒜鸟告了“蒜鸟”：损失超亿元",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "百度第3，文创IP盗版维权进入司法叙事",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 15,
+        "heat_score": 7710000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "4月汽车销量前十名仅剩1款油车",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "百度第5，新能源替代进入大众讨论",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 16,
+        "heat_score": 7520000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "宝宝头上有九个头旋",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "百度第9，医学/民俗解释需求上升，需避免迷信化",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 17,
+        "heat_score": 7140000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "独身男子离世存款被转走，民政局回应",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "百度第14、360第5，遗产/监护/基层处置引发关注",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 18,
+        "heat_score": 6660000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "重庆一大桥底现巨大佛头？官方回应",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "百度第13，视觉奇观转向地方回应",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 19,
+        "heat_score": 6760000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "重庆老人被判断死亡后家属发现仍有呼吸",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "知乎第4，急救判断责任与流程议题",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 20,
+        "heat_score": 184000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "湖北小学要求填父母职业观察单",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "知乎第14，感恩教育、隐私和阶层感知的边界",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 21,
+        "heat_score": 78000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "应届生就业与公司加班政策讨论",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "矩阵层4补线索，属于长期焦虑的当天弱热议题",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 22,
+        "heat_score": 76000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "跑男争议不该先定罪后解读",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "微博第5、腾讯视频综艺热度，综艺舆论审判争议",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 23,
+        "heat_score": 160000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "白鹿演唱会过审",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "微博第6，粉丝经济和演出审批进入热搜",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 24,
+        "heat_score": 160000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "辛芷蕾新片演黄柳霜",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "微博第9，华裔女性影像再叙事议题",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 25,
+        "heat_score": 100000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "成本1400万素人电影票房逆袭讨论",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "知乎第8、B站第9，低成本电影与宣发效率议题",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 26,
+        "heat_score": 250000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "CBA北京淘汰广东挺进4强",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "抖音第5，体育情绪强但公共议题弱于主榜",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 27,
+        "heat_score": 10390000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "AG 4:3战胜狼队与电竞赛事热度",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "抖音第15、B站第1，电竞赛事粉丝热度强",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 28,
+        "heat_score": 7780000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "Anthropic购买百万实体书后扫描销毁争议",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "知乎第10，合理使用、训练数据和文化资产损耗争议",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 29,
+        "heat_score": 91000,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    },
+    {
+      "issue_anchor": "Google安卓17防盗与系统验证功能",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行 - 全网热搜实时聚合，2026-05-13 06:12 截面",
+        "source_type": "third_party_hotlist",
+        "source_published_at": "2026-05-13T08:55:00+08:00",
+        "reason": "用于核验议题事实锚点或记录平台热词原始截面。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "IT之家榜单多条安卓17功能，平台安全进入消费端",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-13T08:55:00+08:00",
+        "rank": 30,
+        "heat_score": 5,
+        "platforms": [
+          "xpa"
+        ],
+        "reason": "实时热榜/趋势页提供具体榜位或热度值，证明该议题正在获得平台注意力。"
+      }
+    }
+  ]
+}
