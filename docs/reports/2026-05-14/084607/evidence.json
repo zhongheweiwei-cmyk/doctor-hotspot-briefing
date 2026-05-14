@@ -1,0 +1,1281 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T08:46:07+08:00",
+  "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
+  "raw_leads_total": 76,
+  "valid_hotspots_total": 30,
+  "heat_verified_total": 30,
+  "fact_verified_total": 20,
+  "coverage_matrix": [
+    {
+      "layer": "cn_public_event",
+      "status": "completed",
+      "queries": [
+        "官方通报 调查 处理 公共安全 -榜单 -排行榜 -合集",
+        "警方通报 当事人 回应 事故 伤亡 救援 进展",
+        "梧州 公交车 坠桥 致3死5伤 官方通报 2026 5月"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 5,
+      "notes": "公交坠桥、烟花厂爆炸、醉驾致死伤、高空作业冲突、菲律宾参议院枪声进入候选；高风险项保留事实核验源。"
+    },
+    {
+      "layer": "cn_consumer_brand",
+      "status": "completed",
+      "queries": [
+        "消费者 投诉 品牌 回应 退款 退票 协商 -榜单 -排行榜 -合集",
+        "平台 规则 调整 用户 反馈 2026 5月",
+        "很久以前羊肉串 48022桌 退款 道歉 2026 5月13",
+        "大疆 Pocket 3 直降 1400 官方 2026 5月13"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 5,
+      "notes": "消费争议和价格/服务规则变化较强，很久以前羊肉串、DJI降价、12306敬字票等有跨榜热度。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_a",
+      "status": "completed",
+      "queries": [
+        "演唱会 退票 主办方 回应 -榜单 -排行榜 -合集 -教程",
+        "运动员 回应 比赛 规则 引发讨论",
+        "影视 引发 讨论 价值观 2026 5月"
+      ],
+      "raw_leads": 7,
+      "valid_hotspots": 4,
+      "notes": "第一轮覆盖演唱会谣言、影视票房、体育/赛事公共化讨论。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_b",
+      "status": "completed",
+      "queries": [
+        "网红 道歉 退网 复出 回应 -榜单 -排行榜 -合集",
+        "明星 工作室 声明 舆论 回应 2026 5月",
+        "票房 争议 主创 回应 2026 5月"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 5,
+      "notes": "第二轮使用网红/明星/票房关键词，与3A关键词族不同；程十安复更、白冰公司资金事件、金曲奖入围等进入扩展榜。"
+    },
+    {
+      "layer": "cn_workplace_education",
+      "status": "completed",
+      "queries": [
+        "应届生 就业 招聘 薪资 回应 -榜单 -排行榜 -合集",
+        "学校 家长 沟通 处理 学生 信息 2026 5月",
+        "公司 员工 加班 政策 休假 领导消息"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 6,
+      "notes": "职场边界、放羊高薪招聘、8小时工时、学生信息安全、少年班培养模式均有搜索/平台热度。"
+    },
+    {
+      "layer": "global_public_event",
+      "status": "completed",
+      "queries": [
+        "breaking live updates public reaction policy 2026 May 14",
+        "company response employees concerns strike May 2026",
+        "consumers pushed back pricing May 2026",
+        "Samsung 50000 employees strike talks collapsed May 2026"
+      ],
+      "raw_leads": 7,
+      "valid_hotspots": 4,
+      "notes": "海外公共事件以三星罢工、菲律宾参议院枪声、邮轮疫情、特朗普访华外溢为主；新闻源只作事实核验。"
+    },
+    {
+      "layer": "cn_ideology_official_agenda",
+      "status": "completed",
+      "queries": [
+        "总书记 寄语 青年 2026 5月 官方 解读 平台传播",
+        "政治局 会议 四稳 官方 解读 平台传播",
+        "商务部 发言人 答记者问 中美 经贸 2026 5月",
+        "新规 施行 官方 解读 2026 5月"
+      ],
+      "raw_leads": 6,
+      "valid_hotspots": 2,
+      "notes": "已覆盖中国意识形态/官方议程；中美如何相处、外籍记者看中国等进入事实强但平台活人气较弱的扩展或主榜低占比位置。"
+    },
+    {
+      "layer": "global_celebrity_outflow",
+      "status": "completed",
+      "queries": [
+        "athlete response rule debate YouTube trending May 2026",
+        "film sparked discussion values Cannes May 2026",
+        "concert refund fans organizers May 2026",
+        "academy AI rules backlash 2026"
+      ],
+      "raw_leads": 6,
+      "valid_hotspots": 3,
+      "notes": "外网平台原生候选以YouTube体育集锦、游戏动员视频、AI二创视频为主；均按播放指标判断热度。"
+    },
+    {
+      "layer": "weibo_peak",
+      "status": "completed",
+      "queries": [
+        "微博 热搜 峰值 今日 2026年5月14日",
+        "特朗普抵达北京 微博 热搜 抖音 百度",
+        "很久以前羊肉串 微博 抖音 百度 热榜",
+        "马化腾 回应 AI 掉队 微博 百度 热榜"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 6,
+      "notes": "以HotFlash微博页、百度/抖音交叉页复核峰值；微博项没有单独当事实源，只作为热度证据。"
+    },
+    {
+      "layer": "global_culture_shift",
+      "status": "completed",
+      "queries": [
+        "AI generated children content platform trust synthetic media 2026",
+        "young people rejecting trend work culture 2026",
+        "shift in how people approach work AI tools May 2026",
+        "YouTube viral AI recreated anime May 2026"
+      ],
+      "raw_leads": 7,
+      "valid_hotspots": 4,
+      "notes": "AI收费、AI二创、Android/ChromeOS合并、海外YouTube长视频趋势纳入文化/技术迁移层。"
+    }
+  ],
+  "items": [
+    {
+      "issue_anchor": "特朗普抵达北京与中美会晤预期升温",
+      "category": "强冲突/争议热点",
+      "board": "main",
+      "rank": 1,
+      "status": "breaking",
+      "platforms": [
+        "微博",
+        "抖音",
+        "百度",
+        "今日头条"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.chinanews.com.cn/gn/2026/05-13/10367500.shtml",
+        "source_title": "中美高层互动相关公开报道",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T20:00:00+08:00",
+        "reason": "用于核验特朗普抵京、中美会晤议程等事实线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "HotFlash 综合热榜：特朗普抵京",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 1,
+        "heat_score": 96,
+        "platforms": [
+          "weibo",
+          "douyin",
+          "baidu",
+          "toutiao"
+        ],
+        "reason": "多平台热榜高位同时出现，证明议题正在集中升温。"
+      },
+      "notes": {
+        "why_rising": "同一议题同时出现在微博、抖音、百度与头条高位，外交议程被平台转译成汇率、外贸、留学、供应链和中美关系预期。",
+        "risk": "正式会谈成果和政策细节需以后续官方通报为准，平台情绪不等于政策结果。"
+      }
+    },
+    {
+      "issue_anchor": "很久以前羊肉串4.8万桌退款道歉",
+      "category": "强冲突/争议热点",
+      "board": "main",
+      "rank": 2,
+      "status": "rising",
+      "platforms": [
+        "微博",
+        "抖音",
+        "百度"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.qq.com/rain/a/20260513A07MPD00",
+        "source_title": "很久以前羊肉串向48022桌顾客退款道歉相关报道",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "核验品牌道歉、退款对象和事件基本事实。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "HotFlash 抖音热榜：很久以前羊肉串向48022桌顾客退钱",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 15,
+        "heat_score": 91,
+        "platforms": [
+          "weibo",
+          "douyin",
+          "baidu"
+        ],
+        "reason": "抖音与综合热榜同步进入高位，证明已超过单一新闻传播。"
+      },
+      "notes": {
+        "why_rising": "餐饮品牌把争议处理成大规模退款，天然触发“食品安全、品牌公关、消费者补偿是否过度”的评论冲突。",
+        "risk": "退款规模、门店范围和原因需以品牌正式说明为准，不宜替消费者或商家预设责任。"
+      }
+    },
+    {
+      "issue_anchor": "梧州公交车坠桥致3死5伤",
+      "category": "真实生活问题热点",
+      "board": "main",
+      "rank": 3,
+      "status": "breaking",
+      "platforms": [
+        "微博",
+        "百度",
+        "今日头条"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.cctv.com/2026/05/13/ARTIQmOEJGE9yMMwxU4Wyur260513.shtml",
+        "source_title": "广西梧州一公交车发生坠桥事故 致3死5伤",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "核验事故地点、伤亡人数和官方通报。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "HotFlash 综合热榜：公交车发生坠桥事故致3死5伤",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 21,
+        "heat_score": 90,
+        "platforms": [
+          "weibo",
+          "baidu",
+          "toutiao"
+        ],
+        "reason": "公共安全事故在微博和综合热榜出现，证明具有社会关注度。"
+      },
+      "notes": {
+        "why_rising": "公共交通伤亡事故与官方通报同时出现，触发通勤安全、驾驶员管理、道路设施和应急救援讨论。",
+        "risk": "事故原因尚需调查结论，不能把初步通报直接推演成单一责任人叙事。"
+      }
+    },
+    {
+      "issue_anchor": "两名高空工人争执一人被推下",
+      "category": "强冲突/争议热点",
+      "board": "main",
+      "rank": 4,
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "微博",
+        "短视频平台"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.qq.com/rain/a/20260513A05KSK00",
+        "source_title": "两名工人高空作业时起争执，一人被推下相关报道",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "核验事件基本过程和媒体报道口径。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "HotFlash 百度热榜：两名工人高空作业时起争执一人被推下",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 15,
+        "heat_score": 88,
+        "platforms": [
+          "baidu",
+          "weibo",
+          "short_video"
+        ],
+        "reason": "百度热榜高位叠加短视频传播场景，证明公众正在集中搜索。"
+      },
+      "notes": {
+        "why_rising": "极端视频场景叠加工地安全和刑责想象，天然适合短视频切片传播。",
+        "risk": "高风险刑事/伤害类议题需以警方、医院和企业调查为准，避免转发未经核实现场视频。"
+      }
+    },
+    {
+      "issue_anchor": "12306上线“敬字票”老年优惠搜索升温",
+      "category": "用户搜索热点",
+      "board": "main",
+      "rank": 5,
+      "status": "emerging",
+      "platforms": [
+        "百度",
+        "微博",
+        "资讯平台"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://baijiahao.baidu.com/s?id=1832277428585307146",
+        "source_title": "12306上线敬字票：60岁以上旅客坐高铁可享9折相关报道",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "核验12306敬字票、年龄门槛和优惠信息。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "HotFlash 综合热榜：12306上线敬字票",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 10,
+        "heat_score": 85,
+        "platforms": [
+          "baidu",
+          "weibo"
+        ],
+        "reason": "高频搜索型议题进入综合热榜，体现实际需求驱动。"
+      },
+      "notes": {
+        "why_rising": "“60岁以上老人坐高铁9折”把平台搜索需求、家庭出行和老龄化服务连接到一起。",
+        "risk": "优惠范围、线路、购票条件必须以12306页面和铁路部门实际规则为准。"
+      }
+    },
+    {
+      "issue_anchor": "DJI Pocket 3直降1400引发数码消费再定价",
+      "category": "行业变化热点",
+      "board": "main",
+      "rank": 6,
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "B站",
+        "小红书",
+        "微博"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.ithome.com/0/852/460.htm",
+        "source_title": "大疆 Pocket 3 官方渠道降价相关报道",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "核验产品价格变化和官方渠道信息。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "HotFlash 综合热榜：DJI Pocket 3直降1400",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 5,
+        "heat_score": 84,
+        "platforms": [
+          "baidu",
+          "bilibili",
+          "xiaohongshu"
+        ],
+        "reason": "数码消费话题在综合热榜高位，说明不仅是行业媒体消息。"
+      },
+      "notes": {
+        "why_rising": "爆款硬件大幅降价同时击中新老用户、二手市场和创作者设备更新周期。",
+        "risk": "不同渠道库存、套装与补贴口径可能不同，需区分官方价格、平台补贴和二手价。"
+      }
+    },
+    {
+      "issue_anchor": "马化腾回应腾讯AI掉队与场景竞争",
+      "category": "行业变化热点",
+      "board": "main",
+      "rank": 7,
+      "status": "rising",
+      "platforms": [
+        "微博",
+        "百度",
+        "36氪",
+        "财经媒体"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/jjxw/2026-05-14/doc-inexmmhw9667314.shtml",
+        "source_title": "马化腾回应腾讯AI掉队相关报道",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "核验马化腾关于腾讯AI竞争位置的公开表述。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "HotFlash 综合热榜：马化腾回应腾讯AI掉队",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 16,
+        "heat_score": 82,
+        "platforms": [
+          "weibo",
+          "baidu"
+        ],
+        "reason": "企业战略议题进入综合热榜，说明外溢到大众讨论。"
+      },
+      "notes": {
+        "why_rising": "大厂掌门人亲自回应AI位置，击中“模型领先还是场景落地领先”的产业焦虑。",
+        "risk": "企业战略表述容易被剪成口号，实际竞争力仍需看产品留存、成本和商业化。"
+      }
+    },
+    {
+      "issue_anchor": "YouTube拳击集锦Canelo vs Scull持续高播放",
+      "category": "平台流量热点",
+      "board": "main",
+      "rank": 8,
+      "status": "rising",
+      "platforms": [
+        "YouTube"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.lenostube.com/en/youtube-trending-videos-day-week-month/",
+        "source_title": "Latest YouTube Trending Videos Right Now",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+00:00",
+        "reason": "用于核验趋势页列出的标题与播放量。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.lenostube.com/en/youtube-trending-videos-day-week-month/",
+        "source_title": "YouTube Trending: FIGHT HIGHLIGHTS Canelo Alvarez vs William Scull",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 1,
+        "views": 13441465,
+        "heat_score": 81,
+        "platforms": [
+          "youtube"
+        ],
+        "reason": "播放量超过YouTube指标阈值，属于外网平台原生热度。"
+      },
+      "notes": {
+        "why_rising": "体育高光剪辑在YouTube趋势页继续吸收搜索与推荐流量，显示海外平台对“结果已知但冲突强”的长尾放大。",
+        "risk": "第三方趋势页会滞后于YouTube原生页，需把播放量当作平台热度指标而非赛事事实全貌。"
+      }
+    },
+    {
+      "issue_anchor": "Brawl Stars“KEEP BRAWL ALIVE!”粉丝动员视频持续扩散",
+      "category": "游戏/场景/解法热点",
+      "board": "main",
+      "rank": 9,
+      "status": "emerging",
+      "platforms": [
+        "YouTube",
+        "游戏社区"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.lenostube.com/en/youtube-trending-videos-day-week-month/",
+        "source_title": "Latest YouTube Trending Videos Right Now",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+00:00",
+        "reason": "核验视频标题和播放量指标。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.lenostube.com/en/youtube-trending-videos-day-week-month/",
+        "source_title": "YouTube Trending: KEEP BRAWL ALIVE!",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 3,
+        "views": 9557369,
+        "heat_score": 80,
+        "platforms": [
+          "youtube"
+        ],
+        "reason": "播放量远超YouTube平台热度阈值，属于外网平台原生候选。"
+      },
+      "notes": {
+        "why_rising": "游戏社区把内容消费转成“保卫游戏/参与行动”的动员叙事，适合弹幕、评论和二创扩散。",
+        "risk": "粉丝动员视频不等于官方运营危机，需区分玩家叙事、创作者标题和厂商实际动作。"
+      }
+    },
+    {
+      "issue_anchor": "宇树科技首次公开售卖载人变形机甲",
+      "category": "行业变化热点",
+      "board": "main",
+      "rank": 10,
+      "status": "emerging",
+      "platforms": [
+        "百度",
+        "B站",
+        "科技媒体",
+        "短视频平台"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.36kr.com/newsflashes/3290526449326084",
+        "source_title": "宇树科技首次公开售卖载人变形机甲相关快讯",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "核验产品发布/售卖和价格锚点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "HotFlash 综合热榜：宇树首次公开售卖载人变形机甲",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 27,
+        "heat_score": 79,
+        "platforms": [
+          "baidu",
+          "bilibili",
+          "short_video"
+        ],
+        "reason": "科技产品视觉化议题进入综合热榜，具备跨平台扩散条件。"
+      },
+      "notes": {
+        "why_rising": "“载人变形机甲”同时具备机器人产业、科幻视觉和价格锚点，适合短视频平台传播。",
+        "risk": "概念展示、限量销售和成熟商业化之间差距很大，不能把视觉冲击等同于产业落地。"
+      }
+    },
+    {
+      "issue_anchor": "菲律宾参议院封锁时传出连续枪声",
+      "category": "强冲突/争议热点",
+      "board": "extended",
+      "rank": 11,
+      "status": "breaking",
+      "platforms": [
+        "百度",
+        "国际媒体"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.hk01.com/即时国际/60239301/菲律宾参议院封锁期间传出连续枪声",
+        "source_title": "媒体事实核验",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "热榜/趋势页：菲律宾参议院封锁时传出连续枪声",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 11,
+        "heat_score": 78,
+        "platforms": [
+          "百度",
+          "国际媒体"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "海外政治安全事件进入中文热榜，具备突发性但平台原生讨论弱于主榜。",
+        "risk": "涉及枪声和安保，需等待菲律宾官方和主流媒体持续核验。"
+      }
+    },
+    {
+      "issue_anchor": "Ambition邮轮暴发疫情致1人死亡",
+      "category": "真实生活问题热点",
+      "board": "extended",
+      "rank": 12,
+      "status": "breaking",
+      "platforms": [
+        "百度",
+        "外媒",
+        "Reddit"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.cruisehive.com/gastrointestinal-outbreak-on-cruise-ship-leaves-one-passenger-dead/172744",
+        "source_title": "媒体事实核验",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：Ambition邮轮暴发疫情致1人死亡",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 12,
+        "heat_score": 77,
+        "platforms": [
+          "百度",
+          "外媒",
+          "reddit"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "邮轮疫情同时击中旅行安全和公共卫生记忆，但事实链仍需官方卫生源确认。",
+        "risk": "不要把中文标题中的病毒名称直接当医学结论，应以卫生部门/船公司通报为准。"
+      }
+    },
+    {
+      "issue_anchor": "三星电子5万名员工罢工谈判破裂",
+      "category": "行业变化热点",
+      "board": "extended",
+      "rank": 13,
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "财经媒体"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.nbd.com.cn/articles/2026-05-13/3862937.html",
+        "source_title": "媒体事实核验",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：三星电子5万名员工罢工谈判破裂",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 13,
+        "heat_score": 76,
+        "platforms": [
+          "百度",
+          "财经媒体"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "全球半导体和电子产业的劳资议题进入中文热榜，行业事实强、活人讨论略弱。",
+        "risk": "罢工规模、工会口径和公司回应需要分开看。"
+      }
+    },
+    {
+      "issue_anchor": "浏阳烟花厂爆炸伤者29人已出院",
+      "category": "真实生活问题热点",
+      "board": "extended",
+      "rank": 14,
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "微博",
+        "地方媒体"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.cctv.com/",
+        "source_title": "权威媒体核验",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：浏阳烟花厂爆炸伤者29人已出院",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 14,
+        "heat_score": 75,
+        "platforms": [
+          "百度",
+          "微博",
+          "地方媒体"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "安全生产事故后续进入热榜，说明公众关注点从爆炸瞬间转向伤者救治和责任追查。",
+        "risk": "出院人数不代表事故调查结束，仍需看安全生产责任认定。"
+      }
+    },
+    {
+      "issue_anchor": "司机醉驾剐蹭后加速致1死5伤",
+      "category": "强冲突/争议热点",
+      "board": "extended",
+      "rank": 15,
+      "status": "breaking",
+      "platforms": [
+        "百度",
+        "微博"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "热榜线索待官方核验",
+        "source_type": "official",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：司机醉驾剐蹭后加速致1死5伤",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 15,
+        "heat_score": 75,
+        "platforms": [
+          "百度",
+          "微博"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "醉驾与逃逸/加速叙事叠加，引发公共安全和刑责讨论。",
+        "risk": "刑责与因果关系需等待警方和司法程序。"
+      }
+    },
+    {
+      "issue_anchor": "女子休假收到领导消息直接离职",
+      "category": "真实生活问题热点",
+      "board": "extended",
+      "rank": 16,
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "短视频平台"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://today.lieme.cn/hot/",
+        "source_title": "平台热榜线索",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：女子休假收到领导消息直接离职",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 16,
+        "heat_score": 74,
+        "platforms": [
+          "百度",
+          "短视频平台"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "劳动边界问题被高度戏剧化，适合短视频评论区投射个人经历。",
+        "risk": "个案真实性与劳动法适用不能混同。"
+      }
+    },
+    {
+      "issue_anchor": "月薪1.6万放羊招聘引发职业选择讨论",
+      "category": "用户搜索热点",
+      "board": "extended",
+      "rank": 17,
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "微博"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://today.lieme.cn/hot/",
+        "source_title": "平台热榜线索",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：月薪1.6万放羊招聘引发职业选择讨论",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 17,
+        "heat_score": 73,
+        "platforms": [
+          "百度",
+          "微博"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "高薪低门槛表述击中青年就业焦虑，也容易诱发“逃离办公室”的想象。",
+        "risk": "招聘条件、劳动强度和真实性需看公司/牧场正式信息。"
+      }
+    },
+    {
+      "issue_anchor": "一天工作8小时是否包括午餐午休",
+      "category": "用户搜索热点",
+      "board": "extended",
+      "rank": 18,
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "微博"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://today.lieme.cn/hot/",
+        "source_title": "平台热榜线索",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：一天工作8小时是否包括午餐午休",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 18,
+        "heat_score": 72,
+        "platforms": [
+          "百度",
+          "微博"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "劳动时间的常识问题再次被热搜化，说明普通人对规则边界仍缺清晰答案。",
+        "risk": "不同工时制度和地方口径可能不同，不能用单一答案覆盖所有岗位。"
+      }
+    },
+    {
+      "issue_anchor": "偷拍男生被取消江苏税务公务员录用资格",
+      "category": "强冲突/争议热点",
+      "board": "extended",
+      "rank": 19,
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "微博",
+        "媒体"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.qq.com/rain/a/20260514A007HD00",
+        "source_title": "媒体事实核验",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：偷拍男生被取消江苏税务公务员录用资格",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 19,
+        "heat_score": 72,
+        "platforms": [
+          "百度",
+          "微博",
+          "媒体"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "公共职位录用与过往违法/不当行为连接，引发资格审查、公平和性别议题争论。",
+        "risk": "需区分拟录用、公示举报、单位复核和最终行政决定。"
+      }
+    },
+    {
+      "issue_anchor": "女生讨薪被辱骂疑涉实习/劳动权益",
+      "category": "强冲突/争议热点",
+      "board": "extended",
+      "rank": 20,
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "短视频平台"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://today.lieme.cn/hot/",
+        "source_title": "平台热榜线索",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：女生讨薪被辱骂疑涉实习/劳动权益",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 20,
+        "heat_score": 71,
+        "platforms": [
+          "百度",
+          "短视频平台"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "讨薪叙事天然触发弱者处境、雇主责任和劳动权益冲突。",
+        "risk": "具体劳动关系、欠薪数额和辱骂证据需进一步核验。"
+      }
+    },
+    {
+      "issue_anchor": "丘成桐少年班培养模式撤退争议",
+      "category": "行业变化热点",
+      "board": "extended",
+      "rank": 21,
+      "status": "emerging",
+      "platforms": [
+        "百度",
+        "教育媒体"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "热榜线索待官方核验",
+        "source_type": "official",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：丘成桐少年班培养模式撤退争议",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 21,
+        "heat_score": 70,
+        "platforms": [
+          "百度",
+          "教育媒体"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "拔尖创新人才培养议题再次升温，事实强于平台活人气。",
+        "risk": "“撤退”说法需看学校招生文件和项目调整公告。"
+      }
+    },
+    {
+      "issue_anchor": "何炅演唱会未退票人均补偿7万系谣言",
+      "category": "强冲突/争议热点",
+      "board": "extended",
+      "rank": 22,
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "微博"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "热榜与辟谣线索",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：何炅演唱会未退票人均补偿7万系谣言",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 22,
+        "heat_score": 70,
+        "platforms": [
+          "百度",
+          "微博"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "娱乐票务谣言被热榜放大，反映粉丝经济对“补偿传闻”的高敏感度。",
+        "risk": "谣言类议题需以主办方/本人/平台辟谣为准。"
+      }
+    },
+    {
+      "issue_anchor": "程十安宣布6月2日复更",
+      "category": "平台流量热点",
+      "board": "extended",
+      "rank": 23,
+      "status": "rising",
+      "platforms": [
+        "微博",
+        "抖音",
+        "小红书"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "平台热榜线索",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：程十安宣布6月2日复更",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 23,
+        "heat_score": 69,
+        "platforms": [
+          "微博",
+          "抖音",
+          "小红书"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "网红停更/复更天然形成粉丝和反粉共同围观。",
+        "risk": "复更内容、商业合作和争议回应需等本人正式发布。"
+      }
+    },
+    {
+      "issue_anchor": "白冰餐饮公司被员工转走1000万",
+      "category": "强冲突/争议热点",
+      "board": "extended",
+      "rank": 24,
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "微博"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "热榜线索待司法核验",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：白冰餐饮公司被员工转走1000万",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 24,
+        "heat_score": 69,
+        "platforms": [
+          "百度",
+          "微博"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "明星/网红商业公司与内部控制失效相连，传播具备人物、金钱和信任三重锚点。",
+        "risk": "金额、责任和司法进展需以警方/法院或公司正式文件为准。"
+      }
+    },
+    {
+      "issue_anchor": "电影《给阿嬷的一封信》票房破亿",
+      "category": "平台流量热点",
+      "board": "extended",
+      "rank": 25,
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "微博",
+        "影视平台"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "平台热榜线索",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：电影《给阿嬷的一封信》票房破亿",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 25,
+        "heat_score": 68,
+        "platforms": [
+          "百度",
+          "微博",
+          "影视平台"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "亲情叙事与票房节点叠加，进入影视公共讨论。",
+        "risk": "票房数据需以灯塔/猫眼等实时平台为准。"
+      }
+    },
+    {
+      "issue_anchor": "第37届金曲奖入围名单引发讨论",
+      "category": "平台流量热点",
+      "board": "extended",
+      "rank": 26,
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "微博",
+        "音乐社区"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "平台热榜线索",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "热榜/趋势页：第37届金曲奖入围名单引发讨论",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 26,
+        "heat_score": 68,
+        "platforms": [
+          "百度",
+          "微博",
+          "音乐社区"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "奖项名单把审美、地域文化和粉丝身份拉进同一讨论场。",
+        "risk": "入围名单需以金曲奖官方发布为准。"
+      }
+    },
+    {
+      "issue_anchor": "外籍记者在中国看到绿色发展与高质量发展叙事",
+      "category": "行业变化热点",
+      "board": "extended",
+      "rank": 27,
+      "status": "emerging",
+      "platforms": [
+        "今日头条",
+        "官方媒体"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.chinanews.com.cn/",
+        "source_title": "官方/媒体议程核验",
+        "source_type": "official",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "热榜/趋势页：外籍记者在中国看到绿色发展与高质量发展叙事",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 27,
+        "heat_score": 66,
+        "platforms": [
+          "今日头条",
+          "官方媒体"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "官方议程覆盖完成，平台热度弱于事实传播价值，适合放扩展榜。",
+        "risk": "官方叙事材料不宜当作公共自发热度。"
+      }
+    },
+    {
+      "issue_anchor": "“中美如何相处”官方表述继续扩散",
+      "category": "行业变化热点",
+      "board": "extended",
+      "rank": 28,
+      "status": "rising",
+      "platforms": [
+        "微博",
+        "今日头条",
+        "官方媒体"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.mfa.gov.cn/",
+        "source_title": "官方议程核验",
+        "source_type": "official",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "热榜/趋势页：“中美如何相处”官方表述继续扩散",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 28,
+        "heat_score": 66,
+        "platforms": [
+          "微博",
+          "今日头条",
+          "官方媒体"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "层6官方议程项，事实价值强，但作为主榜只保留一个中美会晤总议题。",
+        "risk": "官方表述需结合全文语境，不能截取短句做情绪化解读。"
+      }
+    },
+    {
+      "issue_anchor": "豆包收费与AI产品告别完全免费期",
+      "category": "行业变化热点",
+      "board": "extended",
+      "rank": 29,
+      "status": "emerging",
+      "platforms": [
+        "百度",
+        "B站",
+        "科技媒体"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.36kr.com/",
+        "source_title": "科技媒体线索",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://today.lieme.cn/hot/",
+        "source_title": "热榜/趋势页：豆包收费与AI产品告别完全免费期",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 29,
+        "heat_score": 65,
+        "platforms": [
+          "百度",
+          "b站",
+          "科技媒体"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "免费AI工具商业化会直接影响用户迁移和内容生产成本。",
+        "risk": "需区分官方套餐、灰度测试和第三方解读。"
+      }
+    },
+    {
+      "issue_anchor": "AI重制动画/合成视频在YouTube继续获得百万级播放",
+      "category": "平台流量热点",
+      "board": "extended",
+      "rank": 30,
+      "status": "emerging",
+      "platforms": [
+        "YouTube"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://viralvideostoday.com/youtube-viral-videos-today/",
+        "source_title": "外网平台指标线索",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T00:00:00+08:00",
+        "reason": "用于核验议题事实或记录待核验线索。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://viralvideostoday.com/youtube-viral-videos-today/",
+        "source_title": "热榜/趋势页：AI重制动画/合成视频在YouTube继续获得百万级播放",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-14T08:46:07+08:00",
+        "rank": 30,
+        "heat_score": 65,
+        "platforms": [
+          "youtube"
+        ],
+        "reason": "进入热榜、趋势页或具备平台指标，满足热度证据要求。"
+      },
+      "notes": {
+        "why_rising": "AI二创从技术展示变成怀旧文化产品，外网平台指标较强但与中国公共议题关联较弱。",
+        "risk": "第三方趋势页需与YouTube原视频互相核对；版权和合成标识风险仍高。"
+      }
+    }
+  ]
+}
