@@ -1,0 +1,1196 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T08:45:00+08:00",
+  "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
+  "coverage_matrix": [
+    {
+      "layer": "cn_public_event",
+      "status": "completed",
+      "queries": [
+        "官方通报 调查 处理 -榜单 -排行榜 -合集",
+        "警方通报 当事人 回应 -教程 -科普 -盘点",
+        "事故 伤亡 救援 进展 2026年5月14日 -如何看待"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 3,
+      "notes": "保留河北火锅店刑案、华南理工偷拍处理、绿皮车禁烟等；高风险公共安全条目用警方/媒体事实源核验。"
+    },
+    {
+      "layer": "cn_consumer_brand",
+      "status": "completed",
+      "queries": [
+        "消费者 投诉 品牌 回应 2026年5月 -榜单 -合集",
+        "退款 退票 协商 维权 2026年5月 -教程",
+        "平台 规则 调整 用户 反馈 2026年5月15日"
+      ],
+      "raw_leads": 13,
+      "valid_hotspots": 8,
+      "notes": "品牌定价、支付扣款、车辆补偿、服务季卡、外卖封签、出行导航等均有平台热榜锚点。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_a",
+      "status": "completed",
+      "queries": [
+        "演唱会 退票 主办方 回应 2026 5月 -榜单",
+        "运动员 回应 比赛 规则 2026 5月 -盘点",
+        "影视 引发 讨论 价值观 票房 2026 5月"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 5,
+      "notes": "第一轮覆盖电影、综艺、体育赛事和明星活动公共化讨论。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_b",
+      "status": "completed",
+      "queries": [
+        "网红 道歉 退网 直播 爆火 2026 5月 -合集",
+        "明星 工作室 声明 戛纳 2026 5月 -盘点",
+        "票房 争议 主创 回应 2026 5月 -榜单"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 5,
+      "notes": "第二轮使用不同关键词族，覆盖网红回归、戛纳、演唱会票价、票房与饭圈外溢。"
+    },
+    {
+      "layer": "cn_workplace_education",
+      "status": "completed",
+      "queries": [
+        "应届生 就业 AI 裁员 2026 5月 -教程",
+        "学校 家长 沟通 处理 2026 5月 -如何看待",
+        "公司 员工 加班 政策 AI 2026 5月"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 5,
+      "notes": "AI裁员、电竞青训与高考冲突、中考倒计时、高校AI率和“以股谋职”进入候选。"
+    },
+    {
+      "layer": "global_public_event",
+      "status": "completed",
+      "queries": [
+        "breaking live updates public reaction policy May 2026 -explainer",
+        "company response employees concerns May 2026 trending",
+        "consumers pushed back pricing May 2026"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 4,
+      "notes": "外网公共议题以Google趋势/YouTube/TikTok热度为准，新闻源只作背景。"
+    },
+    {
+      "layer": "cn_ideology_official_agenda",
+      "status": "completed",
+      "queries": [
+        "总书记 寄语 青年 2026 5月 -合集",
+        "政治局 会议 四稳 2026 5月 官方 解读",
+        "商务部 发言人 答记者问 英国钢铁 国有化 2026",
+        "新规 施行 官方 解读 2026 5月"
+      ],
+      "raw_leads": 12,
+      "valid_hotspots": 5,
+      "notes": "按要求覆盖中国意识形态/官方议程：中美元首会谈、台海表述、商务部回应、天坛叙事与反诈AI识别。"
+    },
+    {
+      "layer": "global_celebrity_outflow",
+      "status": "completed",
+      "queries": [
+        "athlete response rule debate May 2026 YouTube trending",
+        "film sparked discussion values TikTok May 2026",
+        "concert refund fans organizers TikTok YouTube May 2026",
+        "academy AI rules backlash May 2026"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 6,
+      "notes": "YouTube Trending 与 Vogue TikTok Trend Tracker 给出海外平台原生热度。"
+    },
+    {
+      "layer": "weibo_peak",
+      "status": "completed",
+      "queries": [
+        "微博 热搜 峰值 今日 2026年5月15日",
+        "中美领导人致辞 微博 热搜 抖音 百度",
+        "泰兰尼斯 千元童鞋 成本 37 微博 抖音 百度",
+        "国家反诈中心APP 检测AI图 微博 热搜"
+      ],
+      "raw_leads": 52,
+      "valid_hotspots": 12,
+      "notes": "微博峰值用HotFlash/Hot点快照交叉复核，主榜不被单一微博序列垄断。"
+    },
+    {
+      "layer": "global_culture_shift",
+      "status": "completed",
+      "queries": [
+        "young people rejecting trend TikTok May 2026",
+        "AI generated children content platform trust synthetic media May 2026",
+        "shift in how people approach work AI layoffs May 2026"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 5,
+      "notes": "覆盖TikTok怀旧/跑步/影视二创、AI生成内容信任、PCOS改名搜索和AI工作方式变化。"
+    }
+  ],
+  "items": [
+    {
+      "issue_anchor": "中美元首会谈与特朗普访华全平台刷屏",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.china.com.cn/2026-05/14/content_118494089.shtml",
+        "source_title": "习近平同美国总统特朗普会谈",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "新华社/中国网报道证明5月14日北京会谈事实。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "HotFlashNews 知乎实时热搜榜：中美元首举行会谈",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": 1,
+        "heat_score": 1,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu",
+          "weibo",
+          "douyin",
+          "baidu",
+          "toutiao",
+          "bilibili"
+        ],
+        "reason": "知乎/微博/抖音/百度/头条/B站均出现前列具体条目。"
+      },
+      "category": "行业变化热点",
+      "status": "breaking",
+      "platforms": [
+        "微博",
+        "知乎",
+        "抖音",
+        "百度",
+        "头条",
+        "B站",
+        "微信"
+      ],
+      "selected_board": "main"
+    },
+    {
+      "issue_anchor": "泰兰尼斯千元童鞋被曝生产成本约37元",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.jinantimes.com.cn/news-235-5257105.html",
+        "source_title": "泰兰尼斯“送礼”广告争议背后：千元标价、70%加盟利润与38元出厂底价",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "报道引用处罚文书、加盟利润和抽检记录，提供事实基础。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博实时热搜榜：泰兰尼斯被曝千元童鞋成本仅37元",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": 9,
+        "heat_score": 9,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "weibo",
+          "baidu",
+          "douyin"
+        ],
+        "reason": "微博、百度、抖音均出现具体热榜/视频条目。"
+      },
+      "category": "强冲突/争议热点",
+      "status": "breaking",
+      "platforms": [
+        "微博",
+        "百度",
+        "抖音",
+        "头条"
+      ],
+      "selected_board": "main"
+    },
+    {
+      "issue_anchor": "关闭支付宝支付功能后被扣184万元捐赠争议",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/wm/2026-05-14/doc-inhxwenf6846714.shtml",
+        "source_title": "“关闭支付功能后，支付宝深夜被扣款捐赠184万元”？多方回应",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T17:58:00+08:00",
+        "reason": "澎湃报道给出当事人、央行调查文件、基金会与支付宝回应。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "HotFlashNews 知乎实时热搜榜：关闭支付宝支付功能后被扣款捐赠184万",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": 5,
+        "heat_score": 5,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu",
+          "baidu"
+        ],
+        "reason": "知乎热榜第5，百度实时热点同步收录。"
+      },
+      "category": "用户搜索热点",
+      "status": "rising",
+      "platforms": [
+        "知乎",
+        "百度",
+        "微博"
+      ],
+      "selected_board": "main"
+    },
+    {
+      "issue_anchor": "华南理工男生偷拍女生被留校察看引发处分争议",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.inewsweek.cn/society/2026-05-14/30156.shtml",
+        "source_title": "男生课桌下偷拍女生半小时？华南理工回应",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T10:09:50+08:00",
+        "reason": "报道核实校方称确有偷拍行为，并说明留校察看处分。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "HotFlashNews 头条实时热搜榜：高中男生偷拍女同学私密视频并传播 / 三问华南理工",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": 13,
+        "heat_score": 13,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "toutiao",
+          "weibo"
+        ],
+        "reason": "头条热榜出现具体校园偷拍与校方处理条目。"
+      },
+      "category": "强冲突/争议热点",
+      "status": "rising",
+      "platforms": [
+        "头条",
+        "微博",
+        "澎湃",
+        "中国新闻周刊"
+      ],
+      "selected_board": "main"
+    },
+    {
+      "issue_anchor": "张雪机车820RR机油泵问题：停产、停交付、免费更换补偿",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.guandian.cn/article/20260514/560905.html",
+        "source_title": "张雪机车：目前820RR已停止生产、暂停交付",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T07:18:00+08:00",
+        "reason": "报道说明机油泵供油不畅、停产停交付和免费更换方案。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "HotFlashNews 知乎实时热搜榜：张雪机车820RR机油泵故障与补偿",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": 8,
+        "heat_score": 8,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu",
+          "baidu"
+        ],
+        "reason": "知乎热榜第8，百度热榜多条同步。"
+      },
+      "category": "行业变化热点",
+      "status": "rising",
+      "platforms": [
+        "知乎",
+        "百度",
+        "汽车媒体"
+      ],
+      "selected_board": "main"
+    },
+    {
+      "issue_anchor": "新能源车从价格战转向涨价试探",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.china.com.cn/2026-05/14/content_118493973.shtml",
+        "source_title": "涨声响起：多家车企集体调价，你的购车计划还好吗？",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "报道归纳多家车企上调售价/收紧优惠及行业利润压力。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "HotFlashNews 抖音实时热搜榜：新能源车开启涨价潮",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": 9,
+        "heat_score": 9,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "douyin",
+          "baidu",
+          "toutiao"
+        ],
+        "reason": "抖音第9，百度“多车企调价”相关条目进入实时热点。"
+      },
+      "category": "行业变化热点",
+      "status": "rising",
+      "platforms": [
+        "抖音",
+        "百度",
+        "头条",
+        "汽车媒体"
+      ],
+      "selected_board": "main"
+    },
+    {
+      "issue_anchor": "BTS《Arirang》动画预告登上美国YouTube趋势前列",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://youworldtop.com/",
+        "source_title": "YouTube Trending Videos In US Right Now: BTS Arirang Animation Trailer",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+00:00",
+        "reason": "YouWorldTop列出视频标题、频道、趋势排名和互动指标。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://youworldtop.com/",
+        "source_title": "YouWorldTop US YouTube Trending #2 BTS Arirang trailer",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": 2,
+        "heat_score": null,
+        "views": 2615887,
+        "likes": 619857,
+        "comments": 36723,
+        "platforms": [
+          "youtube"
+        ],
+        "reason": "美国YouTube趋势第2，指标远超视频平台热度阈值。"
+      },
+      "category": "平台流量热点",
+      "status": "emerging",
+      "platforms": [
+        "YouTube"
+      ],
+      "selected_board": "main"
+    },
+    {
+      "issue_anchor": "TikTok五月趋势：Euphoria回归、Throwback怀旧、Billie Eilish与跑步社群",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
+        "source_title": "The Vogue Business TikTok Trend Tracker",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T00:00:00+00:00",
+        "reason": "Vogue Business给出TikTok五月趋势条目与背景。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
+        "source_title": "Vogue Business TikTok Trend Tracker May 2026",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "tiktok"
+        ],
+        "reason": "文章基于TikTok趋势数据列出正在增长的标签和内容形态。"
+      },
+      "category": "全球文化变化热点",
+      "status": "rising",
+      "platforms": [
+        "TikTok"
+      ],
+      "selected_board": "main"
+    },
+    {
+      "issue_anchor": "国家反诈中心APP“检测AI图”冲上微博前列",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博实时热搜榜：国家反诈中心APP 检测AI图",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-15T05:58:40+08:00",
+        "reason": "热榜页证明该议题作为微博具体热搜条目出现。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博实时热搜：国家反诈中心APP 检测AI图",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": 2,
+        "heat_score": 2,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "weibo"
+        ],
+        "reason": "微博实时热搜第2，属于平台原生热度。"
+      },
+      "category": "平台流量热点",
+      "status": "breaking",
+      "platforms": [
+        "微博"
+      ],
+      "selected_board": "main"
+    },
+    {
+      "issue_anchor": "李想称理想不会主动裁员并建议企业不要急于裁员",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/roll/2026-05-13/doc-inhxuncf4393754.shtml",
+        "source_title": "李想：理想不会主动裁员，建议所有公司不裁人",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T21:57:00+08:00",
+        "reason": "报道引用李想访谈表态和AI时代人才评价判断。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎实时热搜榜：李想建议所有公司不裁人",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": 6,
+        "heat_score": 6,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "知乎热榜第6，职场/AI议题讨论强。"
+      },
+      "category": "行业变化热点",
+      "status": "rising",
+      "platforms": [
+        "知乎",
+        "财经媒体"
+      ],
+      "selected_board": "main"
+    },
+    {
+      "issue_anchor": "河北无极火锅店刑案与谣言压制争议",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.china.com/socialgd/10000169/20260514/49493771.html",
+        "source_title": "河北无极火锅店刑案与谣言压制争议",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "河北无极火锅店刑案与谣言压制争议",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "百度",
+          "微博",
+          "媒体"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "强冲突/争议热点",
+      "status": "breaking",
+      "platforms": [
+        "百度",
+        "微博",
+        "媒体"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "女子1880元办不限次瑜伽季卡连上20多天被踢群",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.dzwww.com/news/hbsxnews/202605/t20260512_17726313.htm",
+        "source_title": "女子1880元办不限次瑜伽季卡连上20多天被踢群",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "女子1880元办不限次瑜伽季卡连上20多天被踢群",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "知乎",
+          "媒体"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "真实生活问题热点",
+      "status": "rising",
+      "platforms": [
+        "知乎",
+        "媒体"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "给阿嬷的情书票房破2亿与女主入行",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "给阿嬷的情书票房破2亿与女主入行",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "给阿嬷的情书票房破2亿与女主入行",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "抖音",
+          "微博",
+          "头条",
+          "b站",
+          "微信"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "平台流量热点",
+      "status": "rising",
+      "platforms": [
+        "抖音",
+        "微博",
+        "头条",
+        "B站",
+        "微信"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "歌手2026官宣定档",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "歌手2026官宣定档",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "歌手2026官宣定档",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "百度",
+          "抖音",
+          "微博"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "平台流量热点",
+      "status": "emerging",
+      "platforms": [
+        "百度",
+        "抖音",
+        "微博"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "商务部回应英国拟将英国钢铁国有化：希望三思后行",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/wm/2026-05-14/doc-inhxwene0000244.shtml",
+        "source_title": "商务部回应英国拟将英国钢铁国有化：希望三思后行",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "商务部回应英国拟将英国钢铁国有化：希望三思后行",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "百度",
+          "头条",
+          "财经媒体"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "行业变化热点",
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "头条",
+        "财经媒体"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "万科再获深铁25亿元借款，“押上全部身价”进入知乎讨论",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/stock/relnews/2026-05-13/doc-inhxtqxm7611755.shtml",
+        "source_title": "万科再获深铁25亿元借款，“押上全部身价”进入知乎讨论",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "万科再获深铁25亿元借款，“押上全部身价”进入知乎讨论",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "知乎",
+          "财经媒体"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "行业变化热点",
+      "status": "rising",
+      "platforms": [
+        "知乎",
+        "财经媒体"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "16岁打上无畏契约高段位被俱乐部看中，家长反对",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "16岁打上无畏契约高段位被俱乐部看中，家长反对",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "16岁打上无畏契约高段位被俱乐部看中，家长反对",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "知乎"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "强冲突/争议热点",
+      "status": "rising",
+      "platforms": [
+        "知乎"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "高校硬查AI率与“用AI降论文AI率”讨论升温",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/bilibili",
+        "source_title": "高校硬查AI率与“用AI降论文AI率”讨论升温",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/tieba",
+        "source_title": "高校硬查AI率与“用AI降论文AI率”讨论升温",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "b站",
+          "贴吧"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "用户搜索热点",
+      "status": "emerging",
+      "platforms": [
+        "B站",
+        "贴吧"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "外卖新规：没贴封签可拒收",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/tieba",
+        "source_title": "外卖新规：没贴封签可拒收",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/tieba",
+        "source_title": "外卖新规：没贴封签可拒收",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "贴吧"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "行业变化热点",
+      "status": "emerging",
+      "platforms": [
+        "贴吧"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "导航坑人、公厕差评里全是血泪",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/tieba",
+        "source_title": "导航坑人、公厕差评里全是血泪",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/tieba",
+        "source_title": "导航坑人、公厕差评里全是血泪",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "贴吧"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "真实生活问题热点",
+      "status": "emerging",
+      "platforms": [
+        "贴吧"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "中考倒计时“奔跑吧少年”短视频化",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "中考倒计时“奔跑吧少年”短视频化",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "中考倒计时“奔跑吧少年”短视频化",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "抖音"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "真实生活问题热点",
+      "status": "emerging",
+      "platforms": [
+        "抖音"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "股民持14万股替儿子向上市公司求职",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "股民持14万股替儿子向上市公司求职",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "股民持14万股替儿子向上市公司求职",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "知乎"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "强冲突/争议热点",
+      "status": "rising",
+      "platforms": [
+        "知乎"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "马化腾谈腾讯AI与“不能别人做什么就跨过去”",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "马化腾谈腾讯AI与“不能别人做什么就跨过去”",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "马化腾谈腾讯AI与“不能别人做什么就跨过去”",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "知乎"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "行业变化热点",
+      "status": "rising",
+      "platforms": [
+        "知乎"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "普京访华筹备就绪与巴基斯坦总理将访华进入热榜",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "普京访华筹备就绪与巴基斯坦总理将访华进入热榜",
+        "source_type": "media",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "普京访华筹备就绪与巴基斯坦总理将访华进入热榜",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "百度",
+          "抖音"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "行业变化热点",
+      "status": "rising",
+      "platforms": [
+        "百度",
+        "抖音"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "中国U17女足2:4朝鲜无缘决赛",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "中国U17女足2:4朝鲜无缘决赛",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "中国U17女足2:4朝鲜无缘决赛",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "抖音"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "平台流量热点",
+      "status": "rising",
+      "platforms": [
+        "抖音"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "YouTube美国趋势：Malcolm in the Middle续作预告",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://youworldtop.com/",
+        "source_title": "YouTube美国趋势：Malcolm in the Middle续作预告",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://youworldtop.com/",
+        "source_title": "YouTube美国趋势：Malcolm in the Middle续作预告",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "youtube"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "平台流量热点",
+      "status": "emerging",
+      "platforms": [
+        "YouTube"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "YouTube美国趋势：Fortnite Chapter 7 Season 2预告",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://youworldtop.com/",
+        "source_title": "YouTube美国趋势：Fortnite Chapter 7 Season 2预告",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://youworldtop.com/",
+        "source_title": "YouTube美国趋势：Fortnite Chapter 7 Season 2预告",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "youtube"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "游戏/场景/解法热点",
+      "status": "emerging",
+      "platforms": [
+        "YouTube"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "YouTube美国趋势：Five Nights At Freddy’s 2 In Real Life",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://youworldtop.com/",
+        "source_title": "YouTube美国趋势：Five Nights At Freddy’s 2 In Real Life",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://youworldtop.com/",
+        "source_title": "YouTube美国趋势：Five Nights At Freddy’s 2 In Real Life",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "youtube"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "平台流量热点",
+      "status": "emerging",
+      "platforms": [
+        "YouTube"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "Google趋势：PMOS/PCOS更名引发健康搜索",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.spikesearch.com/",
+        "source_title": "Google趋势：PMOS/PCOS更名引发健康搜索",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.spikesearch.com/",
+        "source_title": "Google趋势：PMOS/PCOS更名引发健康搜索",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "google trends"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "用户搜索热点",
+      "status": "rising",
+      "platforms": [
+        "Google Trends"
+      ],
+      "selected_board": "extended"
+    },
+    {
+      "issue_anchor": "AI视频真实感与平台信任危机继续在Reddit/社媒发酵",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.reddit.com/r/generativeAI/comments/1tc6sz6/ai_videos_still_feel_off_in_2026_anyone_seeing/",
+        "source_title": "AI视频真实感与平台信任危机继续在Reddit/社媒发酵",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-14T00:00:00+08:00",
+        "reason": "证明议题事实锚点或平台原始条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.reddit.com/r/generativeAI/comments/1tc6sz6/ai_videos_still_feel_off_in_2026_anyone_seeing/",
+        "source_title": "AI视频真实感与平台信任危机继续在Reddit/社媒发酵",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-15T08:45:00+08:00",
+        "rank": null,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "reddit",
+          "tiktok",
+          "youtube"
+        ],
+        "reason": "具体热榜/趋势/指标页证明当前热度。"
+      },
+      "category": "全球文化变化热点",
+      "status": "emerging",
+      "platforms": [
+        "Reddit",
+        "TikTok",
+        "YouTube"
+      ],
+      "selected_board": "extended"
+    }
+  ],
+  "source_discipline": {
+    "old_reports_used": false,
+    "old_latest_used": false,
+    "claude_app_used": false,
+    "claude_api_used": false,
+    "coze_used": false,
+    "xcrawl_used": false,
+    "web_search_first": true,
+    "notes": "所有候选来自本轮live web search/web browsing与平台/趋势页面；未调用XCrawl。"
+  }
+}
