@@ -2,8 +2,150 @@
   "date": "2026-05-16",
   "generated_at": "2026-05-16T08:45:00+08:00",
   "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
-  "total_hotspots": 27,
-  "main_board": [
+  "collection_method": "Codex web_search 手动采集；热度源优先使用 HotFlashNews 实时平台热榜，事实源使用官方、公司公告、权威媒体和平台原始入口；未调用 XCrawl。",
+  "coverage_matrix": [
+    {
+      "layer": "cn_public_event",
+      "status": "completed",
+      "queries": [
+        "2026年5月16日 官方通报 调查 处理 公共安全 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
+        "2026年5月16日 警方通报 当事人 回应 公共事件 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
+        "2026年5月16日 事故 伤亡 救援 进展 官方通报 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待"
+      ],
+      "raw_leads": 15,
+      "valid_hotspots": 6,
+      "notes": "覆盖暴雨、救援、谣言辟除、户外事故和司法后续；高风险条目优先补权威事实源。"
+    },
+    {
+      "layer": "cn_consumer_brand",
+      "status": "completed",
+      "queries": [
+        "2026年5月16日 消费者 投诉 品牌 回应 退款 退票 协商 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
+        "2026年5月16日 平台 规则 调整 用户 反馈 食品安全 添加剂 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
+        "2026年5月16日 手机 降价 用户 反馈 618 补贴 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待"
+      ],
+      "raw_leads": 13,
+      "valid_hotspots": 5,
+      "notes": "食品安全、手机消费、文旅/婚庆服务与本地生活议题构成今日生活化热度。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_a",
+      "status": "completed",
+      "queries": [
+        "2026年5月16日 演唱会 退票 主办方 回应 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
+        "2026年5月16日 运动员 回应 比赛 规则 国足 U17 CBA -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
+        "2026年5月16日 影视 引发 讨论 价值观 票房 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待"
+      ],
+      "raw_leads": 12,
+      "valid_hotspots": 5,
+      "notes": "第一轮覆盖体育赛事、电影票房、综艺与演出议题。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_b",
+      "status": "completed",
+      "queries": [
+        "2026年5月16日 网红 道歉 退网 商业化 回应 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
+        "2026年5月16日 明星 工作室 声明 败血症 去世 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
+        "2026年5月16日 票房 争议 主创 回应 小成本电影 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 4,
+      "notes": "第二轮使用不同关键词，补足声优去世、艺人健康、电影商业化和综艺社交争议。"
+    },
+    {
+      "layer": "cn_workplace_education",
+      "status": "completed",
+      "queries": [
+        "2026年5月16日 应届生 就业 AI 红利 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
+        "2026年5月16日 学校 家长 沟通 处理 清华 博士 退学 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
+        "2026年5月16日 公司 员工 加班 政策 怀孕 产假 工资 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待"
+      ],
+      "raw_leads": 12,
+      "valid_hotspots": 5,
+      "notes": "劳动权益、教育处分、AI红利焦虑和外卖员债务叙事进入热榜。"
+    },
+    {
+      "layer": "global_public_event",
+      "status": "completed",
+      "queries": [
+        "May 16 2026 breaking live updates Russia diplomacy military means conflict",
+        "May 16 2026 public reaction policy semiconductor stocks selloff",
+        "May 16 2026 company response employees concerns AI salary reform"
+      ],
+      "raw_leads": 11,
+      "valid_hotspots": 4,
+      "notes": "海外公共事件主要经百度、头条和财经热榜进入中文平台讨论。"
+    },
+    {
+      "layer": "cn_ideology_official_agenda",
+      "status": "completed",
+      "queries": [
+        "2026年5月16日 总书记 寄语 青年 官方 议程 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
+        "2026年5月16日 政治局 会议 四稳 官方 解读 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
+        "2026年5月16日 商务部 发言人 答记者问 中美 欧盟 域外管辖 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
+        "2026年5月16日 新规 施行 官方 解读 招转培 风险提示 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待"
+      ],
+      "raw_leads": 14,
+      "valid_hotspots": 5,
+      "notes": "已按要求覆盖中国意识形态/官方议程：中美元首会晤、外交部表态、司法部/商务部域外管辖、官方风险提示和军队/文化叙事。"
+    },
+    {
+      "layer": "global_celebrity_outflow",
+      "status": "completed",
+      "queries": [
+        "May 16 2026 athlete response rule debate World Cup TikTok",
+        "May 16 2026 film sparked discussion values box office social platforms",
+        "May 16 2026 concert refund fans organizers celebrity health"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 3,
+      "notes": "海外文娱体育外溢主要集中在世界杯、TikTok体育标签和声优/影视记忆话题。"
+    },
+    {
+      "layer": "weibo_peak",
+      "status": "completed",
+      "queries": [
+        "2026年5月16日 微博 热搜 峰值 今日 中美元首会晤",
+        "2026年5月16日 微博 热搜 央视 世界杯 版权",
+        "2026年5月16日 微博 热搜 女子 救落水儿童 手机报废"
+      ],
+      "raw_leads": 18,
+      "valid_hotspots": 10,
+      "notes": "微博峰值与百度、抖音、知乎、头条、B站交叉复核，主榜多项具备跨平台复现。"
+    },
+    {
+      "layer": "global_culture_shift",
+      "status": "completed",
+      "queries": [
+        "May 16 2026 young people rejecting trend AI slop YouTube Reddit",
+        "May 16 2026 AI generated children content platform trust synthetic media",
+        "May 16 2026 shift in how people approach work AI creative tools TikTok World"
+      ],
+      "raw_leads": 11,
+      "valid_hotspots": 4,
+      "notes": "外网平台原生候选集中在 YouTube AI slop、TikTok AI广告工具和世界杯短视频传播。"
+    }
+  ],
+  "raw_leads_summary": {
+    "raw_leads_total": 124,
+    "valid_hotspots_total": 27,
+    "heat_verified_items": 27,
+    "fact_verified_items": 27,
+    "platform_sources": [
+      "微博",
+      "百度",
+      "抖音",
+      "知乎",
+      "今日头条",
+      "B站",
+      "36Kr",
+      "IT之家",
+      "Reddit",
+      "TikTok"
+    ],
+    "notes": "收集超过40条raw leads，过滤为27条issue-level热点；主榜10条、扩展榜17条。"
+  },
+  "items": [
     {
       "id": 1,
       "issue_anchor": "中美元首会晤确立“建设性战略稳定关系”新定位",
@@ -601,9 +743,7 @@
         "基层治理如果长期靠末端执法解决摊贩生计问题，冲突会在最弱的位置爆发。",
         "后续值得讲的是城市管理如何从罚没驱动转向空间供给和冲突降级机制。"
       ]
-    }
-  ],
-  "extended_board": [
+    },
     {
       "id": 11,
       "issue_anchor": "“重庆江边游轮起火”被辟谣后仍进热榜",
@@ -1557,192 +1697,5 @@
         "后续看外资流向和芯片链业绩是否支撑估值。"
       ]
     }
-  ],
-  "coverage_matrix": [
-    {
-      "layer": "cn_public_event",
-      "status": "completed",
-      "queries": [
-        "2026年5月16日 官方通报 调查 处理 公共安全 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
-        "2026年5月16日 警方通报 当事人 回应 公共事件 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
-        "2026年5月16日 事故 伤亡 救援 进展 官方通报 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待"
-      ],
-      "raw_leads": 15,
-      "valid_hotspots": 6,
-      "notes": "覆盖暴雨、救援、谣言辟除、户外事故和司法后续；高风险条目优先补权威事实源。"
-    },
-    {
-      "layer": "cn_consumer_brand",
-      "status": "completed",
-      "queries": [
-        "2026年5月16日 消费者 投诉 品牌 回应 退款 退票 协商 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
-        "2026年5月16日 平台 规则 调整 用户 反馈 食品安全 添加剂 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
-        "2026年5月16日 手机 降价 用户 反馈 618 补贴 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待"
-      ],
-      "raw_leads": 13,
-      "valid_hotspots": 5,
-      "notes": "食品安全、手机消费、文旅/婚庆服务与本地生活议题构成今日生活化热度。"
-    },
-    {
-      "layer": "cn_celebrity_public_event_a",
-      "status": "completed",
-      "queries": [
-        "2026年5月16日 演唱会 退票 主办方 回应 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
-        "2026年5月16日 运动员 回应 比赛 规则 国足 U17 CBA -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
-        "2026年5月16日 影视 引发 讨论 价值观 票房 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待"
-      ],
-      "raw_leads": 12,
-      "valid_hotspots": 5,
-      "notes": "第一轮覆盖体育赛事、电影票房、综艺与演出议题。"
-    },
-    {
-      "layer": "cn_celebrity_public_event_b",
-      "status": "completed",
-      "queries": [
-        "2026年5月16日 网红 道歉 退网 商业化 回应 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
-        "2026年5月16日 明星 工作室 声明 败血症 去世 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
-        "2026年5月16日 票房 争议 主创 回应 小成本电影 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待"
-      ],
-      "raw_leads": 10,
-      "valid_hotspots": 4,
-      "notes": "第二轮使用不同关键词，补足声优去世、艺人健康、电影商业化和综艺社交争议。"
-    },
-    {
-      "layer": "cn_workplace_education",
-      "status": "completed",
-      "queries": [
-        "2026年5月16日 应届生 就业 AI 红利 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
-        "2026年5月16日 学校 家长 沟通 处理 清华 博士 退学 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
-        "2026年5月16日 公司 员工 加班 政策 怀孕 产假 工资 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待"
-      ],
-      "raw_leads": 12,
-      "valid_hotspots": 5,
-      "notes": "劳动权益、教育处分、AI红利焦虑和外卖员债务叙事进入热榜。"
-    },
-    {
-      "layer": "global_public_event",
-      "status": "completed",
-      "queries": [
-        "May 16 2026 breaking live updates Russia diplomacy military means conflict",
-        "May 16 2026 public reaction policy semiconductor stocks selloff",
-        "May 16 2026 company response employees concerns AI salary reform"
-      ],
-      "raw_leads": 11,
-      "valid_hotspots": 4,
-      "notes": "海外公共事件主要经百度、头条和财经热榜进入中文平台讨论。"
-    },
-    {
-      "layer": "cn_ideology_official_agenda",
-      "status": "completed",
-      "queries": [
-        "2026年5月16日 总书记 寄语 青年 官方 议程 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
-        "2026年5月16日 政治局 会议 四稳 官方 解读 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
-        "2026年5月16日 商务部 发言人 答记者问 中美 欧盟 域外管辖 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待",
-        "2026年5月16日 新规 施行 官方 解读 招转培 风险提示 -榜单 -排行榜 -合集 -教程 -科普 -盘点 -如何看待"
-      ],
-      "raw_leads": 14,
-      "valid_hotspots": 5,
-      "notes": "已按要求覆盖中国意识形态/官方议程：中美元首会晤、外交部表态、司法部/商务部域外管辖、官方风险提示和军队/文化叙事。"
-    },
-    {
-      "layer": "global_celebrity_outflow",
-      "status": "completed",
-      "queries": [
-        "May 16 2026 athlete response rule debate World Cup TikTok",
-        "May 16 2026 film sparked discussion values box office social platforms",
-        "May 16 2026 concert refund fans organizers celebrity health"
-      ],
-      "raw_leads": 8,
-      "valid_hotspots": 3,
-      "notes": "海外文娱体育外溢主要集中在世界杯、TikTok体育标签和声优/影视记忆话题。"
-    },
-    {
-      "layer": "weibo_peak",
-      "status": "completed",
-      "queries": [
-        "2026年5月16日 微博 热搜 峰值 今日 中美元首会晤",
-        "2026年5月16日 微博 热搜 央视 世界杯 版权",
-        "2026年5月16日 微博 热搜 女子 救落水儿童 手机报废"
-      ],
-      "raw_leads": 18,
-      "valid_hotspots": 10,
-      "notes": "微博峰值与百度、抖音、知乎、头条、B站交叉复核，主榜多项具备跨平台复现。"
-    },
-    {
-      "layer": "global_culture_shift",
-      "status": "completed",
-      "queries": [
-        "May 16 2026 young people rejecting trend AI slop YouTube Reddit",
-        "May 16 2026 AI generated children content platform trust synthetic media",
-        "May 16 2026 shift in how people approach work AI creative tools TikTok World"
-      ],
-      "raw_leads": 11,
-      "valid_hotspots": 4,
-      "notes": "外网平台原生候选集中在 YouTube AI slop、TikTok AI广告工具和世界杯短视频传播。"
-    }
-  ],
-  "data_overview": {
-    "evidence_items": 27,
-    "heat_verified": 27,
-    "fact_verified": 27,
-    "raw_leads": 124,
-    "main_board_count": 10,
-    "extended_board_count": 17,
-    "platform_native_or_public_life_main": 6,
-    "official_or_newsroom_main": 3,
-    "foreign_platform_native_main": 2
-  },
-  "source_inventory": [
-    {
-      "source": "HotFlashNews",
-      "role": "平台热榜/跨平台热度复核",
-      "urls": [
-        "https://hotflashnews.com/platform/weibo",
-        "https://hotflashnews.com/platform/baidu",
-        "https://hotflashnews.com/platform/douyin",
-        "https://hotflashnews.com/platform/zhihu",
-        "https://hotflashnews.com/platform/toutiao",
-        "https://hotflashnews.com/platform/bilibili",
-        "https://hotflashnews.com/platform/36kr",
-        "https://hotflashnews.com/platform/ithome"
-      ]
-    },
-    {
-      "source": "CCTV/新华社口径",
-      "role": "中美元首会晤事实核验",
-      "urls": [
-        "https://news.cctv.com/2026/05/15/ARTIcUQkdFe8vQZ1j3xsOnVn260515.shtml"
-      ]
-    },
-    {
-      "source": "AP/FIFA相关报道",
-      "role": "世界杯版权事实核验",
-      "urls": [
-        "https://apnews.com/article/c516a5e27392e6220afdb433351c5f9b",
-        "https://news.zhibo8.com/zuqiu/2026-05-15/6a071d8db3aa4native.htm"
-      ]
-    },
-    {
-      "source": "澎湃/中青/羊城晚报/每经/证券时报",
-      "role": "公共安全、劳动权益、食品安全、财经监管事实核验",
-      "urls": [
-        "https://m.thepaper.cn/newsDetail_forward_33183039",
-        "https://m.cyol.com/gb/articles/2026-05/15/content_mOnYL4TVL5.html",
-        "https://news.ycwb.com/ikimvkntjn/content_54120314.htm",
-        "https://www.nbd.com.cn/articles/2026-05-15/4395085.html",
-        "https://www.stcn.com/article/detail/3911496.html"
-      ]
-    },
-    {
-      "source": "TikTok/Reddit/PCWorld/SocialCal",
-      "role": "外网平台原生和全球文化变化证据",
-      "urls": [
-        "https://newsroom.tiktok.com/tiktok-world-2026-au?lang=en-AU",
-        "https://www.socialcal.app/trending-tiktok-hashtags",
-        "https://www.pcworld.com/article/3096317/youtube-wants-you-to-help-spot-ai-slop-videos.html",
-        "https://www.reddit.com/r/youtube/comments/1tcvfwa/can_real_youtubers_still_compete_in_the_age_of_ai/"
-      ]
-    }
-  ],
-  "analysis_constraint": "先从头找到最合适的若干专家，请他们以绝不奉迎包括我在内的任何人的批判精神和中立立场，做专业、深入、严格的分析与推理。"
+  ]
 }
