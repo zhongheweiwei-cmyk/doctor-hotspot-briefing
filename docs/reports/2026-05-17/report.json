@@ -1,812 +1,1697 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T08:49:00+08:00",
+  "generated_at": "2026-05-17T21:30:00+08:00",
   "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
-  "total_hotspots": 31,
+  "total_hotspots": 30,
   "main_board": [
     {
-      "id": 1,
-      "issue_anchor": "盲人女孩盲道被撞系摆拍，两人被采取刑事强制措施",
-      "cat": "公共事件与社会治理",
+      "id": "h01",
+      "issue_anchor": "190元榴莲仅退款争议被拘，平台退款规则再被推上热搜",
+      "short_title": "榴莲仅退款争议",
+      "category": "强冲突/争议热点",
+      "category_id": 4,
       "status": "breaking",
-      "heat": 9.4,
+      "timeliness": "今日高热",
+      "heat_score": 9.5,
       "platforms": [
-        "微博",
-        "百度",
-        "抖音",
-        "网警通报"
+        "百度热搜",
+        "微博热搜",
+        "抖音热榜"
       ],
-      "layer": "cn_public_event",
-      "source": "央视网",
-      "url": "https://news.cctv.com/2026/05/17/ARTImw3mYx6wSFhZQka1dXzQ260516.shtml",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 7,
-      "heatScore": 7330000,
-      "why": "网警通报反转了“弱者被欺负”的叙事，平台用户从共情迅速转向对摆拍产业链的追责。",
-      "data": "X排行聚合显示相关词位列百度热榜前十，央视网今日刊发警方处置。",
-      "risk": "警方通报之外的身份、收益和平台处罚细节仍需继续核验。",
-      "watch": "摆拍 盲道 网警通报 账号治理"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "百度、微博、抖音同时出现“仅退款”“卖家发声”“拘留”等词，平台规则、消费者权益和商家维权三条叙事合流。",
+      "key_data": "百度热搜第 2；微博热搜第 11；抖音热榜第 33；央视网梳理事件全过程。",
+      "risk_note": "涉及个案责任与平台规则，需区分警方事实、平台流程和网友情绪。",
+      "watch_keywords": [
+        "仅退款",
+        "榴莲卖家发声",
+        "平台退款规则",
+        "拘留7日"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://people.cctv.com/2026/05/17/ARTIfSPSg872SKNHTmSh4lie260517.shtml",
+        "source_title": "央视网：190元榴莲“仅退款”事件全过程梳理",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T14:24:00+08:00",
+        "reason": "证明事件经过、买卖双方争议和后续处理。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "HotFlashNews 百度热搜：190元榴莲仅退款纠纷卖家发声",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 2,
+        "heat_score": 4873084,
+        "platforms": [
+          "baidu",
+          "weibo",
+          "douyin"
+        ],
+        "reason": "同一议题进入百度、微博、抖音多个高热榜。"
+      },
+      "analysis_angles": [
+        "真正值得讲的不是一颗榴莲，而是“先补偿用户体验”与“防止道德风险”之间的制度边界。",
+        "公共叙事容易把事件简化成买家或卖家谁坏，但平台规则设计本身决定了冲突成本由谁承担。",
+        "如果退款、举证、追责链条不透明，商家会把风险前置到定价和服务，最终由普通消费者共同承担。",
+        "后续观察平台是否调整生鲜类仅退款、举证和申诉流程，这比个案处罚更能说明结构变化。"
+      ]
     },
     {
-      "id": 2,
-      "issue_anchor": "当地通报酒店床单未一客一换",
-      "cat": "消费与品牌信任",
-      "status": "rising",
-      "heat": 8.8,
-      "platforms": [
-        "百度",
-        "微博",
-        "本地生活平台"
-      ],
-      "layer": "cn_consumer_brand",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 5,
-      "heatScore": 7520000,
-      "why": "住宿卫生击中低信任消费场景，用户把个案扩展成连锁酒店、民宿和监管抽检问题。",
-      "data": "X排行显示该话题在百度热榜约752万热度。",
-      "risk": "涉事主体、抽检结论和处罚细节需以后续官方通报为准。",
-      "watch": "酒店床单 一客一换 当地通报 住宿卫生"
-    },
-    {
-      "id": 3,
-      "issue_anchor": "暴雨大暴雨范围扩大，多地提醒非必要不外出",
-      "cat": "公共安全与风险预警",
+      "id": "h02",
+      "issue_anchor": "四川大摆荡游客坠亡调查：运营方安全培训和设备闭合环节被追问",
+      "short_title": "大摆荡游客坠亡调查",
+      "category": "真实生活问题热点",
+      "category_id": 5,
       "status": "breaking",
-      "heat": 9.1,
+      "timeliness": "今日追踪",
+      "heat_score": 9.3,
       "platforms": [
-        "百度",
-        "微博",
-        "天气服务",
-        "北京本地"
+        "微博热搜",
+        "B站热榜",
+        "百度热搜"
       ],
-      "layer": "cn_public_event",
-      "source": "国家预警信息发布中心/中央气象台",
-      "url": "http://www.nmc.cn/publish/weather-bulletin/index.htm",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 2,
-      "heatScore": 7810000,
-      "why": "周末出行与极端天气叠加，北京首场强降雨、特大暴雨和雷暴大风被同时搜索。",
-      "data": "X排行聚合显示“多地提醒市民注意降雨”约781万热度，“特大暴雨、雷暴大风来了”约714万。",
-      "risk": "不同城市影响差异大，避免把全国预警误读成单点灾情。",
-      "watch": "暴雨黄色预警 北京暴雨 雷暴大风 非必要不外出"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "“女游客坠亡没有监控”“大摆荡运营方未进行安全培训”等标题在微博和 B站同步升温，公共安全焦虑强。",
+      "key_data": "微博热搜第 2 与第 40 附近均出现相关词；B站热榜第 18；中新网、新华网等跟进。",
+      "risk_note": "涉及死亡事故，需以官方调查和权威媒体核实内容为准，避免二次归责。",
+      "watch_keywords": [
+        "景区坠亡",
+        "大摆荡安全培训",
+        "释放开关",
+        "项目监控"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-17/10622776.shtml",
+        "source_title": "中新网：四川游客大摆荡项目坠亡事件引关注，设备安全仍待追问",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T20:16:00+08:00",
+        "reason": "证明事故调查进展和关键安全疑点。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：女游客景区坠亡没有监控/大摆荡项目运营方未进行安全培训",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 2,
+        "heat_score": 859095,
+        "platforms": [
+          "weibo",
+          "bilibili",
+          "baidu"
+        ],
+        "reason": "同一事故在微博和 B站公共安全讨论中同时高位出现。"
+      },
+      "analysis_angles": [
+        "核心不是“游客为什么没抓牢”，而是高风险游乐项目是否把人命托付给临场动作和临时培训。",
+        "公众容易只追问某个员工或游客责任，但更关键的是设备冗余、监控留痕和运营资质的制度化。",
+        "景区经济越依赖刺激项目，监管就越不能停留在开业审批，而要进入日常操作、事故记录和第三方检测。",
+        "后续应看调查是否指向系统性整改，而不只是个案赔偿和舆情冷却。"
+      ]
     },
     {
-      "id": 4,
-      "issue_anchor": "中美经贸磋商初步成果公布",
-      "cat": "政策议程与国际关系",
+      "id": "h03",
+      "issue_anchor": "电脑微信“惩罚恋旧的人”：旧版本、鸿蒙适配与办公迁移焦虑同场爆发",
+      "short_title": "电脑微信恋旧焦虑",
+      "category": "用户搜索热点",
+      "category_id": 2,
       "status": "rising",
-      "heat": 8.9,
+      "timeliness": "今日上升",
+      "heat_score": 8.9,
       "platforms": [
-        "百度",
-        "财联社",
-        "基金报",
-        "微博"
+        "微博热搜",
+        "知乎热榜",
+        "IT之家热榜"
       ],
-      "layer": "cn_ideology_official_agenda",
-      "source": "中国基金报",
-      "url": "https://www.chnfund.com/article/989bcfdd-b5f8-646e-48c9-3a2142e2ef24",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 3,
-      "heatScore": 7710000,
-      "why": "特朗普访华后的经贸表述被市场和公众解读为中美关系阶段性缓和信号。",
-      "data": "X排行聚合显示该词约771万热度；财联社早报同步列为重点。",
-      "risk": "“初步成果”不等于落地协议，采购、关税和技术限制还要看文本执行。",
-      "watch": "中美经贸磋商 初步成果 商务部 采购飞机"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "“电脑微信会惩罚每一个恋旧的人”和“微信鸿蒙原生版投入 800 人团队”同时出现，触发办公工具迁移焦虑。",
+      "key_data": "微博热搜第 5；知乎热榜第 34；IT之家热榜出现微信鸿蒙适配消息。",
+      "risk_note": "产品功能细节需以后续官方版本和更新日志为准。",
+      "watch_keywords": [
+        "电脑微信",
+        "微信旧版本",
+        "鸿蒙原生版微信",
+        "办公迁移"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/ithome",
+        "source_title": "HotFlashNews IT之家热榜：腾讯投入超 800 人团队开发微信鸿蒙原生版",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T00:00:00+08:00",
+        "reason": "证明微信版本迁移和鸿蒙适配已形成科技媒体事实讨论。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：电脑微信会惩罚每一个恋旧的人",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 5,
+        "heat_score": 695622,
+        "platforms": [
+          "weibo",
+          "zhihu"
+        ],
+        "reason": "用户体验吐槽进入微博高位，并在知乎形成搜索型讨论。"
+      },
+      "analysis_angles": [
+        "这不是简单的“用户不愿更新”，而是超级应用把工作记忆、文件流和社交关系锁在同一个客户端里。",
+        "公众叙事容易停在吐槽界面难用，但企业级工具真正的问题是兼容性、可迁移性和数据可控。",
+        "平台升级会把成本外包给用户：学习新逻辑、修复工作流、承担旧设备和旧系统不兼容。",
+        "要看后续微信是否提供稳定的兼容策略和迁移说明，而不是只用版本迭代制造事实标准。"
+      ]
     },
     {
-      "id": 5,
-      "issue_anchor": "苹果、华为、小米集体官宣降价，618手机价格战提前打响",
-      "cat": "科技产业与消费市场",
-      "status": "rising",
-      "heat": 8.6,
-      "platforms": [
-        "百度",
-        "微博",
-        "电商平台",
-        "财经媒体"
-      ],
-      "layer": "cn_consumer_brand",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-05-15/4393851.html",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 8,
-      "heatScore": 7240000,
-      "why": "高端机降价把618从促销节点变成库存、利润和国产安卓定价能力的压力测试。",
-      "data": "X排行聚合显示“苹果、华为、小米集体官宣：降价”约724万热度。",
-      "risk": "不同渠道补贴口径不同，实际成交价和官方定价不能混同。",
-      "watch": "iPhone17 降价 华为MateX 小米 618"
-    },
-    {
-      "id": 6,
-      "issue_anchor": "普京将于5月19日至20日对中国进行国事访问",
-      "cat": "政策议程与国际关系",
-      "status": "rising",
-      "heat": 8.4,
-      "platforms": [
-        "百度",
-        "微博",
-        "外交部",
-        "Reddit"
-      ],
-      "layer": "cn_ideology_official_agenda",
-      "source": "中华人民共和国外交部",
-      "url": "https://www.fmprc.gov.cn/web/wjdt_674879/wsrc_674883/202605/t20260516_11911696.shtml",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 11,
-      "heatScore": 6950000,
-      "why": "特朗普访华后普京接续访华，使中美俄三角关系成为平台讨论的核心框架。",
-      "data": "X排行聚合显示该词约695万热度，外交部5月16日发布行程。",
-      "risk": "外界解读易过度戏剧化，实际看点在会后文件、能源和教育年安排。",
-      "watch": "普京访华 中俄教育年 特朗普访华 中美俄"
-    },
-    {
-      "id": 7,
-      "issue_anchor": "泰国曼谷火车与公交车相撞现场视频曝光",
-      "cat": "国际公共事件",
+      "id": "h04",
+      "issue_anchor": "卢昱晓屏摄道歉与《给阿嬷的情书》票房爆发，粉丝经济遇到电影版权边界",
+      "short_title": "卢昱晓屏摄道歉",
+      "category": "强冲突/争议热点",
+      "category_id": 4,
       "status": "breaking",
-      "heat": 8,
+      "timeliness": "今日高热",
+      "heat_score": 8.8,
       "platforms": [
-        "百度",
-        "微博",
-        "视频平台"
+        "微博热搜",
+        "知乎热榜",
+        "百度热搜",
+        "抖音热榜"
       ],
-      "layer": "global_public_event",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 13,
-      "heatScore": 6760000,
-      "why": "境外事故视频具备强冲击画面，短视频平台推动了跨境公共安全讨论。",
-      "data": "X排行聚合显示该话题约676万热度。",
-      "risk": "伤亡数字、事故责任和视频来源需等泰国官方进一步确认。",
-      "watch": "泰国曼谷 火车 公交车 相撞 视频"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "道歉、屏摄、票房预测和电影口碑同时占据微博、知乎、百度、抖音，娱乐事件公共化。",
+      "key_data": "微博热搜第 1 和第 6；知乎热榜第 1；百度热搜第 13；抖音热榜第 41。",
+      "risk_note": "应区分版权规范、影院秩序与粉丝传播，不把所有讨论压缩成艺人道德审判。",
+      "watch_keywords": [
+        "卢昱晓道歉",
+        "屏摄",
+        "给阿嬷的情书票房",
+        "影院版权"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "HotFlashNews 知乎热榜：卢昱晓为电影《给阿嬷的情书》屏摄道歉",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-17T00:00:00+08:00",
+        "reason": "证明道歉与屏摄争议成为平台公共讨论议题。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：卢昱晓道歉/给阿嬷的情书 屏摄",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 1,
+        "heat_score": 954705,
+        "platforms": [
+          "weibo",
+          "zhihu",
+          "baidu",
+          "douyin"
+        ],
+        "reason": "同一娱乐公共事件在多个平台同时高热，且知乎问题热度高。"
+      },
+      "analysis_angles": [
+        "这件事真正暴露的是内容产业在“自来水传播”和“版权秩序”之间的灰区。",
+        "公众容易把它讲成艺人素质问题，但平台和片方也在利用二创、路透、短视频传播票房。",
+        "当电影宣发越来越依赖社交扩散，规则必须回答什么能拍、谁能拍、拍了如何处分。",
+        "后续看影院、片方和平台是否形成一致边界，否则每次都只会变成临时道歉和粉丝对冲。"
+      ]
     },
     {
-      "id": 8,
-      "issue_anchor": "多国宣布退出有以色列参与的欧歌赛",
-      "cat": "全球文化与价值冲突",
+      "id": "h05",
+      "issue_anchor": "中东部大范围降雨与广西河流超警，天气灾害从预警进入日常风险议题",
+      "short_title": "暴雨防汛升温",
+      "category": "真实生活问题热点",
+      "category_id": 5,
       "status": "rising",
-      "heat": 7.9,
+      "timeliness": "今日预警",
+      "heat_score": 8.7,
       "platforms": [
-        "X",
-        "TikTok",
+        "百度热搜",
+        "头条热榜",
+        "财联社热榜",
+        "微博热搜"
+      ],
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": true,
+      "foreign_platform_native": false,
+      "why_rising": "暴雨黄色预警、广西河流超警、北京防汛等词在百度、头条和财联社同步出现，进入出行和安全决策场景。",
+      "key_data": "头条热榜第 13；百度热搜出现广西河流超警、京津冀等地有大到暴雨；财联社热榜第 18。",
+      "risk_note": "天气和灾害进展快速变化，需以气象、水利和地方应急部门最新预警为准。",
+      "watch_keywords": [
+        "暴雨黄色预警",
+        "广西河流超警",
+        "北京防汛",
+        "中东部降雨"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/cls",
+        "source_title": "HotFlashNews 财联社热榜：中央气象台继续发布暴雨黄色预警",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T09:16:03+08:00",
+        "reason": "证明中央气象台暴雨预警和降雨范围。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "HotFlashNews 今日头条热榜：京津冀等地有大到暴雨/北京提前进入防汛关键期",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T20:32:59+08:00",
+        "rank": 13,
+        "heat_score": 4784578,
+        "platforms": [
+          "toutiao",
+          "baidu",
+          "weibo"
+        ],
+        "reason": "同一强降雨风险在多个大众平台进入实时榜。"
+      },
+      "analysis_angles": [
+        "暴雨热点不能只讲“哪里下雨”，而要讲城市排水、基层预警和个人出行决策如何衔接。",
+        "公众容易把极端天气当作偶发灾害，但更值得追问的是常态化风险管理是否跟上。",
+        "平台算法会放大惊险画面，却不一定放大正确避险信息，这会影响普通人的真实判断。",
+        "后续应观察地方是否把预警转化为停课、交通、景区、工地等具体治理动作。"
+      ]
+    },
+    {
+      "id": "h06",
+      "issue_anchor": "Drake《2 Hard 4 The Radio》登顶 YouTube Trending，音乐发布变成跨平台事件",
+      "short_title": "Drake 新歌登顶 YouTube",
+      "category": "平台流量热点",
+      "category_id": 1,
+      "status": "rising",
+      "timeliness": "外网今日热榜",
+      "heat_score": 8.6,
+      "platforms": [
+        "YouTube Trending",
         "Reddit",
-        "百度"
+        "Spotify相关数据页"
       ],
-      "layer": "global_celebrity_outflow",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 6,
-      "heatScore": 4980000,
-      "why": "娱乐赛事被地缘政治撕裂，海外平台上的抵制行动外溢到中文平台。",
-      "data": "X排行聚合将其列入国际热榜，嵌套在欧歌赛与以色列争议语境中。",
-      "risk": "各国退赛状态可能随赛事组织方谈判变化。",
-      "watch": "Eurovision Israel withdraw boycott TikTok Reddit"
+      "source_bias": "海外来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": true,
+      "why_rising": "Kworb YouTube 美国趋势榜显示 Drake 新歌位居第 1，Reddit 音乐社区同步讨论，属于外网平台原生热度。",
+      "key_data": "Kworb YouTube Trending US 第 1；页面记录更新时间 2026-05-17 08:10 EDT。",
+      "risk_note": "音乐榜单和播放量会快速变化，需以 YouTube/Spotify 官方或公开榜单实时数据为准。",
+      "watch_keywords": [
+        "Drake 2 Hard 4 The Radio",
+        "ICEMAN",
+        "YouTube Trending",
+        "Reddit hiphopheads"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.youtube.com/watch?v=Kfyn6Sw84w8",
+        "source_title": "Drake - 2 HARD 4 THE RADIO (Official Music Video)",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-17T00:00:00-04:00",
+        "reason": "证明音乐视频原始发布对象。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://kworb.net/youtube/trending/us.html",
+        "source_title": "Kworb YouTube Trending US: Drake - 2 HARD 4 THE RADIO",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-17T20:10:00+08:00",
+        "rank": 1,
+        "views": 4928896,
+        "likes": 270959,
+        "platforms": [
+          "youtube",
+          "reddit"
+        ],
+        "reason": "YouTube 美国趋势榜第一且公开页显示播放和点赞规模。"
+      },
+      "analysis_angles": [
+        "音乐发行已经不是“作品上线”，而是视频、短剪、社区评论和流媒体数据共同制造的事件。",
+        "公众容易只看明星流量，但更重要的是平台首屏趋势如何塑造全球同步注意力。",
+        "YouTube 榜单反映的是视频消费，Spotify 反映的是音频复听，两者合起来才接近真实传播结构。",
+        "后续看 TikTok/Shorts 是否把副歌片段二次放大，这决定它是首日爆发还是持续流行。"
+      ]
     },
     {
-      "id": 9,
-      "issue_anchor": "张雪机车捷克站夺冠，女性赛车话题跨圈扩散",
-      "cat": "体育与公众人物",
+      "id": "h07",
+      "issue_anchor": "PGA Championship 直播与集锦冲上 YouTube Trending，长赛事被切成可传播片段",
+      "short_title": "PGA Championship 外网热榜",
+      "category": "平台流量热点",
+      "category_id": 1,
       "status": "rising",
-      "heat": 7.8,
+      "timeliness": "外网今日热榜",
+      "heat_score": 8.3,
       "platforms": [
-        "百度",
-        "微博",
-        "短视频"
+        "YouTube Trending",
+        "CBS Sports",
+        "PGA相关页面"
       ],
-      "layer": "cn_celebrity_public_event_a",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 6,
-      "heatScore": 7430000,
-      "why": "体育成绩叠加女性突破叙事，进入大众情绪与商业赞助讨论。",
-      "data": "X排行聚合显示“张雪机车又夺冠了”约743万热度，“回应捷克站夺冠”约685万。",
-      "risk": "赛事级别、成绩口径与商业包装需要区分。",
-      "watch": "张雪机车 捷克站 夺冠 女车手"
+      "source_bias": "海外来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": true,
+      "why_rising": "PGA Championship 相关直播、集锦和采访同时进入 YouTube 美国趋势榜，体育事件通过短视频分发扩散。",
+      "key_data": "Kworb YouTube Trending US 第 2 为 CBS Sports HQ Live；第 10 为 PGA Championship 采访/集锦。",
+      "risk_note": "体育排名和赛事结果实时变化，引用时需核对赛事官方赛程和最新战况。",
+      "watch_keywords": [
+        "PGA Championship Round 3",
+        "CBS Sports HQ Live",
+        "Scottie Scheffler",
+        "YouTube golf"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.pgachampionship.com/",
+        "source_title": "PGA Championship 官方赛事页面",
+        "source_type": "official",
+        "source_published_at": "2026-05-17T00:00:00-04:00",
+        "reason": "证明赛事存在和当日赛程语境。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://kworb.net/youtube/trending/us.html",
+        "source_title": "Kworb YouTube Trending US: PGA Championship/CBS Sports items",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-17T20:10:00+08:00",
+        "rank": 2,
+        "views": 686143,
+        "likes": 10243,
+        "platforms": [
+          "youtube"
+        ],
+        "reason": "赛事直播和相关内容在 YouTube 美国趋势榜多条上榜。"
+      },
+      "analysis_angles": [
+        "体育传播的结构变化在于完整赛事不再是唯一入口，直播切片和人物片段成为主传播单元。",
+        "公众看到的是某个高光，但平台真正奖励的是实时性、悬念和可被二创的瞬间。",
+        "赛事方、媒体方和平台之间的版权边界会决定哪些片段被放大，哪些内容被压下去。",
+        "后续看赛事官方是否把 YouTube 热榜流量转化为订阅、付费观看和社媒复访。"
+      ]
     },
     {
-      "id": 10,
-      "issue_anchor": "特朗普访华后警告“台独”，台海表态登顶中文热榜",
-      "cat": "政策议程与国际关系",
-      "status": "breaking",
-      "heat": 9,
+      "id": "h08",
+      "issue_anchor": "国产光纤光模块“卖爆全球”，AI算力基础设施从概念进入订单叙事",
+      "short_title": "国产光模块卖爆全球",
+      "category": "行业变化热点",
+      "category_id": 3,
+      "status": "rising",
+      "timeliness": "今日产业热",
+      "heat_score": 8.2,
       "platforms": [
-        "微博",
-        "百度",
-        "X",
-        "日本媒体"
+        "抖音热榜",
+        "财联社热榜",
+        "36氪热榜"
       ],
-      "layer": "cn_ideology_official_agenda",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/05/16/asia-pacific/politics/us-china-taiwan-trump-independence/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 1,
-      "heatScore": 510000,
-      "why": "美国总统涉台表态被中文平台解读为中美峰会后的安全承诺再定价。",
-      "data": "X排行微博聚合显示“特朗普警告台独”位列第一。",
-      "risk": "英文原话、白宫后续解释与各方转述之间可能存在语义差异。",
-      "watch": "特朗普 台独 访华 Japan Times 白宫"
+      "source_bias": "国内来源主导",
+      "public_life": false,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "抖音热榜出现“国产光纤光模块卖爆全球”，财联社与 36氪同步出现 AI 算力和产业链条目。",
+      "key_data": "抖音热榜第 6；财联社热榜第 38；36氪热榜出现 AI 产业和数据中心相关内容。",
+      "risk_note": "产业热度需警惕概念炒作，订单、毛利率和客户结构比口号更关键。",
+      "watch_keywords": [
+        "光模块",
+        "AI算力",
+        "数据中心",
+        "国产供应链"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/cls",
+        "source_title": "HotFlashNews 财联社热榜：CPO概念反复活跃/光迅科技涨停",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T09:16:03+08:00",
+        "reason": "证明资本市场和产业链讨论正在升温。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "HotFlashNews 抖音热榜：国产光纤光模块卖爆全球",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T20:32:59+08:00",
+        "rank": 6,
+        "heat_score": 10969254,
+        "platforms": [
+          "douyin",
+          "cls"
+        ],
+        "reason": "产业链话题进入短视频热榜高位，并被财经热榜交叉印证。"
+      },
+      "analysis_angles": [
+        "光模块热度说明 AI 叙事正在从模型炫技转向基础设施瓶颈和供应链能力。",
+        "公众容易把“卖爆全球”当成胜利叙事，但真正关键是高端规格、良率、客户绑定和议价权。",
+        "如果算力需求持续，光通信、散热、电力和数据中心都会成为同一条产业链上的约束条件。",
+        "后续看上市公司订单披露和海外大客户验证，而不是只看短视频里的产业口号。"
+      ]
+    },
+    {
+      "id": "h09",
+      "issue_anchor": "特朗普“警告台独”话题冲上多平台，涉台叙事与中美关系预期交织",
+      "short_title": "特朗普涉台表态热议",
+      "category": "行业变化热点",
+      "category_id": 3,
+      "status": "rising",
+      "timeliness": "今日外溢",
+      "heat_score": 8.1,
+      "platforms": [
+        "抖音热榜",
+        "知乎热榜",
+        "百度热搜",
+        "微博热搜"
+      ],
+      "source_bias": "中外混合来源",
+      "public_life": false,
+      "officialish": true,
+      "foreign_platform_native": false,
+      "why_rising": "“特朗普警告台独”及相关解读在抖音、知乎、百度、微博扩散，地缘议题被平台化表达。",
+      "key_data": "抖音热榜第 2；知乎热榜第 30/32；百度热搜第 44；微博热榜首页出现相关词。",
+      "risk_note": "涉台和外交议题需核对原始表态、上下文和官方回应，避免二手标题放大误读。",
+      "watch_keywords": [
+        "特朗普警告台独",
+        "海风 台湾当局",
+        "中美关系",
+        "涉台表态"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.zaobao.com.sg/news/china/story20260517-7916269",
+        "source_title": "联合早报：特朗普警告“台独”话题报道",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T00:00:00+08:00",
+        "reason": "证明相关涉台表态进入公开报道。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "HotFlashNews 抖音热榜：特朗普公开警告台独",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T20:32:59+08:00",
+        "rank": 2,
+        "heat_score": 12060238,
+        "platforms": [
+          "douyin",
+          "zhihu",
+          "baidu",
+          "weibo"
+        ],
+        "reason": "涉台议题在短视频与问答平台同时上榜。"
+      },
+      "analysis_angles": [
+        "这类热点真正要讲的是表态如何被平台重新包装成确定性，而外交现实往往充满条件和交易。",
+        "公众叙事容易把复杂地缘博弈简化成一句强硬话，但政策信号要看行动、约束和后续沟通。",
+        "平台会奖励高情绪、高立场表达，反而压低对原文、时间线和利益结构的耐心。",
+        "后续应观察中美经贸和安全议题是否出现联动，因为单点表态很少独立决定关系走向。"
+      ]
+    },
+    {
+      "id": "h10",
+      "issue_anchor": "四个品牌五款产品都自称销量第一，消费广告的“第一”叙事被集中质疑",
+      "short_title": "销量第一广告质疑",
+      "category": "强冲突/争议热点",
+      "category_id": 4,
+      "status": "rising",
+      "timeliness": "今日高热",
+      "heat_score": 8.0,
+      "platforms": [
+        "百度热搜",
+        "今日头条热榜"
+      ],
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "“四个品牌五款产品均称销量第一”进入百度热搜首位，消费品广告话术引发集体不信任。",
+      "key_data": "百度热搜第 1；今日头条热榜第 5。",
+      "risk_note": "需核对各品牌口径、统计周期和品类定义，不能把所有“第一”直接等同虚假宣传。",
+      "watch_keywords": [
+        "销量第一",
+        "广告口径",
+        "品牌宣传",
+        "消费者知情权"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "HotFlashNews 百度热搜：四个品牌五款产品均称销量第一",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-17T00:00:00+08:00",
+        "reason": "证明该消费广告争议成为搜索热榜议题。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "HotFlashNews 百度热搜：四个品牌五款产品均称销量第一",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 1,
+        "heat_score": 4918778,
+        "platforms": [
+          "baidu",
+          "toutiao"
+        ],
+        "reason": "消费争议位于百度实时热搜第一，并被头条同步放大。"
+      },
+      "analysis_angles": [
+        "“第一”不是一个简单形容词，而是广告法、统计口径和消费者信任之间的制度问题。",
+        "公众容易嘲笑品牌互相打架，但真正的问题是平台和监管如何要求口径可核验。",
+        "当每个品牌都能通过限定时间、渠道、规格来制造第一，消费者其实失去了比较基准。",
+        "后续应看品牌是否披露第三方数据、统计周期和品类边界，这比道歉文案更重要。"
+      ]
     }
   ],
   "extended_board": [
     {
-      "id": 11,
-      "issue_anchor": "中美关系新定位里的时代深意",
-      "cat": "政策议程与国际关系",
+      "id": "h11",
+      "issue_anchor": "老人月话费约500元且解约要违约金，银发通信套餐争议升温",
+      "short_title": "老人高额话费违约金",
+      "category": "真实生活问题热点",
+      "category_id": 5,
       "status": "rising",
-      "heat": 7.6,
+      "timeliness": "今日上榜",
+      "heat_score": 7.8,
       "platforms": [
-        "百度",
-        "财经媒体"
+        "百度热搜",
+        "微博热搜"
       ],
-      "layer": "cn_ideology_official_agenda",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 1,
-      "heatScore": 7900000,
-      "why": "宏大叙事词条反映官方议程进入平台分发。",
-      "data": "X排行聚合显示约790万热度。",
-      "risk": "议程热度强于民间活人气。",
-      "watch": "中美关系 新定位 时代深意"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "高额话费、解约违约金和工作人员建议携号转网触发老人消费保护讨论。",
+      "key_data": "百度热搜第 3；微博热搜第 30。",
+      "risk_note": "个案套餐细节需以运营商记录和监管调查为准。",
+      "watch_keywords": [
+        "老人话费500元",
+        "解约违约金",
+        "携号转网",
+        "银发消费"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "HotFlashNews 百度热搜：老人每月话费约500元解约或需付违约金",
+        "source_type": "platform_original",
+        "source_published_at": null,
+        "reason": "平台热榜证明议题存在，尚需运营商或监管事实核验。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "HotFlashNews 百度热搜：老人每月话费约500元解约或需付违约金",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 3,
+        "heat_score": 4787575,
+        "platforms": [
+          "baidu",
+          "weibo"
+        ],
+        "reason": "银发消费争议进入搜索与社交平台热榜。"
+      }
     },
     {
-      "id": 12,
-      "issue_anchor": "“一部手机走天下”与中国式支付圈粉全球",
-      "cat": "科技生活方式",
-      "status": "rising",
-      "heat": 7.4,
-      "platforms": [
-        "百度",
-        "微博",
-        "海外观察"
-      ],
-      "layer": "global_culture_shift",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 4,
-      "heatScore": 7620000,
-      "why": "移动支付被外宾体验带火，平台讨论从便利转向基础设施与隐私边界。",
-      "data": "X排行显示“一部手机走天下”约762万，“中国式支付圈粉全球”也在微博前列。",
-      "risk": "体验样本可能被访问叙事放大。",
-      "watch": "中国式支付 手机走天下 外宾 便利"
-    },
-    {
-      "id": 13,
-      "issue_anchor": "多款燃油车降价，降幅最大近30%",
-      "cat": "消费与产业竞争",
-      "status": "rising",
-      "heat": 7.5,
-      "platforms": [
-        "百度",
-        "汽车媒体"
-      ],
-      "layer": "cn_consumer_brand",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 10,
-      "heatScore": 7040000,
-      "why": "新能源挤压、库存清理与燃油车残值焦虑同时进入消费者决策。",
-      "data": "X排行聚合显示该词约704万热度。",
-      "risk": "车型、地区和终端优惠不同，不能概括整个燃油车市场。",
-      "watch": "燃油车 降价 30% 库存 新能源"
-    },
-    {
-      "id": 14,
-      "issue_anchor": "今年所有城市将开展体检",
-      "cat": "城市治理与公共服务",
+      "id": "h12",
+      "issue_anchor": "全国助残日与“让每个生命绽放光芒”传播，官方议程进入平台情感叙事",
+      "short_title": "全国助残日",
+      "category": "行业变化热点",
+      "category_id": 3,
       "status": "emerging",
-      "heat": 7.1,
+      "timeliness": "今日节点",
+      "heat_score": 7.7,
       "platforms": [
-        "百度",
-        "政策媒体"
+        "微博热搜",
+        "今日头条热榜",
+        "新华社/央视"
       ],
-      "layer": "cn_ideology_official_agenda",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 15,
-      "heatScore": 6570000,
-      "why": "“城市体检”把基础设施、住房、交通和韧性治理包装成可讨论的公共议程。",
-      "data": "X排行聚合显示约657万热度。",
-      "risk": "政策概念易被误读为居民个人体检。",
-      "watch": "城市体检 住房 城市更新 公共服务"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": true,
+      "foreign_platform_native": false,
+      "why_rising": "全国助残日节点叠加央视与新华社传播，公益议题在微博和头条上榜。",
+      "key_data": "微博热搜第 3；今日头条热榜第 3；新华社与央视发布相关报道。",
+      "risk_note": "公益议题应避免口号化，需观察政策与服务供给。",
+      "watch_keywords": [
+        "全国助残日",
+        "残障服务",
+        "无障碍环境",
+        "融合教育"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.news.cn/20260517/f9c24e24f26349d9b793c44120d45293/c.html",
+        "source_title": "新华网：让每个生命绽放光芒",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T09:38:43+08:00",
+        "reason": "证明全国助残日主题传播和官方报道。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：让每个生命绽放光芒",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 3,
+        "heat_score": 858978,
+        "platforms": [
+          "weibo",
+          "toutiao"
+        ],
+        "reason": "官方议程进入微博高位热搜与头条热榜。"
+      }
     },
     {
-      "id": 15,
-      "issue_anchor": "给阿嬷的情书票房与素人主演讨论",
-      "cat": "娱乐影视与公共情绪",
+      "id": "h13",
+      "issue_anchor": "中美经贸磋商初步成果公布，政策事实强于平台活人气",
+      "short_title": "中美经贸磋商成果",
+      "category": "行业变化热点",
+      "category_id": 3,
       "status": "rising",
-      "heat": 7,
+      "timeliness": "今日政策",
+      "heat_score": 7.6,
       "platforms": [
-        "微博",
-        "豆瓣",
-        "电影票房"
+        "知乎热榜",
+        "抖音热榜",
+        "华尔街见闻",
+        "财联社"
       ],
-      "layer": "cn_celebrity_public_event_b",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 2,
-      "heatScore": 160000,
-      "why": "素人主演与亲情叙事触发“明星是否还能扛票房”的行业讨论。",
-      "data": "X排行微博聚合将“给阿嬷的情书”列在前排。",
-      "risk": "预测票房不等于最终票房。",
-      "watch": "给阿嬷的情书 素人主演 票房"
+      "source_bias": "中外混合来源",
+      "public_life": false,
+      "officialish": true,
+      "foreign_platform_native": false,
+      "why_rising": "商务部官方说明叠加知乎、抖音和财经平台转发，贸易政策影响外溢到市场预期。",
+      "key_data": "知乎热榜第 6；抖音热榜第 13；华尔街见闻热榜第 2。",
+      "risk_note": "政策细节需以官方文本和后续执行口径为准。",
+      "watch_keywords": [
+        "中美经贸磋商",
+        "商务部答记者问",
+        "关税",
+        "供应链"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_0e8dac7e772e4339bf622ddc7717e5e1.html",
+        "source_title": "商务部新闻发言人就中美经贸磋商初步成果答记者问",
+        "source_type": "official",
+        "source_published_at": "2026-05-17T00:00:00+08:00",
+        "reason": "证明政策事实和官方表述。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "HotFlashNews 知乎热榜：中美经贸磋商取得初步成果",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 6,
+        "heat_score": 5700000,
+        "platforms": [
+          "zhihu",
+          "douyin",
+          "wallstreetcn"
+        ],
+        "reason": "政策议题进入问答、短视频和财经热榜。"
+      }
     },
     {
-      "id": 16,
-      "issue_anchor": "东亚小孩的放弃五件套走红",
-      "cat": "代际情绪与生活方式",
-      "status": "rising",
-      "heat": 6.9,
-      "platforms": [
-        "微博",
-        "小红书"
-      ],
-      "layer": "cn_workplace_education",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 6,
-      "heatScore": 100000,
-      "why": "低欲望、逃避式休息和自我保护话术被年轻人转译成可传播梗。",
-      "data": "X排行微博聚合显示该词约10万热度。",
-      "risk": "梗化表达不能直接等同心理诊断。",
-      "watch": "东亚小孩 放弃五件套 低欲望"
-    },
-    {
-      "id": 17,
-      "issue_anchor": "单依纯大连演唱会上座率讨论",
-      "cat": "娱乐产业与粉丝经济",
-      "status": "rising",
-      "heat": 6.8,
-      "platforms": [
-        "微博",
-        "短视频"
-      ],
-      "layer": "cn_celebrity_public_event_a",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 12,
-      "heatScore": 40000,
-      "why": "演唱会上座率成为衡量歌手商业转化和粉丝真实动员的公共指标。",
-      "data": "X排行微博聚合显示该词进入热榜。",
-      "risk": "现场照片与票务数据可能存在时间截面偏差。",
-      "watch": "单依纯 大连演唱会 上座率"
-    },
-    {
-      "id": 18,
-      "issue_anchor": "T1让一追二赢GEN",
-      "cat": "电竞赛事",
-      "status": "rising",
-      "heat": 6.7,
-      "platforms": [
-        "B站",
-        "贴吧",
-        "微博"
-      ],
-      "layer": "global_celebrity_outflow",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 7,
-      "heatScore": 0,
-      "why": "电竞强队对决带动中文社区复盘版本、BP和选手状态。",
-      "data": "X排行聚合收录该电竞词条。",
-      "risk": "赛事阶段和赛区口径需参考官方赛程。",
-      "watch": "T1 GEN 让一追二 BP"
-    },
-    {
-      "id": 19,
-      "issue_anchor": "阿联酋退出欧佩克被解读为主权战略选择",
-      "cat": "国际财经与能源",
+      "id": "h14",
+      "issue_anchor": "普京将于5月19日至20日访华，外交议程提前进入平台讨论",
+      "short_title": "普京即将访华",
+      "category": "行业变化热点",
+      "category_id": 3,
       "status": "emerging",
-      "heat": 6.9,
+      "timeliness": "即将发生",
+      "heat_score": 7.5,
       "platforms": [
-        "百度",
-        "财经媒体"
+        "知乎热榜",
+        "B站热榜",
+        "外交部"
       ],
-      "layer": "global_public_event",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 7,
-      "heatScore": 4860000,
-      "why": "能源组织与主权定价权相关，触发油价、海湾政治和中国能源安全联想。",
-      "data": "X排行国际热榜显示约486万热度。",
-      "risk": "需等待OPEC与阿联酋官方文本确认。",
-      "watch": "阿联酋 欧佩克 主权战略 油价"
+      "source_bias": "中外混合来源",
+      "public_life": false,
+      "officialish": true,
+      "foreign_platform_native": false,
+      "why_rising": "外交部公告后，知乎和 B站围绕访华时间、议程与国际局势形成讨论。",
+      "key_data": "知乎热榜第 2/18；B站热榜第 37。",
+      "risk_note": "外交行程以官方公告为准，解读需避免把访问自动等同政策结果。",
+      "watch_keywords": [
+        "普京访华",
+        "中俄关系",
+        "5月19日",
+        "外交部公告"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.fmprc.gov.cn/wjdt_674879/wsrc_674883/202605/t20260516_11911696.shtml",
+        "source_title": "外交部：俄罗斯总统普京将对中国进行国事访问",
+        "source_type": "official",
+        "source_published_at": "2026-05-16T00:00:00+08:00",
+        "reason": "证明访问安排和官方来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "HotFlashNews 知乎热榜：普京将于5月19日至20日访华",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 2,
+        "heat_score": 23090000,
+        "platforms": [
+          "zhihu",
+          "bilibili"
+        ],
+        "reason": "外交议题进入知乎高位热榜。"
+      }
     },
     {
-      "id": 20,
-      "issue_anchor": "哈马斯证实军事领导人哈达德身亡",
-      "cat": "国际冲突",
-      "status": "breaking",
-      "heat": 7.2,
-      "platforms": [
-        "百度",
-        "国际新闻"
-      ],
-      "layer": "global_public_event",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 10,
-      "heatScore": 4370000,
-      "why": "中东冲突核心人物伤亡会改变停火谈判和平台情绪走向。",
-      "data": "X排行国际热榜显示约437万热度。",
-      "risk": "战场信息存在宣传战和延迟确认。",
-      "watch": "Hamas Haddad military leader confirmed"
-    },
-    {
-      "id": 21,
-      "issue_anchor": "AI岗位渗透率与2026届应届生求职焦虑",
-      "cat": "职场就业与教育",
+      "id": "h15",
+      "issue_anchor": "麦辣鸡腿堡“吃完肚子疼”登热搜，快餐品牌食品体验被放大",
+      "short_title": "麦辣鸡腿堡肠胃投诉",
+      "category": "强冲突/争议热点",
+      "category_id": 4,
       "status": "rising",
-      "heat": 7,
+      "timeliness": "今日上榜",
+      "heat_score": 7.3,
       "platforms": [
-        "微博",
-        "招聘平台",
-        "新闻客户端"
+        "微博热搜"
       ],
-      "layer": "cn_workplace_education",
-      "source": "华商网",
-      "url": "https://news.hsw.cn/system/2026/0515/1929646.shtml",
-      "heatUrl": "https://hotflashnews.com/",
-      "heatRank": 0,
-      "heatScore": 0,
-      "why": "春招收尾叠加AI岗位暴增，毕业生焦虑从“有没有岗位”转向“技能是否被重写”。",
-      "data": "报道援引脉脉春招洞察：新经济岗位同比增长22.6%，AI岗位量增长8.7倍。",
-      "risk": "平台招聘数据不能代表全行业就业质量。",
-      "watch": "2026届毕业生 春招 AI岗位 就业"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "快餐品牌、身体反应和食品安全联想天然适合评论区扩散。",
+      "key_data": "微博热搜第 10。",
+      "risk_note": "个体肠胃反应不能直接等于食品安全事故，需等待品牌或监管信息。",
+      "watch_keywords": [
+        "麦辣鸡腿堡",
+        "拉肚子",
+        "快餐食品安全",
+        "消费者投诉"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：吃完麦辣鸡腿堡好多人都拉肚子",
+        "source_type": "platform_original",
+        "source_published_at": null,
+        "reason": "平台热榜证明争议存在，尚无权威事实核验。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：吃完麦辣鸡腿堡好多人都拉肚子",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 10,
+        "heat_score": 534964,
+        "platforms": [
+          "weibo"
+        ],
+        "reason": "食品体验投诉进入微博热搜。"
+      }
     },
     {
-      "id": 22,
-      "issue_anchor": "学校AI政策成为家长追问的新议题",
-      "cat": "教育与技术治理",
+      "id": "h16",
+      "issue_anchor": "泡药杨梅引发水果安全讨论，季节性消费与食品信任叠加",
+      "short_title": "泡药杨梅",
+      "category": "真实生活问题热点",
+      "category_id": 5,
+      "status": "rising",
+      "timeliness": "今日上榜",
+      "heat_score": 7.2,
+      "platforms": [
+        "微博热搜",
+        "财联社热榜"
+      ],
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "应季水果、食品安全和专项整治同时出现，容易触发家庭消费焦虑。",
+      "key_data": "微博热搜第 37；财联社热榜出现“泡药杨梅涉事商家断货多地开展专项整治”。",
+      "risk_note": "需区分个案、传言与监管抽检结果。",
+      "watch_keywords": [
+        "泡药杨梅",
+        "专项整治",
+        "水果安全",
+        "商家断货"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/cls",
+        "source_title": "HotFlashNews 财联社热榜：泡药杨梅涉事商家断货，多地开展专项整治",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T09:16:03+08:00",
+        "reason": "证明专项整治和商家断货信息进入财经媒体热榜。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：泡药杨梅",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 37,
+        "heat_score": 247391,
+        "platforms": [
+          "weibo",
+          "cls"
+        ],
+        "reason": "食品安全词进入微博热搜并被财经热榜交叉放大。"
+      }
+    },
+    {
+      "id": "h17",
+      "issue_anchor": "重庆巫溪救护车“捎带化肥”被通报，基层公共资源边界被追问",
+      "short_title": "救护车捎带化肥",
+      "category": "强冲突/争议热点",
+      "category_id": 4,
       "status": "emerging",
-      "heat": 6.4,
+      "timeliness": "今日通报",
+      "heat_score": 7.1,
       "platforms": [
-        "教育媒体",
-        "家长社群"
+        "微博热搜"
       ],
-      "layer": "global_culture_shift",
-      "source": "耀中耀华教育网络",
-      "url": "https://www.ycyw-edu.com/sc/article/ycyw-educational-insights/ai-policy-is-the-floor-what-parents-should-ask-schools-in-2026-or-ycyw-education-network",
-      "heatUrl": "https://hotflashnews.com/",
-      "heatRank": 0,
-      "heatScore": 0,
-      "why": "AI进入课堂后，家长关注点从禁用与否转向评价、作业真实性和学校透明度。",
-      "data": "文章称美国学生学校已有AI规则比例从2025年的51%升至2026年的74%。",
-      "risk": "国际学校语境不能直接外推到公办教育。",
-      "watch": "AI政策 学校 家长 作业 评价"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": true,
+      "foreign_platform_native": false,
+      "why_rising": "救护车与化肥的反差强，触发公共资源私用、基层治理和程序规范讨论。",
+      "key_data": "微博热搜第 14。",
+      "risk_note": "需以当地通报和完整视频时间线为准。",
+      "watch_keywords": [
+        "巫溪救护车",
+        "捎带化肥",
+        "基层治理",
+        "公共资源"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：重庆巫溪通报救护车捎带化肥",
+        "source_type": "platform_original",
+        "source_published_at": null,
+        "reason": "热榜标题显示当地通报，尚需进一步打开官方通报原文。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：重庆巫溪通报救护车捎带化肥",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 14,
+        "heat_score": 494573,
+        "platforms": [
+          "weibo"
+        ],
+        "reason": "基层公共资源争议进入微博热搜。"
+      }
     },
     {
-      "id": 23,
-      "issue_anchor": "别拔，白头发或还能重新变黑",
-      "cat": "健康科普与搜索焦虑",
+      "id": "h18",
+      "issue_anchor": "京东上海总部在建大楼外架“歪了”，施工安全和视觉传播合流",
+      "short_title": "在建大楼外架倾斜",
+      "category": "真实生活问题热点",
+      "category_id": 5,
       "status": "rising",
-      "heat": 6.8,
+      "timeliness": "今日上榜",
+      "heat_score": 7.0,
       "platforms": [
-        "百度",
-        "微博"
+        "微博热搜",
+        "百度热搜"
       ],
-      "layer": "cn_workplace_education",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 9,
-      "heatScore": 4540000,
-      "why": "健康焦虑与低成本自救建议高度适配平台标题传播。",
-      "data": "X排行国际/综合热榜显示约454万热度。",
-      "risk": "个体毛发变化受遗传和疾病影响，不能替代医疗建议。",
-      "watch": "白头发 变黑 拔白发 健康科普"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "“大楼歪了”的视觉冲击强，公共安全、品牌地标和城市建设同时进入讨论。",
+      "key_data": "百度热搜第 16；微博热搜第 32。",
+      "risk_note": "建筑安全需等待施工方和住建部门核实，不应凭照片判断结构风险。",
+      "watch_keywords": [
+        "京东上海总部大楼",
+        "外架歪了",
+        "施工安全",
+        "住建通报"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "HotFlashNews 百度热搜：京东上海总部大楼“歪”了",
+        "source_type": "platform_original",
+        "source_published_at": null,
+        "reason": "平台热榜证明传播，具体安全结论尚待权威核验。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "HotFlashNews 百度热搜：京东上海总部大楼“歪”了",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 16,
+        "heat_score": 3528494,
+        "platforms": [
+          "baidu",
+          "weibo"
+        ],
+        "reason": "强视觉公共安全议题进入百度和微博热榜。"
+      }
     },
     {
-      "id": 24,
-      "issue_anchor": "领养小猫丢失，小伙被索赔2万元",
-      "cat": "生活纠纷与情感治理",
-      "status": "rising",
-      "heat": 6.5,
-      "platforms": [
-        "B站",
-        "微博"
-      ],
-      "layer": "cn_consumer_brand",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 9,
-      "heatScore": 0,
-      "why": "宠物领养从情感关系变成契约责任，引发网友对赔偿边界的分歧。",
-      "data": "X排行B站/综合热榜收录该词条。",
-      "risk": "合同条款和事实经过需看法院或当事方完整材料。",
-      "watch": "领养小猫 丢失 索赔2万 宠物合同"
-    },
-    {
-      "id": 25,
-      "issue_anchor": "郑大学生谎称虐猫被处分",
-      "cat": "校园舆论与平台惩戒",
-      "status": "rising",
-      "heat": 6.3,
-      "platforms": [
-        "B站",
-        "微博"
-      ],
-      "layer": "cn_workplace_education",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 11,
-      "heatScore": 0,
-      "why": "校园身份、动物保护和谣言成本交织，平台用户关注学校处分边界。",
-      "data": "X排行综合热榜收录该词条。",
-      "risk": "学校通报原文与学生动机需二次核验。",
-      "watch": "郑大 虐猫 谎称 处分"
-    },
-    {
-      "id": 26,
-      "issue_anchor": "央视已获得2026世界杯版权",
-      "cat": "体育传媒与内容版权",
+      "id": "h19",
+      "issue_anchor": "七旬老人买菜被拉去纹眉割眼袋，老年人线下消费陷阱再升温",
+      "short_title": "老人被拉去医美消费",
+      "category": "真实生活问题热点",
+      "category_id": 5,
       "status": "emerging",
-      "heat": 6.2,
+      "timeliness": "今日上榜",
+      "heat_score": 6.9,
       "platforms": [
-        "B站",
-        "微博",
-        "体育社区"
+        "微博热搜"
       ],
-      "layer": "global_celebrity_outflow",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 14,
-      "heatScore": 0,
-      "why": "世界杯版权决定平台观看入口，也影响短视频二创、广告和会员策略。",
-      "data": "X排行综合热榜收录该词条。",
-      "risk": "需以央视和国际足联正式公告为准。",
-      "watch": "央视 世界杯版权 2026"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "买菜场景、老人、医美项目构成强反差，天然触发家庭代际和消费保护讨论。",
+      "key_data": "微博热搜第 54。",
+      "risk_note": "个案事实需核对当事人、商家和监管记录。",
+      "watch_keywords": [
+        "老人纹眉割眼袋",
+        "线下医美",
+        "银发消费陷阱",
+        "诱导消费"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：七旬老人买菜被拉去纹眉割眼袋",
+        "source_type": "platform_original",
+        "source_published_at": null,
+        "reason": "平台热榜证明议题传播，尚需监管事实核验。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：七旬老人买菜被拉去纹眉割眼袋",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 54,
+        "heat_score": 145698,
+        "platforms": [
+          "weibo"
+        ],
+        "reason": "银发消费陷阱进入微博热搜。"
+      }
     },
     {
-      "id": 27,
-      "issue_anchor": "比恐龙还老的植物竟然成了摇钱树",
-      "cat": "自然科普与产业化",
+      "id": "h20",
+      "issue_anchor": "村民称管道排出“牛奶水”，环保局否认偷排引发环境信任争议",
+      "short_title": "牛奶水环保争议",
+      "category": "强冲突/争议热点",
+      "category_id": 4,
       "status": "emerging",
-      "heat": 6.1,
+      "timeliness": "今日上榜",
+      "heat_score": 6.8,
       "platforms": [
-        "百度",
-        "科普媒体"
+        "微博热搜"
       ],
-      "layer": "global_culture_shift",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 4,
-      "heatScore": 5380000,
-      "why": "古老植物被商业化叙事包装，触发科普、文旅和保育之间的张力。",
-      "data": "X排行综合热榜显示约538万热度。",
-      "risk": "“摇钱树”可能是标题化表达，产业规模需核验。",
-      "watch": "古老植物 恐龙 摇钱树 科普"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": true,
+      "foreign_platform_native": false,
+      "why_rising": "“牛奶水”画面感强，环保部门否认与村民感受形成冲突。",
+      "key_data": "微博热搜第 40。",
+      "risk_note": "需等待水样检测、排污口归属和官方调查，不宜凭颜色定性。",
+      "watch_keywords": [
+        "牛奶水",
+        "环保局否认偷排",
+        "水样检测",
+        "排污口"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：村民曝管道排出牛奶水环保局否认偷排",
+        "source_type": "platform_original",
+        "source_published_at": null,
+        "reason": "热榜证明公共争议存在，尚需环保检测事实核验。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：村民曝管道排出牛奶水环保局否认偷排",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 40,
+        "heat_score": 232538,
+        "platforms": [
+          "weibo"
+        ],
+        "reason": "环境治理争议进入微博热搜。"
+      }
     },
     {
-      "id": 28,
-      "issue_anchor": "日本担心中美关系稳定自己被晾在一边",
-      "cat": "国际关系与舆论投射",
+      "id": "h21",
+      "issue_anchor": "“毕业旅行还是工作”登抖音热榜，年轻人就业节奏焦虑可视化",
+      "short_title": "毕业先旅行还是工作",
+      "category": "用户搜索热点",
+      "category_id": 2,
       "status": "rising",
-      "heat": 6.4,
+      "timeliness": "毕业季上升",
+      "heat_score": 6.7,
       "platforms": [
-        "微博",
-        "国际观察"
+        "抖音热榜"
       ],
-      "layer": "global_public_event",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 14,
-      "heatScore": 40000,
-      "why": "中美缓和叙事外溢到日本安全与经济定位焦虑。",
-      "data": "X排行微博聚合收录该词条。",
-      "risk": "媒体解读不等于日本政府政策。",
-      "watch": "日本 中美关系 稳定 被晾"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "毕业季、就业压力和自我修复需求叠加，短视频平台适合承接选择题式讨论。",
+      "key_data": "抖音热榜第 14。",
+      "risk_note": "不应把个体选择上纲成道德判断，关键是就业市场和家庭资源差异。",
+      "watch_keywords": [
+        "毕业旅行",
+        "毕业工作",
+        "应届生就业",
+        "gap选择"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "HotFlashNews 抖音热榜：毕业旅行还是直接去工作",
+        "source_type": "platform_original",
+        "source_published_at": null,
+        "reason": "短视频平台热榜证明讨论出现。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/douyin",
+        "source_title": "HotFlashNews 抖音热榜：毕业旅行还是直接去工作",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T20:32:59+08:00",
+        "rank": 14,
+        "heat_score": 9584769,
+        "platforms": [
+          "douyin"
+        ],
+        "reason": "毕业就业选择题进入抖音高位热榜。"
+      }
     },
     {
-      "id": 29,
-      "issue_anchor": "遇到和已逝亲人很像的人是什么感觉",
-      "cat": "情绪记忆与社交表达",
+      "id": "h22",
+      "issue_anchor": "西电导师“官宣跑路”登知乎，研究生培养中的权责关系被追问",
+      "short_title": "西电导师官宣跑路",
+      "category": "强冲突/争议热点",
+      "category_id": 4,
       "status": "rising",
-      "heat": 6,
+      "timeliness": "今日上榜",
+      "heat_score": 6.6,
       "platforms": [
-        "微博",
-        "小红书"
+        "知乎热榜"
       ],
-      "layer": "global_culture_shift",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 9,
-      "heatScore": 70000,
-      "why": "个人哀伤经验被平台问题化，适合评论区共情和故事接龙。",
-      "data": "X排行微博聚合显示该话题约7万热度。",
-      "risk": "情绪话题易被营销号模板化收割。",
-      "watch": "已逝亲人 很像的人 共情"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "“导师跑路”把研究生培养、课题组责任和学生权益压缩成高冲突标题。",
+      "key_data": "知乎热榜第 14。",
+      "risk_note": "高校个案需等学校与当事方说明，避免将未核事实扩散为定论。",
+      "watch_keywords": [
+        "西安电子科技大学",
+        "导师跑路",
+        "研究生培养",
+        "课题组"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "HotFlashNews 知乎热榜：西安电子科技大学导师官宣跑路",
+        "source_type": "platform_original",
+        "source_published_at": null,
+        "reason": "知乎热榜证明议题热度，尚需学校或当事方核验。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "HotFlashNews 知乎热榜：西安电子科技大学导师官宣跑路",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 14,
+        "heat_score": 17940000,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "教育治理议题进入知乎高位热榜。"
+      }
     },
     {
-      "id": 30,
-      "issue_anchor": "朱孝天上节目内涵阿信",
-      "cat": "娱乐人物公共事件",
-      "status": "rising",
-      "heat": 6.2,
-      "platforms": [
-        "微博",
-        "短视频"
-      ],
-      "layer": "cn_celebrity_public_event_b",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 7,
-      "heatScore": 70000,
-      "why": "明星言论被二次剪辑后转化为老牌偶像关系与粉丝记忆争议。",
-      "data": "X排行微博聚合显示该词约7万热度。",
-      "risk": "节目语境和剪辑片段可能影响判断。",
-      "watch": "朱孝天 阿信 节目 内涵"
-    },
-    {
-      "id": 31,
-      "issue_anchor": "美网红挑战麻酱对瓶吹引发围观",
-      "cat": "跨文化消费与短视频挑战",
+      "id": "h23",
+      "issue_anchor": "女子求职被HR暗示潜规则，招聘权力不对等再次进入公共讨论",
+      "short_title": "求职潜规则争议",
+      "category": "强冲突/争议热点",
+      "category_id": 4,
       "status": "emerging",
-      "heat": 6,
+      "timeliness": "今日上榜",
+      "heat_score": 6.5,
       "platforms": [
-        "B站",
-        "短视频",
-        "海外社媒"
+        "知乎热榜"
       ],
-      "layer": "global_culture_shift",
-      "source": "X排行热榜聚合",
-      "url": "https://www.xpaihang.com/",
-      "heatUrl": "https://www.xpaihang.com/",
-      "heatRank": 8,
-      "heatScore": 0,
-      "why": "中国调味品被海外挑战化，传播核心从饮食文化转向短视频猎奇机制。",
-      "data": "X排行综合热榜收录相关词条。",
-      "risk": "挑战内容可能存在健康风险和表演夸张。",
-      "watch": "麻酱 对瓶吹 美网红 挑战"
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "求职、性别和权力暗示构成高冲突组合，知乎适合长讨论和经历复述。",
+      "key_data": "知乎热榜第 22。",
+      "risk_note": "具体事实需核对聊天记录、公司回应和劳动监管信息。",
+      "watch_keywords": [
+        "HR潜规则",
+        "求职骚扰",
+        "招聘合规",
+        "劳动权益"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "HotFlashNews 知乎热榜：女子求职被HR暗示潜规则",
+        "source_type": "platform_original",
+        "source_published_at": null,
+        "reason": "知乎热榜证明议题传播，事实层面尚需核验。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "HotFlashNews 知乎热榜：女子求职被HR暗示潜规则",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 22,
+        "heat_score": 9940000,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "职场性别权益议题进入知乎热榜。"
+      }
+    },
+    {
+      "id": "h24",
+      "issue_anchor": "AI微短剧热度上升，低成本内容生产和平台分发继续合流",
+      "short_title": "AI微短剧",
+      "category": "行业变化热点",
+      "category_id": 3,
+      "status": "emerging",
+      "timeliness": "今日上榜",
+      "heat_score": 6.4,
+      "platforms": [
+        "微博热搜",
+        "36氪热榜"
+      ],
+      "source_bias": "国内来源主导",
+      "public_life": false,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "AI微短剧进入微博热搜，36氪热榜也出现 AI 视频和创意产业相关条目。",
+      "key_data": "微博热搜第 24；36氪热榜出现 AI 与影视/视频相关内容。",
+      "risk_note": "需区分演示热度、真实付费和版权合规。",
+      "watch_keywords": [
+        "AI微短剧",
+        "AI视频",
+        "短剧工业化",
+        "合成内容"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/36kr",
+        "source_title": "HotFlashNews 36氪热榜：AI/视频与内容产业相关条目",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T10:38:48+08:00",
+        "reason": "证明 AI 视频和内容产业议题进入科技媒体热榜。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：AI微短剧",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 24,
+        "heat_score": 313675,
+        "platforms": [
+          "weibo",
+          "36kr"
+        ],
+        "reason": "AI内容生产议题进入微博热搜。"
+      }
+    },
+    {
+      "id": "h25",
+      "issue_anchor": "北京机器狗上岗/展示，城市治理中的机器人可见度继续升高",
+      "short_title": "北京机器狗",
+      "category": "行业变化热点",
+      "category_id": 3,
+      "status": "emerging",
+      "timeliness": "今日上榜",
+      "heat_score": 6.3,
+      "platforms": [
+        "微博热搜",
+        "抖音热榜"
+      ],
+      "source_bias": "国内来源主导",
+      "public_life": false,
+      "officialish": true,
+      "foreign_platform_native": false,
+      "why_rising": "机器狗具备强视觉传播性，容易把技术应用、城市治理和安全感讨论连起来。",
+      "key_data": "微博热搜第 25；抖音热榜出现科技/城市治理类相关内容。",
+      "risk_note": "应区分演示、试点和规模化部署。",
+      "watch_keywords": [
+        "北京机器狗",
+        "机器人巡检",
+        "城市治理",
+        "公共安全科技"
+      ],
+      "fact_evidence": {
+        "fact_verified": false,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：北京机器狗",
+        "source_type": "platform_original",
+        "source_published_at": null,
+        "reason": "平台热榜证明话题传播，具体应用场景需官方或项目方补证。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：北京机器狗",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 25,
+        "heat_score": 311715,
+        "platforms": [
+          "weibo"
+        ],
+        "reason": "科技治理视觉话题进入微博热搜。"
+      }
+    },
+    {
+      "id": "h26",
+      "issue_anchor": "“为什么男的都不喜欢买衣服”登知乎，日常消费差异变成搜索型讨论",
+      "short_title": "男性买衣服讨论",
+      "category": "用户搜索热点",
+      "category_id": 2,
+      "status": "emerging",
+      "timeliness": "今日上榜",
+      "heat_score": 6.2,
+      "platforms": [
+        "知乎热榜"
+      ],
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "生活观察式标题适合知乎问答传播，背后是消费偏好、性别角色和穿搭产业差异。",
+      "key_data": "知乎热榜第 9。",
+      "risk_note": "不要把平台样本误当成普遍性社会结论。",
+      "watch_keywords": [
+        "男性买衣服",
+        "消费偏好",
+        "穿搭",
+        "性别角色"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "HotFlashNews 知乎热榜：为什么男的都不喜欢买衣服",
+        "source_type": "platform_original",
+        "source_published_at": null,
+        "reason": "平台热榜证明搜索型生活议题。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "HotFlashNews 知乎热榜：为什么男的都不喜欢买衣服",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 9,
+        "heat_score": 22230000,
+        "platforms": [
+          "zhihu"
+        ],
+        "reason": "生活消费问答进入知乎高位热榜。"
+      }
+    },
+    {
+      "id": "h27",
+      "issue_anchor": "“咬壳荔枝”与过山鲫鱼等地域/食物奇观，短视频猎奇素材进入热榜",
+      "short_title": "地域食物奇观",
+      "category": "平台流量热点",
+      "category_id": 1,
+      "status": "emerging",
+      "timeliness": "今日上榜",
+      "heat_score": 6.1,
+      "platforms": [
+        "微博热搜",
+        "百度热搜"
+      ],
+      "source_bias": "国内来源主导",
+      "public_life": true,
+      "officialish": false,
+      "foreign_platform_native": false,
+      "why_rising": "地方食材、稀奇吃法和视觉化标题符合短视频/社交平台的轻奇观分发逻辑。",
+      "key_data": "微博热搜第 8“咬壳荔枝”；百度热搜第 14“过山鲫鱼”。",
+      "risk_note": "轻热点不宜过度事实化，适合作为平台审美与地方文旅素材观察。",
+      "watch_keywords": [
+        "咬壳荔枝",
+        "过山鲫鱼",
+        "地方食物",
+        "短视频猎奇"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：咬壳荔枝",
+        "source_type": "platform_original",
+        "source_published_at": null,
+        "reason": "平台热榜证明轻奇观话题存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "HotFlashNews 微博热搜：咬壳荔枝",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T17:15:59+08:00",
+        "rank": 8,
+        "heat_score": 645383,
+        "platforms": [
+          "weibo",
+          "baidu"
+        ],
+        "reason": "地方食物奇观进入微博和百度热榜。"
+      }
+    },
+    {
+      "id": "h28",
+      "issue_anchor": "Subnautica 2 多条视频进入 YouTube Trending，游戏发行依赖创作者试玩扩散",
+      "short_title": "Subnautica 2 YouTube热",
+      "category": "平台流量热点",
+      "category_id": 1,
+      "status": "rising",
+      "timeliness": "外网今日热榜",
+      "heat_score": 6.9,
+      "platforms": [
+        "YouTube Trending"
+      ],
+      "source_bias": "海外来源主导",
+      "public_life": false,
+      "officialish": false,
+      "foreign_platform_native": true,
+      "why_rising": "同一游戏相关视频在 YouTube 美国趋势榜多次出现，说明游戏发布/试玩正在被创作者矩阵放大。",
+      "key_data": "Kworb YouTube Trending US 第 15、19、25、27 等多条 Subnautica 2 相关视频。",
+      "risk_note": "游戏内容热度可能由创作者流量驱动，不等同于销量或口碑。",
+      "watch_keywords": [
+        "Subnautica 2",
+        "YouTube Trending gaming",
+        "creator gameplay",
+        "game launch"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://kworb.net/youtube/trending/us.html",
+        "source_title": "Kworb YouTube Trending US: Subnautica 2 related videos",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-17T08:10:00-04:00",
+        "reason": "趋势页证明相关视频条目存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://kworb.net/youtube/trending/us.html",
+        "source_title": "Kworb YouTube Trending US: Subnautica 2 related videos",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-17T20:10:00+08:00",
+        "rank": 15,
+        "views": 2099156,
+        "likes": 23222,
+        "platforms": [
+          "youtube"
+        ],
+        "reason": "多条游戏视频进入 YouTube 美国趋势榜。"
+      }
+    },
+    {
+      "id": "h29",
+      "issue_anchor": "刚果埃博拉疫情被全球媒体和聚合热榜推高，公共卫生风险重回视野",
+      "short_title": "刚果埃博拉疫情",
+      "category": "行业变化热点",
+      "category_id": 3,
+      "status": "emerging",
+      "timeliness": "今日全球风险",
+      "heat_score": 6.0,
+      "platforms": [
+        "财联社热榜",
+        "Reddit新闻社区"
+      ],
+      "source_bias": "海外来源主导",
+      "public_life": false,
+      "officialish": true,
+      "foreign_platform_native": false,
+      "why_rising": "埃博拉高风险标签进入财经/全球新闻热榜，说明公共卫生风险重新被注意力系统捕捉。",
+      "key_data": "财联社热榜第 2；Reddit nofilternews 出现相关报道转发。",
+      "risk_note": "疫情类信息需以 WHO、当地卫生部门和权威媒体为准，避免恐慌传播。",
+      "watch_keywords": [
+        "DR Congo Ebola",
+        "WHO",
+        "public health emergency",
+        "Reddit news"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/cls",
+        "source_title": "HotFlashNews 财联社热榜：刚果（金）宣布埃博拉疫情进入公共卫生紧急状态",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T09:16:03+08:00",
+        "reason": "证明疫情新闻进入权威财经媒体热榜。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/cls",
+        "source_title": "HotFlashNews 财联社热榜：刚果（金）宣布埃博拉疫情进入公共卫生紧急状态",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T09:16:03+08:00",
+        "rank": 2,
+        "heat_score": 7850740,
+        "platforms": [
+          "cls",
+          "reddit"
+        ],
+        "reason": "全球公共卫生风险进入财经热榜高位。"
+      }
+    },
+    {
+      "id": "h30",
+      "issue_anchor": "海底光缆与霍尔木兹风险讨论升温，地缘冲突开始触碰数字基础设施想象",
+      "short_title": "海底光缆地缘风险",
+      "category": "行业变化热点",
+      "category_id": 3,
+      "status": "emerging",
+      "timeliness": "今日全球风险",
+      "heat_score": 5.9,
+      "platforms": [
+        "Reddit新闻社区",
+        "华尔街见闻热榜",
+        "财联社热榜"
+      ],
+      "source_bias": "海外来源主导",
+      "public_life": false,
+      "officialish": true,
+      "foreign_platform_native": false,
+      "why_rising": "海底电缆、霍尔木兹和中东局势相关内容在 Reddit 与财经热榜出现，风险叙事从能源扩展到网络基础设施。",
+      "key_data": "Reddit nofilternews 出现 CNN 海底电缆报道转发；华尔街见闻和财联社多条中东/能源风险上榜。",
+      "risk_note": "地缘冲突链条复杂，不能把单条新闻直接推演成基础设施中断。",
+      "watch_keywords": [
+        "undersea cables",
+        "Hormuz",
+        "Iran tensions",
+        "digital infrastructure"
+      ],
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.reddit.com/r/nofilternews/comments/1klb15s/cnn_undersea_cables_carry_critical_internet/",
+        "source_title": "Reddit nofilternews: CNN undersea cables carry critical internet traffic",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-17T00:00:00+00:00",
+        "reason": "证明海底电缆风险报道在 Reddit 新闻社区被转发讨论。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/wallstreetcn",
+        "source_title": "HotFlashNews 华尔街见闻热榜：中东/伊朗/霍尔木兹相关市场风险条目",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T20:37:02+08:00",
+        "rank": 1,
+        "heat_score": 6349320,
+        "platforms": [
+          "wallstreetcn",
+          "reddit",
+          "cls"
+        ],
+        "reason": "地缘与基础设施风险在财经热榜和 Reddit 新闻社区同时出现。"
+      }
     }
   ],
-  "coverage_matrix": [
+  "summary": {
+    "heat_verified_count": 30,
+    "fact_verified_count": 21,
+    "main_board_officialish_count": 2,
+    "main_board_public_life_count": 8,
+    "main_board_foreign_platform_native_count": 2,
+    "category_counts": {
+      "强冲突/争议热点": 8,
+      "真实生活问题热点": 6,
+      "用户搜索热点": 3,
+      "平台流量热点": 4,
+      "行业变化热点": 9
+    },
+    "status_counts": {
+      "breaking": 3,
+      "rising": 15,
+      "emerging": 12
+    },
+    "source_counts": {
+      "国内来源主导": 22,
+      "海外来源主导": 5,
+      "中外混合来源": 3
+    }
+  },
+  "coverage_matrix_status": [
     {
       "layer": "cn_public_event",
       "status": "completed",
       "queries": [
-        "北京警方 通报 盲人女孩 盲道 被撞 摆拍 2026 5月17",
-        "中央气象台 暴雨黄色预警 2026年5月17 官方",
-        "多地提醒市民注意降雨 非必要不外出 热榜"
+        "官方通报 调查 处理 -榜单 -排行榜 -合集 -教程 -科普",
+        "警方通报 当事人 回应 -盘点 -如何看待",
+        "事故 伤亡 救援 进展 -合集 -榜单"
       ],
-      "raw_leads": 9,
-      "valid_hotspots": 3,
-      "notes": "公共安全、警方通报和天气预警均有热榜与事实源。"
+      "raw_leads": 11,
+      "valid_hotspots": 5,
+      "notes": "覆盖景区坠亡、暴雨防汛、盲道摆拍追责、救护车捎带化肥、在建大楼外架倾斜等公共事件。"
     },
     {
       "layer": "cn_consumer_brand",
       "status": "completed",
       "queries": [
-        "当地通报 酒店床单 未一客一换 2026年5月17",
-        "苹果 华为 小米 集体官宣 降价 热搜",
-        "多款燃油车降价 降幅最大近30% 热搜"
+        "消费者 投诉 品牌 回应 -榜单 -排行榜 -合集",
+        "退款 退票 协商 -教程 -盘点",
+        "平台 规则 调整 用户 反馈 -SEO -合集"
       ],
-      "raw_leads": 8,
-      "valid_hotspots": 5,
-      "notes": "住宿、手机、汽车、宠物消费纠纷均入池。"
+      "raw_leads": 10,
+      "valid_hotspots": 6,
+      "notes": "覆盖榴莲仅退款、话费违约金、销量第一广告表述、麦辣鸡腿堡肠胃投诉、泡药杨梅、老人医美消费等。"
     },
     {
       "layer": "cn_celebrity_public_event_a",
       "status": "completed",
       "queries": [
-        "演唱会 退票 主办方 回应 2026年5月17",
-        "张雪机车 回应 捷克站夺冠",
-        "单依纯 大连演唱会 上座率"
+        "演唱会 退票 主办方 回应 -榜单 -合集 -饭圈",
+        "影视 引发 讨论 价值观 -盘点 -如何看待",
+        "运动员 回应 比赛 规则 -榜单 -合集"
       ],
-      "raw_leads": 6,
-      "valid_hotspots": 2,
-      "notes": "第一轮使用体育/演唱会关键词。"
+      "raw_leads": 8,
+      "valid_hotspots": 3,
+      "notes": "第一轮使用演唱会、影视、运动员关键词，进入卢昱晓屏摄道歉、窦靖童参赛、樊振东相关讨论。"
     },
     {
       "layer": "cn_celebrity_public_event_b",
       "status": "completed",
       "queries": [
-        "网红 道歉 退网 2026年5月17",
-        "明星 工作室 声明 票房 争议 主创 回应",
-        "朱孝天 阿信 节目 内涵"
+        "网红 道歉 退网 -榜单 -合集 -教程",
+        "明星 工作室 声明 -盘点 -饭圈",
+        "票房 争议 主创 回应 -排行榜 -合集"
       ],
-      "raw_leads": 7,
+      "raw_leads": 9,
       "valid_hotspots": 3,
-      "notes": "第二轮使用网红、明星声明、票房争议关键词，与3A不同。"
+      "notes": "第二轮与 3A 使用不同关键词，进入《给阿嬷的情书》票房、卢昱晓工作室/道歉、短剧与网红公共化话题。"
     },
     {
       "layer": "cn_workplace_education",
       "status": "completed",
       "queries": [
-        "2026届毕业生 春招 AI岗位 就业",
-        "学校 AI 政策 家长 2026",
-        "东亚小孩 放弃五件套 热搜"
+        "应届生 就业 -榜单 -排行榜 -合集",
+        "学校 家长 沟通 处理 -教程 -盘点",
+        "公司 员工 加班 政策 -SEO -合集"
       ],
-      "raw_leads": 8,
-      "valid_hotspots": 5,
-      "notes": "就业、AI教育政策、校园处分和代际情绪覆盖。"
+      "raw_leads": 7,
+      "valid_hotspots": 4,
+      "notes": "覆盖毕业先旅行还是工作、西电导师官宣跑路、求职潜规则、年轻人职业/就业选择。"
     },
     {
       "layer": "global_public_event",
       "status": "completed",
       "queries": [
-        "Thailand Bangkok train bus collision video May 17 2026",
-        "Hamas official confirms military leader killed 2026",
-        "Japan worries US China relations stabilize"
+        "breaking live updates public reaction policy -listicle -explainer",
+        "company response employees concerns -SEO -roundup",
+        "consumers pushed back pricing -top 10 -how to"
       ],
       "raw_leads": 8,
       "valid_hotspots": 4,
-      "notes": "海外事故、中东冲突、能源与日本安全叙事覆盖。"
+      "notes": "覆盖 PGA Championship、Drake 新歌、刚果埃博拉、海底电缆/地缘风险等外网公共议题。"
     },
     {
       "layer": "cn_ideology_official_agenda",
       "status": "completed",
       "queries": [
-        "特朗普 警告 台独 访华 2026",
-        "普京 5月19日至20日 访华 外交部",
-        "中美经贸磋商 初步成果 商务部 2026年5月16"
+        "总书记 寄语 青年 -榜单 -合集",
+        "政治局 会议 四稳 官方 解读 -盘点",
+        "商务部 发言人 答记者问 中美经贸磋商",
+        "新规 施行 官方 解读 -SEO"
       ],
-      "raw_leads": 10,
+      "raw_leads": 9,
       "valid_hotspots": 5,
-      "notes": "中国意识形态/官方议程已覆盖，主榜与扩展榜均有记录。"
+      "notes": "已覆盖中国意识形态/官方议程：全国助残日、中美经贸磋商、普京访华、涉台表态、四稳/官方政策叙事。"
     },
     {
       "layer": "global_celebrity_outflow",
       "status": "completed",
       "queries": [
-        "Eurovision 2026 Israel countries withdraw TikTok Reddit",
-        "T1 GEN 让一追二 2026",
-        "2026 世界杯 版权 央视 热搜"
+        "athlete response rule debate -listicle -ranking",
+        "film sparked discussion values -SEO -roundup",
+        "concert refund fans organizers -top 10 -how to"
       ],
-      "raw_leads": 6,
-      "valid_hotspots": 4,
-      "notes": "海外娱乐、电竞和体育版权外溢讨论覆盖。"
+      "raw_leads": 7,
+      "valid_hotspots": 3,
+      "notes": "外网娱乐/体育外溢覆盖 Drake、PGA Championship、Subnautica 2 游戏与 YouTube 创作者热榜。"
     },
     {
       "layer": "weibo_peak",
       "status": "completed",
       "queries": [
-        "2026年5月17日 微博 热搜 今日 热点 具体 话题",
-        "X排行 微博 热搜 特朗普警告台独 给阿嬷的情书",
-        "HotFlashNews 微博 百度 知乎 抖音 热榜"
+        "微博 热搜 峰值 今日 -榜单首页 -SEO",
+        "女游客景区坠亡 没有监控 微博 热搜",
+        "榴莲仅退款 微博 百度 抖音 复核",
+        "卢昱晓 道歉 微博 知乎 抖音 复核"
       ],
-      "raw_leads": 20,
-      "valid_hotspots": 12,
-      "notes": "使用X排行与HotFlashNews聚合做微博/百度峰值和跨平台复核。"
+      "raw_leads": 12,
+      "valid_hotspots": 7,
+      "notes": "微博峰值与百度、抖音、知乎交叉复核完成；保留跨平台重复出现的公共/生活议题。"
     },
     {
       "layer": "global_culture_shift",
       "status": "completed",
       "queries": [
-        "AI generated children content platform trust 2026",
-        "China mobile payment global tourists one phone all services",
-        "young people rejecting trend 放弃五件套"
+        "young people rejecting trend work -listicle -explainer",
+        "AI generated children content platform trust synthetic media",
+        "shift in how people approach work education 2026 rising"
       ],
-      "raw_leads": 9,
-      "valid_hotspots": 6,
-      "notes": "移动支付、AI教育、青年情绪、跨文化挑战与情绪表达覆盖。"
+      "raw_leads": 8,
+      "valid_hotspots": 4,
+      "notes": "覆盖 AI 微短剧、平台信任与合成内容、游戏发布传播、年轻人工作方式选择等全球文化/技术变化。"
     }
-  ],
-  "data_overview": {
-    "main_board_count": 10,
-    "extended_board_count": 21,
-    "evidence_items": 31,
-    "heat_verified": 31
-  }
+  ]
 }
