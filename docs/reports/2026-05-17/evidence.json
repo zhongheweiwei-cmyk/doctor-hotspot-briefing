@@ -1,0 +1,958 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T08:49:00+08:00",
+  "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
+  "coverage_matrix": [
+    {
+      "layer": "cn_public_event",
+      "status": "completed",
+      "queries": [
+        "北京警方 通报 盲人女孩 盲道 被撞 摆拍 2026 5月17",
+        "中央气象台 暴雨黄色预警 2026年5月17 官方",
+        "多地提醒市民注意降雨 非必要不外出 热榜"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 3,
+      "notes": "公共安全、警方通报和天气预警均有热榜与事实源。"
+    },
+    {
+      "layer": "cn_consumer_brand",
+      "status": "completed",
+      "queries": [
+        "当地通报 酒店床单 未一客一换 2026年5月17",
+        "苹果 华为 小米 集体官宣 降价 热搜",
+        "多款燃油车降价 降幅最大近30% 热搜"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 5,
+      "notes": "住宿、手机、汽车、宠物消费纠纷均入池。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_a",
+      "status": "completed",
+      "queries": [
+        "演唱会 退票 主办方 回应 2026年5月17",
+        "张雪机车 回应 捷克站夺冠",
+        "单依纯 大连演唱会 上座率"
+      ],
+      "raw_leads": 6,
+      "valid_hotspots": 2,
+      "notes": "第一轮使用体育/演唱会关键词。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_b",
+      "status": "completed",
+      "queries": [
+        "网红 道歉 退网 2026年5月17",
+        "明星 工作室 声明 票房 争议 主创 回应",
+        "朱孝天 阿信 节目 内涵"
+      ],
+      "raw_leads": 7,
+      "valid_hotspots": 3,
+      "notes": "第二轮使用网红、明星声明、票房争议关键词，与3A不同。"
+    },
+    {
+      "layer": "cn_workplace_education",
+      "status": "completed",
+      "queries": [
+        "2026届毕业生 春招 AI岗位 就业",
+        "学校 AI 政策 家长 2026",
+        "东亚小孩 放弃五件套 热搜"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 5,
+      "notes": "就业、AI教育政策、校园处分和代际情绪覆盖。"
+    },
+    {
+      "layer": "global_public_event",
+      "status": "completed",
+      "queries": [
+        "Thailand Bangkok train bus collision video May 17 2026",
+        "Hamas official confirms military leader killed 2026",
+        "Japan worries US China relations stabilize"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 4,
+      "notes": "海外事故、中东冲突、能源与日本安全叙事覆盖。"
+    },
+    {
+      "layer": "cn_ideology_official_agenda",
+      "status": "completed",
+      "queries": [
+        "特朗普 警告 台独 访华 2026",
+        "普京 5月19日至20日 访华 外交部",
+        "中美经贸磋商 初步成果 商务部 2026年5月16"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 5,
+      "notes": "中国意识形态/官方议程已覆盖，主榜与扩展榜均有记录。"
+    },
+    {
+      "layer": "global_celebrity_outflow",
+      "status": "completed",
+      "queries": [
+        "Eurovision 2026 Israel countries withdraw TikTok Reddit",
+        "T1 GEN 让一追二 2026",
+        "2026 世界杯 版权 央视 热搜"
+      ],
+      "raw_leads": 6,
+      "valid_hotspots": 4,
+      "notes": "海外娱乐、电竞和体育版权外溢讨论覆盖。"
+    },
+    {
+      "layer": "weibo_peak",
+      "status": "completed",
+      "queries": [
+        "2026年5月17日 微博 热搜 今日 热点 具体 话题",
+        "X排行 微博 热搜 特朗普警告台独 给阿嬷的情书",
+        "HotFlashNews 微博 百度 知乎 抖音 热榜"
+      ],
+      "raw_leads": 20,
+      "valid_hotspots": 12,
+      "notes": "使用X排行与HotFlashNews聚合做微博/百度峰值和跨平台复核。"
+    },
+    {
+      "layer": "global_culture_shift",
+      "status": "completed",
+      "queries": [
+        "AI generated children content platform trust 2026",
+        "China mobile payment global tourists one phone all services",
+        "young people rejecting trend 放弃五件套"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 6,
+      "notes": "移动支付、AI教育、青年情绪、跨文化挑战与情绪表达覆盖。"
+    }
+  ],
+  "items": [
+    {
+      "issue_anchor": "盲人女孩盲道被撞系摆拍，两人被采取刑事强制措施",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.cctv.com/2026/05/17/ARTImw3mYx6wSFhZQka1dXzQ260516.shtml",
+        "source_title": "央视网",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“盲人女孩盲道被撞系摆拍，两人被采取刑事强制措施”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 7,
+        "heat_score": 7330000,
+        "platforms": [
+          "微博",
+          "百度",
+          "抖音",
+          "网警通报"
+        ],
+        "reason": "用于证明该议题在微博、百度、抖音、网警通报等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_public_event"
+    },
+    {
+      "issue_anchor": "当地通报酒店床单未一客一换",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“当地通报酒店床单未一客一换”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 5,
+        "heat_score": 7520000,
+        "platforms": [
+          "百度",
+          "微博",
+          "本地生活平台"
+        ],
+        "reason": "用于证明该议题在百度、微博、本地生活平台等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_consumer_brand"
+    },
+    {
+      "issue_anchor": "暴雨大暴雨范围扩大，多地提醒非必要不外出",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "http://www.nmc.cn/publish/weather-bulletin/index.htm",
+        "source_title": "国家预警信息发布中心/中央气象台",
+        "source_type": "official",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“暴雨大暴雨范围扩大，多地提醒非必要不外出”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 2,
+        "heat_score": 7810000,
+        "platforms": [
+          "百度",
+          "微博",
+          "天气服务",
+          "北京本地"
+        ],
+        "reason": "用于证明该议题在百度、微博、天气服务、北京本地等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_public_event"
+    },
+    {
+      "issue_anchor": "中美经贸磋商初步成果公布",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.chnfund.com/article/989bcfdd-b5f8-646e-48c9-3a2142e2ef24",
+        "source_title": "中国基金报",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“中美经贸磋商初步成果公布”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 3,
+        "heat_score": 7710000,
+        "platforms": [
+          "百度",
+          "财联社",
+          "基金报",
+          "微博"
+        ],
+        "reason": "用于证明该议题在百度、财联社、基金报、微博等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_ideology_official_agenda"
+    },
+    {
+      "issue_anchor": "苹果、华为、小米集体官宣降价，618手机价格战提前打响",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.nbd.com.cn/articles/2026-05-15/4393851.html",
+        "source_title": "每日经济新闻",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“苹果、华为、小米集体官宣降价，618手机价格战提前打响”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 8,
+        "heat_score": 7240000,
+        "platforms": [
+          "百度",
+          "微博",
+          "电商平台",
+          "财经媒体"
+        ],
+        "reason": "用于证明该议题在百度、微博、电商平台、财经媒体等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_consumer_brand"
+    },
+    {
+      "issue_anchor": "普京将于5月19日至20日对中国进行国事访问",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.fmprc.gov.cn/web/wjdt_674879/wsrc_674883/202605/t20260516_11911696.shtml",
+        "source_title": "中华人民共和国外交部",
+        "source_type": "official",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“普京将于5月19日至20日对中国进行国事访问”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 11,
+        "heat_score": 6950000,
+        "platforms": [
+          "百度",
+          "微博",
+          "外交部",
+          "Reddit"
+        ],
+        "reason": "用于证明该议题在百度、微博、外交部、Reddit等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_ideology_official_agenda"
+    },
+    {
+      "issue_anchor": "泰国曼谷火车与公交车相撞现场视频曝光",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“泰国曼谷火车与公交车相撞现场视频曝光”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 13,
+        "heat_score": 6760000,
+        "platforms": [
+          "百度",
+          "微博",
+          "视频平台"
+        ],
+        "reason": "用于证明该议题在百度、微博、视频平台等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "global_public_event"
+    },
+    {
+      "issue_anchor": "多国宣布退出有以色列参与的欧歌赛",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“多国宣布退出有以色列参与的欧歌赛”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 6,
+        "heat_score": 4980000,
+        "platforms": [
+          "X",
+          "TikTok",
+          "Reddit",
+          "百度"
+        ],
+        "reason": "用于证明该议题在X、TikTok、Reddit、百度等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "global_celebrity_outflow"
+    },
+    {
+      "issue_anchor": "张雪机车捷克站夺冠，女性赛车话题跨圈扩散",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“张雪机车捷克站夺冠，女性赛车话题跨圈扩散”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 6,
+        "heat_score": 7430000,
+        "platforms": [
+          "百度",
+          "微博",
+          "短视频"
+        ],
+        "reason": "用于证明该议题在百度、微博、短视频等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_celebrity_public_event_a"
+    },
+    {
+      "issue_anchor": "特朗普访华后警告“台独”，台海表态登顶中文热榜",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.japantimes.co.jp/news/2026/05/16/asia-pacific/politics/us-china-taiwan-trump-independence/",
+        "source_title": "The Japan Times",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“特朗普访华后警告“台独”，台海表态登顶中文热榜”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 1,
+        "heat_score": 510000,
+        "platforms": [
+          "微博",
+          "百度",
+          "X",
+          "日本媒体"
+        ],
+        "reason": "用于证明该议题在微博、百度、X、日本媒体等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_ideology_official_agenda"
+    },
+    {
+      "issue_anchor": "中美关系新定位里的时代深意",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“中美关系新定位里的时代深意”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 1,
+        "heat_score": 7900000,
+        "platforms": [
+          "百度",
+          "财经媒体"
+        ],
+        "reason": "用于证明该议题在百度、财经媒体等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_ideology_official_agenda"
+    },
+    {
+      "issue_anchor": "“一部手机走天下”与中国式支付圈粉全球",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验““一部手机走天下”与中国式支付圈粉全球”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 4,
+        "heat_score": 7620000,
+        "platforms": [
+          "百度",
+          "微博",
+          "海外观察"
+        ],
+        "reason": "用于证明该议题在百度、微博、海外观察等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "global_culture_shift"
+    },
+    {
+      "issue_anchor": "多款燃油车降价，降幅最大近30%",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“多款燃油车降价，降幅最大近30%”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 10,
+        "heat_score": 7040000,
+        "platforms": [
+          "百度",
+          "汽车媒体"
+        ],
+        "reason": "用于证明该议题在百度、汽车媒体等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_consumer_brand"
+    },
+    {
+      "issue_anchor": "今年所有城市将开展体检",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“今年所有城市将开展体检”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 15,
+        "heat_score": 6570000,
+        "platforms": [
+          "百度",
+          "政策媒体"
+        ],
+        "reason": "用于证明该议题在百度、政策媒体等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_ideology_official_agenda"
+    },
+    {
+      "issue_anchor": "给阿嬷的情书票房与素人主演讨论",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“给阿嬷的情书票房与素人主演讨论”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 2,
+        "heat_score": 160000,
+        "platforms": [
+          "微博",
+          "豆瓣",
+          "电影票房"
+        ],
+        "reason": "用于证明该议题在微博、豆瓣、电影票房等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_celebrity_public_event_b"
+    },
+    {
+      "issue_anchor": "东亚小孩的放弃五件套走红",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“东亚小孩的放弃五件套走红”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 6,
+        "heat_score": 100000,
+        "platforms": [
+          "微博",
+          "小红书"
+        ],
+        "reason": "用于证明该议题在微博、小红书等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_workplace_education"
+    },
+    {
+      "issue_anchor": "单依纯大连演唱会上座率讨论",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“单依纯大连演唱会上座率讨论”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 12,
+        "heat_score": 40000,
+        "platforms": [
+          "微博",
+          "短视频"
+        ],
+        "reason": "用于证明该议题在微博、短视频等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_celebrity_public_event_a"
+    },
+    {
+      "issue_anchor": "T1让一追二赢GEN",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“T1让一追二赢GEN”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 7,
+        "heat_score": 0,
+        "platforms": [
+          "B站",
+          "贴吧",
+          "微博"
+        ],
+        "reason": "用于证明该议题在B站、贴吧、微博等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "global_celebrity_outflow"
+    },
+    {
+      "issue_anchor": "阿联酋退出欧佩克被解读为主权战略选择",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“阿联酋退出欧佩克被解读为主权战略选择”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 7,
+        "heat_score": 4860000,
+        "platforms": [
+          "百度",
+          "财经媒体"
+        ],
+        "reason": "用于证明该议题在百度、财经媒体等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "global_public_event"
+    },
+    {
+      "issue_anchor": "哈马斯证实军事领导人哈达德身亡",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“哈马斯证实军事领导人哈达德身亡”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 10,
+        "heat_score": 4370000,
+        "platforms": [
+          "百度",
+          "国际新闻"
+        ],
+        "reason": "用于证明该议题在百度、国际新闻等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "global_public_event"
+    },
+    {
+      "issue_anchor": "AI岗位渗透率与2026届应届生求职焦虑",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.hsw.cn/system/2026/0515/1929646.shtml",
+        "source_title": "华商网",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“AI岗位渗透率与2026届应届生求职焦虑”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 0,
+        "heat_score": 0,
+        "platforms": [
+          "微博",
+          "招聘平台",
+          "新闻客户端"
+        ],
+        "reason": "用于证明该议题在微博、招聘平台、新闻客户端等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_workplace_education"
+    },
+    {
+      "issue_anchor": "学校AI政策成为家长追问的新议题",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.ycyw-edu.com/sc/article/ycyw-educational-insights/ai-policy-is-the-floor-what-parents-should-ask-schools-in-2026-or-ycyw-education-network",
+        "source_title": "耀中耀华教育网络",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“学校AI政策成为家长追问的新议题”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 0,
+        "heat_score": 0,
+        "platforms": [
+          "教育媒体",
+          "家长社群"
+        ],
+        "reason": "用于证明该议题在教育媒体、家长社群等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "global_culture_shift"
+    },
+    {
+      "issue_anchor": "别拔，白头发或还能重新变黑",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“别拔，白头发或还能重新变黑”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 9,
+        "heat_score": 4540000,
+        "platforms": [
+          "百度",
+          "微博"
+        ],
+        "reason": "用于证明该议题在百度、微博等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_workplace_education"
+    },
+    {
+      "issue_anchor": "领养小猫丢失，小伙被索赔2万元",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“领养小猫丢失，小伙被索赔2万元”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 9,
+        "heat_score": 0,
+        "platforms": [
+          "B站",
+          "微博"
+        ],
+        "reason": "用于证明该议题在B站、微博等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_consumer_brand"
+    },
+    {
+      "issue_anchor": "郑大学生谎称虐猫被处分",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“郑大学生谎称虐猫被处分”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 11,
+        "heat_score": 0,
+        "platforms": [
+          "B站",
+          "微博"
+        ],
+        "reason": "用于证明该议题在B站、微博等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_workplace_education"
+    },
+    {
+      "issue_anchor": "央视已获得2026世界杯版权",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“央视已获得2026世界杯版权”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 14,
+        "heat_score": 0,
+        "platforms": [
+          "B站",
+          "微博",
+          "体育社区"
+        ],
+        "reason": "用于证明该议题在B站、微博、体育社区等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "global_celebrity_outflow"
+    },
+    {
+      "issue_anchor": "比恐龙还老的植物竟然成了摇钱树",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“比恐龙还老的植物竟然成了摇钱树”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 4,
+        "heat_score": 5380000,
+        "platforms": [
+          "百度",
+          "科普媒体"
+        ],
+        "reason": "用于证明该议题在百度、科普媒体等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "global_culture_shift"
+    },
+    {
+      "issue_anchor": "日本担心中美关系稳定自己被晾在一边",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“日本担心中美关系稳定自己被晾在一边”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 14,
+        "heat_score": 40000,
+        "platforms": [
+          "微博",
+          "国际观察"
+        ],
+        "reason": "用于证明该议题在微博、国际观察等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "global_public_event"
+    },
+    {
+      "issue_anchor": "遇到和已逝亲人很像的人是什么感觉",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“遇到和已逝亲人很像的人是什么感觉”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 9,
+        "heat_score": 70000,
+        "platforms": [
+          "微博",
+          "小红书"
+        ],
+        "reason": "用于证明该议题在微博、小红书等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "global_culture_shift"
+    },
+    {
+      "issue_anchor": "朱孝天上节目内涵阿信",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“朱孝天上节目内涵阿信”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 7,
+        "heat_score": 70000,
+        "platforms": [
+          "微博",
+          "短视频"
+        ],
+        "reason": "用于证明该议题在微博、短视频等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "cn_celebrity_public_event_b"
+    },
+    {
+      "issue_anchor": "美网红挑战麻酱对瓶吹引发围观",
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行热榜聚合",
+        "source_type": "media",
+        "source_published_at": "2026-05-17T08:49:00+08:00",
+        "reason": "用于核验“美网红挑战麻酱对瓶吹引发围观”的事实或报道来源。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.xpaihang.com/",
+        "source_title": "X排行/HotFlashNews 全网实时热搜聚合",
+        "source_type": "third_party_hotlist",
+        "observed_at": "2026-05-17T08:49:00+08:00",
+        "rank": 8,
+        "heat_score": 0,
+        "platforms": [
+          "B站",
+          "短视频",
+          "海外社媒"
+        ],
+        "reason": "用于证明该议题在B站、短视频、海外社媒等平台处于热榜/跨平台讨论中。"
+      },
+      "coverage_layer": "global_culture_shift"
+    }
+  ]
+}
