@@ -1,0 +1,10 @@
+{
+  "date": "2026-05-18",
+  "run_id": "073000",
+  "label": "2026-05-18 07:30:00",
+  "generated_at": "2026-05-18T07:30:00+08:00",
+  "published_at": "2026-05-18T00:41:07.986Z",
+  "total_hotspots": 28,
+  "main_board_count": 10,
+  "mode": "Claude web_search 手动模式 / 未调用 XCrawl"
+}

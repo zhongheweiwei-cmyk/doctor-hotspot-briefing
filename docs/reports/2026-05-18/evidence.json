@@ -2,8 +2,135 @@
   "date": "2026-05-18",
   "generated_at": "2026-05-18T07:30:00+08:00",
   "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
-  "total_hotspots": 28,
-  "main_board": [
+  "coverage_matrix": [
+    {
+      "layer": "cn_public_event",
+      "status": "completed",
+      "queries": [
+        "柳州 地震 5.2 官方通报 2026 5月18日",
+        "北京 城区 暴雨量级 2026 5月18日 官方 预警",
+        "赴泰考察 失联4人 疑被带至缅甸 2026 5月18日 警方 通报",
+        "皮卡坠河9人失联 驾驶员 工头儿子 2026 5月18日"
+      ],
+      "raw_leads": 18,
+      "valid_hotspots": 7,
+      "notes": "公共安全层有效，柳州地震、北京降雨、赴泰失联、皮卡坠河等有热榜和事实源。"
+    },
+    {
+      "layer": "cn_consumer_brand",
+      "status": "completed",
+      "queries": [
+        "消费者 投诉 品牌 回应 2026年5月18日 热搜",
+        "48022桌需退款 网红店 出了什么事 2026 5月18日",
+        "白嫖榴莲 仅退款 被拘7日 官方 2026 5月18日",
+        "微信状态 可看访客记录 腾讯客服 灰度测试 2026"
+      ],
+      "raw_leads": 14,
+      "valid_hotspots": 4,
+      "notes": "微信状态、游戏本命名、318文旅、消费投诉等入选；部分纯消费投诉缺平台热度降级。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_a",
+      "status": "completed",
+      "queries": [
+        "演唱会 退票 主办方 回应 热搜 2026年5月18日",
+        "电影 监狱来的妈妈 争议 回应 2026 5月18日",
+        "给阿嬷的情书 翻盘 热搜 2026 5月18日"
+      ],
+      "raw_leads": 12,
+      "valid_hotspots": 3,
+      "notes": "第一轮覆盖电影/演唱会/票房公共事件化。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_b",
+      "status": "completed",
+      "queries": [
+        "白玉兰 男主 提名 最终版 2026 热搜",
+        "网红 道歉 退网 2026年5月18日 热搜",
+        "票房 争议 主创 回应 2026年5月18日"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 3,
+      "notes": "第二轮使用白玉兰、网红、票房关键词，与3A不同。"
+    },
+    {
+      "layer": "cn_workplace_education",
+      "status": "completed",
+      "queries": [
+        "应届生 就业 热搜 2026年5月18日",
+        "北大医院 夜班费 值班费 300元 2026 热搜",
+        "西安电子科技大学 导师 官宣跑路 我跑了 2026",
+        "男子 拒绝 广州调岗 山东 被炒 获赔50万 法院 2026"
+      ],
+      "raw_leads": 13,
+      "valid_hotspots": 5,
+      "notes": "职场/教育层有效，劳动争议、医院夜班费、AI就业季、高校导师均有热度锚点。"
+    },
+    {
+      "layer": "global_public_event",
+      "status": "completed",
+      "queries": [
+        "Starbucks layoffs 2026 May 18 workers reaction trending",
+        "Trump China visit 2026 May 18 public reaction YouTube trending",
+        "stock market gold silver open sharply lower May 18 2026 New York Fed manufacturing"
+      ],
+      "raw_leads": 16,
+      "valid_hotspots": 3,
+      "notes": "海外公共事件层以星巴克裁员、特朗普访华后讨论为有效。"
+    },
+    {
+      "layer": "cn_ideology_official_agenda",
+      "status": "completed",
+      "queries": [
+        "总书记 寄语 青年 2026年5月18日 热搜",
+        "政治局 会议 四稳 2026 5月 官方 解读 热搜",
+        "商务部 发言人 答记者问 2026年5月18日 美国 关税",
+        "新规 施行 官方 解读 2026年5月18日 热搜"
+      ],
+      "raw_leads": 15,
+      "valid_hotspots": 4,
+      "notes": "层6已覆盖：普京访华、中美经贸、两高耕地新规、青年/四稳议程；主榜只保留有平台扩散的外交议题。"
+    },
+    {
+      "layer": "global_celebrity_outflow",
+      "status": "completed",
+      "queries": [
+        "athlete response rule debate May 2026 trending Reddit YouTube",
+        "Billie Eilish 3D live concert film May 2026 TikTok trending",
+        "2026 Eurovision controversy May 17 2026 public reaction Reddit",
+        "Cannes 2026 film sparked discussion values May 2026 TikTok"
+      ],
+      "raw_leads": 20,
+      "valid_hotspots": 4,
+      "notes": "海外文娱外溢层有效，Eurovision、Billie Eilish、Cannes 影响者入选。"
+    },
+    {
+      "layer": "weibo_peak",
+      "status": "completed",
+      "queries": [
+        "微博 热搜 峰值 今日 2026年5月18日 柳州地震 樊振东 男子拒绝调岗",
+        "Hot点 微博 热搜榜 2026-05-18",
+        "HotFlashNews 微博 百度 知乎 抖音 B站 2026-05-18"
+      ],
+      "raw_leads": 20,
+      "valid_hotspots": 10,
+      "notes": "使用 Hot点·热榜 06:38 和 HotFlashNews 00:02 跨平台复核。"
+    },
+    {
+      "layer": "global_culture_shift",
+      "status": "completed",
+      "queries": [
+        "young people rejecting AI slop trend 2026 TikTok May",
+        "AI generated children content platform trust synthetic media 2026",
+        "Gen Z AI slop TikTok 2026 May Reddit",
+        "2026 is the new 2016 TikTok trend"
+      ],
+      "raw_leads": 17,
+      "valid_hotspots": 4,
+      "notes": "全球文化迁移层有效，AI slop、儿童合成内容、怀旧2016趋势进入候选。"
+    }
+  ],
+  "items": [
     {
       "issue_anchor": "广西柳州柳南区 5.2 级地震及应急响应",
       "category": "公共安全与治理",
@@ -339,9 +466,7 @@
         "平台标注、溯源和推荐降权会成为下一轮监管核心。",
         "后续看平台是否把真实性认证变成新的流量门槛。"
       ]
-    }
-  ],
-  "extended_board": [
+    },
     {
       "issue_anchor": "司机 110 公里时速闭眼冲收费站",
       "category": "公共安全与治理",
@@ -842,134 +967,5 @@
       },
       "doctor_angles": []
     }
-  ],
-  "coverage_matrix": [
-    {
-      "layer": "cn_public_event",
-      "status": "completed",
-      "queries": [
-        "柳州 地震 5.2 官方通报 2026 5月18日",
-        "北京 城区 暴雨量级 2026 5月18日 官方 预警",
-        "赴泰考察 失联4人 疑被带至缅甸 2026 5月18日 警方 通报",
-        "皮卡坠河9人失联 驾驶员 工头儿子 2026 5月18日"
-      ],
-      "raw_leads": 18,
-      "valid_hotspots": 7,
-      "notes": "公共安全层有效，柳州地震、北京降雨、赴泰失联、皮卡坠河等有热榜和事实源。"
-    },
-    {
-      "layer": "cn_consumer_brand",
-      "status": "completed",
-      "queries": [
-        "消费者 投诉 品牌 回应 2026年5月18日 热搜",
-        "48022桌需退款 网红店 出了什么事 2026 5月18日",
-        "白嫖榴莲 仅退款 被拘7日 官方 2026 5月18日",
-        "微信状态 可看访客记录 腾讯客服 灰度测试 2026"
-      ],
-      "raw_leads": 14,
-      "valid_hotspots": 4,
-      "notes": "微信状态、游戏本命名、318文旅、消费投诉等入选；部分纯消费投诉缺平台热度降级。"
-    },
-    {
-      "layer": "cn_celebrity_public_event_a",
-      "status": "completed",
-      "queries": [
-        "演唱会 退票 主办方 回应 热搜 2026年5月18日",
-        "电影 监狱来的妈妈 争议 回应 2026 5月18日",
-        "给阿嬷的情书 翻盘 热搜 2026 5月18日"
-      ],
-      "raw_leads": 12,
-      "valid_hotspots": 3,
-      "notes": "第一轮覆盖电影/演唱会/票房公共事件化。"
-    },
-    {
-      "layer": "cn_celebrity_public_event_b",
-      "status": "completed",
-      "queries": [
-        "白玉兰 男主 提名 最终版 2026 热搜",
-        "网红 道歉 退网 2026年5月18日 热搜",
-        "票房 争议 主创 回应 2026年5月18日"
-      ],
-      "raw_leads": 10,
-      "valid_hotspots": 3,
-      "notes": "第二轮使用白玉兰、网红、票房关键词，与3A不同。"
-    },
-    {
-      "layer": "cn_workplace_education",
-      "status": "completed",
-      "queries": [
-        "应届生 就业 热搜 2026年5月18日",
-        "北大医院 夜班费 值班费 300元 2026 热搜",
-        "西安电子科技大学 导师 官宣跑路 我跑了 2026",
-        "男子 拒绝 广州调岗 山东 被炒 获赔50万 法院 2026"
-      ],
-      "raw_leads": 13,
-      "valid_hotspots": 5,
-      "notes": "职场/教育层有效，劳动争议、医院夜班费、AI就业季、高校导师均有热度锚点。"
-    },
-    {
-      "layer": "global_public_event",
-      "status": "completed",
-      "queries": [
-        "Starbucks layoffs 2026 May 18 workers reaction trending",
-        "Trump China visit 2026 May 18 public reaction YouTube trending",
-        "stock market gold silver open sharply lower May 18 2026 New York Fed manufacturing"
-      ],
-      "raw_leads": 16,
-      "valid_hotspots": 3,
-      "notes": "海外公共事件层以星巴克裁员、特朗普访华后讨论为有效。"
-    },
-    {
-      "layer": "cn_ideology_official_agenda",
-      "status": "completed",
-      "queries": [
-        "总书记 寄语 青年 2026年5月18日 热搜",
-        "政治局 会议 四稳 2026 5月 官方 解读 热搜",
-        "商务部 发言人 答记者问 2026年5月18日 美国 关税",
-        "新规 施行 官方 解读 2026年5月18日 热搜"
-      ],
-      "raw_leads": 15,
-      "valid_hotspots": 4,
-      "notes": "层6已覆盖：普京访华、中美经贸、两高耕地新规、青年/四稳议程；主榜只保留有平台扩散的外交议题。"
-    },
-    {
-      "layer": "global_celebrity_outflow",
-      "status": "completed",
-      "queries": [
-        "athlete response rule debate May 2026 trending Reddit YouTube",
-        "Billie Eilish 3D live concert film May 2026 TikTok trending",
-        "2026 Eurovision controversy May 17 2026 public reaction Reddit",
-        "Cannes 2026 film sparked discussion values May 2026 TikTok"
-      ],
-      "raw_leads": 20,
-      "valid_hotspots": 4,
-      "notes": "海外文娱外溢层有效，Eurovision、Billie Eilish、Cannes 影响者入选。"
-    },
-    {
-      "layer": "weibo_peak",
-      "status": "completed",
-      "queries": [
-        "微博 热搜 峰值 今日 2026年5月18日 柳州地震 樊振东 男子拒绝调岗",
-        "Hot点 微博 热搜榜 2026-05-18",
-        "HotFlashNews 微博 百度 知乎 抖音 B站 2026-05-18"
-      ],
-      "raw_leads": 20,
-      "valid_hotspots": 10,
-      "notes": "使用 Hot点·热榜 06:38 和 HotFlashNews 00:02 跨平台复核。"
-    },
-    {
-      "layer": "global_culture_shift",
-      "status": "completed",
-      "queries": [
-        "young people rejecting AI slop trend 2026 TikTok May",
-        "AI generated children content platform trust synthetic media 2026",
-        "Gen Z AI slop TikTok 2026 May Reddit",
-        "2026 is the new 2016 TikTok trend"
-      ],
-      "raw_leads": 17,
-      "valid_hotspots": 4,
-      "notes": "全球文化迁移层有效，AI slop、儿童合成内容、怀旧2016趋势进入候选。"
-    }
-  ],
-  "source_note": "WebSearch/live web search 手动收集；未调用旧报告、旧 latest、Claude App、Claude API、Coze 或 XCrawl。"
+  ]
 }
