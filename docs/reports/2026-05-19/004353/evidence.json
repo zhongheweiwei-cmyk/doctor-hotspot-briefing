@@ -1,1200 +1,7 @@
 {
   "date": "2026-05-19",
+  "generated_at": "2026-05-19T08:43:29+08:00",
   "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
-  "total_hotspots": 25,
-  "main_board": [
-    {
-      "id": "h01",
-      "issue_anchor": "柳州5.2级地震救援与震后降雨风险",
-      "board": "main",
-      "rank": 1,
-      "category": "真实生活问题热点",
-      "status": "breaking",
-      "timeliness": "今日持续发酵",
-      "score": 9.6,
-      "platform": "抖音/微博/百度/B站/澎湃/头条",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "抖音热榜前4、微博与百度多条同源热搜叠加，公共安全、救援进展、遇难者身份和震后天气同时推高关注。",
-      "key_data": "抖音：柳州地震震区未来3天有雨第1、广西柳州再发5.2级地震第4；微博：遇难夫妻、再发生地震、震后强对流等多条在榜。",
-      "risk": "灾害伤亡、失联和房屋受损数字以后续官方通报为准。",
-      "watch": "柳州地震 救援 余震 强对流 房屋受损 应急响应",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://news.china.com.cn/2026-05/18/content_118499615.html",
-        "source_title": "广西柳州5.2级地震救援：多部门启动应急响应 公路、铁路排查险情",
-        "source_type": "media",
-        "source_published_at": "2026-05-18T00:00:00+08:00",
-        "reason": "中国地震台网测定地震时间、震级、震源深度，并说明多部门应急响应。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotdian.com/p/%E6%8A%96%E9%9F%B3%E7%83%AD%E6%90%9C%E6%A6%9C",
-        "source_title": "抖音热榜：柳州地震震区未来3天有雨/广西柳州再发5.2级地震",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 1,
-        "heat_score": 11961000,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "douyin",
-          "weibo",
-          "baidu",
-          "bilibili"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": [
-        "真正的问题不是一次5.2级地震本身，而是低频灾害发生在高密度生活区时，地方救援、房屋安全评估和舆情响应能否同时启动。",
-        "公众叙事容易停留在“震感强不强”，但更该追问老旧民房、临时安置和雨天次生灾害的组合风险。",
-        "短视频平台把现场感推到最前面，能快速形成互助，也会把未核实伤亡数字和伪通报放大。",
-        "后续判断看三件事：余震监测、房屋鉴定公开程度、受灾家庭救助是否可追踪。"
-      ]
-    },
-    {
-      "id": "h02",
-      "issue_anchor": "上海交大学生用AI伪造收据私吞竞赛奖金",
-      "board": "main",
-      "rank": 2,
-      "category": "强冲突/争议热点",
-      "status": "rising",
-      "timeliness": "昨夜至今高位发酵",
-      "score": 9.4,
-      "platform": "知乎/贴吧/微博/百度",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "知乎热榜第1、贴吧热议第1、微博和百度同步在榜，把高校诚信、AI造假、竞赛奖金分配和入党资格合并成一个高冲突议题。",
-      "key_data": "知乎第1、贴吧第1、微博第11、百度第14。",
-      "risk": "处分细节以学院和学校正式通报为准，避免把个案泛化为群体标签。",
-      "watch": "上海交大 樊同学 AI伪造收据 竞赛奖金 严重警告",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://finance.sina.com.cn/tech/roll/2026-05-18/doc-inhyimem8079543.shtml",
-        "source_title": "上海交大一学生用AI伪造收据 私吞竞赛奖金 校方通报：严重警告",
-        "source_type": "media",
-        "source_published_at": "2026-05-18T18:57:00+08:00",
-        "reason": "转述校方对奖金分配失信违规和处分结果的通报。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/zhihu",
-        "source_title": "知乎热搜：如何评价上海交大通报给予樊同学严重警告处分？",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 1,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "zhihu",
-          "tieba",
-          "weibo",
-          "baidu"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": [
-        "这不是“一个学生贪小钱”的小道德故事，而是低成本生成式造假进入校园治理后的第一批制度样本。",
-        "公众把怒气集中在个人品德上，可能忽略竞赛奖金发放、队内知情权和学院审核链条为什么给了造假空间。",
-        "AI在这里不是决定性动机，而是降低伪造门槛的工具，学校要管的是凭证验证流程。",
-        "观察后续是否形成可复用的高校竞赛财务公开规则，而不是只靠一次处分平息舆论。"
-      ]
-    },
-    {
-      "id": "h03",
-      "issue_anchor": "武汉大学取消预约入校后食堂爆满与游客爬树",
-      "board": "main",
-      "rank": 3,
-      "category": "真实生活问题热点",
-      "status": "rising",
-      "timeliness": "5月18日起扩散",
-      "score": 9.0,
-      "platform": "知乎/澎湃/贴吧/海外中文媒体",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "知乎把“校园开放与教学生活秩序”推上热榜，澎湃和海外中文媒体补足现场事实，公共空间边界引发学生、游客、学校三方冲突。",
-      "key_data": "知乎第33；澎湃热榜第14；贴吧第15。",
-      "risk": "现场拥挤程度可能随周末/研学团波动，不宜把极端时段当成全年常态。",
-      "watch": "武汉大学 取消预约 食堂 游客爬树 校园开放",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://m.thepaper.cn/newsDetail_forward_33192467",
-        "source_title": "武大取消预约入校后食堂爆满，游客爬树拍照",
-        "source_type": "media",
-        "source_published_at": "2026-05-18T13:04:00+08:00",
-        "reason": "说明武大取消预约、周末客流激增、食堂爆满和游客行为争议。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/zhihu",
-        "source_title": "知乎热搜：武汉大学取消预约入校后，如何调和校园开放与教学生活秩序间的冲突？",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 20,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "zhihu",
-          "thepaper",
-          "tieba"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": [
-        "大学开放不是单纯的“让不让进”，而是公共资源、学生权益和城市旅游流量之间的容量管理问题。",
-        "舆论容易在“学生小气”和“游客没素质”之间对骂，真正缺口是食堂、教学楼、宿舍区的分区规则。",
-        "名校被短视频旅游化后，校园会从学习空间变成可消费景点，学校治理要承认这个新事实。",
-        "后续看武大是否给出精细化时段、区域和师生优先规则，而不是重新回到一刀切预约。"
-      ]
-    },
-    {
-      "id": "h04",
-      "issue_anchor": "“泡药杨梅”曝光后直播间退款与产地信任危机",
-      "board": "main",
-      "rank": 4,
-      "category": "强冲突/争议热点",
-      "status": "rising",
-      "timeliness": "近48小时继续发酵",
-      "score": 8.9,
-      "platform": "头条/百度/新浪/直播电商",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "头条把“药水杨梅”置于榜首，直播间弹幕、退款和市场检查把食品安全从单点曝光推成产地品牌危机。",
-      "key_data": "头条第1“药水杨梅砸掉的不只是产地招牌”；头条第35“老板自曝中招问题杨梅退一赔三”。",
-      "risk": "具体添加剂、批次和流向需以市场监管部门调查为准。",
-      "watch": "泡药杨梅 漳州 收购点 退款 退一赔三 市场监管",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://finance.sina.com.cn/wm/2026-05-18/doc-inhyirni7990432.shtml",
-        "source_title": "“泡药杨梅”被曝光，收购点工人：不能吃，我们自己都不吃！官方已启动整治",
-        "source_type": "media",
-        "source_published_at": "2026-05-18T20:06:00+08:00",
-        "reason": "说明曝光内容、涉事收购点与官方整治动作。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/toutiao",
-        "source_title": "头条热榜：“药水杨梅”砸掉的不只是产地招牌",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 1,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "toutiao",
-          "baidu"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": [
-        "食品安全舆情的核心不是某个摊点坏，而是直播电商、产地批发和平台退款能否形成可追溯链条。",
-        "公众最容易要求“严惩商家”，但更关键的是抽检时点、批次流向和跨区域销售责任怎么分配。",
-        "短视频直播间把信任建立得很快，也会在一次曝光后让整个产区共同承受惩罚。",
-        "后续看监管是否公布批次、检测项目和召回范围，否则消费者只会转向无差别恐慌。"
-      ]
-    },
-    {
-      "id": "h05",
-      "issue_anchor": "洁丽雅“毛巾少爷”家族风波与品牌报案",
-      "board": "main",
-      "rank": 5,
-      "category": "强冲突/争议热点",
-      "status": "rising",
-      "timeliness": "5月18日晚继续扩散",
-      "score": 8.7,
-      "platform": "抖音/微博/百度/头条",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "抖音热榜第19、微博多条“毛巾少爷/洁丽雅”热搜、百度和头条跟进，使家族叙事、人设营销、品牌商标和报案声明叠加。",
-      "key_data": "抖音第19；微博“毛巾少爷发声”“洁丽雅陷豪门狗血危机”等在榜；百度“商标被驳回”第39。",
-      "risk": "亲属关系传言和私生活细节需以当事公司声明、司法或警方信息为准。",
-      "watch": "洁丽雅 毛巾少爷 报案 商标 家族企业 去二叔化",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://finance.sina.com.cn/jjxw/2026-05-18/doc-inhyirnf2782607.shtml",
-        "source_title": "洁丽雅陷“豪门狗血”风波，公司深夜紧急声明：已报案",
-        "source_type": "media",
-        "source_published_at": "2026-05-18T21:24:00+08:00",
-        "reason": "说明公司声明、报案和对网传内容的回应。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotdian.com/p/%E6%8A%96%E9%9F%B3%E7%83%AD%E6%90%9C%E6%A6%9C",
-        "source_title": "抖音热榜：洁丽雅发声明回应近期风波",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 19,
-        "heat_score": 8781000,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "douyin",
-          "weibo",
-          "baidu",
-          "toutiao"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": [
-        "这不是普通八卦，而是家族企业把“继承人短视频人设”当品牌资产后，私域叙事反噬公域品牌的案例。",
-        "公众以吃瓜方式追逐亲属关系，企业真正要面对的是治理透明度和代际接班叙事能否被商业化消费。",
-        "品牌报案可以压制谣言，但不能替代清晰的信息披露；越模糊越会被二创和直播间继续加工。",
-        "观察点是销售转化、商标布局和账号内容是否从家族梗转向产品本身。"
-      ]
-    },
-    {
-      "id": "h06",
-      "issue_anchor": "豆包被网友拿去预约餐厅，AI代理开始碰到线下服务边界",
-      "board": "main",
-      "rank": 6,
-      "category": "行业变化热点",
-      "status": "emerging",
-      "timeliness": "今日平台热搜新梗",
-      "score": 8.5,
-      "platform": "微博/贴吧",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "微博热搜第8“真有人在豆包预约餐厅”和贴吧第13“豆包预约饭店遭店员阴阳”显示，AI助手正在从问答进入代办生活服务。",
-      "key_data": "微博第8；贴吧第13。",
-      "risk": "具体店员回应和单个体验需视作个案，不能直接代表产品稳定能力。",
-      "watch": "豆包 预约餐厅 AI代理 生活服务 店员回应",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://hotflashnews.com/platform/weibo",
-        "source_title": "微博热搜：真有人在豆包预约餐厅",
-        "source_type": "platform_original",
-        "source_published_at": "2026-05-19T08:35:31+08:00",
-        "reason": "平台热搜证明议题存在并正在传播。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/weibo",
-        "source_title": "微博热搜：真有人在豆包预约餐厅",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 8,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "weibo",
-          "tieba"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": [
-        "AI代理的关键问题不是能不能打电话，而是它代表谁、如何确认授权、失败责任由谁承担。",
-        "公众会把它当新鲜梗看，但线下商家面对的是陌生机器声音、预约真实性和爽约成本。",
-        "平台若要把AI从聊天推向行动，必须设计身份披露、确认回执和争议处理。",
-        "观察下一步是否出现餐饮、酒店、挂号等高频低风险场景的标准接口。"
-      ]
-    },
-    {
-      "id": "h07",
-      "issue_anchor": "《给阿嬷的情书》破5亿，方言小成本片反向占领排片",
-      "board": "main",
-      "rank": 7,
-      "category": "平台流量热点",
-      "status": "rising",
-      "timeliness": "5月17-19持续扩散",
-      "score": 8.4,
-      "platform": "抖音/微博/B站/豆瓣/头条",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "影片票房突破5亿后，抖音、B站、微博围绕方言、亲情、未公开片段、主创访谈和票房预测形成二次传播。",
-      "key_data": "抖音第18、21、46、49均与影片相关；B站第5、48；微博第53、66。",
-      "risk": "票房预测与口碑分数会随排片和平台评分变化。",
-      "watch": "给阿嬷的情书 票房 方言片 潮汕 低成本 口碑",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://finance.sina.com.cn/wm/2026-05-18/doc-inhyiewh3917921.shtml",
-        "source_title": "《给阿嬷的情书》票房突破5亿元",
-        "source_type": "media",
-        "source_published_at": "2026-05-18T00:00:00+08:00",
-        "reason": "说明影片票房突破5亿元及纪录。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotdian.com/p/%E6%8A%96%E9%9F%B3%E7%83%AD%E6%90%9C%E6%A6%9C",
-        "source_title": "抖音热榜：人民锐评阿嬷走红和ENEMY破圈/阿嬷的情书15亿票房预测从何而来",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 18,
-        "heat_score": 9117000,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "douyin",
-          "weibo",
-          "bilibili",
-          "douban"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": [
-        "这部片的意义不只是“黑马”，而是院线长期低估方言、地域记忆和中老年情感市场。",
-        "公众容易把成功归因于真诚，但要追问的是短视频口碑如何反过来改变排片权力。",
-        "小成本片爆发会诱导大量仿制，真正稀缺的是地方经验的具体性，而不是“哭点公式”。",
-        "后续看全国下沉市场、海外华人圈和方言内容供应是否被系统性重估。"
-      ]
-    },
-    {
-      "id": "h08",
-      "issue_anchor": "Eurovision 2026 保加利亚夺冠，DARA 与 Bangaranga 跨平台刷屏",
-      "board": "main",
-      "rank": 8,
-      "category": "平台流量热点",
-      "status": "rising",
-      "timeliness": "近48小时海外高热",
-      "score": 8.8,
-      "platform": "YouTube/Reddit/Google/X",
-      "platform_native": true,
-      "foreign_native": true,
-      "officialish": false,
-      "china_relevance": "global",
-      "why_rising": "Tube Trending 显示 Eurovision Grand Final 直播 48小时内约960万观看，Reddit Eurovision 获数千赞并持续讨论评审和流行文化外溢。",
-      "key_data": "Tube Trending #1：9.6M views、145.2K likes；Reddit Eurovision winner thread 约3705 upvotes。",
-      "risk": "观看数来自第三方 YouTube 数据聚合，可能与平台后台有差异。",
-      "watch": "Eurovision 2026 Dara Bangaranga Bulgaria YouTube Reddit",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://apnews.com/article/9798646a3ba5d4b21321b19decaf607c",
-        "source_title": "Bulgaria wins the 70th Eurovision Song Contest with upbeat party anthem 'Bangaranga'",
-        "source_type": "wire",
-        "source_published_at": "2026-05-16T04:01:39+00:00",
-        "reason": "AP确认保加利亚歌手Dara赢得第70届Eurovision。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://www.tubetrending.com/",
-        "source_title": "Tube Trending：Eurovision Song Contest 2026 - Grand Final",
-        "source_type": "platform_metric",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 1,
-        "heat_score": null,
-        "views": 9600000,
-        "likes": 145200,
-        "comments": null,
-        "platforms": [
-          "youtube",
-          "reddit",
-          "x",
-          "google_trends"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": [
-        "Eurovision的流量价值不只是音乐比赛，而是欧洲身份、粉丝动员和短视频剪辑文化的年度压力测试。",
-        "保加利亚首冠让“边缘国家逆袭”的叙事获得天然传播力，平台会奖励这种可剪辑、可站队的情绪。",
-        "Reddit讨论集中在评审、公平和审美差异，说明全球娱乐共识正在被社群化解释。",
-        "对中国内容出海的启发不是模仿舞台，而是理解区域身份如何被包装成全球可读的情绪。"
-      ]
-    },
-    {
-      "id": "h09",
-      "issue_anchor": "UAE核电站遭无人机袭击与美伊冲突再升温",
-      "board": "main",
-      "rank": 9,
-      "category": "强冲突/争议热点",
-      "status": "breaking",
-      "timeliness": "近48小时国际事件",
-      "score": 8.6,
-      "platform": "YouTube/Google/X/国际媒体",
-      "platform_native": true,
-      "foreign_native": true,
-      "officialish": true,
-      "china_relevance": "global",
-      "why_rising": "Fox News相关视频进入Tube Trending新闻类高位，Google趋势中以色列、伊朗、核设施等搜索延续，AP/Axios/PBS提供事实核验。",
-      "key_data": "Tube Trending #9：Fox News视频约1.5M views；Axios/AP/PBS同步报道。",
-      "risk": "战时信息高度不稳定，责任归属、损毁程度和后续军事行动需以多方官方与IAEA信息交叉核验。",
-      "watch": "UAE nuclear plant drone strike Iran Trump IAEA Barakah",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://apnews.com/article/71e7e58f45193b7dee3df28740532a7b",
-        "source_title": "Drone strikes UAE nuclear plant as US and Iran signal they are prepared to resume war",
-        "source_type": "wire",
-        "source_published_at": "2026-05-17T10:34:19+00:00",
-        "reason": "AP报道无人机袭击UAE核电站并引发火情。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://www.tubetrending.com/",
-        "source_title": "Tube Trending：Drone strikes generator at nuclear power plant in UAE",
-        "source_type": "platform_metric",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 9,
-        "heat_score": null,
-        "views": 1500000,
-        "likes": 12600,
-        "comments": null,
-        "platforms": [
-          "youtube",
-          "google_trends",
-          "x"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": [
-        "这个事件的结构问题不是一次袭击，而是核基础设施成为地区冲突传播和威慑的符号目标。",
-        "公众会把它理解成“战争升级”，但更该拆开看：实际损害、核安全冗余、市场油价和外交谈判四条线。",
-        "YouTube新闻视频高热说明海外平台在危机中仍承担第一信息入口，但也会奖励惊悚标题。",
-        "后续判断看IAEA、UAE国防部门、伊朗方面和美方谈判表述是否互相印证。"
-      ]
-    },
-    {
-      "id": "h10",
-      "issue_anchor": "The Boys 最终季大结局预告与粉丝剧透文化",
-      "board": "main",
-      "rank": 10,
-      "category": "平台流量热点",
-      "status": "emerging",
-      "timeliness": "大结局前升温",
-      "score": 8.1,
-      "platform": "YouTube/Reddit/TikTok/影视媒体",
-      "platform_native": true,
-      "foreign_native": true,
-      "officialish": false,
-      "china_relevance": "global",
-      "why_rising": "Tube Trending 中 The Boys finale trailer 进入48小时热视频，Reddit围绕未播场景和泄露信息讨论，形成“结局前集体解谜”。",
-      "key_data": "Tube Trending #11：约1.4M views、37.8K likes；Reddit TheBoys finale 讨论贴持续发酵。",
-      "risk": "剧透与泄露信息未必可靠，正式剧情以Prime Video播出为准。",
-      "watch": "The Boys season 5 episode 8 finale trailer leaks Blood and Bone",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.gamesradar.com/entertainment/superhero-shows/after-the-boys-season-5s-penultimate-episode-fans-are-wondering-how-the-show-will-be-able-to-wrap-up-in-the-65-minute-finale/",
-        "source_title": "After The Boys season 5 penultimate episode, fans wonder how finale wraps up",
-        "source_type": "media",
-        "source_published_at": "2026-05-13T12:17:13+00:00",
-        "reason": "说明最终集时长与粉丝围绕结局的讨论。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://www.tubetrending.com/",
-        "source_title": "Tube Trending：The Boys Season 5 Episode 8 Series Finale Trailer",
-        "source_type": "platform_metric",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 11,
-        "heat_score": null,
-        "views": 1400000,
-        "likes": 37800,
-        "comments": null,
-        "platforms": [
-          "youtube",
-          "reddit",
-          "tiktok"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": [
-        "流媒体剧集的结局已经不是单次播出，而是预告、泄露、二创、Reddit考据共同组成的参与式消费。",
-        "平台奖励“我比官方更早知道”的信息竞争，剧透文化会同时增加热度和破坏观看体验。",
-        "超级英雄讽刺剧的政治隐喻被粉丝拆成站队素材，说明娱乐内容正在承担公共情绪排泄功能。",
-        "观察大结局播出后，平台讨论会转向文本评价还是继续停留在泄露真假。"
-      ]
-    }
-  ],
-  "extended_board": [
-    {
-      "id": "h11",
-      "issue_anchor": "湖北荆州极端强降雨“五停”与城市内涝",
-      "board": "extended",
-      "rank": 11,
-      "category": "真实生活问题热点",
-      "status": "breaking",
-      "timeliness": "今日/近48小时",
-      "score": 8.0,
-      "platform": "B站/抖音/头条/湖北日报",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "公共安全高风险，以湖北日报和荆州通告核验。",
-      "key_data": "B站第3，抖音第9/17，头条第18/59。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "湖北荆州极端强降雨五停与城市内涝",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://news.hubeidaily.net/pc/c_5518334.html",
-        "source_title": "暴雨来了别出门，荆州今日停产、停业、停课、停运、停工",
-        "source_type": "media",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/bilibili",
-        "source_title": "B站热搜：北方湖南湖北暴雨破记录",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 3,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "b站",
-          "抖音",
-          "头条",
-          "湖北日报"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h12",
-      "issue_anchor": "武汉一村庄585人中62人患癌疑云",
-      "board": "extended",
-      "rank": 12,
-      "category": "强冲突/争议热点",
-      "status": "rising",
-      "timeliness": "今日/近48小时",
-      "score": 7.9,
-      "platform": "微博/B站/头条",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "健康与环境高风险，需等待官方检测和调查，主榜降级。",
-      "key_data": "微博第17/27/38，B站第4，头条第21。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "武汉一村庄585人中62人患癌疑云",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.sohu.com/a/1024329917_120094090",
-        "source_title": "武汉一村庄585人62人患癌 村民质疑污水所致",
-        "source_type": "media",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/weibo",
-        "source_title": "微博热搜：全村62人患癌多名村民发声",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 12,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "微博",
-          "b站",
-          "头条"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h13",
-      "issue_anchor": "天津高空跳伞项目事故2人遇难",
-      "board": "extended",
-      "rank": 13,
-      "category": "真实生活问题热点",
-      "status": "rising",
-      "timeliness": "今日/近48小时",
-      "score": 7.8,
-      "platform": "百度/头条/澎湃",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "事实强、平台活人气相对弱，扩展观察。",
-      "key_data": "百度第12，头条第23。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "天津高空跳伞项目事故2人遇难",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.thepaper.cn/newsDetail_forward_33194069",
-        "source_title": "天津滨海新区高空跳伞发生事故，多方回应",
-        "source_type": "media",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/baidu",
-        "source_title": "百度热搜：天津高空跳伞基地发生事故 两人遇难",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 8,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "百度",
-          "头条",
-          "澎湃"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h14",
-      "issue_anchor": "成都甜品店熊猫摆件被索赔10万元",
-      "board": "extended",
-      "rank": 14,
-      "category": "强冲突/争议热点",
-      "status": "rising",
-      "timeliness": "今日/近48小时",
-      "score": 7.6,
-      "platform": "百度/凤凰/地方媒体",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "消费场景中的IP授权边界。",
-      "key_data": "百度第2。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "成都甜品店熊猫摆件被索赔10万元",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://news.china.com/socialgd/10000169/20260518/49500602.html",
-        "source_title": "店主花2千网购熊猫摆件 被索赔10万 律师详解",
-        "source_type": "media",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/baidu",
-        "source_title": "百度热搜：店主花2千网购熊猫摆件 被索赔10万",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 2,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "百度",
-          "凤凰",
-          "地方媒体"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h15",
-      "issue_anchor": "12306试点“自行车随身行”88元一辆",
-      "board": "extended",
-      "rank": 15,
-      "category": "行业变化热点",
-      "status": "emerging",
-      "timeliness": "今日/近48小时",
-      "score": 7.5,
-      "platform": "百度/中国铁路",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "官方服务变化，平台热度中等。",
-      "key_data": "百度第33。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "12306试点自行车随身行88元一辆",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://dzrb.dzng.com/general/0/NEWS3387331QOUYXDTAAVCDD",
-        "source_title": "12306上线自行车随身行服务：88元1辆",
-        "source_type": "media",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/baidu",
-        "source_title": "百度热搜：12306上线自行车随身行：88元1辆",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 18,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "百度",
-          "中国铁路"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h16",
-      "issue_anchor": "预制菜已经进化到办展会",
-      "board": "extended",
-      "rank": 16,
-      "category": "行业变化热点",
-      "status": "emerging",
-      "timeliness": "今日/近48小时",
-      "score": 7.4,
-      "platform": "微博/B站",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "供应链议题热度强，事实源以平台原始热搜为主。",
-      "key_data": "微博第5，B站第59。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "预制菜已经进化到办展会",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://hotflashnews.com/platform/weibo",
-        "source_title": "微博热搜：预制菜已经进化到开展会了",
-        "source_type": "platform_original",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/weibo",
-        "source_title": "微博热搜：预制菜已经进化到开展会了",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 5,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "微博",
-          "b站"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h17",
-      "issue_anchor": "“感觉AI治好了我多年的老花眼”与AI视觉辅助热梗",
-      "board": "extended",
-      "rank": 17,
-      "category": "用户搜索热点",
-      "status": "emerging",
-      "timeliness": "今日/近48小时",
-      "score": 7.3,
-      "platform": "微博",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "低风险平台体验梗，可观察是否转化为真实适老产品需求。",
-      "key_data": "微博第7。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "感觉AI治好了我多年的老花眼与AI视觉辅助热梗",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://hotflashnews.com/platform/weibo",
-        "source_title": "微博热搜：感觉AI治好了我多年的老花眼",
-        "source_type": "platform_original",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/weibo",
-        "source_title": "微博热搜：感觉AI治好了我多年的老花眼",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 7,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "微博"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h18",
-      "issue_anchor": "贴吧热议“AI恶意P图白嫖，卖家哭晕”",
-      "board": "extended",
-      "rank": 18,
-      "category": "强冲突/争议热点",
-      "status": "emerging",
-      "timeliness": "今日/近48小时",
-      "score": 7.2,
-      "platform": "贴吧",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "平台争议强，事实细节不足，趋势源降级。",
-      "key_data": "贴吧第2。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "贴吧热议AI恶意P图白嫖 卖家哭晕",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://hotflashnews.com/platform/tieba",
-        "source_title": "贴吧热议：AI恶意P图白嫖,卖家哭晕",
-        "source_type": "platform_original",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/tieba",
-        "source_title": "贴吧热议：AI恶意P图白嫖,卖家哭晕",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 2,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "贴吧"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h19",
-      "issue_anchor": "“娜塔莎”娃娃爆火被批暴力擦边",
-      "board": "extended",
-      "rank": 19,
-      "category": "强冲突/争议热点",
-      "status": "rising",
-      "timeliness": "今日/近48小时",
-      "score": 7.0,
-      "platform": "百度/微博",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "文化产品与未成年人模仿风险，事实源不足，扩展观察。",
-      "key_data": "百度第13，微博第64。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "娜塔莎娃娃爆火被批暴力擦边",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://hotflashnews.com/platform/baidu",
-        "source_title": "百度热搜：“娜塔莎”娃娃爆火 被批暴力擦边",
-        "source_type": "platform_original",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/baidu",
-        "source_title": "百度热搜：“娜塔莎”娃娃爆火 被批暴力擦边",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 8,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "百度",
-          "微博"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h20",
-      "issue_anchor": "清华大学5天内3名博士被退学引发研究生分流讨论",
-      "board": "extended",
-      "rank": 20,
-      "category": "用户搜索热点",
-      "status": "rising",
-      "timeliness": "今日/近48小时",
-      "score": 6.9,
-      "platform": "百度/新浪",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "教育制度事实强，平台活人气中等。",
-      "key_data": "百度第23。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "清华大学5天内3名博士被退学引发研究生分流讨论",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://finance.sina.com.cn/wm/2026-05-18/doc-inhyhyqr8140551.shtml",
-        "source_title": "宋同学、葛同学、张同学，3名博士生被清华大学退学",
-        "source_type": "media",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/baidu",
-        "source_title": "百度热搜：清华大学5天内3名博士被退学",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 14,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "百度",
-          "新浪"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h21",
-      "issue_anchor": "杭州大模型宠物翻译神器被问是真突破还是智商税",
-      "board": "extended",
-      "rank": 21,
-      "category": "行业变化热点",
-      "status": "emerging",
-      "timeliness": "今日/近48小时",
-      "score": 6.8,
-      "platform": "知乎",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "新消费AI产品，需等待第三方验证。",
-      "key_data": "知乎第26。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "杭州大模型宠物翻译神器被问是真突破还是智商税",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://hotflashnews.com/platform/zhihu",
-        "source_title": "知乎热搜：杭州公司推宠物翻译神器，大模型+超500万条声纹数据，号称准确率94%",
-        "source_type": "platform_original",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/zhihu",
-        "source_title": "知乎热搜：杭州公司推宠物翻译神器",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 16,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "知乎"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h22",
-      "issue_anchor": "美债收益率破5%与全球债市搜索升温",
-      "board": "extended",
-      "rank": 22,
-      "category": "行业变化热点",
-      "status": "rising",
-      "timeliness": "今日/近48小时",
-      "score": 6.7,
-      "platform": "Google Trends/B站/华尔街见闻",
-      "platform_native": true,
-      "foreign_native": true,
-      "officialish": false,
-      "china_relevance": "global",
-      "why_rising": "财经高风险，扩展榜提示需看实时市场数据。",
-      "key_data": "Google Trends “10 year treasury yield”第3，B站第8。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "美债收益率破5%与全球债市搜索升温",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://hotflashnews.com/platform/wallstreetcn",
-        "source_title": "华尔街见闻热榜：高温触发电网紧急警报、全球债市与收益率相关议题",
-        "source_type": "platform_original",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://us.trend-calendar.com/trend/2025-05-19.html",
-        "source_title": "Google Trending Searches: 10 year treasury yield",
-        "source_type": "platform_metric",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 3,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "google",
-          "b站",
-          "华尔街见闻"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h23",
-      "issue_anchor": "SpaceX若上市估值与全球资本想象升温",
-      "board": "extended",
-      "rank": 23,
-      "category": "行业变化热点",
-      "status": "emerging",
-      "timeliness": "今日/近48小时",
-      "score": 6.6,
-      "platform": "头条/华尔街见闻",
-      "platform_native": true,
-      "foreign_native": false,
-      "officialish": false,
-      "china_relevance": "domestic",
-      "why_rising": "市场想象强于确定事实，扩展观察。",
-      "key_data": "头条第45，华尔街见闻第24。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "SpaceX若上市估值与全球资本想象升温",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://hotflashnews.com/platform/wallstreetcn",
-        "source_title": "华尔街见闻：SpaceX若上市估值约1.5万亿美元相关消息",
-        "source_type": "platform_original",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://hotflashnews.com/platform/toutiao",
-        "source_title": "头条热榜：SpaceX若上市对全球市场有何影响",
-        "source_type": "platform_hotlist",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 22,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "头条",
-          "华尔街见闻"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h24",
-      "issue_anchor": "Markiplier“Iron Lung在哪里”视频引发创作者项目进度讨论",
-      "board": "extended",
-      "rank": 24,
-      "category": "平台流量热点",
-      "status": "emerging",
-      "timeliness": "今日/近48小时",
-      "score": 6.4,
-      "platform": "YouTube",
-      "platform_native": true,
-      "foreign_native": true,
-      "officialish": false,
-      "china_relevance": "global",
-      "why_rising": "海外创作者项目透明度议题，平台原生强。",
-      "key_data": "Tube Trending第6，约2.0M views、208.4K likes。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "MarkiplierIron Lung在哪里视频引发创作者项目进度讨论",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://en.wikipedia.org/wiki/Iron_Lung_%28film%29",
-        "source_title": "Iron Lung film background",
-        "source_type": "media",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://www.tubetrending.com/",
-        "source_title": "Tube Trending：Where the hell is Iron Lung...?",
-        "source_type": "platform_metric",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 6,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "youtube"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    },
-    {
-      "id": "h25",
-      "issue_anchor": "Brawl Stars Championship 2026 热门电竞直播",
-      "board": "extended",
-      "rank": 25,
-      "category": "游戏/场景/解法热点",
-      "status": "emerging",
-      "timeliness": "今日/近48小时",
-      "score": 6.3,
-      "platform": "YouTube",
-      "platform_native": true,
-      "foreign_native": true,
-      "officialish": false,
-      "china_relevance": "global",
-      "why_rising": "电竞直播热度明确，但博士公共议题价值弱于主榜。",
-      "key_data": "Tube Trending第10，约1.4M views、22.1K likes。",
-      "risk": "扩展榜条目，事实和热度仍需按后续平台/官方更新复核。",
-      "watch": "Brawl Stars Championship 2026 热门电竞直播",
-      "fact_evidence": {
-        "fact_verified": true,
-        "source_url": "https://www.tubetrending.com/",
-        "source_title": "Tube Trending：Brawl Stars Championship 2026 | Brawl Cup | Day 3",
-        "source_type": "platform_original",
-        "source_published_at": "2026-05-18T12:00:00+08:00",
-        "reason": "证明议题事实、背景或平台原始存在。"
-      },
-      "heat_evidence": {
-        "heat_verified": true,
-        "source_url": "https://www.tubetrending.com/",
-        "source_title": "Tube Trending：Brawl Stars Championship 2026 | Brawl Cup | Day 3",
-        "source_type": "platform_metric",
-        "observed_at": "2026-05-19T08:35:31+08:00",
-        "rank": 10,
-        "heat_score": null,
-        "views": null,
-        "likes": null,
-        "comments": null,
-        "platforms": [
-          "youtube"
-        ],
-        "reason": "证明议题在当日热榜或平台指标中升温。"
-      },
-      "angles": []
-    }
-  ],
   "coverage_matrix": [
     {
       "layer": "cn_public_event",
@@ -1318,41 +125,895 @@
       "notes": "全球文化技术变化层命中 AI代理生活服务、AI就业季、Markiplier/Iron Lung、Eurovision跨平台传播、The Boys粉丝剧透文化。"
     }
   ],
-  "data_overview": {
-    "main_count": 10,
-    "extended_count": 15,
-    "platform_native_main": 10,
-    "foreign_platform_native_main": 3,
-    "officialish_main": 1,
-    "domestic_led": 19,
-    "global_led": 6
-  },
-  "source_list": [
-    "https://apnews.com/article/71e7e58f45193b7dee3df28740532a7b",
-    "https://apnews.com/article/9798646a3ba5d4b21321b19decaf607c",
-    "https://dzrb.dzng.com/general/0/NEWS3387331QOUYXDTAAVCDD",
-    "https://en.wikipedia.org/wiki/Iron_Lung_%28film%29",
-    "https://finance.sina.com.cn/jjxw/2026-05-18/doc-inhyirnf2782607.shtml",
-    "https://finance.sina.com.cn/tech/roll/2026-05-18/doc-inhyimem8079543.shtml",
-    "https://finance.sina.com.cn/wm/2026-05-18/doc-inhyhyqr8140551.shtml",
-    "https://finance.sina.com.cn/wm/2026-05-18/doc-inhyiewh3917921.shtml",
-    "https://finance.sina.com.cn/wm/2026-05-18/doc-inhyirni7990432.shtml",
-    "https://hotdian.com/p/%E6%8A%96%E9%9F%B3%E7%83%AD%E6%90%9C%E6%A6%9C",
-    "https://hotflashnews.com/platform/baidu",
-    "https://hotflashnews.com/platform/bilibili",
-    "https://hotflashnews.com/platform/tieba",
-    "https://hotflashnews.com/platform/toutiao",
-    "https://hotflashnews.com/platform/wallstreetcn",
-    "https://hotflashnews.com/platform/weibo",
-    "https://hotflashnews.com/platform/zhihu",
-    "https://m.thepaper.cn/newsDetail_forward_33192467",
-    "https://news.china.com.cn/2026-05/18/content_118499615.html",
-    "https://news.china.com/socialgd/10000169/20260518/49500602.html",
-    "https://news.hubeidaily.net/pc/c_5518334.html",
-    "https://us.trend-calendar.com/trend/2025-05-19.html",
-    "https://www.gamesradar.com/entertainment/superhero-shows/after-the-boys-season-5s-penultimate-episode-fans-are-wondering-how-the-show-will-be-able-to-wrap-up-in-the-65-minute-finale/",
-    "https://www.sohu.com/a/1024329917_120094090",
-    "https://www.thepaper.cn/newsDetail_forward_33194069",
-    "https://www.tubetrending.com/"
+  "items": [
+    {
+      "id": "h01",
+      "issue_anchor": "柳州5.2级地震救援与震后降雨风险",
+      "board": "main",
+      "rank": 1,
+      "category": "真实生活问题热点",
+      "status": "breaking",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.china.com.cn/2026-05/18/content_118499615.html",
+        "source_title": "广西柳州5.2级地震救援：多部门启动应急响应 公路、铁路排查险情",
+        "source_type": "media",
+        "source_published_at": "2026-05-18T00:00:00+08:00",
+        "reason": "中国地震台网测定地震时间、震级、震源深度，并说明多部门应急响应。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotdian.com/p/%E6%8A%96%E9%9F%B3%E7%83%AD%E6%90%9C%E6%A6%9C",
+        "source_title": "抖音热榜：柳州地震震区未来3天有雨/广西柳州再发5.2级地震",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 1,
+        "heat_score": 11961000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "douyin",
+          "weibo",
+          "baidu",
+          "bilibili"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h02",
+      "issue_anchor": "上海交大学生用AI伪造收据私吞竞赛奖金",
+      "board": "main",
+      "rank": 2,
+      "category": "强冲突/争议热点",
+      "status": "rising",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/tech/roll/2026-05-18/doc-inhyimem8079543.shtml",
+        "source_title": "上海交大一学生用AI伪造收据 私吞竞赛奖金 校方通报：严重警告",
+        "source_type": "media",
+        "source_published_at": "2026-05-18T18:57:00+08:00",
+        "reason": "转述校方对奖金分配失信违规和处分结果的通报。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热搜：如何评价上海交大通报给予樊同学严重警告处分？",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 1,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu",
+          "tieba",
+          "weibo",
+          "baidu"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h03",
+      "issue_anchor": "武汉大学取消预约入校后食堂爆满与游客爬树",
+      "board": "main",
+      "rank": 3,
+      "category": "真实生活问题热点",
+      "status": "rising",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://m.thepaper.cn/newsDetail_forward_33192467",
+        "source_title": "武大取消预约入校后食堂爆满，游客爬树拍照",
+        "source_type": "media",
+        "source_published_at": "2026-05-18T13:04:00+08:00",
+        "reason": "说明武大取消预约、周末客流激增、食堂爆满和游客行为争议。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热搜：武汉大学取消预约入校后，如何调和校园开放与教学生活秩序间的冲突？",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 20,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "zhihu",
+          "thepaper",
+          "tieba"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h04",
+      "issue_anchor": "“泡药杨梅”曝光后直播间退款与产地信任危机",
+      "board": "main",
+      "rank": 4,
+      "category": "强冲突/争议热点",
+      "status": "rising",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/wm/2026-05-18/doc-inhyirni7990432.shtml",
+        "source_title": "“泡药杨梅”被曝光，收购点工人：不能吃，我们自己都不吃！官方已启动整治",
+        "source_type": "media",
+        "source_published_at": "2026-05-18T20:06:00+08:00",
+        "reason": "说明曝光内容、涉事收购点与官方整治动作。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "头条热榜：“药水杨梅”砸掉的不只是产地招牌",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 1,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "toutiao",
+          "baidu"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h05",
+      "issue_anchor": "洁丽雅“毛巾少爷”家族风波与品牌报案",
+      "board": "main",
+      "rank": 5,
+      "category": "强冲突/争议热点",
+      "status": "rising",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/jjxw/2026-05-18/doc-inhyirnf2782607.shtml",
+        "source_title": "洁丽雅陷“豪门狗血”风波，公司深夜紧急声明：已报案",
+        "source_type": "media",
+        "source_published_at": "2026-05-18T21:24:00+08:00",
+        "reason": "说明公司声明、报案和对网传内容的回应。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotdian.com/p/%E6%8A%96%E9%9F%B3%E7%83%AD%E6%90%9C%E6%A6%9C",
+        "source_title": "抖音热榜：洁丽雅发声明回应近期风波",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 19,
+        "heat_score": 8781000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "douyin",
+          "weibo",
+          "baidu",
+          "toutiao"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h06",
+      "issue_anchor": "豆包被网友拿去预约餐厅，AI代理开始碰到线下服务边界",
+      "board": "main",
+      "rank": 6,
+      "category": "行业变化热点",
+      "status": "emerging",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博热搜：真有人在豆包预约餐厅",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-19T08:35:31+08:00",
+        "reason": "平台热搜证明议题存在并正在传播。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博热搜：真有人在豆包预约餐厅",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 8,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "weibo",
+          "tieba"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h07",
+      "issue_anchor": "《给阿嬷的情书》破5亿，方言小成本片反向占领排片",
+      "board": "main",
+      "rank": 7,
+      "category": "平台流量热点",
+      "status": "rising",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/wm/2026-05-18/doc-inhyiewh3917921.shtml",
+        "source_title": "《给阿嬷的情书》票房突破5亿元",
+        "source_type": "media",
+        "source_published_at": "2026-05-18T00:00:00+08:00",
+        "reason": "说明影片票房突破5亿元及纪录。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotdian.com/p/%E6%8A%96%E9%9F%B3%E7%83%AD%E6%90%9C%E6%A6%9C",
+        "source_title": "抖音热榜：人民锐评阿嬷走红和ENEMY破圈/阿嬷的情书15亿票房预测从何而来",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 18,
+        "heat_score": 9117000,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "douyin",
+          "weibo",
+          "bilibili",
+          "douban"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h08",
+      "issue_anchor": "Eurovision 2026 保加利亚夺冠，DARA 与 Bangaranga 跨平台刷屏",
+      "board": "main",
+      "rank": 8,
+      "category": "平台流量热点",
+      "status": "rising",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://apnews.com/article/9798646a3ba5d4b21321b19decaf607c",
+        "source_title": "Bulgaria wins the 70th Eurovision Song Contest with upbeat party anthem 'Bangaranga'",
+        "source_type": "wire",
+        "source_published_at": "2026-05-16T04:01:39+00:00",
+        "reason": "AP确认保加利亚歌手Dara赢得第70届Eurovision。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.tubetrending.com/",
+        "source_title": "Tube Trending：Eurovision Song Contest 2026 - Grand Final",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 1,
+        "heat_score": null,
+        "views": 9600000,
+        "likes": 145200,
+        "comments": null,
+        "platforms": [
+          "youtube",
+          "reddit",
+          "x",
+          "google_trends"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h09",
+      "issue_anchor": "UAE核电站遭无人机袭击与美伊冲突再升温",
+      "board": "main",
+      "rank": 9,
+      "category": "强冲突/争议热点",
+      "status": "breaking",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://apnews.com/article/71e7e58f45193b7dee3df28740532a7b",
+        "source_title": "Drone strikes UAE nuclear plant as US and Iran signal they are prepared to resume war",
+        "source_type": "wire",
+        "source_published_at": "2026-05-17T10:34:19+00:00",
+        "reason": "AP报道无人机袭击UAE核电站并引发火情。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.tubetrending.com/",
+        "source_title": "Tube Trending：Drone strikes generator at nuclear power plant in UAE",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 9,
+        "heat_score": null,
+        "views": 1500000,
+        "likes": 12600,
+        "comments": null,
+        "platforms": [
+          "youtube",
+          "google_trends",
+          "x"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h10",
+      "issue_anchor": "The Boys 最终季大结局预告与粉丝剧透文化",
+      "board": "main",
+      "rank": 10,
+      "category": "平台流量热点",
+      "status": "emerging",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.gamesradar.com/entertainment/superhero-shows/after-the-boys-season-5s-penultimate-episode-fans-are-wondering-how-the-show-will-be-able-to-wrap-up-in-the-65-minute-finale/",
+        "source_title": "After The Boys season 5 penultimate episode, fans wonder how finale wraps up",
+        "source_type": "media",
+        "source_published_at": "2026-05-13T12:17:13+00:00",
+        "reason": "说明最终集时长与粉丝围绕结局的讨论。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.tubetrending.com/",
+        "source_title": "Tube Trending：The Boys Season 5 Episode 8 Series Finale Trailer",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 11,
+        "heat_score": null,
+        "views": 1400000,
+        "likes": 37800,
+        "comments": null,
+        "platforms": [
+          "youtube",
+          "reddit",
+          "tiktok"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h11",
+      "issue_anchor": "湖北荆州极端强降雨“五停”与城市内涝",
+      "board": "extended",
+      "rank": 11,
+      "category": "真实生活问题热点",
+      "status": "breaking",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.hubeidaily.net/pc/c_5518334.html",
+        "source_title": "暴雨来了别出门，荆州今日停产、停业、停课、停运、停工",
+        "source_type": "media",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/bilibili",
+        "source_title": "B站热搜：北方湖南湖北暴雨破记录",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 3,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "b站",
+          "抖音",
+          "头条",
+          "湖北日报"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h12",
+      "issue_anchor": "武汉一村庄585人中62人患癌疑云",
+      "board": "extended",
+      "rank": 12,
+      "category": "强冲突/争议热点",
+      "status": "rising",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.sohu.com/a/1024329917_120094090",
+        "source_title": "武汉一村庄585人62人患癌 村民质疑污水所致",
+        "source_type": "media",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博热搜：全村62人患癌多名村民发声",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 12,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "微博",
+          "b站",
+          "头条"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h13",
+      "issue_anchor": "天津高空跳伞项目事故2人遇难",
+      "board": "extended",
+      "rank": 13,
+      "category": "真实生活问题热点",
+      "status": "rising",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.thepaper.cn/newsDetail_forward_33194069",
+        "source_title": "天津滨海新区高空跳伞发生事故，多方回应",
+        "source_type": "media",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "百度热搜：天津高空跳伞基地发生事故 两人遇难",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 8,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "百度",
+          "头条",
+          "澎湃"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h14",
+      "issue_anchor": "成都甜品店熊猫摆件被索赔10万元",
+      "board": "extended",
+      "rank": 14,
+      "category": "强冲突/争议热点",
+      "status": "rising",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://news.china.com/socialgd/10000169/20260518/49500602.html",
+        "source_title": "店主花2千网购熊猫摆件 被索赔10万 律师详解",
+        "source_type": "media",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "百度热搜：店主花2千网购熊猫摆件 被索赔10万",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 2,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "百度",
+          "凤凰",
+          "地方媒体"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h15",
+      "issue_anchor": "12306试点“自行车随身行”88元一辆",
+      "board": "extended",
+      "rank": 15,
+      "category": "行业变化热点",
+      "status": "emerging",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://dzrb.dzng.com/general/0/NEWS3387331QOUYXDTAAVCDD",
+        "source_title": "12306上线自行车随身行服务：88元1辆",
+        "source_type": "media",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "百度热搜：12306上线自行车随身行：88元1辆",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 18,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "百度",
+          "中国铁路"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h16",
+      "issue_anchor": "预制菜已经进化到办展会",
+      "board": "extended",
+      "rank": 16,
+      "category": "行业变化热点",
+      "status": "emerging",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博热搜：预制菜已经进化到开展会了",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博热搜：预制菜已经进化到开展会了",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 5,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "微博",
+          "b站"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h17",
+      "issue_anchor": "“感觉AI治好了我多年的老花眼”与AI视觉辅助热梗",
+      "board": "extended",
+      "rank": 17,
+      "category": "用户搜索热点",
+      "status": "emerging",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博热搜：感觉AI治好了我多年的老花眼",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/weibo",
+        "source_title": "微博热搜：感觉AI治好了我多年的老花眼",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 7,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "微博"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h18",
+      "issue_anchor": "贴吧热议“AI恶意P图白嫖，卖家哭晕”",
+      "board": "extended",
+      "rank": 18,
+      "category": "强冲突/争议热点",
+      "status": "emerging",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/tieba",
+        "source_title": "贴吧热议：AI恶意P图白嫖,卖家哭晕",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/tieba",
+        "source_title": "贴吧热议：AI恶意P图白嫖,卖家哭晕",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 2,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "贴吧"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h19",
+      "issue_anchor": "“娜塔莎”娃娃爆火被批暴力擦边",
+      "board": "extended",
+      "rank": 19,
+      "category": "强冲突/争议热点",
+      "status": "rising",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "百度热搜：“娜塔莎”娃娃爆火 被批暴力擦边",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "百度热搜：“娜塔莎”娃娃爆火 被批暴力擦边",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 8,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "百度",
+          "微博"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h20",
+      "issue_anchor": "清华大学5天内3名博士被退学引发研究生分流讨论",
+      "board": "extended",
+      "rank": 20,
+      "category": "用户搜索热点",
+      "status": "rising",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://finance.sina.com.cn/wm/2026-05-18/doc-inhyhyqr8140551.shtml",
+        "source_title": "宋同学、葛同学、张同学，3名博士生被清华大学退学",
+        "source_type": "media",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/baidu",
+        "source_title": "百度热搜：清华大学5天内3名博士被退学",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 14,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "百度",
+          "新浪"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h21",
+      "issue_anchor": "杭州大模型宠物翻译神器被问是真突破还是智商税",
+      "board": "extended",
+      "rank": 21,
+      "category": "行业变化热点",
+      "status": "emerging",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热搜：杭州公司推宠物翻译神器，大模型+超500万条声纹数据，号称准确率94%",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/zhihu",
+        "source_title": "知乎热搜：杭州公司推宠物翻译神器",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 16,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "知乎"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h22",
+      "issue_anchor": "美债收益率破5%与全球债市搜索升温",
+      "board": "extended",
+      "rank": 22,
+      "category": "行业变化热点",
+      "status": "rising",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/wallstreetcn",
+        "source_title": "华尔街见闻热榜：高温触发电网紧急警报、全球债市与收益率相关议题",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://us.trend-calendar.com/trend/2025-05-19.html",
+        "source_title": "Google Trending Searches: 10 year treasury yield",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 3,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "google",
+          "b站",
+          "华尔街见闻"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h23",
+      "issue_anchor": "SpaceX若上市估值与全球资本想象升温",
+      "board": "extended",
+      "rank": 23,
+      "category": "行业变化热点",
+      "status": "emerging",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://hotflashnews.com/platform/wallstreetcn",
+        "source_title": "华尔街见闻：SpaceX若上市估值约1.5万亿美元相关消息",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://hotflashnews.com/platform/toutiao",
+        "source_title": "头条热榜：SpaceX若上市对全球市场有何影响",
+        "source_type": "platform_hotlist",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 22,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "头条",
+          "华尔街见闻"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h24",
+      "issue_anchor": "Markiplier“Iron Lung在哪里”视频引发创作者项目进度讨论",
+      "board": "extended",
+      "rank": 24,
+      "category": "平台流量热点",
+      "status": "emerging",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://en.wikipedia.org/wiki/Iron_Lung_%28film%29",
+        "source_title": "Iron Lung film background",
+        "source_type": "media",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.tubetrending.com/",
+        "source_title": "Tube Trending：Where the hell is Iron Lung...?",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 6,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "youtube"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    },
+    {
+      "id": "h25",
+      "issue_anchor": "Brawl Stars Championship 2026 热门电竞直播",
+      "board": "extended",
+      "rank": 25,
+      "category": "游戏/场景/解法热点",
+      "status": "emerging",
+      "heat_verified": true,
+      "fact_verified": true,
+      "fact_evidence": {
+        "fact_verified": true,
+        "source_url": "https://www.tubetrending.com/",
+        "source_title": "Tube Trending：Brawl Stars Championship 2026 | Brawl Cup | Day 3",
+        "source_type": "platform_original",
+        "source_published_at": "2026-05-18T12:00:00+08:00",
+        "reason": "证明议题事实、背景或平台原始存在。"
+      },
+      "heat_evidence": {
+        "heat_verified": true,
+        "source_url": "https://www.tubetrending.com/",
+        "source_title": "Tube Trending：Brawl Stars Championship 2026 | Brawl Cup | Day 3",
+        "source_type": "platform_metric",
+        "observed_at": "2026-05-19T08:35:31+08:00",
+        "rank": 10,
+        "heat_score": null,
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "platforms": [
+          "youtube"
+        ],
+        "reason": "证明议题在当日热榜或平台指标中升温。"
+      }
+    }
   ]
 }
