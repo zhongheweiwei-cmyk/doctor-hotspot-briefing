@@ -2,8 +2,129 @@
   "date": "2026-05-21",
   "generated_at": "2026-05-21T08:55:00+08:00",
   "mode": "Claude web_search 手动模式 / 未调用 XCrawl",
-  "total_hotspots": 31,
-  "main_board": [
+  "coverage_matrix": [
+    {
+      "layer": "cn_public_event",
+      "status": "completed",
+      "queries": [
+        "官方通报 调查 处理 暴雨 失联 -榜单 -教程",
+        "警方通报 当事人 回应 黑产 刑拘 -合集",
+        "12306 回应 女童 座位 相隔8节车厢 -盘点"
+      ],
+      "raw_leads": 14,
+      "valid_hotspots": 5,
+      "notes": "铁路服务、网络黑产、户外/天气安全和支付异常均有热榜线索与事实核验。"
+    },
+    {
+      "layer": "cn_consumer_brand",
+      "status": "completed",
+      "queries": [
+        "消费者 投诉 品牌 回应 支付宝 扣款 -教程",
+        "平台 规则 调整 用户 反馈 抖音直播 -合集",
+        "外卖 生鲜 配送 投诉 中毒 回应 -榜单"
+      ],
+      "raw_leads": 13,
+      "valid_hotspots": 6,
+      "notes": "支付、直播规则、生鲜配送、文旅和本地服务争议进入候选池。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_a",
+      "status": "completed",
+      "queries": [
+        "演唱会 票价 主办方 回应 白鹿 -超话",
+        "运动员 回应 比赛 规则 U17 国足 -饭圈",
+        "影视 引发 讨论 价值观 票房 给阿嬷的情书"
+      ],
+      "raw_leads": 11,
+      "valid_hotspots": 4,
+      "notes": "第一轮聚焦体育、演唱会票价和影视公共讨论。"
+    },
+    {
+      "layer": "cn_celebrity_public_event_b",
+      "status": "completed",
+      "queries": [
+        "明星 工作室 声明 热搜 -超话 -饭圈",
+        "票房 争议 主创 回应 热搜 -营销号",
+        "综艺 官宣 定档 直播 全开麦"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 4,
+      "notes": "第二轮使用综艺/票房/明星声明关键词族，区别于3A。"
+    },
+    {
+      "layer": "cn_workplace_education",
+      "status": "completed",
+      "queries": [
+        "学校 家长 沟通 处理 高铁 儿童票 -攻略",
+        "高校 预约 入校 取消 学生 市民 -教程",
+        "公司 员工 加班 政策 AI裁员 银行"
+      ],
+      "raw_leads": 9,
+      "valid_hotspots": 4,
+      "notes": "出行照护、校园开放、AI岗位替代和求职焦虑均被纳入。"
+    },
+    {
+      "layer": "global_public_event",
+      "status": "completed",
+      "queries": [
+        "Nvidia earnings May 2026 revenue Reddit reaction",
+        "Standard Chartered cut jobs AI May 2026 Reuters",
+        "China Boeing 200 aircraft trade May 2026"
+      ],
+      "raw_leads": 10,
+      "valid_hotspots": 5,
+      "notes": "外部公共事件以AI资本开支、金融业裁员和中美贸易合作为主。"
+    },
+    {
+      "layer": "cn_ideology_official_agenda",
+      "status": "completed",
+      "queries": [
+        "2026中国网络文明大会 南宁 主论坛 官方",
+        "走好网上群众路线 百个账号 2026",
+        "人工智能赋能网络文明建设论坛 南宁 官方"
+      ],
+      "raw_leads": 8,
+      "valid_hotspots": 3,
+      "notes": "层6已覆盖；中国网络文明大会和AI向善议程进入主榜/扩展榜。"
+    },
+    {
+      "layer": "global_celebrity_outflow",
+      "status": "completed",
+      "queries": [
+        "Harry Potter recast Reddit backlash May 2026",
+        "film sparked discussion values Reddit May 2026",
+        "athlete response rule debate Reddit May 2026"
+      ],
+      "raw_leads": 7,
+      "valid_hotspots": 2,
+      "notes": "外网娱乐外溢热度弱于AI/财经，但保留Reddit原生讨论。"
+    },
+    {
+      "layer": "weibo_peak",
+      "status": "completed",
+      "queries": [
+        "微博 热搜 峰值 今日 12306 关闭支付宝支付功能",
+        "微博 热搜 今日 中国网络文明大会 抖音禁止录播伪装直播",
+        "微博 热搜 给阿嬷的情书 白鹿演唱会 歌手2026"
+      ],
+      "raw_leads": 18,
+      "valid_hotspots": 10,
+      "notes": "使用Hot点热榜复核微博、百度、抖音、知乎、B站等跨平台峰值。"
+    },
+    {
+      "layer": "global_culture_shift",
+      "status": "completed",
+      "queries": [
+        "Google I/O 2026 AI Search agents Reddit reaction",
+        "AI generated children content YouTube platform trust 2026",
+        "Nvidia AI demand public market reaction Reddit"
+      ],
+      "raw_leads": 11,
+      "valid_hotspots": 5,
+      "notes": "搜索代理化、AI儿童内容和算力资本开支构成全球文化/技术迁移线。"
+    }
+  ],
+  "items": [
     {
       "id": "railway-child-seat-12306",
       "issue_anchor": "12306回应3岁女童座位与母亲相隔8节车厢",
@@ -368,9 +489,7 @@
         "管理层把AI效率计入ROTE目标，说明自动化已经进入资本市场承诺。",
         "后续看真实裁员节奏、监管合规事故和员工再培训是否匹配激进目标。"
       ]
-    }
-  ],
-  "extended_board": [
+    },
     {
       "id": "boeing-200-china",
       "issue_anchor": "中国航空将引进200架波音飞机",
@@ -1019,178 +1138,5 @@
       },
       "angles": []
     }
-  ],
-  "coverage_matrix": [
-    {
-      "layer": "cn_public_event",
-      "status": "completed",
-      "queries": [
-        "官方通报 调查 处理 暴雨 失联 -榜单 -教程",
-        "警方通报 当事人 回应 黑产 刑拘 -合集",
-        "12306 回应 女童 座位 相隔8节车厢 -盘点"
-      ],
-      "raw_leads": 14,
-      "valid_hotspots": 5,
-      "notes": "铁路服务、网络黑产、户外/天气安全和支付异常均有热榜线索与事实核验。"
-    },
-    {
-      "layer": "cn_consumer_brand",
-      "status": "completed",
-      "queries": [
-        "消费者 投诉 品牌 回应 支付宝 扣款 -教程",
-        "平台 规则 调整 用户 反馈 抖音直播 -合集",
-        "外卖 生鲜 配送 投诉 中毒 回应 -榜单"
-      ],
-      "raw_leads": 13,
-      "valid_hotspots": 6,
-      "notes": "支付、直播规则、生鲜配送、文旅和本地服务争议进入候选池。"
-    },
-    {
-      "layer": "cn_celebrity_public_event_a",
-      "status": "completed",
-      "queries": [
-        "演唱会 票价 主办方 回应 白鹿 -超话",
-        "运动员 回应 比赛 规则 U17 国足 -饭圈",
-        "影视 引发 讨论 价值观 票房 给阿嬷的情书"
-      ],
-      "raw_leads": 11,
-      "valid_hotspots": 4,
-      "notes": "第一轮聚焦体育、演唱会票价和影视公共讨论。"
-    },
-    {
-      "layer": "cn_celebrity_public_event_b",
-      "status": "completed",
-      "queries": [
-        "明星 工作室 声明 热搜 -超话 -饭圈",
-        "票房 争议 主创 回应 热搜 -营销号",
-        "综艺 官宣 定档 直播 全开麦"
-      ],
-      "raw_leads": 10,
-      "valid_hotspots": 4,
-      "notes": "第二轮使用综艺/票房/明星声明关键词族，区别于3A。"
-    },
-    {
-      "layer": "cn_workplace_education",
-      "status": "completed",
-      "queries": [
-        "学校 家长 沟通 处理 高铁 儿童票 -攻略",
-        "高校 预约 入校 取消 学生 市民 -教程",
-        "公司 员工 加班 政策 AI裁员 银行"
-      ],
-      "raw_leads": 9,
-      "valid_hotspots": 4,
-      "notes": "出行照护、校园开放、AI岗位替代和求职焦虑均被纳入。"
-    },
-    {
-      "layer": "global_public_event",
-      "status": "completed",
-      "queries": [
-        "Nvidia earnings May 2026 revenue Reddit reaction",
-        "Standard Chartered cut jobs AI May 2026 Reuters",
-        "China Boeing 200 aircraft trade May 2026"
-      ],
-      "raw_leads": 10,
-      "valid_hotspots": 5,
-      "notes": "外部公共事件以AI资本开支、金融业裁员和中美贸易合作为主。"
-    },
-    {
-      "layer": "cn_ideology_official_agenda",
-      "status": "completed",
-      "queries": [
-        "2026中国网络文明大会 南宁 主论坛 官方",
-        "走好网上群众路线 百个账号 2026",
-        "人工智能赋能网络文明建设论坛 南宁 官方"
-      ],
-      "raw_leads": 8,
-      "valid_hotspots": 3,
-      "notes": "层6已覆盖；中国网络文明大会和AI向善议程进入主榜/扩展榜。"
-    },
-    {
-      "layer": "global_celebrity_outflow",
-      "status": "completed",
-      "queries": [
-        "Harry Potter recast Reddit backlash May 2026",
-        "film sparked discussion values Reddit May 2026",
-        "athlete response rule debate Reddit May 2026"
-      ],
-      "raw_leads": 7,
-      "valid_hotspots": 2,
-      "notes": "外网娱乐外溢热度弱于AI/财经，但保留Reddit原生讨论。"
-    },
-    {
-      "layer": "weibo_peak",
-      "status": "completed",
-      "queries": [
-        "微博 热搜 峰值 今日 12306 关闭支付宝支付功能",
-        "微博 热搜 今日 中国网络文明大会 抖音禁止录播伪装直播",
-        "微博 热搜 给阿嬷的情书 白鹿演唱会 歌手2026"
-      ],
-      "raw_leads": 18,
-      "valid_hotspots": 10,
-      "notes": "使用Hot点热榜复核微博、百度、抖音、知乎、B站等跨平台峰值。"
-    },
-    {
-      "layer": "global_culture_shift",
-      "status": "completed",
-      "queries": [
-        "Google I/O 2026 AI Search agents Reddit reaction",
-        "AI generated children content YouTube platform trust 2026",
-        "Nvidia AI demand public market reaction Reddit"
-      ],
-      "raw_leads": 11,
-      "valid_hotspots": 5,
-      "notes": "搜索代理化、AI儿童内容和算力资本开支构成全球文化/技术迁移线。"
-    }
-  ],
-  "categories": {
-    "公共事件与治理": [
-      "12306回应3岁女童座位与母亲相隔8节车厢",
-      "重庆古建399万挂拍并限中国人竞买",
-      "电鸡被拖百公里外三四成车主弃车"
-    ],
-    "消费与平台治理": [
-      "关闭支付宝支付功能后仍被扣捐赠184万",
-      "抖音禁止录播伪装为直播",
-      "学校网购45把伞用后全损退回",
-      "盒马将水仙当百合配送后罚198元",
-      "小红书和闲鱼围绕低价消费继续升温"
-    ],
-    "政策议程与平台治理": [
-      "中国网络文明大会与AI向善治理",
-      "警方侦破有偿删除商品差评案刑拘7人",
-      "中美元首会晤后续与经贸成果继续发酵",
-      "AI赋能网络文明建设论坛讨论智能向善"
-    ],
-    "科技产业与资本": [
-      "英伟达Q1营收816亿美元引爆AI需求讨论",
-      "Google I/O 2026把搜索推向AI代理化",
-      "腾讯会议鸿蒙原生版上线",
-      "AI儿童内容与数字泔水治理",
-      "Gemini 3.5 Flash面向搜索和开发者全面推出",
-      "Reddit股票社区热议英伟达财报和AI工厂叙事"
-    ],
-    "体育娱乐公共事件": [
-      "U17国足2比0澳大利亚晋级亚洲杯决赛"
-    ],
-    "文化消费与娱乐": [
-      "《给阿嬷的情书》票房破6亿与素人女主入行",
-      "网红白冰被曝曾留案底后清空评论",
-      "白鹿十周年演唱会票价加起来是十年",
-      "《歌手2026》定档直播",
-      "HBO《哈利·波特》选角变动引发Reddit讨论"
-    ],
-    "职场与教育压力": [
-      "渣打计划AI转型中裁减7000多个岗位",
-      "武汉大学取消社会公众进校预约制度",
-      "Meta员工福利从零食到耳机引发职场福利讨论"
-    ],
-    "商业与产业变化": [
-      "中国航空将引进200架波音飞机",
-      "特斯拉放弃印度建厂计划引发知乎讨论"
-    ],
-    "公共安全与健康": [
-      "医生提示部分酸奶配料表比奶茶还复杂",
-      "医生辟谣喝醋喝红酒能降血压"
-    ]
-  }
+  ]
 }
